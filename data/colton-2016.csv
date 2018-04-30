@@ -1,0 +1,435 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Timothy Mchargue,Fire Chief,179484.47,18478.07,7748.05,50803.95,205710.59,256514.54,2016,,Colton,FT
+Mark Owens,Police Chief,180978.77,0.00,19165.31,50677.29,200144.08,250821.37,2016,,Colton,FT
+William Smith,City Manager,186000.10,0.00,10153.84,50195.66,196153.94,246349.60,2016,,Colton,FT
+Justin Weems,Fire Captain,102475.77,90142.85,13963.55,37841.49,206582.17,244423.66,2016,,Colton,FT
+David Kolk,Electric Utility Director,180532.12,0.00,8685.00,49108.37,189217.12,238325.49,2016,,Colton,FT
+John Vail,Fire Captain,88533.86,103374.49,11109.26,34054.73,203017.61,237072.34,2016,,Colton,FT
+Kevin Valentin,Fire Battalion Chief,130392.88,34980.66,25843.03,44480.18,191216.57,235696.75,2016,,Colton,FT
+Ryan Steslicki,Fire Engineer,85906.04,104042.68,7425.05,30883.26,197373.77,228257.03,2016,,Colton,FT
+Dana Deantonio,Deputy Fire Chief,133657.05,6658.30,38612.12,46074.45,178927.47,225001.92,2016,,Colton,FT
+Steven Davis,Police Sergeant,105848.83,26833.90,49792.37,38630.24,182475.10,221105.34,2016,,Colton,FT
+Richard Aragon,Fire Captain,103037.52,61608.02,16752.89,37444.97,181398.43,218843.40,2016,,Colton,FT
+Robbie Bornsheuer,Police Sergeant,107164.93,15390.54,56810.01,38156.93,179365.48,217522.41,2016,,Colton,FT
+Mark Tomich,Development Services Director,163793.61,0.00,6507.55,45849.62,170301.16,216150.78,2016,,Colton,FT
+Ray Bruno,Fire Captain,103037.52,55414.60,15577.22,38097.54,174029.34,212126.88,2016,,Colton,FT
+Michael Farcas,Police Sergeant,91043.03,48075.21,37341.73,35561.66,176459.97,212021.63,2016,,Colton,FT
+Paul Grimes,Police Cpl/Detective,89922.43,62948.70,22655.74,35214.35,175526.87,210741.22,2016,,Colton,FT
+Henry Dominguez,Police Sergeant,106186.22,12320.07,54214.93,37446.34,172721.22,210167.56,2016,,Colton,FT
+David Silva,Fire Captain,90372.50,74045.49,10510.68,34578.54,174928.67,209507.21,2016,,Colton,FT
+Jake Novak,Fire Captain,90372.50,63546.55,17215.75,35063.38,171134.80,206198.18,2016,,Colton,FT
+Jeff Miller,Fire Captain,103037.52,42801.43,21023.38,37875.34,166862.33,204737.67,2016,,Colton,FT
+Michael Hadden,Police Lieutenant,125772.01,0.00,33699.53,44577.29,159471.54,204048.83,2016,,Colton,FT
+Steven Sands,Firefighter Medic,85698.44,76759.87,6061.72,30566.83,168520.03,199086.86,2016,,Colton,FT
+Luke Granger,Fire Engineer,86235.56,72761.49,8655.86,31235.10,167652.91,198888.01,2016,,Colton,FT
+James Jolliff,Police Lieutenant,109717.69,6792.34,42076.40,39425.98,158586.43,198012.41,2016,,Colton,FT
+Shaun Tarcon,Fire Engineer,81683.08,86679.08,4867.40,24042.22,173229.56,197271.78,2016,,Colton,FT
+David Santos,Fire Captain,103037.52,53109.50,4816.25,35900.50,160963.27,196863.77,2016,,Colton,FT
+Anthony Siegfried,Sub-Station Superintendent,135347.98,0.00,20167.35,40221.22,155515.33,195736.55,2016,,Colton,FT
+Michael Ruston,Fire Captain,103037.52,38208.65,14694.51,37874.43,155940.68,193815.11,2016,,Colton,FT
+Jonathan Boggs,Fire Engineer,86235.56,65578.56,8432.96,33085.14,160247.08,193332.22,2016,,Colton,FT
+Constantino Cendejas,Fire Battalion Chief,110396.91,26272.66,16406.69,39914.69,153076.26,192990.95,2016,,Colton,FT
+Thomas Debellis,Fire Captain,103037.52,36251.51,16452.19,36985.09,155741.22,192726.31,2016,,Colton,FT
+Timothy Heusterberg,Police Sergeant,101129.70,14513.27,37898.24,38227.64,153541.21,191768.85,2016,,Colton,FT
+Brandon Humphrey,Fire Engineer,76556.39,78776.74,6706.00,29132.03,162039.13,191171.16,2016,,Colton,FT
+Abel Aguirre,Service Crew Supervisor,109597.26,35178.33,5588.34,40617.17,150363.93,190981.10,2016,,Colton,FT
+Aaron Mulhall,Fire Engineer,86235.56,63108.16,8225.55,31125.66,157569.27,188694.93,2016,,Colton,FT
+Ruben Baca,Firefighter Medic,85698.44,52455.58,15727.88,33426.29,153881.90,187308.19,2016,,Colton,FT
+Donald Benfield,Fire Battalion Chief,69900.88,8303.89,85104.42,23208.60,163309.19,186517.79,2016,,Colton,PT
+Michael Loya,Firefighter Medic,81617.55,74862.30,3535.33,23838.31,160015.18,183853.49,2016,,Colton,FT
+Ty Hutchison,Fire Engineer,84351.72,63475.84,5574.58,30311.81,153402.14,183713.95,2016,,Colton,FT
+Timothy Lunt,Trans/Dist Superintendent,135347.99,0.00,6460.25,40221.23,141808.24,182029.47,2016,,Colton,FT
+Anthony Jaeger,Police Cpl/Detective,89922.43,26988.80,31594.03,33468.20,148505.26,181973.46,2016,,Colton,FT
+Jeffrey Zuidema,Firefighter Medic,81617.55,69398.27,6192.10,24144.26,157207.92,181352.18,2016,,Colton,FT
+Alan Sork,Fire Marshal,130355.70,0.00,9703.83,40819.50,140059.53,180879.03,2016,,Colton,FT
+Michael Cory,PW & W/W Superintendent,129923.73,0.00,10784.38,39058.63,140708.11,179766.74,2016,,Colton,FT
+Fernando Velasquez,Power Line Technician,99628.46,31294.16,8654.88,38547.25,139577.50,178124.75,2016,,Colton,FT
+Richard Housley,Fire Captain,103037.52,18993.23,17558.89,37444.97,139589.64,177034.61,2016,,Colton,FT
+Edward Ficara,Line Crew Supervisor,114579.09,19631.50,641.12,41568.28,134851.71,176419.99,2016,,Colton,FT
+Victor Ortiz,PW Eng Superintendent,122377.52,0.00,14423.14,39383.38,136800.66,176184.04,2016,,Colton,FT
+Armando Becerra,Power Line Technician,99628.74,27310.95,10381.39,38672.98,137321.08,175994.06,2016,,Colton,FT
+Amanda Hartel,Firefighter Medic,77308.85,70026.52,4588.07,23429.76,151923.44,175353.20,2016,,Colton,FT
+Samuel Juarez,Line Crew Supervisor,114578.39,14716.94,3273.71,41543.77,132569.04,174112.81,2016,,Colton,FT
+Ruben Briones,Line Crew Supervisor,103648.67,23817.85,7040.10,39374.85,134506.62,173881.47,2016,,Colton,FT
+Ryan Foulks,Fire Engineer,78822.93,61945.07,9010.04,23673.78,149778.04,173451.82,2016,,Colton,FT
+Robert Wilson,Police Sergeant,95245.28,13831.16,27235.12,36319.37,136311.56,172630.93,2016,,Colton,FT
+Henry Perez,Fire Captain,102914.53,13343.69,17899.97,38042.23,134158.19,172200.42,2016,,Colton,FT
+Jaime Ramirez,Police Cpl/Detective,84771.33,23196.74,30476.53,32939.31,138444.60,171383.91,2016,,Colton,FT
+Cesar Vazquez,Power Line Technician,99713.47,29222.49,2678.65,38554.07,131614.61,170168.68,2016,,Colton,FT
+Shawn Mcfarland,Police Sergeant,99820.35,19649.11,14334.90,36223.20,133804.36,170027.56,2016,,Colton,FT
+Gary Gruenzner,Police Cpl/Detective,89922.43,10195.47,36128.36,33679.03,136246.26,169925.29,2016,,Colton,FT
+Debra Farrar,Community Services Director,111109.51,0.00,18416.78,38713.19,129526.29,168239.48,2016,,Colton,PT
+Jason Penunuri,Substation Operations Supervisor,115411.55,10408.22,448.92,41694.46,126268.69,167963.15,2016,,Colton,FT
+Raymond Mendez Ii,Police Cpl/Detective,89922.43,17692.03,25447.30,34727.66,133061.76,167789.42,2016,,Colton,FT
+Ronald Helms,Fire Engineer,86680.97,33181.96,13660.53,34250.86,133523.46,167774.32,2016,,Colton,FT
+Jason Hanna,Police Officer,80989.64,28986.93,23555.34,33083.02,133531.91,166614.93,2016,,Colton,FT
+Jack Morenberg,Police Cpl/Detective,89922.43,23983.18,19109.79,33438.36,133015.40,166453.76,2016,,Colton,FT
+Jonathon Engle,Firefighter Medic,80878.85,57888.47,2270.09,23658.50,141037.41,164695.91,2016,,Colton,FT
+Stacey Dabbs,Finance Director,119633.13,0.00,6440.58,38229.34,126073.71,164303.05,2016,,Colton,PT
+Nicole Mihld,Purchasing & Cust Svc Manager,115193.31,0.00,11748.38,36112.39,126941.69,163054.08,2016,,Colton,FT
+Wade Harris,Police Cpl/Detective,86382.24,15211.80,26205.71,34453.16,127799.75,162252.91,2016,,Colton,FT
+Rebecca Gallegos,Elec Integr Resource Coord,113928.77,0.00,11356.47,35862.76,125285.24,161148.00,2016,,Colton,FT
+Daniel Lunt,Police Cpl/Detective,84771.33,22513.36,20312.94,33322.21,127597.63,160919.84,2016,,Colton,FT
+Roberto Vega,Police Cpl/Detective,89922.43,570.25,35971.78,34366.25,126464.46,160830.71,2016,,Colton,FT
+Arthur Morgan,Economic Development Manager,108785.70,0.00,14183.88,37619.45,122969.58,160589.03,2016,,Colton,FT
+Protection) Undercover,Police Cpl/Detective,89922.43,15772.75,20485.55,33613.47,126180.73,159794.20,2016,,Colton,FT
+Lorenzo Gonzalez,Senior Substation Electrician,104122.58,11305.20,3384.57,39425.26,118812.35,158237.61,2016,,Colton,FT
+Michael Collins,Police Cpl/Detective,82364.80,14278.20,27403.62,31930.79,124046.62,155977.41,2016,,Colton,FT
+Gregory Castillo,Police Officer,80989.64,15057.40,26612.85,32688.27,122659.89,155348.16,2016,,Colton,FT
+Martin Guerrero,Wastewater Utility Manager,112484.79,0.00,7126.96,35573.57,119611.75,155185.32,2016,,Colton,FT
+James Medina,Power Line Technician,96177.00,12743.08,6679.81,37890.42,115599.89,153490.31,2016,,Colton,FT
+Eva Elias,PW & W/W Admin Mgr,112407.84,0.00,2452.03,35572.55,114859.87,150432.42,2016,,Colton,FT
+Rico Carrillo,Police Officer,80989.64,12606.13,23035.98,32271.48,116631.75,148903.23,2016,,Colton,FT
+Matthew Collins,Police Officer,80989.64,10278.23,20677.71,33053.21,111945.58,144998.79,2016,,Colton,FT
+Christopher Jimenez,Power Line Technician,89273.09,16575.48,1889.28,36417.78,107737.85,144155.63,2016,,Colton,FT
+Roberta Valencia,Police Cpl/Detective,84771.33,10426.26,15978.67,32972.45,111176.26,144148.71,2016,,Colton,FT
+Chad Ward,Police Officer,80989.64,11847.11,19148.56,31903.72,111985.31,143889.03,2016,,Colton,FT
+Samuel Smith,Police Officer,80989.64,8801.96,21450.25,31437.49,111241.85,142679.34,2016,,Colton,FT
+Terry Sidur,Police Officer,79507.82,834.65,30910.87,30866.40,111253.34,142119.74,2016,,Colton,FT
+Regin Torres,Associate Engineer,102332.12,0.00,4138.38,33554.27,106470.50,140024.77,2016,,Colton,FT
+Erik Reynolds,Police Officer,80989.64,7908.85,18407.38,31987.00,107305.87,139292.87,2016,,Colton,FT
+Elias Avila,Meter Technician,89314.24,9445.27,1473.96,36711.31,100233.47,136944.78,2016,,Colton,FT
+Arnoldo Pagdilao,Production Supervisor,77372.52,24742.60,5206.39,28613.01,107321.51,135934.52,2016,,Colton,FT
+Adelfa Flores,Executive Administrator To Mayor/Council,83102.70,0.00,21000.55,31597.71,104103.25,135700.96,2016,,Colton,FT
+Georgiana Agramonte,Finance Director,87181.41,0.00,23127.81,25040.30,110309.22,135349.52,2016,,Colton,PT
+Justin Clifton,Substation Electrician Apprentice,81133.59,14910.94,3349.89,35177.37,99394.42,134571.79,2016,,Colton,FT
+John Ahearn,Lead Water Quality Specialist,78480.03,11519.62,14296.86,29975.46,104296.51,134271.97,2016,,Colton,FT
+Bradley Lindemann,Power Line Tech Apprentice,77751.54,18203.65,3477.82,34444.98,99433.01,133877.99,2016,,Colton,FT
+Robert Randolph Jr,Police Officer,80989.64,1864.14,17568.80,31901.85,100422.58,132324.43,2016,,Colton,FT
+Isaac Mora,Water Distribution Operator III,69173.92,22755.15,11838.29,27935.68,103767.36,131703.04,2016,,Colton,FT
+Tomas Ledesma,Lead Water Utilities Operator,72635.31,18375.56,10246.58,28686.69,101257.45,129944.14,2016,,Colton,FT
+Paul Evans,Information Services Supervisor,94381.03,0.00,3462.82,32078.87,97843.85,129922.72,2016,,Colton,FT
+Kenneth Kiecolt,Police Officer,80989.64,1536.90,14380.06,32897.72,96906.60,129804.32,2016,,Colton,FT
+Julius Jarrin,Senior Planner,94115.78,0.00,3622.20,31919.96,97737.98,129657.94,2016,,Colton,FT
+Mario Suarez,Senior Planner,93773.60,0.00,1983.58,31886.76,95757.18,127643.94,2016,,Colton,FT
+Ovidiu Bostan,Lead Wastewater Utilities Operator,76038.60,277.48,21540.54,28822.03,97856.62,126678.65,2016,,Colton,FT
+Saul Salazar,Police Officer,80989.64,6652.93,7728.13,31276.11,95370.70,126646.81,2016,,Colton,FT
+Edgar Perez,Police Officer,71442.75,17544.25,13962.12,22661.00,102949.12,125610.12,2016,,Colton,FT
+Roberta Wickman,Police Support Services Manager,87810.90,0.00,7096.91,30665.97,94907.81,125573.78,2016,,Colton,FT
+Adrianne Rogers,Sr Energy Services Specialist,93379.81,0.00,0.00,31773.59,93379.81,125153.40,2016,,Colton,FT
+Bryan Acevedo,Police Officer,76004.43,5504.81,20198.76,22919.60,101708.00,124627.60,2016,,Colton,FT
+Alonso Garcia,Production Supervisor,77372.53,6420.85,11462.77,28718.96,95256.15,123975.11,2016,,Colton,FT
+Joseph Owens,Power Line Tech Apprentice,74035.36,14903.85,1295.20,33566.27,90234.41,123800.68,2016,,Colton,FT
+Jeremiah Hotchner,Police Officer,71712.00,16656.35,12854.51,22465.15,101222.86,123688.01,2016,,Colton,FT
+Adam Koahou,Police Officer,76004.43,3351.18,20896.01,23376.52,100251.62,123628.14,2016,,Colton,FT
+Chantoo Phang,Information Technology Coordinator,87131.42,2483.59,3353.36,30530.70,92968.37,123499.07,2016,,Colton,FT
+Jessica Sutorus,Environ & Conserv Supervisor,90988.23,0.00,663.79,31430.17,91652.02,123082.19,2016,,Colton,FT
+Martin Ragels,Sr Electrical Utility Inspect,78222.66,8640.70,2021.62,34174.57,88884.98,123059.55,2016,,Colton,FT
+Jess Sotto,Utilities Engineer,90436.27,0.00,874.08,31324.97,91310.35,122635.32,2016,,Colton,FT
+James Garcia Jr.,Water Utility Supervisor,88174.40,841.01,2426.25,30807.36,91441.66,122249.02,2016,,Colton,FT
+Lonnie Yett,Information Technology Coordinator,87131.56,1886.27,1676.68,30530.75,90694.51,121225.26,2016,,Colton,FT
+Reuben Aponte,Power Line Technician,54087.04,13765.67,30729.53,22311.97,98582.24,120894.21,2016,,Colton,PT
+Annetta Baker,Electric Utility System Designer,89324.83,0.00,484.74,31023.75,89809.57,120833.32,2016,,Colton,FT
+Christena Elshof,Economic Devel Project Mgr II,89138.64,0.00,0.00,30946.03,89138.64,120084.67,2016,,Colton,FT
+Steve Gonzales,Power Line Technician,79846.35,5288.44,247.94,34647.28,85382.73,120030.01,2016,,Colton,FT
+Joshua Nassar,Police Officer,71577.38,4654.13,20266.82,22372.43,96498.33,118870.76,2016,,Colton,FT
+Christopher Rymer,Community Childcare Manager,83016.18,0.00,4792.47,29712.20,87808.65,117520.85,2016,,Colton,FT
+Jose Pachas,Utilities Bus Systems Analyst,85109.88,0.00,1676.68,30135.38,86786.56,116921.94,2016,,Colton,FT
+Anthony Abrams,Lead Wastewater Utilities Operator,80185.61,3663.52,3120.64,29734.93,86969.77,116704.70,2016,,Colton,FT
+Carlos Esquer,Public Works & Utilities Inspector,70960.29,10490.33,6767.13,28363.96,88217.75,116581.71,2016,,Colton,FT
+Aftab Hussain,Collections Sys Maint. Super,79978.53,1543.85,5356.42,29141.68,86878.80,116020.48,2016,,Colton,FT
+Jesus Aguirre,Water Distribution Operator II,60150.99,20911.41,8935.84,25780.59,89998.24,115778.83,2016,,Colton,FT
+Stephen Contreras,Water Distribution Operator III,61035.13,14489.41,13538.09,26017.56,89062.63,115080.19,2016,,Colton,FT
+Heidi Strutz,Recreation Services Coordinator,54782.74,356.71,30117.78,29645.65,85257.23,114902.88,2016,,Colton,FT
+Mark Tucker,Police Officer,71442.74,5912.79,9737.43,27774.17,87092.96,114867.13,2016,,Colton,FT
+Guillermo Bermudez,Police Officer,54806.92,9059.93,29307.97,21662.67,93174.82,114837.49,2016,,Colton,PT
+Altheia Franklin,Senior Accountant,81558.88,0.00,3191.93,29739.59,84750.81,114490.40,2016,,Colton,FT
+Ryan Roman,Water Distribution Operator III,69173.91,10373.34,5642.15,28041.90,85189.40,113231.30,2016,,Colton,FT
+Charles Gass,Power Line Tech Apprentice,68268.67,12656.41,602.36,30807.45,81527.44,112334.89,2016,,Colton,FT
+William Shingleton,Wastewater Equipment Mech. II,65564.39,1122.02,16431.55,27698.49,83117.96,110816.45,2016,,Colton,FT
+Jose Esparza,Lead Equipment Mechanic,66787.11,4019.75,10530.01,27465.43,81336.87,108802.30,2016,,Colton,FT
+Cheryl Evans,Police Dispatcher II,57573.25,4053.01,21025.12,26132.56,82651.38,108783.94,2016,,Colton,FT
+Alphonzo Mancinas Jr.,Water Distribution Operator II,60150.98,15673.27,6977.56,25762.89,82801.81,108564.70,2016,,Colton,FT
+Elizabet Morga,Police Dispatcher II,55253.62,22043.02,5687.04,25322.49,82983.68,108306.17,2016,,Colton,FT
+Kimberley George,Police Dispatcher II,57573.25,13948.34,10567.46,25648.14,82089.05,107737.19,2016,,Colton,FT
+Shirley Cobos,Utilities Financial Analyst,77301.30,0.00,1217.91,28575.48,78519.21,107094.69,2016,,Colton,FT
+Steve Gonzales,Associate Planner,75884.11,0.00,2665.59,28532.66,78549.70,107082.36,2016,,Colton,FT
+Vincent Tamayo,Maintenance Electrician,73206.43,0.00,200.00,33251.05,73406.43,106657.48,2016,,Colton,FT
+Misty Kershner,Supv Comm  Disptacher,75985.00,383.82,841.00,28478.19,77209.82,105688.01,2016,,Colton,FT
+David Vargas Jr,Senior Consumer Field Rep,69085.47,2246.34,1577.87,32443.85,72909.68,105353.53,2016,,Colton,FT
+Tony Soto,Building Maint Worker III,59030.00,4247.19,14834.10,27121.26,78111.29,105232.55,2016,,Colton,FT
+Ricky Cantrell,Police Officer,69322.86,2294.13,11376.70,21987.96,82993.69,104981.65,2016,,Colton,FT
+Aaron Nastase,Police Officer,69961.82,3231.62,9200.21,22061.76,82393.65,104455.41,2016,,Colton,FT
+Jesus Guzman,Consumer Service-Field Rep II,62027.16,7179.84,3582.84,31183.15,72789.84,103972.99,2016,,Colton,FT
+Mario Arredondo,Water Distribution Operator II,60150.90,11076.04,6806.89,25896.39,78033.83,103930.22,2016,,Colton,FT
+Nicole Reynolds,Police Dispatcher II,57573.25,8549.80,11628.41,25753.22,77751.46,103504.68,2016,,Colton,FT
+Rudy Castanon,Wastewater Operator I,55185.28,19960.36,3545.83,24737.42,78691.47,103428.89,2016,,Colton,FT
+Phillip Hinojos,Engineering/GIS Technician,69789.59,0.00,200.00,32590.72,69989.59,102580.31,2016,,Colton,FT
+Brian Wallace,Consumer Service-Field Rep II,63008.83,4398.04,3574.94,31344.53,70981.81,102326.34,2016,,Colton,FT
+Joshua Hixson,Police Officer,69066.42,2832.25,8137.72,22078.18,80036.39,102114.57,2016,,Colton,FT
+Edward Pedroza,Literacy Program Coord/Brch Supv,71557.60,0.00,2891.68,27433.01,74449.28,101882.29,2016,,Colton,FT
+Sabdizareth Sanchez,Chief Deputy City Clerk,70528.99,0.00,3364.38,27357.74,73893.37,101251.11,2016,,Colton,FT
+Martin Oliva,Wastewater Operator I,60841.82,9663.23,4347.93,25543.98,74852.98,100396.96,2016,,Colton,FT
+Rodney Powell,Wastewater Operator I,54785.55,19332.90,1086.92,24270.73,75205.37,99476.10,2016,,Colton,FT
+Patricia Padilla,Police Dispatcher II,57573.25,3401.19,12018.99,25184.61,72993.43,98178.04,2016,,Colton,FT
+Robert Eichner,Wastewater Operator II,63625.76,5010.62,3079.09,26179.06,71715.47,97894.53,2016,,Colton,FT
+Bradley Mcgill,Police Officer,53133.29,498.44,26741.25,16292.18,80372.98,96665.16,2016,,Colton,PT
+Rachel Carnell,Code Enforcement Officer,61377.47,674.56,8052.84,26450.20,70104.87,96555.07,2016,,Colton,FT
+Yvonne Guzman-Gonzalez,Human Resource Specialist,65134.03,0.00,3948.22,26875.72,69082.25,95957.97,2016,,Colton,FT
+Georgette Chavez,Human Resource Specialist,66249.11,0.00,2549.60,26886.90,68798.71,95685.61,2016,,Colton,FT
+Jazmine Mendoza,Police Dispatcher II,52863.50,10598.38,7248.99,24726.61,70710.87,95437.48,2016,,Colton,FT
+Tania Heard,Code Enforcement Officer,61377.52,94.78,5936.34,26546.40,67408.64,93955.04,2016,,Colton,FT
+Harold Dewitt,Wastewater Operator I,60841.83,6998.62,200.00,25301.91,68040.45,93342.36,2016,,Colton,FT
+Silverio Smith Jr,Parks Maintenance Crew Leader,57637.84,6519.81,3836.04,24665.30,67993.69,92658.99,2016,,Colton,FT
+Yuriana Nava,Police Dispatcher II,56730.93,5881.07,4445.23,25143.59,67057.23,92200.82,2016,,Colton,FT
+Martha Garcia,Code Enforcement Officer,61266.85,0.00,4557.66,26244.93,65824.51,92069.44,2016,,Colton,FT
+David Reynolds,Building Inspector II,65586.31,0.00,0.00,26245.39,65586.31,91831.70,2016,,Colton,FT
+Derek Grant,Water Distribution Operator I,51564.72,11420.03,3753.99,23978.58,66738.74,90717.32,2016,,Colton,FT
+Richard Gonzales,Line Crew Supervisor,61650.01,4277.69,1461.59,22197.41,67389.29,89586.70,2016,,Colton,PT
+Eric Wickman,Police Officer,58100.01,3318.87,2687.09,24718.24,64105.97,88824.21,2016,,Colton,PT
+Cecilia Barrajas,Business License Officer,58306.46,0.00,5250.16,24926.59,63556.62,88483.21,2016,,Colton,FT
+James Watson,Accountant,58247.52,0.00,4943.39,25265.82,63190.91,88456.73,2016,,Colton,FT
+Alex Soto,Administrative Analyst I,58770.45,0.00,4749.90,24889.68,63520.35,88410.03,2016,,Colton,FT
+Dawn Miller,Executive Assistant,62592.85,0.00,0.00,25649.97,62592.85,88242.82,2016,,Colton,FT
+Anthony Alvarez,Wastewater Operator I,54785.55,5976.13,3077.74,24270.69,63839.42,88110.11,2016,,Colton,FT
+Anthony Corral,Water Distribution Operator I,47852.76,13685.30,2814.97,22869.33,64353.03,87222.36,2016,,Colton,FT
+Brent Smith,Warehouse Supervisor,59491.23,0.00,2432.24,25032.98,61923.47,86956.45,2016,,Colton,FT
+Lorraine Avalos,Executive Assistant To Police Chief,58194.14,0.00,3599.72,25042.34,61793.86,86836.20,2016,,Colton,FT
+Ray Scott Iii,Wastewater Operator I,54684.20,5622.74,2231.30,24268.12,62538.24,86806.36,2016,,Colton,FT
+Lilliana Espinoza,Senior Customer Service Rep,54783.07,1894.53,5069.12,24450.90,61746.72,86197.62,2016,,Colton,FT
+Fernando Ramirez,Streets Maintenance Worker II,47469.74,7693.01,7312.41,23447.05,62475.16,85922.21,2016,,Colton,FT
+Adrian Zapata,Consumer Service Field Rep I,51970.61,3522.71,600.00,29107.34,56093.32,85200.66,2016,,Colton,FT
+Antonio Salazar,Wastewater Equipment Mech. I,51347.56,4079.84,6178.02,23562.96,61605.42,85168.38,2016,,Colton,FT
+Victor Marquez,Collections System Maint. Wk I,51878.48,4622.93,4549.26,23638.33,61050.67,84689.00,2016,,Colton,FT
+Lisa Villa,Payroll Technician II,54851.46,0.00,5413.74,24334.96,60265.20,84600.16,2016,,Colton,FT
+Gernaldo Olson,Water Distribution Operator I,54143.52,246.60,5099.12,24528.51,59489.24,84017.75,2016,,Colton,FT
+"Lewis Jeffers, Jr",Water Distribution Operator I,47852.83,12390.02,831.23,22851.02,61074.08,83925.10,2016,,Colton,FT
+Steven Witt,Consumer Service Field Rep I,51970.59,2067.62,200.00,29027.10,54238.21,83265.31,2016,,Colton,FT
+Lisa Hunt,Account Technician II,53395.40,0.00,5383.70,24032.96,58779.10,82812.06,2016,,Colton,FT
+Carmen Jimenez,Senior Customer Service Rep,54783.12,70.56,2749.90,24433.85,57603.58,82037.43,2016,,Colton,FT
+Christopher Miller,Network Technician,53795.17,4145.17,100.24,23922.65,58040.58,81963.23,2016,,Colton,FT
+Bernardo De La Torre,Accountant,57140.49,206.17,0.00,24565.41,57346.66,81912.07,2016,,Colton,FT
+Solomon Magturo,Account Technician II,53395.39,0.00,4356.05,24032.92,57751.44,81784.36,2016,,Colton,FT
+Kelly Phelps,Recreation Services Coordinator,54817.85,80.65,2193.90,24330.59,57092.40,81422.99,2016,,Colton,FT
+Annette Lira,Senior Customer Service Rep,54783.04,1660.05,0.00,24096.52,56443.09,80539.61,2016,,Colton,FT
+Andrew Gamez,Equipment Mechanic,54689.46,0.00,1293.89,24295.47,55983.35,80278.82,2016,,Colton,FT
+Kathleen Donley,Executive Assistant,56333.88,0.00,540.00,23190.57,56873.88,80064.45,2016,,Colton,FT
+Brandon Parra,Recreation Services Coordinator,54782.82,0.00,1159.60,24096.52,55942.42,80038.94,2016,,Colton,FT
+Joel Schwartz,Collections System Maint. Wk I,46024.82,6135.84,5349.73,22454.79,57510.39,79965.18,2016,,Colton,FT
+Liza Nunez,Administrative Assistant,50651.52,0.00,5106.81,23476.33,55758.33,79234.66,2016,,Colton,FT
+Elroy Hudgins Jr.,Parks Maintenance Worker II,47970.51,5049.13,3213.40,22932.29,56233.04,79165.33,2016,,Colton,FT
+Dedie Lopez,Administrative Assistant,50651.58,0.00,4132.12,23476.34,54783.70,78260.04,2016,,Colton,FT
+Alyssa Aguilar,GIS Specialist,53401.43,219.88,203.95,23865.07,53825.26,77690.33,2016,,Colton,FT
+Felipe Vega Jr,Recreation Services Coordinator,48416.24,0.00,6089.55,23129.83,54505.79,77635.62,2016,,Colton,FT
+Randy Arebelo,Equipment Operator II,51211.78,0.00,2458.70,23785.53,53670.48,77456.01,2016,,Colton,FT
+Carlos Alba,Parks Maintenance Worker I,45678.46,3921.78,4981.54,22838.48,54581.78,77420.26,2016,,Colton,FT
+Mary Romo,Comm Childcare Admn Assistant,50651.56,0.00,2962.48,23476.32,53614.04,77090.36,2016,,Colton,FT
+Kenneth Kossman,Parks Maintenance Worker I,45678.45,4905.95,3750.56,22467.26,54334.96,76802.22,2016,,Colton,FT
+Heinz Niemann,Parks Maintenance Worker I,45678.46,7350.63,1079.00,22285.64,54108.09,76393.73,2016,,Colton,FT
+Michael Aldrich,Community Services Officer,47393.26,1029.07,4917.67,22979.54,53340.00,76319.54,2016,,Colton,FT
+Monica Diaz,Community Services Officer,47393.24,2563.98,2899.87,22979.54,52857.09,75836.63,2016,,Colton,FT
+Holly Malzahn,Planning/Building Technician,51874.52,0.00,95.59,23537.66,51970.11,75507.77,2016,,Colton,FT
+Rosemarie Gonzales,Customer Service Rep II,44892.55,43.84,8550.11,21195.20,53486.50,74681.70,2016,,Colton,FT
+Blanca Gutierrez,Purchasing Assistant,49513.71,0.00,1590.23,23364.75,51103.94,74468.69,2016,,Colton,FT
+Abraham Rivera,Animal Services Officer,44552.15,4373.34,2972.09,22229.50,51897.58,74127.08,2016,,Colton,FT
+Robert Gomez,Streets Maintenance Worker II,47439.81,96.03,3341.53,22824.71,50877.37,73702.08,2016,,Colton,FT
+Anthony Fernandez,Recreation Services Coordinator,47869.81,0.00,2573.22,23244.66,50443.03,73687.69,2016,,Colton,FT
+Romell Eutsey,Collections System Maint. Wk I,46024.80,3306.21,976.23,22428.44,50307.24,72735.68,2016,,Colton,FT
+"Daniel Aceves, Jr.",Water Distribution Operator I,49110.13,320.16,289.04,22985.93,49719.33,72705.26,2016,,Colton,FT
+Jovita Calderilla,Comm Childcare Site Supervisor,48624.95,0.00,650.00,23001.00,49274.95,72275.95,2016,,Colton,FT
+Kimberley Sinclair,Customer Service Rep II,47642.95,710.13,952.81,22865.90,49305.89,72171.79,2016,,Colton,FT
+Breanna Laird,Customer Service Rep II,47642.95,192.88,952.81,22865.90,48788.64,71654.54,2016,,Colton,FT
+Isabel Flores,Customer Service Rep II,46473.69,26.30,1864.25,22817.44,48364.24,71181.68,2016,,Colton,FT
+Javier Montes,Customer Service Rep II,45103.41,218.59,3335.63,22458.30,48657.63,71115.93,2016,,Colton,FT
+Anthony De La Torre,Parks Maintenance Worker I,45678.42,2554.58,200.00,22285.64,48433.00,70718.64,2016,,Colton,FT
+Martin Gutierrez,Streets Maintenance Worker II,43029.56,5644.51,200.00,21758.75,48874.07,70632.82,2016,,Colton,FT
+Rick Nunez,Parks Maintenance Worker I,45678.46,70.56,2188.00,22674.45,47937.02,70611.47,2016,,Colton,FT
+Donald Rodriguez,Customer Service Rep I,43292.44,15.93,4964.75,22102.49,48273.12,70375.61,2016,,Colton,FT
+Lisa Lewis,Customer Service Rep II,46473.70,1051.66,334.83,22513.20,47860.19,70373.39,2016,,Colton,FT
+Ruben Muro,Community Services Officer,42200.54,4242.04,1748.98,21899.41,48191.56,70090.97,2016,,Colton,FT
+Anita Betancur,Sr Police Services Clerk,44225.02,1198.92,1932.10,22207.97,47356.04,69564.01,2016,,Colton,FT
+Aaron Bolton,Collections System Maint. Wk I,43832.96,3034.77,646.70,22012.61,47514.43,69527.04,2016,,Colton,FT
+John Montes,Police Maintenance Worker I,45678.41,235.35,1113.57,22467.26,47027.33,69494.59,2016,,Colton,FT
+Arturo Espitia,Storekeeper,45302.17,266.75,1106.04,22391.02,46674.96,69065.98,2016,,Colton,FT
+Sandra Martinez,Police Services Clerk II,42033.07,973.04,3978.30,21830.41,46984.41,68814.82,2016,,Colton,FT
+Gladys Barajas,Senior Office Specialist,44711.97,0.00,1494.34,22390.60,46206.31,68596.91,2016,,Colton,FT
+Brandon Norris,Customer Service Rep I,41232.03,387.10,3890.64,22162.10,45509.77,67671.87,2016,,Colton,FT
+Linda Gutierrez,Community Services Officer,43406.96,69.77,1908.14,22152.37,45384.87,67537.24,2016,,Colton,FT
+Maria Gonzalez,Administrative Assistant,43382.15,0.00,1502.94,22054.14,44885.09,66939.23,2016,,Colton,FT
+Louis Gamache,Police Sergeant,3548.50,5280.82,56964.56,917.69,65793.88,66711.57,2016,,Colton,PT
+Valerie Jimenez,Police Dispatcher ( Pt ),42633.26,443.17,6604.19,16968.41,49680.62,66649.03,2016,,Colton,FT
+Travis Gates,Streets Maintenance Worker I,42083.03,1505.91,515.10,21637.76,44104.04,65741.80,2016,,Colton,FT
+Ramon Hernandez,Building Official,49570.56,0.00,0.00,16101.77,49570.56,65672.33,2016,,Colton,PT
+Theodore Cooper,Human Resources Manager,43010.16,0.00,9108.74,13361.97,52118.90,65480.87,2016,,Colton,PT
+Johnny Bower,Streets Maintenance Worker I,42083.02,357.08,515.10,21637.78,42955.20,64592.98,2016,,Colton,FT
+John Coyazo,Collections System Maint. Wk I,41396.47,618.63,631.84,21513.56,42646.94,64160.50,2016,,Colton,FT
+Anthony Sanchez,Streets Maintenance Worker I,40979.00,1182.84,200.00,21350.94,42361.84,63712.78,2016,,Colton,FT
+Albert Sanchez,Streets Maintenance Worker I,39189.75,477.28,2232.44,21230.24,41899.47,63129.71,2016,,Colton,FT
+Sarah Gutierrez,Administrative Assistant,38900.61,39.46,1661.26,21275.77,40601.33,61877.10,2016,,Colton,FT
+Hilda Tovar,Police Services Clerk II,38055.09,954.40,1510.26,21067.53,40519.75,61587.28,2016,,Colton,FT
+Jose Gutierrez,Police Lieutenant,608.31,0.00,60683.76,229.56,61292.07,61521.63,2016,,Colton,PT
+Ana Sauseda,Office Specialist I,38619.12,0.00,1372.38,21156.63,39991.50,61148.13,2016,,Colton,FT
+Natalie Brown,Police Services Clerk II,37294.03,1119.11,973.82,20811.86,39386.96,60198.82,2016,,Colton,FT
+Curtis Bayer Jr,Police Cpl/Detective,10324.49,0.00,44718.44,3475.75,55042.93,58518.68,2016,,Colton,PT
+Robert Drey,Police Cpl/Detective,425.37,0.00,57666.44,178.74,58091.81,58270.55,2016,,Colton,PT
+Bertha Rosas,Office Specialist II,36149.39,469.38,664.90,20522.88,37283.67,57806.55,2016,,Colton,FT
+Justin Lodarski,Firefighter Medic,22323.67,25874.64,2532.77,7069.50,50731.08,57800.58,2016,,Colton,PT
+Chad Griffiths,Fire Engineer,34609.91,596.69,4137.02,18297.56,39343.62,57641.18,2016,,Colton,PT
+Melissa Garcia,Office Specialist II,34991.33,0.00,1923.26,20553.20,36914.59,57467.79,2016,,Colton,FT
+Jorge Ramirez,Streets Maintenance Worker II,30842.03,0.00,816.83,19479.20,31658.86,51138.06,2016,,Colton,PT
+Rachel Escobar,Comm Childcare Asst Site Supvr,31073.58,0.00,1956.94,18098.10,33030.52,51128.62,2016,,Colton,PT
+Justine Wickman,Police Dispatcher II,22120.79,5533.55,11844.76,10835.34,39499.10,50334.44,2016,,Colton,PT
+Jerry Devine,Fire Captain,3917.40,179.26,43339.74,888.83,47436.40,48325.23,2016,,Colton,PT
+Aurelio De La Torre,City Treasurer,26699.92,0.00,2640.04,18510.76,29339.96,47850.72,2016,,Colton,FT
+Kandyce Dejean,Customer Service Rep I,29668.58,0.00,283.04,16363.14,29951.62,46314.76,2016,,Colton,PT
+Matthew Verhulst,Police Officer,30724.61,959.02,2823.63,10983.41,34507.26,45490.67,2016,,Colton,PT
+Jennifer Shimmin,Senior Water Conservation Specialist,25516.84,77.18,8726.11,10589.95,34320.13,44910.08,2016,,Colton,PT
+Karen Parker,Interim Human Resources Mgr,40488.00,0.00,0.00,0.00,40488.00,40488.00,2016,,Colton,PT
+Branden Walters,Collections System Maint. Wk I,22981.26,168.65,1908.91,11785.19,25058.82,36844.01,2016,,Colton,PT
+Simon Holding,Police Officer,15584.95,1187.57,13168.91,6223.08,29941.43,36164.51,2016,,Colton,PT
+Elvie Balderrama,Human Resources Director,24987.46,0.00,0.00,7833.20,24987.46,32820.66,2016,,Colton,PT
+Noel Claude,Recreation Specialist,26242.67,0.00,0.00,5219.17,26242.67,31461.84,2016,,Colton,FT
+Briana Aldeen,Comm Childcare Asst Site Supvr,19266.53,0.00,0.00,11554.11,19266.53,30820.64,2016,,Colton,PT
+Maria Quijano,Office Specialist I,20216.98,11.66,337.50,9132.63,20566.14,29698.77,2016,,Colton,PT
+Sheena Leopard,Police Dispatcher I,20054.21,0.00,26.00,9584.95,20080.21,29665.16,2016,,Colton,PT
+Linda Rabb,Community Childcare Teacher,24299.16,0.00,327.02,4854.48,24626.18,29480.66,2016,,Colton,PT
+Jonathan Vega,Power Line Tech Apprentice,16094.91,4287.49,0.00,7946.70,20382.40,28329.10,2016,,Colton,PT
+Lisa Harris,Recreation Specialist,23155.24,0.00,0.00,4606.80,23155.24,27762.04,2016,,Colton,PT
+Alise Smith,Sr Police Services Clerk,22242.84,0.00,0.00,4429.53,22242.84,26672.37,2016,,Colton,PT
+Crystal Alcantar,Recreation Specialist,20879.92,0.00,295.34,4214.27,21175.26,25389.53,2016,,Colton,PT
+Oy Sao,Community Childcare Teacher,20777.58,0.00,304.00,4153.54,21081.58,25235.12,2016,,Colton,PT
+Christine Holland,Comm Childcare Teachers Aide,19085.16,0.00,335.34,3819.42,19420.50,23239.92,2016,,Colton,PT
+Magdaleno Tapia,Office Specialist II,14500.07,6.19,0.00,8449.75,14506.26,22956.01,2016,,Colton,PT
+Kameron Aldeen,Comm Childcare Teachers Aide,18319.48,0.00,294.53,3676.48,18614.01,22290.49,2016,,Colton,PT
+Mario Townes,Recreation Specialist,22223.97,0.00,0.00,0.00,22223.97,22223.97,2016,,Colton,PT
+Juanita Perez,Comm Childcare Teachers Aide,21595.43,0.00,586.81,0.00,22182.24,22182.24,2016,,Colton,FT
+Julia Arriola,Library Clerk ( Pt ),18405.39,0.00,70.06,3682.90,18475.45,22158.35,2016,,Colton,PT
+Renee Escobar,Comm Childcare Teachers Aide,21822.52,0.00,319.96,0.00,22142.48,22142.48,2016,,Colton,FT
+Justin Hernandez,Firefighter Medic,16256.97,243.36,0.00,5415.53,16500.33,21915.86,2016,,Colton,PT
+Rocio Mull,Police Dispatcher I,14078.78,0.00,328.70,7330.93,14407.48,21738.41,2016,,Colton,PT
+Steven Vallez,Firefighter Medic,16062.28,243.36,0.00,5390.57,16305.64,21696.21,2016,,Colton,PT
+Jennifer Mercado,Community Childcare Teacher,21361.21,0.00,250.49,0.00,21611.70,21611.70,2016,,Colton,PT
+Luis Gonzalez,Councilmember,4800.12,0.00,2640.04,14154.81,7440.16,21594.97,2016,,Colton,PT
+Isaac Suchil,Councilmember,4800.12,0.00,2640.04,14154.81,7440.16,21594.97,2016,,Colton,PT
+David Toro,Councilmember,4800.12,0.00,2640.04,14046.48,7440.16,21486.64,2016,,Colton,PT
+Michael Delcid,Firefighter Medic,15672.89,243.36,0.00,5340.65,15916.25,21256.90,2016,,Colton,PT
+Deirdre Bennett,Councilmember,4615.50,0.00,2538.50,13567.25,7154.00,20721.25,2016,,Colton,PT
+Summer Jorrin,Councilmember,4800.12,0.00,2640.04,13200.00,7440.16,20640.16,2016,,Colton,PT
+Richard De La Rosa,Mayor,4800.12,0.00,2640.04,13200.00,7440.16,20640.16,2016,,Colton,PT
+Frank Navarro,Councilmember,4800.12,0.00,2640.04,13200.00,7440.16,20640.16,2016,,Colton,PT
+Carolina Padilla,City Clerk,4440.02,0.00,2640.04,13200.00,7080.06,20280.06,2016,,Colton,PT
+Ana Palma,Community Childcare Teacher,20101.88,0.00,151.02,0.00,20252.90,20252.90,2016,,Colton,PT
+Suzanne Busch,Literacy Program Assistant,16853.00,0.00,0.00,3350.24,16853.00,20203.24,2016,,Colton,PT
+Lisa Sandoval,Library Clerk ( Pt ),19589.53,0.00,84.53,0.00,19674.06,19674.06,2016,,Colton,PT
+Nikki Green,Recreation Specialist,19543.41,0.00,0.00,0.00,19543.41,19543.41,2016,,Colton,PT
+Daniel Muro,Recreation Specialist,18310.22,0.00,637.69,0.00,18947.91,18947.91,2016,,Colton,PT
+Hrag Jivalagian,Firefighter Medic,12795.73,121.68,486.74,5491.20,13404.15,18895.35,2016,,Colton,PT
+Hector Palacios,Literacy Program Assistant,18706.54,0.00,64.27,0.00,18770.81,18770.81,2016,,Colton,PT
+Everett Rodriguez,Recreation Specialist,18201.24,0.00,397.28,0.00,18598.52,18598.52,2016,,Colton,PT
+Jorge Estrada,Power Line Tech Apprentice,11562.06,849.73,0.00,6155.07,12411.79,18566.86,2016,,Colton,PT
+Veronica Medina,Community Childcare Teacher,18002.18,0.00,498.31,0.00,18500.49,18500.49,2016,,Colton,PT
+Danielle Ables,Recreation Specialist,14898.96,110.55,0.00,2959.43,15009.51,17968.94,2016,,Colton,PT
+Adrianna Sandoval,Comm Childcare Teachers Aide,17523.96,0.00,269.99,0.00,17793.95,17793.95,2016,,Colton,PT
+Robert Waner,Water Conservation Specialist,12440.80,0.00,0.00,5280.85,12440.80,17721.65,2016,,Colton,PT
+Maciel Rodarte,Administrative Assistant,11759.75,0.00,263.67,5629.32,12023.42,17652.74,2016,,Colton,PT
+Roderick Scott,Comm Childcare Teachers Aide,16806.81,0.00,228.92,0.00,17035.73,17035.73,2016,,Colton,PT
+Corina Vega,Senior Recreation Leader,16769.46,0.00,40.17,0.00,16809.63,16809.63,2016,,Colton,PT
+William Harring Sr.,Community Services Officer ( Pt ),16529.02,0.00,0.00,0.00,16529.02,16529.02,2016,,Colton,PT
+Norma Jara,Community Childcare Teacher,16120.89,0.00,289.49,0.00,16410.38,16410.38,2016,,Colton,PT
+Jose Esparza,General Laborer,16410.00,0.00,0.00,0.00,16410.00,16410.00,2016,,Colton,PT
+Daniel Indries,Police Officer,11874.24,584.43,195.93,3747.52,12654.60,16402.12,2016,,Colton,PT
+Katelyn Hazelip,Recreation Specialist,16370.99,0.00,0.00,0.00,16370.99,16370.99,2016,,Colton,PT
+Sally Juarez,Recreation Specialist,13647.51,0.00,0.00,2715.25,13647.51,16362.76,2016,,Colton,PT
+Michael Reyes,General Laborer,16181.50,0.00,0.00,0.00,16181.50,16181.50,2016,,Colton,PT
+Robert Saldana,Senior Recreation Leader,13475.31,0.00,0.00,2693.09,13475.31,16168.40,2016,,Colton,PT
+Mark Mendoza,General Laborer,15415.00,0.00,0.00,0.00,15415.00,15415.00,2016,,Colton,PT
+Florentina Saucedo,Community Childcare Teacher,15040.39,0.00,183.10,0.00,15223.49,15223.49,2016,,Colton,PT
+Michael Salazar,Pool Manager,15067.05,0.00,0.00,0.00,15067.05,15067.05,2016,,Colton,PT
+Nancy Hernandez,Community Childcare Teacher,14852.25,0.00,0.00,0.00,14852.25,14852.25,2016,,Colton,PT
+Bryan Roberts,Senior Recreation Leader,14560.21,0.00,75.00,0.00,14635.21,14635.21,2016,,Colton,PT
+Jayson Liggins,Senior Recreation Leader,14438.61,104.22,0.00,0.00,14542.83,14542.83,2016,,Colton,PT
+Amie Soto,Community Childcare Teacher,14351.48,0.00,100.52,0.00,14452.00,14452.00,2016,,Colton,PT
+Ana Guillen,Senior Recreation Leader,14205.30,0.00,204.51,0.00,14409.81,14409.81,2016,,Colton,PT
+Anabel Castaneda,Recreation Specialist,11615.26,0.00,262.50,2365.37,11877.76,14243.13,2016,,Colton,PT
+Thomas Acosta,General Laborer,14229.00,0.00,0.00,0.00,14229.00,14229.00,2016,,Colton,PT
+Thomas Robles,Pool Manager,14195.93,0.00,0.00,0.00,14195.93,14195.93,2016,,Colton,PT
+Maria Galicia,Community Childcare Teacher,13336.09,0.00,0.00,0.00,13336.09,13336.09,2016,,Colton,PT
+Sara Villapando,Senior Recreation Leader,13217.88,0.00,0.00,0.00,13217.88,13217.88,2016,,Colton,PT
+Adam Chittenden,Fire Engineer,9452.86,122.45,0.00,3427.64,9575.31,13002.95,2016,,Colton,PT
+Christopher Deanda,Fire Engineer,9452.86,122.45,0.00,3427.64,9575.31,13002.95,2016,,Colton,PT
+Brian Kalousek,Firefighter Medic,9394.00,158.19,0.00,3420.02,9552.19,12972.21,2016,,Colton,PT
+Nathan Palmer,Firefighter Medic,9394.00,121.68,0.00,3420.02,9515.68,12935.70,2016,,Colton,PT
+Jennifer Lopez,Library Clerk ( Pt ),12871.47,0.00,50.95,0.00,12922.42,12922.42,2016,,Colton,PT
+Cruz De La Cruz,Senior Recreation Leader,12409.32,0.00,85.06,0.00,12494.38,12494.38,2016,,Colton,PT
+Rebecca Medina,Senior Recreation Leader,12469.66,0.00,0.00,0.00,12469.66,12469.66,2016,,Colton,PT
+Jullian Silva,General Laborer,12417.00,0.00,0.00,0.00,12417.00,12417.00,2016,,Colton,PT
+Roma Santiago,Senior Recreation Leader,10349.68,0.00,0.00,2063.84,10349.68,12413.52,2016,,Colton,PT
+Ashley Clarke,Community Childcare Teacher,12012.88,0.00,302.04,0.00,12314.92,12314.92,2016,,Colton,PT
+Victoria Qualls,Police Dispatcher ( Pt ),12100.00,0.00,0.00,0.00,12100.00,12100.00,2016,,Colton,PT
+Jonathan Fernandez-Guevara,Senior Recreation Leader,11774.40,0.00,0.00,0.00,11774.40,11774.40,2016,,Colton,PT
+Rachel Stewart,Senior Recreation Leader,11233.07,0.00,0.00,0.00,11233.07,11233.07,2016,,Colton,PT
+Mikayla Lichtenberg,Customer Service Rep I,6682.65,0.00,0.00,4109.44,6682.65,10792.09,2016,,Colton,PT
+Berenise Cabrera,Recreation Leader,10233.27,67.50,62.50,0.00,10363.27,10363.27,2016,,Colton,PT
+Kristine Tucci,Senior Recreation Leader,10290.03,0.00,0.00,0.00,10290.03,10290.03,2016,,Colton,PT
+Reginal Jackson Jr.,Recreation Specialist,9810.75,0.00,41.37,0.00,9852.12,9852.12,2016,,Colton,PT
+Alexis Gomez,Police Cadet,9625.00,0.00,0.00,0.00,9625.00,9625.00,2016,,Colton,PT
+Melanie Sanchez,Senior Recreation Leader,9375.55,182.39,0.00,0.00,9557.94,9557.94,2016,,Colton,PT
+Leslie Ortiz-Acosta,Recreation Leader,9255.00,93.75,75.00,0.00,9423.75,9423.75,2016,,Colton,PT
+Christine Juedes,Literacy Program Assistant,9323.98,0.00,50.95,0.00,9374.93,9374.93,2016,,Colton,PT
+Alejandra Becerril,Recreation Leader,9122.50,0.00,75.00,0.00,9197.50,9197.50,2016,,Colton,PT
+Jose Meza,Recreation Leader,8948.29,0.00,0.00,0.00,8948.29,8948.29,2016,,Colton,PT
+Phillip Gurrola,Recreation Leader,8933.18,0.00,0.00,0.00,8933.18,8933.18,2016,,Colton,PT
+Stephanie Becerril,Recreation Leader,8476.97,0.00,156.49,0.00,8633.46,8633.46,2016,,Colton,PT
+Julie Perez,Police Cadet,8376.50,0.00,0.00,0.00,8376.50,8376.50,2016,,Colton,PT
+Yessenia Velasquez,Police Cadet,8294.00,0.00,0.00,0.00,8294.00,8294.00,2016,,Colton,PT
+Angie Hernandez,Recreation Leader,8060.14,0.00,75.00,0.00,8135.14,8135.14,2016,,Colton,PT
+Andreu Smith,Recreation Leader,8065.01,0.00,0.00,0.00,8065.01,8065.01,2016,,Colton,PT
+Raelynn Ramirez,Recreation Leader,7982.50,0.00,0.00,0.00,7982.50,7982.50,2016,,Colton,PT
+Ezequiel Rodriguez Jr,Recreation Leader,7841.25,0.00,0.00,0.00,7841.25,7841.25,2016,,Colton,PT
+Betsy Dealba,Recreation Leader,7778.25,0.00,62.50,0.00,7840.75,7840.75,2016,,Colton,PT
+Nicholas Ibarra,Recreation Leader,7453.46,0.00,0.00,0.00,7453.46,7453.46,2016,,Colton,PT
+Alyssa Guzman,Police Cadet,7342.50,0.00,0.00,0.00,7342.50,7342.50,2016,,Colton,PT
+Daniel Franco,Recreation Leader,7166.00,0.00,0.00,0.00,7166.00,7166.00,2016,,Colton,PT
+Keana Mitchell,Recreation Leader,7052.91,0.00,0.00,0.00,7052.91,7052.91,2016,,Colton,PT
+Justin Cherpin,Police Officer,5085.83,108.18,131.63,1722.08,5325.64,7047.72,2016,,Colton,PT
+Angela Littlefield,Lifeguard,6936.40,0.00,0.00,0.00,6936.40,6936.40,2016,,Colton,PT
+Ramon Ramirez,Recreation Leader,6815.00,0.00,0.00,0.00,6815.00,6815.00,2016,,Colton,PT
+Luis Olivares,Recreation Leader,6339.29,0.00,81.16,0.00,6420.45,6420.45,2016,,Colton,PT
+Sabryn Rodas,Recreation Leader,6310.00,0.00,0.00,0.00,6310.00,6310.00,2016,,Colton,PT
+La Von Mobley,Police Dispatcher ( Pt ),5920.00,0.00,0.00,0.00,5920.00,5920.00,2016,,Colton,PT
+Jennifer Reinbolz,Police Officer Trainee,4163.57,0.00,0.00,1633.81,4163.57,5797.38,2016,,Colton,PT
+Ryan Hanna,Police Cadet,5359.75,0.00,0.00,0.00,5359.75,5359.75,2016,,Colton,PT
+Eddie Torres,Senior Recreation Leader,4837.57,0.00,0.00,0.00,4837.57,4837.57,2016,,Colton,PT
+Hernan Diaz,Management Intern I,4777.50,0.00,0.00,0.00,4777.50,4777.50,2016,,Colton,PT
+Julie Medina,Recreation Leader,4400.00,0.00,0.00,0.00,4400.00,4400.00,2016,,Colton,PT
+Bryce Belton,Lifeguard,4371.92,0.00,0.00,0.00,4371.92,4371.92,2016,,Colton,PT
+Dominick Ibarra,Recreation Leader,3761.19,0.00,135.13,0.00,3896.32,3896.32,2016,,Colton,PT
+Linda Gallardo,Customer Service Rep I ( Pt ),3682.56,0.00,0.00,0.00,3682.56,3682.56,2016,,Colton,PT
+Princess Wilson,Senior Recreation Leader,3624.57,0.00,0.00,0.00,3624.57,3624.57,2016,,Colton,PT
+Alexis Avila,Lifeguard,3590.77,0.00,27.68,0.00,3618.45,3618.45,2016,,Colton,PT
+Lucas Arias,Senior Lifeguard,3326.52,0.00,0.00,0.00,3326.52,3326.52,2016,,Colton,PT
+Lucy Starks,Recreation Leader,3296.23,0.00,19.29,0.00,3315.52,3315.52,2016,,Colton,PT
+John Crafton,Lifeguard,3207.39,0.00,0.00,0.00,3207.39,3207.39,2016,,Colton,PT
+Razili Ramirez,Recreation Specialist,2665.08,0.00,0.00,531.32,2665.08,3196.40,2016,,Colton,PT
+Johnathan Cardenas,Recreation Leader,3112.50,0.00,0.00,0.00,3112.50,3112.50,2016,,Colton,PT
+Arthur Trimble,Recreation Leader,3101.53,0.00,0.00,0.00,3101.53,3101.53,2016,,Colton,PT
+Karen Hinckley,Library Clerk ( Pt ),2755.38,0.00,137.77,0.00,2893.15,2893.15,2016,,Colton,PT
+Clarissa Claude,Recreation Leader,2852.50,0.00,0.00,0.00,2852.50,2852.50,2016,,Colton,PT
+Brianna Sinclair,Recreation Leader,2764.46,0.00,0.00,0.00,2764.46,2764.46,2016,,Colton,PT
+Frances Arroyo,Comm Childcare Teachers Aide,2096.97,0.00,167.67,426.52,2264.64,2691.16,2016,,Colton,PT
+Nina Sandoval,Library Clerk ( Pt ),2686.56,0.00,0.00,0.00,2686.56,2686.56,2016,,Colton,PT
+Juliane Fonseca,Recreation Leader,2310.00,0.00,0.00,0.00,2310.00,2310.00,2016,,Colton,PT
+Alec St Jean,Management Intern,2280.00,0.00,0.00,0.00,2280.00,2280.00,2016,,Colton,PT
+David Ream,Recreation Leader,2184.76,0.00,32.06,0.00,2216.82,2216.82,2016,,Colton,PT
+Freddie Molina,Recreation Leader,2195.00,0.00,0.00,0.00,2195.00,2195.00,2016,,Colton,PT
+Derick Prince Jr,Recreation Leader,1968.50,0.00,0.00,0.00,1968.50,1968.50,2016,,Colton,PT
+Bryan Acevedo,Library Clerk ( Pt ),1945.44,0.00,0.00,0.00,1945.44,1945.44,2016,,Colton,PT
+Diana Fraser,Library Clerk ( Pt ),1742.37,0.00,80.79,0.00,1823.16,1823.16,2016,,Colton,PT
+Angelica Castillo,Library Clerk ( Pt ),1667.52,0.00,0.00,0.00,1667.52,1667.52,2016,,Colton,PT
+Olivia Ocampo,Senior Recreation Leader,1626.31,0.00,0.00,0.00,1626.31,1626.31,2016,,Colton,PT
+Amy Quintana,Library Clerk ( Pt ),1603.83,0.00,0.00,0.00,1603.83,1603.83,2016,,Colton,PT
+Joseph Cuellar,Recreation Leader,1517.79,0.00,0.00,0.00,1517.79,1517.79,2016,,Colton,PT
+Daniel Peverini,Lifeguard,1475.60,0.00,0.00,0.00,1475.60,1475.60,2016,,Colton,PT
+Alondra Campos,Recreation Leader,1283.00,0.00,0.00,0.00,1283.00,1283.00,2016,,Colton,PT
+Abigail Porter,Library Clerk ( Pt ),1244.85,0.00,0.00,0.00,1244.85,1244.85,2016,,Colton,PT
+Ivan Ceja,Recreation Leader,1154.09,0.00,4.99,0.00,1159.08,1159.08,2016,,Colton,PT
+Nancy Corona,Police Stenographer,768.00,0.00,0.00,150.71,768.00,918.71,2016,,Colton,PT
+Adrianna Robles,Recreation Leader,912.50,0.00,0.00,0.00,912.50,912.50,2016,,Colton,PT
+Jack Woods,Councilmember,184.62,0.00,101.54,550.00,286.16,836.16,2016,,Colton,PT
+Andrew Robles,Lifeguard,812.00,0.00,0.00,0.00,812.00,812.00,2016,,Colton,PT
+Brandon Ortega,Recreation Leader,721.57,0.00,0.00,0.00,721.57,721.57,2016,,Colton,PT
+Celeste Gomez,Police Cadet,550.00,0.00,0.00,0.00,550.00,550.00,2016,,Colton,PT
+Jacquelyn Savell,Senior Recreation Leader,310.06,0.00,0.00,0.00,310.06,310.06,2016,,Colton,PT
+Zoraida Gutierrez,Comm Childcare Teachers Aide,188.11,0.00,35.86,0.00,223.97,223.97,2016,,Colton,PT
+Michelle Chavez,Recreation Leader,212.64,0.00,0.00,0.00,212.64,212.64,2016,,Colton,PT
+Ashlee Smith,Police Dispatcher II,0.01,0.00,0.00,0.00,0.01,0.01,2016,,Colton,PT

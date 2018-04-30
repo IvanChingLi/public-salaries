@@ -1,0 +1,718 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Jim Schutz,City Manager,233518.00,0.00,7138.00,147524.00,240656.00,388180.00,2016,,San Rafael,FT
+Robert De Lambert,Fire Captain,129619.00,83300.00,26297.00,110668.00,239216.00,349884.00,2016,,San Rafael,FT
+Eric Mac Ausland,Fire Captain,121804.00,83460.00,20563.00,114247.00,225827.00,340074.00,2016,,San Rafael,FT
+Christopher Gray,Fire Chief,176582.00,0.00,8462.00,152650.00,185044.00,337694.00,2016,,San Rafael,FT
+Kyle Hamilton,Fire Batt Chief - Operations,168495.00,23747.00,12785.00,126672.00,205027.00,331699.00,2016,,San Rafael,FT
+Diana Bishop,Police Chief,176582.00,0.00,15560.00,136479.00,192142.00,328621.00,2016,,San Rafael,FT
+Jeffrey Rowan,Fire Batt Chief - Operations,154192.00,32660.00,13083.00,125841.00,199935.00,325776.00,2016,,San Rafael,FT
+Glenn Mcelderry,Police Captain,157679.00,2193.00,12862.00,149925.00,172734.00,322659.00,2016,,San Rafael,FT
+Michael Lewis,Fire Engineer,107590.00,83277.00,25848.00,105485.00,216715.00,322200.00,2016,,San Rafael,FT
+Scott Eberle,Police Sergeant,114921.00,47550.00,28537.00,130101.00,191008.00,321109.00,2016,,San Rafael,FT
+Matthew Windrem,Fire Batt Chief - Operations,166616.00,11756.00,12773.00,127370.00,191145.00,318515.00,2016,,San Rafael,FT
+Jaime Correa,Police Lieutenant,139569.00,17623.00,18602.00,140797.00,175794.00,316591.00,2016,,San Rafael,FT
+Kevin Kelleher,Fire Captain,129619.00,54032.00,23774.00,108759.00,207425.00,316184.00,2016,,San Rafael,FT
+David Starnes,Police Captain,154157.00,5398.00,12973.00,141206.00,172528.00,313734.00,2016,,San Rafael,FT
+Paul Bowermaster,Fire Captain,129619.00,55326.00,20638.00,106387.00,205583.00,311970.00,2016,,San Rafael,FT
+Nathan Clark,Fire Captain,127702.00,53220.00,23577.00,107161.00,204499.00,311660.00,2016,,San Rafael,FT
+Matthew Locatelli,Fire Engineer,118142.00,76598.00,19474.00,96824.00,214214.00,311038.00,2016,,San Rafael,FT
+Jason Hatfield,Fire Batt Chief - Admin,116696.00,43333.00,24472.00,125133.00,184501.00,309634.00,2016,,San Rafael,PT
+Andrew Rogerson,Fire Captain,106408.00,66509.00,20563.00,114247.00,193480.00,307727.00,2016,,San Rafael,FT
+Robert Ground,Fire Captain,106408.00,65787.00,20693.00,114345.00,192888.00,307233.00,2016,,San Rafael,FT
+Nicholas Giusti,Fire Captain,106408.00,64303.00,20573.00,114254.00,191284.00,305538.00,2016,,San Rafael,FT
+Raul Aguilar,Police Sergeant,114984.00,28756.00,32328.00,127632.00,176068.00,303700.00,2016,,San Rafael,FT
+Paul Bernard,Fire Captain,102154.00,56188.00,23986.00,117711.00,182328.00,300039.00,2016,,San Rafael,FT
+Rogelio Leon,Police Sergeant,114921.00,21635.00,30951.00,131620.00,167507.00,299127.00,2016,,San Rafael,FT
+Evan Minard,Fire Captain,104491.00,56029.00,23522.00,115036.00,184042.00,299078.00,2016,,San Rafael,FT
+Todd Berringer,Police Sergeant,110785.00,33197.00,25389.00,127757.00,169371.00,297128.00,2016,,San Rafael,FT
+Angel Landaverde,Firefighter-Paramedic,113411.00,74279.00,18619.00,88834.00,206309.00,295143.00,2016,,San Rafael,FT
+Thomas Sabido,Police Officer,95685.00,54824.00,28709.00,115855.00,179218.00,295073.00,2016,,San Rafael,FT
+Alan Piombo Jr,Police Lieutenant,139568.00,7097.00,12219.00,135983.00,158884.00,294867.00,2016,,San Rafael,FT
+Robert Winner,Fire Captain,126713.00,33986.00,23774.00,108759.00,184473.00,293232.00,2016,,San Rafael,FT
+Carl Huber,Police Sergeant,115084.00,35817.00,27206.00,114964.00,178107.00,293071.00,2016,,San Rafael,FT
+Ryan Goodwin,Fire Captain,107389.00,50249.00,20563.00,114247.00,178201.00,292448.00,2016,,San Rafael,FT
+Joe Vasco,Fire Engineer,109800.00,54555.00,21572.00,106328.00,185927.00,292255.00,2016,,San Rafael,FT
+Christopher Cooper,Fire Captain,103908.00,48196.00,23559.00,116513.00,175663.00,292176.00,2016,,San Rafael,FT
+Daniel Fink,Police Lieutenant,138296.00,2045.00,17324.00,134505.00,157665.00,292170.00,2016,,San Rafael,FT
+Michael Vergara,Police Sergeant,115197.00,40472.00,15094.00,120055.00,170763.00,290818.00,2016,,San Rafael,FT
+Christopher Coale,Police Sergeant,112421.00,23402.00,23572.00,125529.00,159395.00,284924.00,2016,,San Rafael,FT
+Randall Ainsworth,Fire Engineer,107581.00,51655.00,22058.00,102734.00,181294.00,284028.00,2016,,San Rafael,FT
+Scott Ingels,Police Corporal,102174.00,35365.00,28230.00,117659.00,165769.00,283428.00,2016,,San Rafael,FT
+Paul Jensen,Community Development Director,176582.00,0.00,7695.00,98827.00,184277.00,283104.00,2016,,San Rafael,FT
+Christian Diaz,Police Corporal,94200.00,29284.00,36864.00,122709.00,160348.00,283057.00,2016,,San Rafael,FT
+James Kieffer,Fire Engineer,118143.00,43953.00,22047.00,98771.00,184143.00,282914.00,2016,,San Rafael,FT
+Gabriel Williams,Fire Engineer,115787.00,51984.00,21757.00,92891.00,189528.00,282419.00,2016,,San Rafael,FT
+Justin Barrow,Fire Captain,122411.00,34431.00,22783.00,102556.00,179625.00,282181.00,2016,,San Rafael,FT
+George Schikore,Police Officer,95685.00,52611.00,22152.00,110870.00,170448.00,281318.00,2016,,San Rafael,FT
+David Lopes,Fire Engineer,118143.00,41216.00,20534.00,93713.00,179893.00,273606.00,2016,,San Rafael,FT
+Raffaello Pata,Police Lieutenant,139158.00,0.00,12834.00,121589.00,151992.00,273581.00,2016,,San Rafael,FT
+Graham Winkelman,Firefighter-Paramedic,114363.00,40847.00,21364.00,95394.00,176574.00,271968.00,2016,,San Rafael,FT
+Conan Kelly,Fire Captain,106193.00,26983.00,23572.00,115074.00,156748.00,271822.00,2016,,San Rafael,FT
+Robert Cleland,Police Corporal,100473.00,31882.00,23197.00,115314.00,155552.00,270866.00,2016,,San Rafael,FT
+Jeff Endaya,Fire Engineer,118095.00,37535.00,20167.00,93412.00,175797.00,269209.00,2016,,San Rafael,FT
+Doris Toy,District Manager/Engineer-Srsd,160000.00,0.00,6340.00,102476.00,166340.00,268816.00,2016,,San Rafael,FT
+Eric Jennings,Firefighter-Paramedic,114363.00,35697.00,21335.00,95372.00,171395.00,266767.00,2016,,San Rafael,FT
+Garrett Northern,Fire Captain,129619.00,4364.00,23774.00,108759.00,157757.00,266516.00,2016,,San Rafael,FT
+Michael Mccarthy,Fire Engineer,110127.00,27656.00,21819.00,106762.00,159602.00,266364.00,2016,,San Rafael,FT
+Shawn Gordon,Fire Engineer,117297.00,30245.00,24210.00,94592.00,171752.00,266344.00,2016,,San Rafael,FT
+Joseph Morel,Firefighter-Paramedic,102319.00,49631.00,18246.00,95427.00,170196.00,265623.00,2016,,San Rafael,FT
+Christopher Donohue,Firefighter-Paramedic,114363.00,43933.00,15815.00,91196.00,174111.00,265307.00,2016,,San Rafael,FT
+Dennis Prince Jr.,Police Officer,95685.00,37147.00,21296.00,109597.00,154128.00,263725.00,2016,,San Rafael,FT
+Carlos Maldonado,Police Officer,95748.00,30100.00,26543.00,110328.00,152391.00,262719.00,2016,,San Rafael,FT
+Phillip Melodia,Police Officer,95685.00,26516.00,25612.00,113542.00,147813.00,261355.00,2016,,San Rafael,FT
+Kyle Reuter,Fire Engineer,118143.00,21532.00,22123.00,98828.00,161798.00,260626.00,2016,,San Rafael,FT
+Michael Wasdyke,Fire Engineer,107607.00,24372.00,21860.00,106546.00,153839.00,260385.00,2016,,San Rafael,FT
+Rich Nettelman,Fire Engineer,94933.00,36512.00,21943.00,106609.00,153388.00,259997.00,2016,,San Rafael,FT
+Justin Graham,Police Corporal,101569.00,26900.00,22007.00,108310.00,150476.00,258786.00,2016,,San Rafael,FT
+Henry Tirre,Police Officer,95686.00,33037.00,19514.00,108266.00,148237.00,256503.00,2016,,San Rafael,FT
+Daniel Sutherlin,Fire Engineer,101332.00,28510.00,20800.00,105744.00,150642.00,256386.00,2016,,San Rafael,FT
+Kevin Macdougald,Police Officer,88560.00,40970.00,20483.00,106010.00,150013.00,256023.00,2016,,San Rafael,FT
+Cristine Alilovich,Assistant City Manager,154663.00,0.00,6234.00,94052.00,160897.00,254949.00,2016,,San Rafael,FT
+Mark Sedlack,Fire Engineer,109243.00,20987.00,19247.00,104569.00,149477.00,254046.00,2016,,San Rafael,FT
+Gustavo Bush,Information Technology Manager,152938.00,0.00,2815.00,97014.00,155753.00,252767.00,2016,,San Rafael,FT
+Ryan Kirkpatrick,Firefighter-Paramedic,114363.00,20883.00,21506.00,95501.00,156752.00,252253.00,2016,,San Rafael,FT
+Carlene Mccart,Community Services Director,152781.00,0.00,7529.00,91926.00,160310.00,252236.00,2016,,San Rafael,FT
+Bill Wasdyke,Fire Captain,106536.00,5018.00,23699.00,116619.00,135253.00,251872.00,2016,,San Rafael,FT
+Lisa Holton,Police Sergeant,107350.00,135.00,20196.00,123974.00,127681.00,251655.00,2016,,San Rafael,FT
+Lisa Goldfien,Assistant City Attorney,151506.00,0.00,12427.00,87099.00,163933.00,251032.00,2016,,San Rafael,FT
+Kevin Mcgowan,Asst Public Works Dir/City Eng,157470.00,0.00,13528.00,79891.00,170998.00,250889.00,2016,,San Rafael,FT
+James Alexander Holm,Police Corporal,100136.00,25335.00,18888.00,106039.00,144359.00,250398.00,2016,,San Rafael,FT
+David Casalnuovo,Police Officer,95586.00,17997.00,23973.00,112242.00,137556.00,249798.00,2016,,San Rafael,FT
+Wanda Spaletta,Police Sergeant,118797.00,7323.00,20149.00,100862.00,146269.00,247131.00,2016,,San Rafael,FT
+Cameron Mrsny,Fire Engineer,108332.00,10347.00,21840.00,106531.00,140519.00,247050.00,2016,,San Rafael,FT
+Justin Schraeder,Police Officer,95685.00,18639.00,22281.00,110334.00,136605.00,246939.00,2016,,San Rafael,FT
+Aaron Piombo,Police Officer,96700.00,18993.00,20171.00,110233.00,135864.00,246097.00,2016,,San Rafael,FT
+Gino Rantissi,Police Officer,93023.00,49590.00,14000.00,88114.00,156613.00,244727.00,2016,,San Rafael,FT
+Michael Mathis,Police Corporal,100637.00,15812.00,24991.00,102512.00,141440.00,243952.00,2016,,San Rafael,FT
+Christopher Fuller,Police Officer,93593.00,35849.00,20446.00,93211.00,149888.00,243099.00,2016,,San Rafael,FT
+Scott Preckwinkle,Firefighter-Paramedic,108299.00,43786.00,20644.00,69619.00,172729.00,242348.00,2016,,San Rafael,FT
+Arthur Phillips Iv,Fire Engineer,96633.00,15246.00,22476.00,107012.00,134355.00,241367.00,2016,,San Rafael,FT
+Brian Patterson,Police Officer,95685.00,28242.00,13093.00,104186.00,137020.00,241206.00,2016,,San Rafael,FT
+Joseph Camins,Police Officer,97386.00,28547.00,11728.00,101750.00,137661.00,239411.00,2016,,San Rafael,FT
+Jimmy Alvarez,Firefighter-Paramedic,108299.00,41933.00,19079.00,69691.00,169311.00,239002.00,2016,,San Rafael,FT
+Eric Davis,Deputy City Attorney Ii,142014.00,0.00,3245.00,91578.00,145259.00,236837.00,2016,,San Rafael,FT
+Marc Laplante,Police Officer,95849.00,27574.00,18388.00,94000.00,141811.00,235811.00,2016,,San Rafael,FT
+Ronda Reese,Police Corporal,100535.00,10873.00,18087.00,106193.00,129495.00,235688.00,2016,,San Rafael,FT
+James Bellamy,Police Corporal,104350.00,15251.00,23474.00,92550.00,143075.00,235625.00,2016,,San Rafael,FT
+Michael Byers,Police Officer,95686.00,0.00,25705.00,113610.00,121391.00,235001.00,2016,,San Rafael,FT
+Sarah Houghton,Library Director,143684.00,0.00,6147.00,84822.00,149831.00,234653.00,2016,,San Rafael,FT
+David Cornell,Firefighter-Paramedic,109746.00,17566.00,17930.00,89304.00,145242.00,234546.00,2016,,San Rafael,FT
+Matthew Chandra,Firefighter-Paramedic,93701.00,46232.00,19718.00,74823.00,159651.00,234474.00,2016,,San Rafael,FT
+Thomas Collins,Police Officer,95848.00,28578.00,15724.00,92010.00,140150.00,232160.00,2016,,San Rafael,FT
+Christopher Duncan,Police Officer,95685.00,6361.00,20379.00,109630.00,122425.00,232055.00,2016,,San Rafael,FT
+Ryan De Marta,Police Officer,95685.00,9822.00,18138.00,107955.00,123645.00,231600.00,2016,,San Rafael,FT
+Ivan Zhuk,Firefighter-Paramedic,90256.00,28713.00,17616.00,94969.00,136585.00,231554.00,2016,,San Rafael,FT
+Jason Schmitt,Fire Engineer,100299.00,4880.00,20029.00,105160.00,125208.00,230368.00,2016,,San Rafael,FT
+Kyle Hornstein,Police Corporal,99158.00,0.00,18763.00,112093.00,117921.00,230014.00,2016,,San Rafael,FT
+Thomas Ahrens,Chief Building Official,140843.00,0.00,9450.00,79599.00,150293.00,229892.00,2016,,San Rafael,FT
+Salvatore Garanzini,Police Officer,95747.00,10974.00,18723.00,101805.00,125444.00,227249.00,2016,,San Rafael,FT
+Andrew Schifando,Firefighter-Paramedic,112449.00,3228.00,22267.00,88796.00,137944.00,226740.00,2016,,San Rafael,FT
+Melissa Ainsworth,Firefighter-Paramedic,97576.00,12792.00,19725.00,93896.00,130093.00,223989.00,2016,,San Rafael,FT
+Karen Chew,Senior Civil Engineer - Srsd,135268.00,0.00,3044.00,83758.00,138312.00,222070.00,2016,,San Rafael,FT
+Esteban Cespedes,Firefighter-Paramedic,96375.00,32373.00,15717.00,76510.00,144465.00,220975.00,2016,,San Rafael,FT
+Leslie O'toole,Police Officer,95278.00,14744.00,16786.00,92803.00,126808.00,219611.00,2016,,San Rafael,FT
+Raffi Boloyan,Planning Manager,130208.00,0.00,1803.00,85952.00,132011.00,217963.00,2016,,San Rafael,FT
+Robert Henkle,Police Officer,95686.00,2952.00,14102.00,104222.00,112740.00,216962.00,2016,,San Rafael,FT
+Edward Chiu,Police Officer,95849.00,9107.00,18101.00,93788.00,123057.00,216845.00,2016,,San Rafael,FT
+Hunter Young,Associate Civil Engineer,108095.00,26512.00,3142.00,78898.00,137749.00,216647.00,2016,,San Rafael,FT
+Anthony Augustyn,Police Officer,95849.00,8311.00,18138.00,93813.00,122298.00,216111.00,2016,,San Rafael,FT
+Elisha Adams,Police Officer,95848.00,17918.00,12332.00,89475.00,126098.00,215573.00,2016,,San Rafael,FT
+Mark Wilkinson,Police Officer,90908.00,36814.00,17844.00,69382.00,145566.00,214948.00,2016,,San Rafael,FT
+Anthony Alviso,Firefighter-Paramedic,85089.00,31461.00,20454.00,77405.00,137004.00,214409.00,2016,,San Rafael,FT
+Nicolas Gonzalez-Pomo,Firefighter-Paramedic,97764.00,23866.00,14964.00,76201.00,136594.00,212795.00,2016,,San Rafael,FT
+Christopher Sweeney,Police Officer,95967.00,0.00,20542.00,95699.00,116509.00,212208.00,2016,,San Rafael,FT
+Charles Taylor,Police Support Services Superv,95246.00,18162.00,15666.00,82263.00,129074.00,211337.00,2016,,San Rafael,FT
+Grant Saysette,Firefighter-Paramedic,101291.00,1688.00,20618.00,85172.00,123597.00,208769.00,2016,,San Rafael,FT
+Buffy Paxson,Police Officer,87971.00,1077.00,13093.00,104186.00,102141.00,206327.00,2016,,San Rafael,FT
+Esther Beirne,City Clerk,117998.00,0.00,9636.00,77248.00,127634.00,204882.00,2016,,San Rafael,FT
+Robert Epstein,City Attorney,119866.00,0.00,2208.00,81802.00,122074.00,203876.00,2016,,San Rafael,FT
+Henry Bankhead,Assistant Library Director,122949.00,0.00,1951.00,77734.00,124900.00,202634.00,2016,,San Rafael,FT
+Richard Rojo,Firefighter-Paramedic,108299.00,3366.00,17901.00,69541.00,129566.00,199107.00,2016,,San Rafael,FT
+Richard Landis,Pw Administrative Manager,116715.00,0.00,3178.00,74527.00,119893.00,194420.00,2016,,San Rafael,FT
+Dave Davenport,Parks Superintendent,113882.00,0.00,2419.00,77580.00,116301.00,193881.00,2016,,San Rafael,FT
+Michael Garrison,Police Officer,94099.00,22095.00,14106.00,63525.00,130300.00,193825.00,2016,,San Rafael,FT
+Anthony Scalercio,Police Officer,85219.00,24238.00,15148.00,65878.00,124605.00,190483.00,2016,,San Rafael,FT
+Kyle Kleinschmidt,Firefighter-Paramedic,92715.00,13079.00,13280.00,69994.00,119074.00,189068.00,2016,,San Rafael,FT
+Matthew Smith,Sewer Maint Superintendent,114120.00,0.00,1905.00,72932.00,116025.00,188957.00,2016,,San Rafael,FT
+Jim Myhers,Parking Services Manager,113706.00,0.00,4879.00,70245.00,118585.00,188830.00,2016,,San Rafael,FT
+Van Bach,Accounting Manager,108470.00,0.00,1898.00,76142.00,110368.00,186510.00,2016,,San Rafael,FT
+Rebecca Kuga,Youth Services Prog Supervisor,101295.00,6935.00,9651.00,67079.00,117881.00,184960.00,2016,,San Rafael,FT
+Thomas Adams,Economic Development Coord,116710.00,0.00,4794.00,63357.00,121504.00,184861.00,2016,,San Rafael,FT
+Peggy Ruge,Police Lead Comm. Dispatcher,80315.00,18151.00,15411.00,70888.00,113877.00,184765.00,2016,,San Rafael,FT
+Rochelle Grechman-Dibley,Senior Recreation Supervisor,107975.00,0.00,1884.00,74641.00,109859.00,184500.00,2016,,San Rafael,FT
+Xiaohong Zeng,Traffic Engineer,113381.00,0.00,1342.00,66960.00,114723.00,181683.00,2016,,San Rafael,FT
+Stephen Mason,Senior Recreation Supervisor,101558.00,0.00,5303.00,74641.00,106861.00,181502.00,2016,,San Rafael,FT
+Deborah Younkin,Senior Recreation Supervisor,104475.00,0.00,2309.00,74632.00,106784.00,181416.00,2016,,San Rafael,FT
+Jeff Stutsman,Associate Civil Engineer,103325.00,3719.00,2710.00,71250.00,109754.00,181004.00,2016,,San Rafael,FT
+Stacey Peterson,Human Resources Director,111253.00,0.00,5010.00,64634.00,116263.00,180897.00,2016,,San Rafael,PT
+Diane Dillon,Senior Associate Engineer,103365.00,83.00,1338.00,75257.00,104786.00,180043.00,2016,,San Rafael,FT
+Lilah Gavlick,Police Officer,85226.00,12466.00,13509.00,68503.00,111201.00,179704.00,2016,,San Rafael,FT
+Kelly Albrecht,Senior Recreation Supervisor,102975.00,0.00,1780.00,74636.00,104755.00,179391.00,2016,,San Rafael,FT
+Jacob Santos,Firefighter-Paramedic,87765.00,24076.00,11816.00,55485.00,123657.00,179142.00,2016,,San Rafael,FT
+Stephan Stornetta,Firefighter-Paramedic,91662.00,11427.00,17022.00,58605.00,120111.00,178716.00,2016,,San Rafael,FT
+Trevor Mollenkopf,Firefighter-Paramedic,87765.00,22211.00,11861.00,56810.00,121837.00,178647.00,2016,,San Rafael,FT
+Shelly Cade,Police Comm. Dispatcher,72289.00,25141.00,13273.00,67042.00,110703.00,177745.00,2016,,San Rafael,FT
+Steven Rutkowski,Fire Mechanic,77849.00,113.00,49772.00,49505.00,127734.00,177239.00,2016,,San Rafael,FT
+Kristen Miller,Firefighter-Paramedic,79166.00,23065.00,11480.00,63369.00,113711.00,177080.00,2016,,San Rafael,PT
+Vinh Pham,Sr Network Administrator,102575.00,0.00,4530.00,68990.00,107105.00,176095.00,2016,,San Rafael,FT
+David Heida,Fire Prevention Inspector Ii,96563.00,5871.00,2733.00,70249.00,105167.00,175416.00,2016,,San Rafael,FT
+Brian Auger,Events Coordinator,102548.00,0.00,2373.00,67801.00,104921.00,172722.00,2016,,San Rafael,FT
+Jessica Perry,Police Officer,83902.00,12854.00,8790.00,66571.00,105546.00,172117.00,2016,,San Rafael,FT
+Stephanie Gindlesperger,Associate Civil Engineer,99074.00,15498.00,3943.00,52359.00,118515.00,170874.00,2016,,San Rafael,FT
+Helena Munoz,Payroll Administrator,73971.00,31154.00,3114.00,60785.00,108239.00,169024.00,2016,,San Rafael,FT
+Mark Wright,Street Maint Superintendent,93482.00,8419.00,1768.00,63323.00,103669.00,166992.00,2016,,San Rafael,FT
+Kris Ozaki,Sewers Supervisor,91459.00,5369.00,13998.00,55992.00,110826.00,166818.00,2016,,San Rafael,FT
+Anndora Lee,Police Comm. Dispatcher,72353.00,25411.00,13899.00,53206.00,111663.00,164869.00,2016,,San Rafael,FT
+Alexis Nielsen,Police Lead Comm. Dispatcher,80478.00,16312.00,11936.00,55032.00,108726.00,163758.00,2016,,San Rafael,FT
+Ryan Cogbill,Police Corporal,66379.00,8298.00,14053.00,74905.00,88730.00,163635.00,2016,,San Rafael,PT
+Andrew Thompson,Revenue Supervisor,92638.00,0.00,2068.00,67971.00,94706.00,162677.00,2016,,San Rafael,FT
+William Berkey,Firefighter-Paramedic,78866.00,8508.00,11435.00,63340.00,98809.00,162149.00,2016,,San Rafael,PT
+Athen Scarioni,Park Equipment Mechanic,70065.00,11049.00,27441.00,53530.00,108555.00,162085.00,2016,,San Rafael,FT
+Francis Law,Senior Accountant,90086.00,16835.00,1322.00,52082.00,108243.00,160325.00,2016,,San Rafael,FT
+Jack Carpenter,Police Officer,78708.00,15406.00,9047.00,56758.00,103161.00,159919.00,2016,,San Rafael,FT
+Sylvia Gonzalez,Hr Coordinator,93118.00,1790.00,3124.00,57693.00,98032.00,155725.00,2016,,San Rafael,FT
+Kelly Benitez,Police Officer,72093.00,6709.00,11084.00,63659.00,89886.00,153545.00,2016,,San Rafael,PT
+Trevor Carney,Police Officer,78952.00,11895.00,10389.00,52029.00,101236.00,153265.00,2016,,San Rafael,FT
+Lori Hendricks,Police Comm. Dispatcher,74852.00,14409.00,11023.00,51779.00,100284.00,152063.00,2016,,San Rafael,FT
+Wesley Sitchler,Sewer Lead Maintenance Worker,75564.00,4146.00,12617.00,59724.00,92327.00,152051.00,2016,,San Rafael,FT
+Caron Parker,Associate Planner,87542.00,0.00,2039.00,62067.00,89581.00,151648.00,2016,,San Rafael,FT
+Jorge Navarro,Police Evidence And Prop Tech,74689.00,0.00,10862.00,65838.00,85551.00,151389.00,2016,,San Rafael,FT
+Joshua Minshall,Assoc Civil Engineer - Land Develop.,98019.00,0.00,1330.00,51552.00,99349.00,150901.00,2016,,San Rafael,FT
+William Le Noue,Sewer Lead Maintenance Worker,79373.00,1342.00,10648.00,58082.00,91363.00,149445.00,2016,,San Rafael,FT
+Daniel Lee,Parking Operations Supervisor,85588.00,0.00,2039.00,61098.00,87627.00,148725.00,2016,,San Rafael,FT
+Kelly Mauel,Police Comm. Dispatcher,74853.00,16525.00,7281.00,49930.00,98659.00,148589.00,2016,,San Rafael,FT
+Robert Sinnott,Deputy Fire Chief,141767.00,0.00,0.00,6672.00,141767.00,148439.00,2016,,San Rafael,FT
+Steph Stafford,Senior Planner,81548.00,0.00,2046.00,64662.00,83594.00,148256.00,2016,,San Rafael,FT
+Rebecca Woodbury,Senior Mgmt Analyst,90912.00,0.00,11623.00,44516.00,102535.00,147051.00,2016,,San Rafael,FT
+Ashley Howe,Senior Recreation Supervisor,92110.00,0.00,9289.00,43991.00,101399.00,145390.00,2016,,San Rafael,FT
+Anton Bullock,Community Service Officer,71172.00,10421.00,6840.00,56773.00,88433.00,145206.00,2016,,San Rafael,FT
+David Hulbert,Shop & Equipment Supervisor,87220.00,714.00,2639.00,53770.00,90573.00,144343.00,2016,,San Rafael,FT
+Janet Nibbi,Engineering Technician Ii,81058.00,0.00,1317.00,61953.00,82375.00,144328.00,2016,,San Rafael,FT
+Getahun Ejigou,Network Analyst,82073.00,5617.00,2024.00,51259.00,89714.00,140973.00,2016,,San Rafael,FT
+Joyce Mccarthy,Accountant Ii,80608.00,7787.00,2011.00,50432.00,90406.00,140838.00,2016,,San Rafael,FT
+Bianca Wilmott,Police Officer,73152.00,9390.00,9823.00,47317.00,92365.00,139682.00,2016,,San Rafael,FT
+Gabriel Dias,Street Maintenance Supervisor,71568.00,5767.00,3054.00,57888.00,80389.00,138277.00,2016,,San Rafael,FT
+Andres Restrepo,Parking Enforcement Officer,61257.00,17655.00,5274.00,54026.00,84186.00,138212.00,2016,,San Rafael,FT
+Lynette Starnes,Community Service Officer,67810.00,9311.00,7884.00,51257.00,85005.00,136262.00,2016,,San Rafael,FT
+William Guerin,Public Works Director,88802.00,0.00,8198.00,39176.00,97000.00,136176.00,2016,,San Rafael,PT
+Brendan Mitchell,Parks Maintenance Supervisor,73969.00,3838.00,2716.00,55606.00,80523.00,136129.00,2016,,San Rafael,FT
+Jill Harris,Supervising Librarian,81872.00,0.00,2127.00,51819.00,83999.00,135818.00,2016,,San Rafael,FT
+Kraig Tambornini,Senior Planner,68042.00,3609.00,13011.00,50251.00,84662.00,134913.00,2016,,San Rafael,PT
+Cory Bytof,Sustain & Volunteer Prog Coord,75444.00,0.00,1998.00,56790.00,77442.00,134232.00,2016,,San Rafael,FT
+Christopher Dowds,Street Lead Maintenance Worker,68483.00,7799.00,4503.00,52954.00,80785.00,133739.00,2016,,San Rafael,FT
+Mark Sorensen,Supervising Vehicle Equip Mech,71469.00,805.00,2929.00,57788.00,75203.00,132991.00,2016,,San Rafael,FT
+Robert Geno,Building Inspector Ii,71132.00,0.00,2018.00,59466.00,73150.00,132616.00,2016,,San Rafael,FT
+Pamela Klein,Supervising Librarian,78983.00,0.00,2022.00,51104.00,81005.00,132109.00,2016,,San Rafael,FT
+Lynn Murphy,Mental Health Outreach Prvdr,75962.00,1383.00,6922.00,47573.00,84267.00,131840.00,2016,,San Rafael,FT
+Laraine Gittens,Legal Assistant I,73461.00,0.00,3279.00,54410.00,76740.00,131150.00,2016,,San Rafael,FT
+Django Heckler,Code Enforcement Official Iii,71432.00,0.00,2005.00,57507.00,73437.00,130944.00,2016,,San Rafael,FT
+Larry Salvisberg,Code Enforce Official Iii,76758.00,0.00,3805.00,49413.00,80563.00,129976.00,2016,,San Rafael,FT
+Stephen Ferrario,Vehicle Equipment Mech Ii,70064.00,3703.00,2588.00,53391.00,76355.00,129746.00,2016,,San Rafael,FT
+Renee Gunson,Parking Enforcement Officer,66583.00,16242.00,2676.00,43809.00,85501.00,129310.00,2016,,San Rafael,FT
+David Mauldin,Facility Repair Worker Iii,70346.00,1657.00,2543.00,54376.00,74546.00,128922.00,2016,,San Rafael,FT
+William Sheridan,Building Inspector Ii,84409.00,0.00,2472.00,41566.00,86881.00,128447.00,2016,,San Rafael,FT
+Fitzgerald Gaines,Street Lead Maintenance Worker,73345.00,4429.00,3349.00,47162.00,81123.00,128285.00,2016,,San Rafael,FT
+Patricia Nolan,Senior Building Technician,71587.00,0.00,1993.00,54131.00,73580.00,127711.00,2016,,San Rafael,FT
+Kevin Finerty,Police Officer - Entry Level,74293.00,5454.00,7170.00,40768.00,86917.00,127685.00,2016,,San Rafael,FT
+William Calhoun,Librarian Ii,69845.00,290.00,1985.00,54706.00,72120.00,126826.00,2016,,San Rafael,FT
+Lynne Bracken,Police Call Taker/Records Spec,68605.00,5889.00,6054.00,46160.00,80548.00,126708.00,2016,,San Rafael,FT
+Wilfre Lagleva,Traffic Engineering Tech I,72276.00,793.00,1291.00,52268.00,74360.00,126628.00,2016,,San Rafael,FT
+Beth Minka,Police Administrative Tech.,65594.00,0.00,4169.00,56301.00,69763.00,126064.00,2016,,San Rafael,FT
+Rolando Calvo,Construction Inspector- Srsd,82590.00,0.00,2208.00,41142.00,84798.00,125940.00,2016,,San Rafael,FT
+Hector Rodriguez,Sewer Maintenance Worker Ii,66251.00,871.00,3707.00,54989.00,70829.00,125818.00,2016,,San Rafael,FT
+John Tzafopoulos,Street Maintenance Worker Ii,58011.00,3401.00,12738.00,51197.00,74150.00,125347.00,2016,,San Rafael,FT
+Aaron Tubbs,Parks Lead Maintenance Worker,64234.00,2192.00,2738.00,56182.00,69164.00,125346.00,2016,,San Rafael,FT
+Zachary Baron,Gis Analyst Ii,77788.00,0.00,2673.00,44119.00,80461.00,124580.00,2016,,San Rafael,FT
+Gerardo Navarro,Sewer Maintenance Worker Ii,68335.00,835.00,2302.00,52673.00,71472.00,124145.00,2016,,San Rafael,FT
+Margaret Stawowy,Librarian Ii,74273.00,0.00,2205.00,47385.00,76478.00,123863.00,2016,,San Rafael,FT
+Cynthia Hernandez,Senior Administrative Asst,68895.00,0.00,2252.00,51980.00,71147.00,123127.00,2016,,San Rafael,FT
+Timothy Wood,Sewer Maintenance Worker Ii,66743.00,80.00,2302.00,53236.00,69125.00,122361.00,2016,,San Rafael,FT
+Anna Fulgado,Police Comm. Dispatcher,67969.00,8540.00,8570.00,37101.00,85079.00,122180.00,2016,,San Rafael,FT
+Andrea Gilles,Senior Administrative Asst,67264.00,0.00,1973.00,51977.00,69237.00,121214.00,2016,,San Rafael,FT
+Dianne Mitchell,Senior Administrative Asst,65991.00,501.00,1978.00,52498.00,68470.00,120968.00,2016,,San Rafael,FT
+David Tamura,Parking Enforcement Officer,65964.00,543.00,2416.00,50634.00,68923.00,119557.00,2016,,San Rafael,FT
+Sukhjinder Banwait,Senior Administrative Asst,63454.00,0.00,1973.00,53535.00,65427.00,118962.00,2016,,San Rafael,FT
+Douglas St. Cyr,Sewer Maintenance Worker Ii,69853.00,354.00,2302.00,45159.00,72509.00,117668.00,2016,,San Rafael,FT
+Ana Bernardes,Associate Civil Engineer-Srsd,67675.00,0.00,2428.00,47496.00,70103.00,117599.00,2016,,San Rafael,PT
+Tarice Lyons,Library Circulation Supervisor,61980.00,0.00,2041.00,52800.00,64021.00,116821.00,2016,,San Rafael,FT
+John Shindelus,Street Maintenance Worker Ii,58011.00,4223.00,2980.00,51240.00,65214.00,116454.00,2016,,San Rafael,FT
+David Graniss,Parks Maintenance Worker Ii,63452.00,0.00,3037.00,49803.00,66489.00,116292.00,2016,,San Rafael,FT
+Matthew Von Bima,Street Maintenance Worker Ii,54894.00,5684.00,3730.00,51710.00,64308.00,116018.00,2016,,San Rafael,FT
+Michael Castaneda,Street Maintenance Worker Ii,57923.00,4273.00,2649.00,51044.00,64845.00,115889.00,2016,,San Rafael,FT
+Lauren Blanchard,Admin Assistant To City Mgr,63381.00,0.00,3496.00,48860.00,66877.00,115737.00,2016,,San Rafael,FT
+Anita Rose,Admin Assistant To Pol Chief,69923.00,0.00,3044.00,42600.00,72967.00,115567.00,2016,,San Rafael,FT
+Debra Yates,Parking Enforcement Officer,66582.00,830.00,3833.00,44314.00,71245.00,115559.00,2016,,San Rafael,FT
+Diane De Lara,Librarian Ii- Adult Svcs,61708.00,0.00,14082.00,39234.00,75790.00,115024.00,2016,,San Rafael,FT
+Anne Derrick,Administrative Assistant Iii,68281.00,200.00,1973.00,44548.00,70454.00,115002.00,2016,,San Rafael,FT
+Crystal Marker,Administrative Analyst,63289.00,3607.00,6236.00,41440.00,73132.00,114572.00,2016,,San Rafael,FT
+Richard Fesler,Parks Lead Maintenance Worker,64541.00,4273.00,2795.00,42780.00,71609.00,114389.00,2016,,San Rafael,FT
+Margaret Heath,Parking Enforcement Officer,59133.00,0.00,3446.00,51619.00,62579.00,114198.00,2016,,San Rafael,FT
+Joshua Alperin,Supervising Librarian,71833.00,0.00,1985.00,40314.00,73818.00,114132.00,2016,,San Rafael,FT
+Danielle Ferrigno,Management Analyst,71196.00,297.00,1307.00,41154.00,72800.00,113954.00,2016,,San Rafael,FT
+Catherine Calleja,Parking Enforcement Officer,66583.00,0.00,3186.00,44058.00,69769.00,113827.00,2016,,San Rafael,FT
+Stephen Egger,Parks Maintenance Supervisor,54115.00,1734.00,24768.00,33110.00,80617.00,113727.00,2016,,San Rafael,PT
+Allyson Powell,Police Comm. Dispatcher,62083.00,8548.00,9163.00,33773.00,79794.00,113567.00,2016,,San Rafael,PT
+Camilo Bayot Jr.,Parks Lead Maintenance Worker,59215.00,0.00,2476.00,51693.00,61691.00,113384.00,2016,,San Rafael,FT
+Christopher Robarge,Sewer Maintenance Worker Ii,56054.00,675.00,2302.00,54231.00,59031.00,113262.00,2016,,San Rafael,FT
+Dylan Frisbie,Street Lead Maintenance Worker,64673.00,1483.00,4256.00,42814.00,70412.00,113226.00,2016,,San Rafael,FT
+Gregory Kelly,Parking Equipment Technician,58011.00,421.00,2177.00,50938.00,60609.00,111547.00,2016,,San Rafael,FT
+Eric Kruse,Parking Equipment Technician,58011.00,294.00,2160.00,50930.00,60465.00,111395.00,2016,,San Rafael,FT
+Randy Chu,Network Support Technician,57708.00,0.00,1959.00,50621.00,59667.00,110288.00,2016,,San Rafael,FT
+Bonnie Groshong,Librarian Ii,67281.00,0.00,3688.00,39097.00,70969.00,110066.00,2016,,San Rafael,FT
+Rafael Omar Garcia,Facility Repair Worker Iii,57837.00,0.00,6377.00,45740.00,64214.00,109954.00,2016,,San Rafael,FT
+Alan Montes,Assistant Planner,67625.00,1458.00,1976.00,38560.00,71059.00,109619.00,2016,,San Rafael,FT
+Jamie Aldred,Permit Services Coordinator,69188.00,0.00,4396.00,35599.00,73584.00,109183.00,2016,,San Rafael,FT
+Trina Vadon,Firefighter-Paramedic,55519.00,1328.00,15485.00,36140.00,72332.00,108472.00,2016,,San Rafael,PT
+Diana Giorgi,Administrative Assistant Ii,63869.00,0.00,1962.00,42107.00,65831.00,107938.00,2016,,San Rafael,FT
+Mary Ryan,Administrative Assistant Ii,62552.00,234.00,1962.00,42109.00,64748.00,106857.00,2016,,San Rafael,FT
+Lindsay Lara,Senior Administrative Asst,63816.00,358.00,2485.00,39994.00,66659.00,106653.00,2016,,San Rafael,FT
+Allan Lee,Sewer Maintenance Worker Ii,73429.00,136.00,2302.00,30513.00,75867.00,106380.00,2016,,San Rafael,FT
+Robert Curry,Building Inspector I,72097.00,0.00,2881.00,29963.00,74978.00,104941.00,2016,,San Rafael,FT
+Earl Boisclair,Pw Dispatcher,49540.00,1611.00,2475.00,51086.00,53626.00,104712.00,2016,,San Rafael,FT
+Fred Jandura,Parking Equipment Technician,60079.00,519.00,2160.00,41945.00,62758.00,104703.00,2016,,San Rafael,FT
+Marita Garcia,Accounting Assistant Ii,60873.00,0.00,1954.00,40955.00,62827.00,103782.00,2016,,San Rafael,FT
+Juan Carlo Sorto,Custodian,53155.00,0.00,4247.00,46025.00,57402.00,103427.00,2016,,San Rafael,FT
+Karen Landesman,Accounting Assistant Ii,51411.00,1658.00,1954.00,48384.00,55023.00,103407.00,2016,,San Rafael,FT
+Marlena Gallegos,Administrative Assistant Ii,67583.00,0.00,1961.00,33278.00,69544.00,102822.00,2016,,San Rafael,FT
+Trevor Thomas,Street Maintenance Worker Ii,54750.00,660.00,3165.00,43813.00,58575.00,102388.00,2016,,San Rafael,FT
+Lidia Que-Macedo,Administrative Assistant Ii,53573.00,176.00,3745.00,43901.00,57494.00,101395.00,2016,,San Rafael,FT
+Sharon Lange,Child Care Bookkeeper Ii,58297.00,0.00,1954.00,40957.00,60251.00,101208.00,2016,,San Rafael,FT
+Michele Ginn,Planning Technician,52679.00,610.00,1940.00,45956.00,55229.00,101185.00,2016,,San Rafael,FT
+Lisa Zaenglein,Accounting Assistant Ii,59610.00,179.00,2677.00,38148.00,62466.00,100614.00,2016,,San Rafael,FT
+Stephanie Lovette,Economic Development Mgr,36475.00,0.00,45434.00,18668.00,81909.00,100577.00,2016,,San Rafael,PT
+Judy Lee,Police Call Taker/Records Spec,55202.00,5649.00,5860.00,33326.00,66711.00,100037.00,2016,,San Rafael,FT
+Danielle Surdin-O'leary,Director Of Econ Dev & Innovation,57458.00,0.00,3699.00,38057.00,61157.00,99214.00,2016,,San Rafael,PT
+John Bruckbauer,Emergency Management Coord,49769.00,914.00,8798.00,38668.00,59481.00,98149.00,2016,,San Rafael,PT
+Kevin Cookman,Street Maintenance Worker Ii,59121.00,132.00,3342.00,35371.00,62595.00,97966.00,2016,,San Rafael,FT
+Whitney Fry,Accounting Assistant Ii,54013.00,562.00,1935.00,40939.00,56510.00,97449.00,2016,,San Rafael,FT
+Minh Nguyen,Library Assistant Ii,47292.00,0.00,3725.00,46388.00,51017.00,97405.00,2016,,San Rafael,FT
+Joan Peck,Library Assistant Ii,51101.00,0.00,1925.00,43937.00,53026.00,96963.00,2016,,San Rafael,FT
+Jennifer Kiefer,Library Assistant Ii,50698.00,0.00,1925.00,43740.00,52623.00,96363.00,2016,,San Rafael,FT
+James O'hagan,Parks Maintenance Worker Ii,56868.00,2404.00,2473.00,34071.00,61745.00,95816.00,2016,,San Rafael,FT
+"Sotomayor, Sotomayor",Office Assistant Ii,53829.00,0.00,3729.00,38003.00,57558.00,95561.00,2016,,San Rafael,FT
+Matthew Scales,Parks Maintenance Worker I,57321.00,1217.00,2451.00,34164.00,60989.00,95153.00,2016,,San Rafael,FT
+Gina Vaziri,Library Assistant Ii,47292.00,0.00,1925.00,45495.00,49217.00,94712.00,2016,,San Rafael,FT
+Adam Lymath,Firefighter,44563.00,6408.00,7371.00,36081.00,58342.00,94423.00,2016,,San Rafael,PT
+Scott Fisher,Police Officer,47938.00,6907.00,6034.00,33085.00,60879.00,93964.00,2016,,San Rafael,PT
+Becky Ordin,Administrative Assistant Ii,48332.00,0.00,2400.00,43072.00,50732.00,93804.00,2016,,San Rafael,FT
+Diana Muller,Child Care Director,54464.00,0.00,204.00,37321.00,54668.00,91989.00,2016,,San Rafael,FT
+Patricia Cerutti- Saylors,Child Care Director,54468.00,0.00,204.00,37271.00,54672.00,91943.00,2016,,San Rafael,FT
+Ross Morrison,Custodian,51414.00,0.00,2447.00,37790.00,53861.00,91651.00,2016,,San Rafael,FT
+Rebecca Jensen,Police Call Taker/Records Spec,59646.00,1659.00,5481.00,24806.00,66786.00,91592.00,2016,,San Rafael,FT
+Samuel Achondo,Firefighter,43996.00,4119.00,7043.00,36281.00,55158.00,91439.00,2016,,San Rafael,PT
+Matthew Pagan,Firefighter,44561.00,3784.00,7371.00,35395.00,55716.00,91111.00,2016,,San Rafael,PT
+Tiffany Haley,Program Coordinator,54823.00,462.00,1931.00,33209.00,57216.00,90425.00,2016,,San Rafael,FT
+Theresa Fullmer,Child Care Director,51205.00,0.00,309.00,37414.00,51514.00,88928.00,2016,,San Rafael,FT
+Angela Stunz,Child Care Director,51302.00,0.00,204.00,37342.00,51506.00,88848.00,2016,,San Rafael,FT
+Maria Barrios,Library Assistant Ii,56332.00,0.00,3801.00,28573.00,60133.00,88706.00,2016,,San Rafael,FT
+Robert Spiess,Management Analyst,82056.00,2276.00,0.00,4281.00,84332.00,88613.00,2016,,San Rafael,FT
+Jason Fong,Program Coordinator,53697.00,0.00,2064.00,32722.00,55761.00,88483.00,2016,,San Rafael,FT
+Jocelyn Hallroan,Child Care Director,44208.00,0.00,204.00,41329.00,44412.00,85741.00,2016,,San Rafael,FT
+Barbara Reher,Building Technician I,43872.00,25.00,1569.00,39416.00,45466.00,84882.00,2016,,San Rafael,PT
+Jenna Cotta,Police Comm. Dispatcher - Entry Level,48778.00,23.00,5894.00,29959.00,54695.00,84654.00,2016,,San Rafael,PT
+Andrew Hening,Director Of Homeless Planning,81484.00,0.00,0.00,3056.00,81484.00,84540.00,2016,,San Rafael,PT
+Sonda Sockolov,Child Care Director,42735.00,0.00,204.00,41006.00,42939.00,83945.00,2016,,San Rafael,FT
+Buna Som,Custodian,47661.00,168.00,1967.00,33749.00,49796.00,83545.00,2016,,San Rafael,FT
+Luis Rodriguez,Code Enforce Official I,55754.00,0.00,3827.00,23265.00,59581.00,82846.00,2016,,San Rafael,FT
+Gabriela Farias,Child Care Director,41093.00,0.00,204.00,41329.00,41297.00,82626.00,2016,,San Rafael,PT
+Deirdre Dolan,Advanced Professional Temp,47361.00,0.00,15696.00,19535.00,63057.00,82592.00,2016,,San Rafael,PT
+Michelle Tusher,Child Care Director,47047.00,354.00,1334.00,33665.00,48735.00,82400.00,2016,,San Rafael,FT
+Richard Hamilton,Fire Captain,15441.00,16028.00,31998.00,16899.00,63467.00,80366.00,2016,,San Rafael,PT
+Steven Coleman,Firefighter,34109.00,168.00,8027.00,36147.00,42304.00,78451.00,2016,,San Rafael,PT
+Courtney Scott,Environmental Management Coord,48558.00,0.00,-1268.00,30286.00,47290.00,77576.00,2016,,San Rafael,PT
+Christine Sorensen,Library Assistant Ii,52053.00,56.00,2107.00,21761.00,54216.00,75977.00,2016,,San Rafael,FT
+Jorge Hernandez,Parks Maintenance Worker Ii,42219.00,1604.00,2112.00,29779.00,45935.00,75714.00,2016,,San Rafael,PT
+Anthoney Heaven,Child Care Instructor Ii,42527.00,0.00,743.00,30058.00,43270.00,73328.00,2016,,San Rafael,FT
+Jacqueline Newsom,Child Care Instructor Ii,33145.00,378.00,282.00,35968.00,33805.00,69773.00,2016,,San Rafael,FT
+Hilda Killebrew,Child Care Instructor Ii,39091.00,355.00,295.00,29802.00,39741.00,69543.00,2016,,San Rafael,FT
+Michele Marsili,Child Care Instructor Ii,39092.00,8.00,430.00,29789.00,39530.00,69319.00,2016,,San Rafael,FT
+Jill A Tokutomi,Librarian I- Childrens,41655.00,143.00,1353.00,25825.00,43151.00,68976.00,2016,,San Rafael,PT
+David Roberts,Child Care Instructor Ii,39092.00,0.00,204.00,29677.00,39296.00,68973.00,2016,,San Rafael,FT
+Yesenia Hernandez,Child Care Instructor Ii,38668.00,129.00,147.00,29972.00,38944.00,68916.00,2016,,San Rafael,FT
+Shawn Koller,Child Care Director,31989.00,0.00,11573.00,25335.00,43562.00,68897.00,2016,,San Rafael,PT
+Alma Hernandez,Child Care Instructor Ii,33879.00,878.00,195.00,33407.00,34952.00,68359.00,2016,,San Rafael,FT
+Edlyn Scafani,Administrative Assistant Ii,45446.00,0.00,1860.00,19812.00,47306.00,67118.00,2016,,San Rafael,PT
+Jenelle Warwick,Child Care Instructor Ii,35833.00,16.00,478.00,29826.00,36327.00,66153.00,2016,,San Rafael,FT
+Victor Gasser,Business License Examiner,38808.00,0.00,7477.00,19241.00,46285.00,65526.00,2016,,San Rafael,PT
+Kalisa Fong,Child Care Instructor Ii,38394.00,15.00,310.00,26392.00,38719.00,65111.00,2016,,San Rafael,FT
+Mary Downey,Child Care Instructor Ii,42247.00,81.00,99.00,22349.00,42427.00,64776.00,2016,,San Rafael,FT
+Cynthia Easterday,Child Care Instructor Ii,37696.00,0.00,372.00,26128.00,38068.00,64196.00,2016,,San Rafael,FT
+Joseph Lipsky,Child Care Instructor Ii,42646.00,24.00,567.00,20876.00,43237.00,64113.00,2016,,San Rafael,FT
+Rhonda Castellucci,Hr Representative I,47424.00,2215.00,706.00,13664.00,50345.00,64009.00,2016,,San Rafael,PT
+Isobel Shaw,Child Care Director,36674.00,407.00,1152.00,25717.00,38233.00,63950.00,2016,,San Rafael,PT
+Suporn Lin,Child Care Instructor Ii,28837.00,628.00,243.00,33832.00,29708.00,63540.00,2016,,San Rafael,PT
+Ami Esparza,Police Call Taker/Records Spec,34522.00,1798.00,1975.00,24568.00,38295.00,62863.00,2016,,San Rafael,PT
+Deny Cruz,Police Comm. Dispatcher,35534.00,2228.00,5006.00,16794.00,42768.00,59562.00,2016,,San Rafael,PT
+Chris Shaw,Child Care Instructor Ii,32561.00,0.00,270.00,26263.00,32831.00,59094.00,2016,,San Rafael,FT
+Marilyn Boatright,Librarian I,46511.00,0.00,1377.00,11159.00,47888.00,59047.00,2016,,San Rafael,PT
+Cynthia Giuliani,Accounting Assistant Ii,49197.00,0.00,1428.00,8306.00,50625.00,58931.00,2016,,San Rafael,FT
+Jared Mcdaniel,Vegetation Mgmt Specialist,49632.00,0.00,0.00,9127.00,49632.00,58759.00,2016,,San Rafael,FT
+Melissa Maher,Child Care Instructor Ii,33692.00,15.00,644.00,23864.00,34351.00,58215.00,2016,,San Rafael,FT
+Tyler Nord,Streets Maintenance Worker I,35920.00,2940.00,2142.00,15920.00,41002.00,56922.00,2016,,San Rafael,PT
+Honour Knudsen,Police Officer,27804.00,1115.00,5111.00,22342.00,34030.00,56372.00,2016,,San Rafael,PT
+Angela Delnevo,Police Comm. Dispatcher,30801.00,199.00,6350.00,18656.00,37350.00,56006.00,2016,,San Rafael,PT
+Francisco Pinell,Firefighter,29198.00,565.00,5094.00,20843.00,34857.00,55700.00,2016,,San Rafael,PT
+Deimy Lopez,Child Care Instructor Ii,32629.00,0.00,19.00,22846.00,32648.00,55494.00,2016,,San Rafael,FT
+Risa De Ferrari,Program Coordinator,42394.00,737.00,1645.00,8868.00,44776.00,53644.00,2016,,San Rafael,PT
+Remington Stobo,Police Officer - Entry Level,26696.00,4159.00,4901.00,17283.00,35756.00,53039.00,2016,,San Rafael,PT
+Allan Castaneda,Police Officer,26409.00,0.00,4032.00,22371.00,30441.00,52812.00,2016,,San Rafael,PT
+Christ Foster,Administrative Assistant Ii,30025.00,388.00,1933.00,18509.00,32346.00,50855.00,2016,,San Rafael,PT
+Oulay Hedlund,Child Care Instructor I,20196.00,13.00,118.00,29503.00,20327.00,49830.00,2016,,San Rafael,PT
+Mireya Renteria,Senior Library Assistant,36270.00,0.00,2486.00,10790.00,38756.00,49546.00,2016,,San Rafael,PT
+Kenneth Schmaus,Parks Lead Maintenance Worker,20809.00,2528.00,12007.00,13291.00,35344.00,48635.00,2016,,San Rafael,PT
+John Nunez,Professional Temp,48083.00,0.00,0.00,0.00,48083.00,48083.00,2016,,San Rafael,PT
+Rene Aviles Ramos,Parks Maintenance Worker Ii,30669.00,2062.00,2237.00,12345.00,34968.00,47313.00,2016,,San Rafael,PT
+Jonathan Bean,Professional Temp,37478.00,7983.00,1512.00,0.00,46973.00,46973.00,2016,,San Rafael,PT
+Amanda Barnett,Child Care Instructor Ii,33660.00,33.00,457.00,12631.00,34150.00,46781.00,2016,,San Rafael,FT
+Monica Roberts,Child Care Instructor I,33560.00,38.00,1475.00,11673.00,35073.00,46746.00,2016,,San Rafael,FT
+Agnieszka Rosecrans,Child Care Instructor I,31577.00,69.00,771.00,13316.00,32417.00,45733.00,2016,,San Rafael,FT
+Gina Johnson,Police Call Taker & Records Spec Temp,38176.00,4692.00,397.00,1623.00,43265.00,44888.00,2016,,San Rafael,PT
+Dean Allison,Public Works Director,29260.00,0.00,1793.00,12292.00,31053.00,43345.00,2016,,San Rafael,PT
+Daisy Huerta,Police Call Taker/Records Spec,30164.00,916.00,2078.00,9865.00,33158.00,43023.00,2016,,San Rafael,PT
+Mark Hedeen,Professional Temp,42581.00,0.00,435.00,0.00,43016.00,43016.00,2016,,San Rafael,PT
+Marcial Cardenas,Parking Attendant I,21149.00,159.00,1960.00,19686.00,23268.00,42954.00,2016,,San Rafael,FT
+Julie Griffith,Police Call Taker & Records Spec Temp,21391.00,49.00,8196.00,13015.00,29636.00,42651.00,2016,,San Rafael,PT
+Blake Delzell,Police Officer,19688.00,1050.00,5372.00,16436.00,26110.00,42546.00,2016,,San Rafael,PT
+Miguel Padilla,Firefighter-Paramedic,18085.00,6550.00,3488.00,14049.00,28123.00,42172.00,2016,,San Rafael,PT
+John Coen,Professional Temp,40226.00,0.00,591.00,0.00,40817.00,40817.00,2016,,San Rafael,PT
+Khelri' Jhovahn,Hr Representative Ii,24133.00,0.00,1689.00,14841.00,25822.00,40663.00,2016,,San Rafael,PT
+Christopher Delatorre,Police Cadet,31165.00,5800.00,1975.00,1352.00,38940.00,40292.00,2016,,San Rafael,FT
+Gloria Johnson,Administrative Assistant Ii,18272.00,49.00,8418.00,11952.00,26739.00,38691.00,2016,,San Rafael,PT
+Ann Maurer Bauer,Volunteer Program Assistant,35827.00,0.00,1086.00,1272.00,36913.00,38185.00,2016,,San Rafael,PT
+Yihew Sahlemariam,Parking Attendant I,24561.00,53.00,1408.00,11909.00,26022.00,37931.00,2016,,San Rafael,FT
+Geoffrey Bowker,Police Officer,10062.00,185.00,16455.00,11103.00,26702.00,37805.00,2016,,San Rafael,PT
+Lea Aschkenas,Librarian Ii - Pickleweed,34013.00,0.00,2060.00,1265.00,36073.00,37338.00,2016,,San Rafael,PT
+Erika Contreras,Library Assistant I- Circ,32655.00,0.00,2365.00,2115.00,35020.00,37135.00,2016,,San Rafael,PT
+Gliezer Segovia,Parking Attendant I,24831.00,11.00,1708.00,10346.00,26550.00,36896.00,2016,,San Rafael,FT
+Laurie Du Charme,Child Care Instructor Ii,16324.00,16.00,3814.00,16283.00,20154.00,36437.00,2016,,San Rafael,PT
+Kimberly Larkey,Police Officer - Entry Level,9857.00,776.00,15924.00,9873.00,26557.00,36430.00,2016,,San Rafael,PT
+Sandra Felix Ahumada,Police Officer,20252.00,975.00,2024.00,13025.00,23251.00,36276.00,2016,,San Rafael,PT
+Amanda Cook,Child Care Instructor Ii,30292.00,0.00,162.00,5355.00,30454.00,35809.00,2016,,San Rafael,PT
+Maria Ottoman,Child Care Instructor Ii,18939.00,160.00,1314.00,15286.00,20413.00,35699.00,2016,,San Rafael,PT
+Charlotte Heitman,Police Evidence And Prop Tech Temp,31547.00,51.00,66.00,4010.00,31664.00,35674.00,2016,,San Rafael,PT
+Katherine Cronin,Police Dispatcher Temp,31515.00,1402.00,441.00,1251.00,33358.00,34609.00,2016,,San Rafael,PT
+Darcie Chellew,Child Care Instructor Ii,19849.00,0.00,-150.00,14846.00,19699.00,34545.00,2016,,San Rafael,PT
+Laura Washburn,Program Coordinator,31529.00,0.00,1065.00,1679.00,32594.00,34273.00,2016,,San Rafael,PT
+Kai Thompson,Child Care Instructor I,17263.00,0.00,91.00,16696.00,17354.00,34050.00,2016,,San Rafael,PT
+Margaret Lang,Paraprofessional Temp,32720.00,0.00,0.00,1227.00,32720.00,33947.00,2016,,San Rafael,PT
+Blair Auld,Police Officer,12555.00,0.00,7957.00,12622.00,20512.00,33134.00,2016,,San Rafael,PT
+Jannette Braa,Child Care Director,30116.00,0.00,177.00,1132.00,30293.00,31425.00,2016,,San Rafael,PT
+Lisa Mcelroy,Police Dispatcher Temp,25944.00,664.00,1107.00,0.00,27715.00,27715.00,2016,,San Rafael,PT
+Sonia Sims,Child Care Temp - Fixed Term,26282.00,0.00,385.00,1000.00,26667.00,27667.00,2016,,San Rafael,PT
+Marlene Austin,Library Aide,17513.00,0.00,989.00,8732.00,18502.00,27234.00,2016,,San Rafael,PT
+Sarah Ratliff,Child Care Instructor I,25254.00,0.00,996.00,902.00,26250.00,27152.00,2016,,San Rafael,PT
+Sebastian Sanchez,Police Cadet,22949.00,98.00,1641.00,807.00,24688.00,25495.00,2016,,San Rafael,PT
+Sabrina Shired,Child Care Instructor I,17586.00,0.00,181.00,7510.00,17767.00,25277.00,2016,,San Rafael,PT
+Jessica Robello,Child Care Instructor I,24121.00,0.00,119.00,838.00,24240.00,25078.00,2016,,San Rafael,PT
+Elizabeth Boyle,Library Assistant I- Circ,22983.00,0.00,1274.00,803.00,24257.00,25060.00,2016,,San Rafael,PT
+Lori Coen,Police Call Taker & Records Spec Temp,22742.00,784.00,207.00,0.00,23733.00,23733.00,2016,,San Rafael,PT
+Michae Davis,Facilities Attendant,22024.00,625.00,0.00,849.00,22649.00,23498.00,2016,,San Rafael,PT
+Karl Luhmann,Police Cadet,19563.00,682.00,1967.00,724.00,22212.00,22936.00,2016,,San Rafael,PT
+Polina Osipova,Resilient Neighborhood Outreach Asst,21677.00,0.00,0.00,1152.00,21677.00,22829.00,2016,,San Rafael,PT
+Nicola Pata,Police Comm. Dispatcher - Entry Level,10516.00,1300.00,2746.00,7364.00,14562.00,21926.00,2016,,San Rafael,PT
+Sayda Garcia Arriaza,Ambulance Billing Specialist,17878.00,0.00,0.00,3898.00,17878.00,21776.00,2016,,San Rafael,PT
+Jenna Selzler,Library Assistant I- Circ,19880.00,0.00,1062.00,754.00,20942.00,21696.00,2016,,San Rafael,PT
+Daniel Silva,Parks Maintenance Worker Ii,17617.00,194.00,358.00,2318.00,18169.00,20487.00,2016,,San Rafael,PT
+Edward Keith Angerman,Advanced Professional Temp,17950.00,0.00,0.00,673.00,17950.00,18623.00,2016,,San Rafael,PT
+Lois Dahl,Child Care Instructor I,16051.00,18.00,156.00,2389.00,16225.00,18614.00,2016,,San Rafael,PT
+Franky Recinos,Maintenance Temp,17130.00,0.00,0.00,642.00,17130.00,17772.00,2016,,San Rafael,PT
+Teresa Hightower,Child Care Temp,16731.00,0.00,374.00,580.00,17105.00,17685.00,2016,,San Rafael,PT
+Jose F. Salgado,Maintenance Temp,16496.00,0.00,24.00,620.00,16520.00,17140.00,2016,,San Rafael,PT
+Jose Gonzalez,Facilities Attendant,16284.00,0.00,0.00,611.00,16284.00,16895.00,2016,,San Rafael,PT
+Michelle Castillo,Recreation Specialist,14647.00,0.00,1541.00,555.00,16188.00,16743.00,2016,,San Rafael,PT
+Jennifer Greenstein,Recreation Specialist,15751.00,0.00,187.00,581.00,15938.00,16519.00,2016,,San Rafael,PT
+Ross Macdonald,Child Care Instructor I,15109.00,0.00,340.00,512.00,15449.00,15961.00,2016,,San Rafael,PT
+Manuel Hernandez,Substitute Library Assistant,15337.00,0.00,0.00,575.00,15337.00,15912.00,2016,,San Rafael,PT
+Rosali Vargas,Facilities Attendant,15174.00,0.00,34.00,570.00,15208.00,15778.00,2016,,San Rafael,PT
+Nicholas Crescenzi,Parks Maintenance Worker Ii,722.00,365.00,13159.00,788.00,14246.00,15034.00,2016,,San Rafael,PT
+Shawn Graf,Junior Engineer,9458.00,0.00,0.00,5534.00,9458.00,14992.00,2016,,San Rafael,PT
+Kaitlin Maley,Police Call Taker/Records Spec,6280.00,79.00,2905.00,5583.00,9264.00,14847.00,2016,,San Rafael,PT
+Maribe Bushey,Councilmember,5616.00,0.00,7438.00,1553.00,13054.00,14607.00,2016,,San Rafael,PT
+Yoshi Chan,Child Care Temp,13607.00,0.00,226.00,519.00,13833.00,14352.00,2016,,San Rafael,PT
+Jorge Romero,Maintenance Temp,13805.00,0.00,22.00,519.00,13827.00,14346.00,2016,,San Rafael,PT
+Megan Chavez,Child Care Temp,13691.00,0.00,82.00,517.00,13773.00,14290.00,2016,,San Rafael,PT
+John Kunz,Aquatics Specialist,13334.00,0.00,0.00,500.00,13334.00,13834.00,2016,,San Rafael,PT
+Raquel Nolan,Recreation Specialist,13146.00,0.00,0.00,493.00,13146.00,13639.00,2016,,San Rafael,PT
+Cynthia Morgan,Police Call Taker/Records Spec,6136.00,120.00,3055.00,4113.00,9311.00,13424.00,2016,,San Rafael,PT
+Leeanne Obilor,Child Care Instructor I,12497.00,0.00,377.00,428.00,12874.00,13302.00,2016,,San Rafael,PT
+Catherine Colin,Councilmember,5616.00,0.00,7438.00,0.00,13054.00,13054.00,2016,,San Rafael,PT
+Andrew Mccullough,Councilmember,5616.00,0.00,7438.00,0.00,13054.00,13054.00,2016,,San Rafael,PT
+Penny Greene,Substitute Library Assistant,12299.00,0.00,0.00,461.00,12299.00,12760.00,2016,,San Rafael,PT
+Jodi Johnson,Substitute Library Page,11819.00,0.00,27.00,444.00,11846.00,12290.00,2016,,San Rafael,PT
+Michael Oliva,Library Assistant I- Circ,5046.00,0.00,4649.00,2312.00,9695.00,12007.00,2016,,San Rafael,PT
+Diane Wachter,Professional Temp,11645.00,0.00,0.00,0.00,11645.00,11645.00,2016,,San Rafael,PT
+Janice Walt,Substitute Library Assistant,11139.00,0.00,0.00,418.00,11139.00,11557.00,2016,,San Rafael,PT
+Ruth Itzun,Substitute Library Page,11131.00,0.00,0.00,417.00,11131.00,11548.00,2016,,San Rafael,PT
+Carl Tregner,Professional Temp,11424.00,0.00,0.00,0.00,11424.00,11424.00,2016,,San Rafael,PT
+Gaetan Battaglia,Substitute Library Page,10976.00,0.00,24.00,413.00,11000.00,11413.00,2016,,San Rafael,PT
+James Quinby,Substitute Library Page,10962.00,0.00,0.00,411.00,10962.00,11373.00,2016,,San Rafael,PT
+Taylor Gregori,Firefighter,5837.00,0.00,227.00,5296.00,6064.00,11360.00,2016,,San Rafael,PT
+Laura Granucci,Recreation Specialist,10684.00,0.00,0.00,401.00,10684.00,11085.00,2016,,San Rafael,PT
+Lawrence Moehrke,Substitute Library Page,10289.00,0.00,43.00,388.00,10332.00,10720.00,2016,,San Rafael,PT
+Casie Jones,Child Care Temp,9945.00,0.00,298.00,384.00,10243.00,10627.00,2016,,San Rafael,PT
+Dara Rossoff Powell,Resilient Neighborhood Outreach Asst,9906.00,0.00,0.00,655.00,9906.00,10561.00,2016,,San Rafael,PT
+Peter Warden,Substitute Library Page,9894.00,0.00,29.00,372.00,9923.00,10295.00,2016,,San Rafael,PT
+Oscar Segura,Child Care Temp,9707.00,0.00,188.00,371.00,9895.00,10266.00,2016,,San Rafael,PT
+Jennifer Alcantara,Administrative Specialist,9891.00,0.00,0.00,371.00,9891.00,10262.00,2016,,San Rafael,PT
+Gary Phillips,Mayor,8424.00,0.00,0.00,1574.00,8424.00,9998.00,2016,,San Rafael,PT
+James Powell,Intern,9540.00,0.00,0.00,358.00,9540.00,9898.00,2016,,San Rafael,PT
+Steven Garrett,Facilities Attendant,9223.00,0.00,0.00,346.00,9223.00,9569.00,2016,,San Rafael,PT
+Tyler Locke,Police Cadet,7291.00,343.00,1492.00,279.00,9126.00,9405.00,2016,,San Rafael,PT
+Isabella Chavira,Aquatics Specialist,6875.00,0.00,2166.00,339.00,9041.00,9380.00,2016,,San Rafael,PT
+Nathan Banacka,Child Care Temp,8787.00,0.00,0.00,330.00,8787.00,9117.00,2016,,San Rafael,PT
+Ashley Winslow,Child Care Temp,8724.00,0.00,0.00,327.00,8724.00,9051.00,2016,,San Rafael,PT
+Barry Machin,Sports Official,8695.00,0.00,0.00,326.00,8695.00,9021.00,2016,,San Rafael,PT
+Linot Vierke,Child Care Instructor I,8659.00,0.00,0.00,305.00,8659.00,8964.00,2016,,San Rafael,PT
+Oscar Ocon,Police Cadet,7023.00,171.00,1492.00,262.00,8686.00,8948.00,2016,,San Rafael,PT
+Jamie Poirier,Library Tech Svcs Supervisor,6410.00,0.00,0.00,2510.00,6410.00,8920.00,2016,,San Rafael,PT
+Lynn Apostle,Substitute Librarian,8551.00,0.00,0.00,321.00,8551.00,8872.00,2016,,San Rafael,PT
+Janet Quinby,Substitute Library Page,8473.00,0.00,0.00,318.00,8473.00,8791.00,2016,,San Rafael,PT
+Kellie Dugdale,Aquatics Temp,4860.00,0.00,3522.00,314.00,8382.00,8696.00,2016,,San Rafael,PT
+Caroline Cirby,Pool Attendant,7139.00,313.00,926.00,314.00,8378.00,8692.00,2016,,San Rafael,PT
+Colleen Mcgowan,Aquatics Specialist,8185.00,0.00,95.00,311.00,8280.00,8591.00,2016,,San Rafael,PT
+Jessica Byron,Resilient Neighborhood Outreach Asst,7281.00,0.00,0.00,1181.00,7281.00,8462.00,2016,,San Rafael,PT
+Shellan Saling,Aquatics Temp,7021.00,0.00,1051.00,303.00,8072.00,8375.00,2016,,San Rafael,PT
+Isadora Parnell-Wolfe,Paraprofessional Temp,7956.00,0.00,0.00,298.00,7956.00,8254.00,2016,,San Rafael,PT
+Laura Callahan,Substitute Librarian,7610.00,0.00,0.00,285.00,7610.00,7895.00,2016,,San Rafael,PT
+Jesse Schmidt,Aquatics Specialist,6035.00,0.00,1428.00,280.00,7463.00,7743.00,2016,,San Rafael,PT
+Roselyn Tuatagaloa-Wendell,Recreation Specialist,7440.00,0.00,0.00,279.00,7440.00,7719.00,2016,,San Rafael,PT
+Cheryl Meeker,Substitute Library Page,7378.00,0.00,0.00,277.00,7378.00,7655.00,2016,,San Rafael,PT
+Edgar Abril,Facilities Attendant,7288.00,0.00,0.00,273.00,7288.00,7561.00,2016,,San Rafael,PT
+David Shubin Jr,Fire Engineer,312.00,0.00,6889.00,337.00,7201.00,7538.00,2016,,San Rafael,PT
+Graham Martin,Aquatics Specialist,7057.00,0.00,0.00,265.00,7057.00,7322.00,2016,,San Rafael,PT
+Estefany Yanes,Child Care Temp,6901.00,0.00,155.00,265.00,7056.00,7321.00,2016,,San Rafael,PT
+Michael Boyle,Substitute Library Page,7010.00,0.00,0.00,263.00,7010.00,7273.00,2016,,San Rafael,PT
+Diana Gill,Child Care Temp,6739.00,0.00,166.00,259.00,6905.00,7164.00,2016,,San Rafael,PT
+Barry Thompson,Paraprofessional Temp,6730.00,0.00,0.00,252.00,6730.00,6982.00,2016,,San Rafael,PT
+Alfredo Limeta,Substitute Library Assistant,6570.00,0.00,0.00,246.00,6570.00,6816.00,2016,,San Rafael,PT
+Jessica Vandyke,Substitute Library Page,6513.00,0.00,0.00,244.00,6513.00,6757.00,2016,,San Rafael,PT
+Yolanda Fletcher,Substitute Librarian,6412.00,0.00,0.00,241.00,6412.00,6653.00,2016,,San Rafael,PT
+Hannah Gable,Aquatics Specialist,3342.00,0.00,3065.00,240.00,6407.00,6647.00,2016,,San Rafael,PT
+Jeremy Quintal,Paraprofessional Temp,6400.00,0.00,0.00,240.00,6400.00,6640.00,2016,,San Rafael,PT
+Lauren Kemmeter,Aquatics Specialist,5489.00,0.00,904.00,240.00,6393.00,6633.00,2016,,San Rafael,PT
+David Fuentes,Facilities Attendant,6385.00,0.00,0.00,239.00,6385.00,6624.00,2016,,San Rafael,PT
+Cristina Farhang,Aquatics Specialist,4527.00,214.00,1547.00,236.00,6288.00,6524.00,2016,,San Rafael,PT
+Gabrielle Slavid,Aquatics Specialist,4162.00,0.00,2047.00,233.00,6209.00,6442.00,2016,,San Rafael,PT
+Patricia Dougherty,Maintenance Temp,5870.00,207.00,0.00,228.00,6077.00,6305.00,2016,,San Rafael,PT
+Lindsey Russell,Aquatics Specialist,6056.00,0.00,0.00,227.00,6056.00,6283.00,2016,,San Rafael,PT
+Haley Gibbs,Aquatics Specialist,5405.00,0.00,595.00,225.00,6000.00,6225.00,2016,,San Rafael,PT
+Eamon O'toole,Maintenance Temp,5673.00,0.00,0.00,213.00,5673.00,5886.00,2016,,San Rafael,PT
+Rory O'toole,Maintenance Temp,5673.00,0.00,0.00,213.00,5673.00,5886.00,2016,,San Rafael,PT
+Robert Scalercio,Police Officer,4000.00,0.00,299.00,1558.00,4299.00,5857.00,2016,,San Rafael,PT
+Timothy Thompson,Sports Official,5602.00,0.00,0.00,210.00,5602.00,5812.00,2016,,San Rafael,PT
+Emma Archer-Duste,Aquatics Specialist,4663.00,0.00,813.00,205.00,5476.00,5681.00,2016,,San Rafael,PT
+Caroline Denicke,Substitute Librarian,5432.00,0.00,0.00,204.00,5432.00,5636.00,2016,,San Rafael,PT
+Patricia Haskee,Accounting Temp Ii,5625.00,0.00,0.00,0.00,5625.00,5625.00,2016,,San Rafael,PT
+Ester Rodas,Child Care Temp,5379.00,0.00,14.00,202.00,5393.00,5595.00,2016,,San Rafael,PT
+Mark Singer,Substitute Librarian,5294.00,0.00,0.00,199.00,5294.00,5493.00,2016,,San Rafael,PT
+Chiara Cameron,Pool Attendant,3564.00,0.00,1675.00,197.00,5239.00,5436.00,2016,,San Rafael,PT
+Shannon Dibley,Child Care Temp,5031.00,0.00,22.00,190.00,5053.00,5243.00,2016,,San Rafael,PT
+Danielle O'reilly,Pool Attendant,5045.00,0.00,0.00,189.00,5045.00,5234.00,2016,,San Rafael,PT
+Max Chavira,Aquatics Specialist,5031.00,0.00,0.00,189.00,5031.00,5220.00,2016,,San Rafael,PT
+Alliso Woods,Recreation Specialist,4995.00,0.00,0.00,187.00,4995.00,5182.00,2016,,San Rafael,PT
+De Rodas,Child Care Temp,4926.00,0.00,32.00,186.00,4958.00,5144.00,2016,,San Rafael,PT
+Parker Evans,Aquatics Temp,4776.00,0.00,132.00,184.00,4908.00,5092.00,2016,,San Rafael,PT
+Travis Ruggles,Police Officer,3782.00,818.00,304.00,184.00,4904.00,5088.00,2016,,San Rafael,PT
+Maria Rodriguez,Child Care Temp,4801.00,0.00,54.00,182.00,4855.00,5037.00,2016,,San Rafael,PT
+Deborah K Bonet,Substitute Librarian,4852.00,0.00,0.00,182.00,4852.00,5034.00,2016,,San Rafael,PT
+Lilyana Leuenberger,Aquatics Temp,4473.00,0.00,302.00,179.00,4775.00,4954.00,2016,,San Rafael,PT
+Claudia Galliani,Aquatics Specialist,4216.00,0.00,547.00,179.00,4763.00,4942.00,2016,,San Rafael,PT
+Rachel Mauldin,Intern,4396.00,0.00,314.00,177.00,4710.00,4887.00,2016,,San Rafael,PT
+Khadija Azam,Substitute Library Page,4683.00,0.00,0.00,176.00,4683.00,4859.00,2016,,San Rafael,PT
+Bailey Reynolds,Child Care Temp,4563.00,0.00,34.00,172.00,4597.00,4769.00,2016,,San Rafael,PT
+Stacey Roach,Child Care Temp,4512.00,0.00,0.00,169.00,4512.00,4681.00,2016,,San Rafael,PT
+Nicholas Bullard,Intern,4507.00,0.00,0.00,169.00,4507.00,4676.00,2016,,San Rafael,PT
+Valerie Holt,Facilities Attendant,4496.00,0.00,0.00,169.00,4496.00,4665.00,2016,,San Rafael,PT
+Ryan Martinez,Aquatics Specialist,4461.00,0.00,24.00,168.00,4485.00,4653.00,2016,,San Rafael,PT
+Reagan Arnold,Aquatics Temp,2469.00,0.00,1866.00,163.00,4335.00,4498.00,2016,,San Rafael,PT
+Laura Snook,Aquatics Specialist,4201.00,0.00,0.00,158.00,4201.00,4359.00,2016,,San Rafael,PT
+Kevin Hernandez Mancia,Aquatics Temp,4191.00,0.00,0.00,157.00,4191.00,4348.00,2016,,San Rafael,PT
+Megan Mcgrath,Child Care Temp,4105.00,0.00,20.00,155.00,4125.00,4280.00,2016,,San Rafael,PT
+Sara Gomez,Substitute Library Assistant,4109.00,0.00,0.00,154.00,4109.00,4263.00,2016,,San Rafael,PT
+James Dunn,Paraprofessional Temp,4050.00,0.00,0.00,152.00,4050.00,4202.00,2016,,San Rafael,PT
+Gregory Siefkas,Aquatics Temp,3884.00,0.00,0.00,146.00,3884.00,4030.00,2016,,San Rafael,PT
+Mandie Geller,Aquatics Specialist,3422.00,0.00,394.00,143.00,3816.00,3959.00,2016,,San Rafael,PT
+Nao Vang,Facilities Attendant,3777.00,0.00,0.00,142.00,3777.00,3919.00,2016,,San Rafael,PT
+Jackson Enzensperger,Maintenance Temp,3743.00,0.00,0.00,140.00,3743.00,3883.00,2016,,San Rafael,PT
+Alexa Barnes,Pool Attendant,3606.00,0.00,95.00,139.00,3701.00,3840.00,2016,,San Rafael,PT
+Tevis Jones,Substitute Librarian,3628.00,0.00,0.00,136.00,3628.00,3764.00,2016,,San Rafael,PT
+Roberto Munoz-Chumpitaz,Intern,3619.00,0.00,0.00,136.00,3619.00,3755.00,2016,,San Rafael,PT
+Sam Rogers,Events Specialist,3611.00,0.00,0.00,135.00,3611.00,3746.00,2016,,San Rafael,PT
+Sergio Silva,Intern,3459.00,0.00,0.00,130.00,3459.00,3589.00,2016,,San Rafael,PT
+Jerald Katz,Aquatics Temp,3449.00,0.00,0.00,129.00,3449.00,3578.00,2016,,San Rafael,PT
+Francisco Teran,Substitute Library Page,3438.00,0.00,0.00,129.00,3438.00,3567.00,2016,,San Rafael,PT
+Madeleine Salesky,Aquatics Specialist,2888.00,0.00,529.00,128.00,3417.00,3545.00,2016,,San Rafael,PT
+Tania Jarjoura,Aquatics Specialist,2724.00,0.00,567.00,123.00,3291.00,3414.00,2016,,San Rafael,PT
+Kirsten Martin,Recreation Specialist,3273.00,0.00,0.00,123.00,3273.00,3396.00,2016,,San Rafael,PT
+Giovanni Radavero,Paraprofessional Temp,3248.00,0.00,0.00,122.00,3248.00,3370.00,2016,,San Rafael,PT
+David Grossman,Substitute Librarian,3149.00,0.00,0.00,118.00,3149.00,3267.00,2016,,San Rafael,PT
+Agustin Melendez,Aquatics Specialist,2843.00,0.00,284.00,117.00,3127.00,3244.00,2016,,San Rafael,PT
+Zoe Mariotti,Aquatics Temp,3118.00,0.00,0.00,117.00,3118.00,3235.00,2016,,San Rafael,PT
+Cole Vasconcellos,Aquatics Temp,3115.00,0.00,0.00,117.00,3115.00,3232.00,2016,,San Rafael,PT
+Georg Mcmillan,Child Care Temp,2986.00,0.00,102.00,116.00,3088.00,3204.00,2016,,San Rafael,PT
+Kylie Bradley,Aquatics Temp,2904.00,0.00,132.00,114.00,3036.00,3150.00,2016,,San Rafael,PT
+Lauren Lubin,Aquatics Temp,3009.00,0.00,0.00,113.00,3009.00,3122.00,2016,,San Rafael,PT
+Roxana Cruz,Substitute Library Assistant,2961.00,0.00,0.00,111.00,2961.00,3072.00,2016,,San Rafael,PT
+Vivek Damodaran,Paraprofessional Temp,2937.00,0.00,0.00,110.00,2937.00,3047.00,2016,,San Rafael,PT
+Niklis Nisja,Paraprofessional Temp,2928.00,0.00,0.00,110.00,2928.00,3038.00,2016,,San Rafael,PT
+Luis Perera,Child Care Temp,2778.00,0.00,149.00,110.00,2927.00,3037.00,2016,,San Rafael,PT
+Jenna Hatfield,Aquatics Temp,2889.00,0.00,0.00,108.00,2889.00,2997.00,2016,,San Rafael,PT
+Allyson Hoch,Recreation Specialist,2849.00,0.00,0.00,107.00,2849.00,2956.00,2016,,San Rafael,PT
+Sophie Martinez,Pool Attendant,2651.00,0.00,189.00,107.00,2840.00,2947.00,2016,,San Rafael,PT
+Ramon Ramirez,Facilities Attendant,2811.00,0.00,0.00,105.00,2811.00,2916.00,2016,,San Rafael,PT
+Gabrielle Connaughton,Aquatics Specialist,1539.00,0.00,1238.00,104.00,2777.00,2881.00,2016,,San Rafael,PT
+John Prince,Pool Attendant,2762.00,0.00,0.00,104.00,2762.00,2866.00,2016,,San Rafael,PT
+Caleb Jerinic-Brodeur,Aquatics Temp,2651.00,0.00,76.00,102.00,2727.00,2829.00,2016,,San Rafael,PT
+Delaney Neal,Substitute Library Page,2711.00,0.00,0.00,102.00,2711.00,2813.00,2016,,San Rafael,PT
+Maya Willey,Aquatics Temp,2702.00,0.00,0.00,101.00,2702.00,2803.00,2016,,San Rafael,PT
+Christine Morgan,Substitute Librarian,2681.00,0.00,0.00,101.00,2681.00,2782.00,2016,,San Rafael,PT
+Nicholas Andress,Facilities Attendant,2667.00,0.00,0.00,100.00,2667.00,2767.00,2016,,San Rafael,PT
+Sono Zhang,Paraprofessional Temp,862.00,0.00,0.00,1874.00,862.00,2736.00,2016,,San Rafael,PT
+Nicolette Jasko,Aquatics Temp,2529.00,0.00,95.00,98.00,2624.00,2722.00,2016,,San Rafael,PT
+Sydney Gibbs,Aquatics Temp,2504.00,0.00,95.00,98.00,2599.00,2697.00,2016,,San Rafael,PT
+Zoe Hoover,Pool Attendant,2490.00,0.00,0.00,93.00,2490.00,2583.00,2016,,San Rafael,PT
+Catheryn Kvalheim,Child Care Temp,2487.00,0.00,0.00,93.00,2487.00,2580.00,2016,,San Rafael,PT
+Thomas Wong,Intern,2474.00,0.00,0.00,93.00,2474.00,2567.00,2016,,San Rafael,PT
+Kendra Mcgowan,Aquatics Temp,2291.00,0.00,170.00,92.00,2461.00,2553.00,2016,,San Rafael,PT
+Lap Pham,Library Aide,1405.00,0.00,1003.00,144.00,2408.00,2552.00,2016,,San Rafael,PT
+Nolen Amundsen,Aquatics Temp,2457.00,0.00,0.00,92.00,2457.00,2549.00,2016,,San Rafael,PT
+Kevin Lechner,Aquatics Temp,2383.00,0.00,62.00,92.00,2445.00,2537.00,2016,,San Rafael,PT
+Ryan Ward,Child Care Temp,2385.00,0.00,0.00,89.00,2385.00,2474.00,2016,,San Rafael,PT
+Christine Prusiner,Substitute Librarian,2362.00,0.00,0.00,89.00,2362.00,2451.00,2016,,San Rafael,PT
+Max Herrerias,Pool Attendant,2341.00,0.00,0.00,88.00,2341.00,2429.00,2016,,San Rafael,PT
+Simon Wright,Recreation Leader,2341.00,0.00,0.00,88.00,2341.00,2429.00,2016,,San Rafael,PT
+Marielle Lyons,Child Care Temp,2333.00,0.00,0.00,88.00,2333.00,2421.00,2016,,San Rafael,PT
+Elisa Delatorre,Police Cadet,1130.00,0.00,1165.00,39.00,2295.00,2334.00,2016,,San Rafael,PT
+Rebecca Lauchenauer,Child Care Temp,2223.00,0.00,0.00,83.00,2223.00,2306.00,2016,,San Rafael,PT
+Gregory Donald,Maintenance Temp,2196.00,0.00,0.00,82.00,2196.00,2278.00,2016,,San Rafael,PT
+Alexandra Carey,Pool Attendant,1804.00,0.00,333.00,80.00,2137.00,2217.00,2016,,San Rafael,PT
+Timothy Chyrklund,Aquatics Temp,2064.00,0.00,0.00,77.00,2064.00,2141.00,2016,,San Rafael,PT
+Edwin Martinez,Facilities Attendant,2053.00,0.00,0.00,77.00,2053.00,2130.00,2016,,San Rafael,PT
+Linda Bennett,Substitute Librarian,2029.00,0.00,0.00,76.00,2029.00,2105.00,2016,,San Rafael,PT
+Savannah Guinn,Intern,2013.00,0.00,0.00,76.00,2013.00,2089.00,2016,,San Rafael,PT
+Emma Roggenkamp,Pool Attendant,1658.00,0.00,350.00,75.00,2008.00,2083.00,2016,,San Rafael,PT
+Julia Boro,Aquatics Temp,1953.00,0.00,0.00,73.00,1953.00,2026.00,2016,,San Rafael,PT
+Sienna Greenberg,Aquatics Temp,1941.00,0.00,0.00,73.00,1941.00,2014.00,2016,,San Rafael,PT
+Haley Sealander,Aquatics Temp,1938.00,0.00,0.00,73.00,1938.00,2011.00,2016,,San Rafael,PT
+Angela Llaverias,Pool Attendant,1932.00,0.00,0.00,73.00,1932.00,2005.00,2016,,San Rafael,PT
+Bradley Virshup,Recreation Leader,1747.00,0.00,132.00,71.00,1879.00,1950.00,2016,,San Rafael,PT
+Kevin Saunders,Sports Official,1861.00,0.00,0.00,70.00,1861.00,1931.00,2016,,San Rafael,PT
+Carina Valceschini,Pool Attendant,1778.00,0.00,0.00,67.00,1778.00,1845.00,2016,,San Rafael,PT
+Peyton Witte,Pool Attendant,1756.00,0.00,0.00,66.00,1756.00,1822.00,2016,,San Rafael,PT
+Malin Rojas,Child Care Instructor I,1017.00,0.00,0.00,772.00,1017.00,1789.00,2016,,San Rafael,PT
+Kyle Mitchell,Child Care Temp,1704.00,0.00,0.00,64.00,1704.00,1768.00,2016,,San Rafael,PT
+Inge Lehtonen-Tomassi,Pool Attendant,1695.00,0.00,0.00,64.00,1695.00,1759.00,2016,,San Rafael,PT
+Wendy Diaz De Leon,Child Care Temp,1688.00,0.00,0.00,63.00,1688.00,1751.00,2016,,San Rafael,PT
+Dillon Macphail-Weller,Recreation Leader,1678.00,0.00,0.00,63.00,1678.00,1741.00,2016,,San Rafael,PT
+Elizabeth Mceligot,Aquatics Temp,1677.00,0.00,0.00,63.00,1677.00,1740.00,2016,,San Rafael,PT
+Dante Lacuadra,Pool Attendant,1670.00,0.00,0.00,63.00,1670.00,1733.00,2016,,San Rafael,PT
+Ariann Chyrklund,Aquatics Temp,1526.00,0.00,113.00,62.00,1639.00,1701.00,2016,,San Rafael,PT
+Colette Berkenfield,Aquatics Temp,1639.00,0.00,0.00,62.00,1639.00,1701.00,2016,,San Rafael,PT
+Kathryn Bernhardt,Pool Attendant,1627.00,0.00,0.00,61.00,1627.00,1688.00,2016,,San Rafael,PT
+Lindsey Chuang,Child Care Temp,1620.00,0.00,0.00,61.00,1620.00,1681.00,2016,,San Rafael,PT
+Ryan Kennedy,Pool Attendant,1585.00,0.00,0.00,59.00,1585.00,1644.00,2016,,San Rafael,PT
+Karen Mcsween,Substitute Librarian,1568.00,0.00,0.00,59.00,1568.00,1627.00,2016,,San Rafael,PT
+Kristen Nehasil,Recreation Specialist,1543.00,0.00,0.00,58.00,1543.00,1601.00,2016,,San Rafael,PT
+Lior Cohen,Aquatics Temp,1525.00,0.00,0.00,57.00,1525.00,1582.00,2016,,San Rafael,PT
+Spencer Dominy,Aquatics Specialist,1454.00,0.00,0.00,55.00,1454.00,1509.00,2016,,San Rafael,PT
+Nader Mansourian,Public Works Director,0.00,0.00,1494.00,0.00,1494.00,1494.00,2016,,San Rafael,PT
+Sara Kennedy,Aquatics Temp,1437.00,0.00,0.00,54.00,1437.00,1491.00,2016,,San Rafael,PT
+Andrei Krainiouk,Aquatics Temp,1400.00,28.00,0.00,54.00,1428.00,1482.00,2016,,San Rafael,PT
+Hannah Wellesley-Winter,Recreation Leader,1416.00,0.00,0.00,53.00,1416.00,1469.00,2016,,San Rafael,PT
+Dawnelle Roan,Child Care Instructor I,1355.00,0.00,58.00,42.00,1413.00,1455.00,2016,,San Rafael,PT
+Elder Garcia,Facilities Attendant,1395.00,0.00,0.00,52.00,1395.00,1447.00,2016,,San Rafael,PT
+Gabriel Yetnikoff,Child Care Temp,1351.00,0.00,0.00,51.00,1351.00,1402.00,2016,,San Rafael,PT
+Jeffrey Jackson,Substitute Library Assistant,1351.00,0.00,0.00,51.00,1351.00,1402.00,2016,,San Rafael,PT
+Elyse Martinez,Pool Attendant,1338.00,0.00,0.00,50.00,1338.00,1388.00,2016,,San Rafael,PT
+Shannon Dugdale,Pool Attendant,1319.00,0.00,0.00,50.00,1319.00,1369.00,2016,,San Rafael,PT
+Maxwell Harrod,Aquatics Temp,1314.00,0.00,0.00,49.00,1314.00,1363.00,2016,,San Rafael,PT
+Darby Shore,Child Care Temp,1313.00,0.00,0.00,49.00,1313.00,1362.00,2016,,San Rafael,PT
+Genesis Ortiz-Rubio,Temp/Seasonal Police,824.00,484.00,0.00,49.00,1308.00,1357.00,2016,,San Rafael,PT
+Jordan Lee Williamson,Temp/Seasonal Police,824.00,484.00,0.00,49.00,1308.00,1357.00,2016,,San Rafael,PT
+Emma Stratman,Temp/Seasonal Police,824.00,484.00,0.00,49.00,1308.00,1357.00,2016,,San Rafael,PT
+Iliana Gonzalez,Temp/Seasonal Police,824.00,484.00,0.00,49.00,1308.00,1357.00,2016,,San Rafael,PT
+Mia Cunnan,Aquatics Temp,1273.00,0.00,0.00,48.00,1273.00,1321.00,2016,,San Rafael,PT
+Caelan Capelli,Pool Attendant,1270.00,0.00,0.00,48.00,1270.00,1318.00,2016,,San Rafael,PT
+Nola Barie,Child Care Temp,1265.00,0.00,0.00,47.00,1265.00,1312.00,2016,,San Rafael,PT
+Matthew Keizer,Advanced Professional Temp,1226.00,0.00,0.00,46.00,1226.00,1272.00,2016,,San Rafael,PT
+Lilyette Diaz-Gallegos,Temp/Seasonal Police,747.00,439.00,0.00,45.00,1186.00,1231.00,2016,,San Rafael,PT
+Byron Garcia,Aquatics Temp,1136.00,0.00,0.00,43.00,1136.00,1179.00,2016,,San Rafael,PT
+Noah Savelli,Child Care Temp,1123.00,0.00,0.00,42.00,1123.00,1165.00,2016,,San Rafael,PT
+Lane Robert Stoker,Temp/Seasonal Police,694.00,422.00,0.00,42.00,1116.00,1158.00,2016,,San Rafael,PT
+Nico Salvemini,Aquatics Temp,1055.00,0.00,57.00,42.00,1112.00,1154.00,2016,,San Rafael,PT
+Cassidy Munson,Aquatics Temp,320.00,0.00,762.00,41.00,1082.00,1123.00,2016,,San Rafael,PT
+Ellen Thomsen,Temp/Seasonal Police,631.00,422.00,0.00,40.00,1053.00,1093.00,2016,,San Rafael,PT
+Manuel Ventura,Facilities Attendant,1051.00,0.00,0.00,39.00,1051.00,1090.00,2016,,San Rafael,PT
+Cole Parker,Aquatics Temp,981.00,0.00,0.00,37.00,981.00,1018.00,2016,,San Rafael,PT
+Margaret Rohrbacher,Professional Temp,537.00,110.00,329.00,0.00,976.00,976.00,2016,,San Rafael,PT
+Georgia Carey,Aquatics Temp,936.00,0.00,0.00,35.00,936.00,971.00,2016,,San Rafael,PT
+Joseph Archer,Child Care Temp,933.00,0.00,0.00,35.00,933.00,968.00,2016,,San Rafael,PT
+Erica Beckwith,Child Care Temp,924.00,0.00,0.00,35.00,924.00,959.00,2016,,San Rafael,PT
+Kathryn Lawrence,Temp/Seasonal Police,510.00,408.00,0.00,34.00,918.00,952.00,2016,,San Rafael,PT
+Kalie Wright,Child Care Temp,891.00,0.00,0.00,33.00,891.00,924.00,2016,,San Rafael,PT
+Azul Alvarado-Dadin,Substitute Library Page,858.00,0.00,0.00,32.00,858.00,890.00,2016,,San Rafael,PT
+Ernest Pulliam Jr,Sports Official,843.00,0.00,0.00,32.00,843.00,875.00,2016,,San Rafael,PT
+Drake Johnson,Aquatics Temp,839.00,0.00,0.00,32.00,839.00,871.00,2016,,San Rafael,PT
+Michael Ensign,Facilities Attendant,834.00,0.00,0.00,31.00,834.00,865.00,2016,,San Rafael,PT
+Joseph Joyce,Temp/Seasonal Police,464.00,369.00,0.00,31.00,833.00,864.00,2016,,San Rafael,PT
+Dylan Maggio-Hucek,Temp/Seasonal Police,464.00,369.00,0.00,31.00,833.00,864.00,2016,,San Rafael,PT
+Nancy Mackle,City Manager,0.00,0.00,859.00,0.00,859.00,859.00,2016,,San Rafael,PT
+Ashley Hatfield,Aquatics Temp,806.00,0.00,19.00,31.00,825.00,856.00,2016,,San Rafael,PT
+Reilly Crabbs,Pool Attendant,800.00,0.00,0.00,30.00,800.00,830.00,2016,,San Rafael,PT
+Gary Burns,Senior Recreation Supervisor,0.00,0.00,822.00,0.00,822.00,822.00,2016,,San Rafael,PT
+Jack Orofino,Recreation Leader,790.00,0.00,0.00,30.00,790.00,820.00,2016,,San Rafael,PT
+Eve Green,Child Care Temp,773.00,0.00,0.00,29.00,773.00,802.00,2016,,San Rafael,PT
+Anil Comelo,Human Resources Director,0.00,0.00,792.00,0.00,792.00,792.00,2016,,San Rafael,PT
+Barbara Heller,Councilmember,0.00,0.00,747.00,0.00,747.00,747.00,2016,,San Rafael,PT
+John Lippitt,Deputy Fire Marshal,0.00,0.00,747.00,0.00,747.00,747.00,2016,,San Rafael,PT
+Michael Komlosy,Aquatics Temp,703.00,0.00,0.00,26.00,703.00,729.00,2016,,San Rafael,PT
+Shaun Gregg,Aquatics Temp,690.00,0.00,0.00,26.00,690.00,716.00,2016,,San Rafael,PT
+Darrell Roary,Sports Official,670.00,0.00,0.00,25.00,670.00,695.00,2016,,San Rafael,PT
+Katherine Mayfield,Recreation Leader,662.00,0.00,0.00,25.00,662.00,687.00,2016,,San Rafael,PT
+Alex Gingg,Aquatics Specialist,655.00,0.00,0.00,25.00,655.00,680.00,2016,,San Rafael,PT
+Julia Jennings,Pool Attendant,655.00,0.00,0.00,25.00,655.00,680.00,2016,,San Rafael,PT
+Emma Ulrich,Aquatics Temp,617.00,0.00,0.00,23.00,617.00,640.00,2016,,San Rafael,PT
+Lissette Gonzalez,Substitute Librarian,616.00,0.00,0.00,23.00,616.00,639.00,2016,,San Rafael,PT
+Chloe Winnett,Pool Attendant,608.00,0.00,0.00,23.00,608.00,631.00,2016,,San Rafael,PT
+Alycia Ward,Child Care Temp,608.00,0.00,0.00,23.00,608.00,631.00,2016,,San Rafael,PT
+James Forsythe,Street Maint Superintendent,0.00,0.00,585.00,0.00,585.00,585.00,2016,,San Rafael,PT
+Enrique Yam,Substitute Library Page,561.00,0.00,0.00,21.00,561.00,582.00,2016,,San Rafael,PT
+Inna Rizelle Naraval,Child Care Temp,555.00,0.00,0.00,21.00,555.00,576.00,2016,,San Rafael,PT
+Malia Levin,Aquatics Temp,533.00,0.00,0.00,20.00,533.00,553.00,2016,,San Rafael,PT
+Maura Gately,Aquatics Temp,485.00,0.00,19.00,19.00,504.00,523.00,2016,,San Rafael,PT
+Joan Epstein,Substitute Librarian,504.00,0.00,0.00,19.00,504.00,523.00,2016,,San Rafael,PT
+Sarah Bailey,Aquatics Temp,490.00,0.00,0.00,18.00,490.00,508.00,2016,,San Rafael,PT
+Natasha Saccardi,Pool Attendant,485.00,0.00,0.00,18.00,485.00,503.00,2016,,San Rafael,PT
+Silvia Baker,Substitute Library Assistant,482.00,0.00,0.00,18.00,482.00,500.00,2016,,San Rafael,PT
+Loren Rothberry,Child Care Temp,433.00,0.00,35.00,18.00,468.00,486.00,2016,,San Rafael,PT
+Jordan Jumpshot,Sports Official,397.00,0.00,0.00,15.00,397.00,412.00,2016,,San Rafael,PT
+Christopher Love,Parking Aide,389.00,0.00,0.00,15.00,389.00,404.00,2016,,San Rafael,PT
+Melissa Daly,Recreation Specialist,327.00,0.00,0.00,12.00,327.00,339.00,2016,,San Rafael,PT
+Rocsana De Leon,Child Care Temp,313.00,0.00,0.00,12.00,313.00,325.00,2016,,San Rafael,PT
+Daniel Michels,Aquatics Temp,308.00,0.00,0.00,12.00,308.00,320.00,2016,,San Rafael,PT
+Keila Lopez,Child Care Temp,292.00,0.00,0.00,11.00,292.00,303.00,2016,,San Rafael,PT
+Courtney Klein,Substitute Library Assistant,284.00,0.00,0.00,11.00,284.00,295.00,2016,,San Rafael,PT
+Brendan Dunnigan,Recreation Leader,201.00,0.00,0.00,8.00,201.00,209.00,2016,,San Rafael,PT
+Alix Doherty,Substitute Library Assistant,199.00,0.00,0.00,8.00,199.00,207.00,2016,,San Rafael,PT
+Taylor Delbex,Sports Official,198.00,0.00,0.00,7.00,198.00,205.00,2016,,San Rafael,PT
+Venice Mariano,Child Care Temp,196.00,0.00,0.00,7.00,196.00,203.00,2016,,San Rafael,PT
+Ava Abeck,Aquatics Temp,188.00,0.00,0.00,7.00,188.00,195.00,2016,,San Rafael,PT
+Patricia Brennan,Professional Temp,180.00,0.00,0.00,0.00,180.00,180.00,2016,,San Rafael,PT
+Sophia Scafani,Aquatics Temp,154.00,0.00,0.00,6.00,154.00,160.00,2016,,San Rafael,PT
+Trevor Calvert,Substitute Librarian,152.00,0.00,0.00,6.00,152.00,158.00,2016,,San Rafael,PT
+Hope Garrett,Aquatics Temp,120.00,0.00,0.00,5.00,120.00,125.00,2016,,San Rafael,PT
+Marybeth Lehane,Child Care Temp,114.00,0.00,1.00,4.00,115.00,119.00,2016,,San Rafael,PT
+Jose Luis Avalos,Substitute Library Assistant,113.00,0.00,0.00,4.00,113.00,117.00,2016,,San Rafael,PT
+Rosa Guzman,Child Care Temp,99.00,0.00,0.00,4.00,99.00,103.00,2016,,San Rafael,PT
+Victor Stauffer,Sports Official,99.00,0.00,0.00,4.00,99.00,103.00,2016,,San Rafael,PT
+Catherine Van Weele,Aquatics Temp,83.00,0.00,0.00,3.00,83.00,86.00,2016,,San Rafael,PT
+Angelina Uzzle,Aquatics Temp,80.00,0.00,0.00,3.00,80.00,83.00,2016,,San Rafael,PT
+Maurice Munsell,Sports Official,71.00,0.00,0.00,3.00,71.00,74.00,2016,,San Rafael,PT
+Eleanor O'connor,Aquatics Temp,57.00,0.00,0.00,2.00,57.00,59.00,2016,,San Rafael,PT
+Peter Stack,Substitute Library Page,51.00,0.00,0.00,2.00,51.00,53.00,2016,,San Rafael,PT
+Al Matthew Brown,Sports Official,50.00,0.00,0.00,2.00,50.00,52.00,2016,,San Rafael,PT
+Kellie Paoli,Pool Attendant,33.00,0.00,0.00,1.00,33.00,34.00,2016,,San Rafael,PT
+Andrew Kissell,Pool Attendant,10.00,0.00,0.00,0.00,10.00,10.00,2016,,San Rafael,PT
+John Massucco,Parks Maintenance Worker Ii,0.00,0.00,0.00,0.00,0.00,0.00,2016,,San Rafael,PT
+Dana Melnichek,Admin Assistant To City Mgr,0.00,0.00,0.00,0.00,0.00,0.00,2016,,San Rafael,PT
+Eric Cogbill,Police Officer,0.00,0.00,0.00,0.00,0.00,0.00,2016,,San Rafael,PT

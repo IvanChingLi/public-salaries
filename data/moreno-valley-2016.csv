@@ -1,0 +1,534 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Michelle Dawson,City Manager,254400.34,0.00,15634.86,86139.84,270035.20,356175.04,2016,,Moreno Valley,FT
+Thomas Desantis,Asst City Manager,231346.46,0.00,10439.71,83554.27,241786.17,325340.44,2016,,Moreno Valley,FT
+Ahmad Ansari,PW Director / City Engineer,208619.82,0.00,22109.40,54481.62,230729.22,285210.84,2016,,Moreno Valley,FT
+Paul Early,Asst City Attorney,181312.77,0.00,18882.72,63700.49,200195.49,263895.98,2016,,Moreno Valley,FT
+Allen Brock,Community Dev Director,189191.99,0.00,690.00,69655.20,189881.99,259537.19,2016,,Moreno Valley,FT
+Michael Lee,Economic Dev Director,182676.13,0.00,20893.12,54272.51,203569.25,257841.76,2016,,Moreno Valley,FT
+Marshall Eyerman,CFO / City Treasurer,171668.83,0.00,12329.39,67029.88,183998.22,251028.10,2016,,Moreno Valley,FT
+Terrie Stevens,Administrative Services Director,176491.20,0.00,8069.70,52499.32,184560.90,237060.22,2016,,Moreno Valley,FT
+Steve Hargis,Technical Services Div Mgr,160136.85,0.00,5981.00,63301.94,166117.85,229419.79,2016,,Moreno Valley,FT
+Eric Lewis,Trans Div Mgr / City Traf Engr,160430.65,0.00,5159.14,62153.54,165589.79,227743.33,2016,,Moreno Valley,FT
+Prem Kumar,Dep PW Dir /Asst City Engineer,64389.27,0.00,136426.55,22786.89,200815.82,223602.71,2016,,Moreno Valley,PT
+Richard Sandzimier,Planning Div Mgr / Official,155677.98,0.00,690.00,64856.30,156367.98,221224.28,2016,,Moreno Valley,FT
+Candace Cassel,Spec Districts Div Mgr,160430.83,0.00,9816.54,50462.71,170247.37,220710.08,2016,,Moreno Valley,FT
+Jeannette Olko,Electric Utility Division Mgr,152156.69,0.00,21101.22,42343.38,173257.91,215601.29,2016,,Moreno Valley,FT
+Rix Skonberg,Purch &  Facilities Div Mgr,139491.36,0.00,6672.52,49038.97,146163.88,195202.85,2016,,Moreno Valley,FT
+Michael Lloyd,Engineering Division Manager,137116.08,0.00,738.30,55063.40,137854.38,192917.78,2016,,Moreno Valley,FT
+Gabriel Garcia,Parks & Comm Svcs Director,131003.64,0.00,5825.00,52129.05,136828.64,188957.69,2016,,Moreno Valley,FT
+Margery A Lazarus,Interim CP Manager/Assist City Engineer,131900.64,0.00,11513.05,43432.53,143413.69,186846.22,2016,,Moreno Valley,FT
+Robert Lemon,Maint & Operations Div Mgr,128903.82,0.00,6662.42,51136.66,135566.24,186702.90,2016,,Moreno Valley,FT
+Brooke Mckinney,Treasury Operations Div Mgr,128902.31,0.00,14903.10,40985.59,143805.41,184791.00,2016,,Moreno Valley,FT
+Dori A Lienhard,Enterprise Systems Admin,128187.32,0.00,6031.08,50184.19,134218.40,184402.59,2016,,Moreno Valley,FT
+Nina M Hatzl-Patterson,Economic Development Div Mgr,126090.05,0.00,2810.85,53426.45,128900.90,182327.35,2016,,Moreno Valley,FT
+Richard Kerckhoff,Network Administrator,128902.31,0.00,15214.64,36279.44,144116.95,180396.39,2016,,Moreno Valley,FT
+Hien Q Ngo,"Sr Engineer, P.E.",124637.29,0.00,7144.03,48035.08,131781.32,179816.40,2016,,Moreno Valley,FT
+John Kerenyi,"Sr Engineer, P.E.",127088.89,0.00,18583.64,33317.14,145672.53,178989.67,2016,,Moreno Valley,FT
+Clement M Jimenez,"Sr Engineer, P.E.",128903.51,0.00,15695.80,33725.30,144599.31,178324.61,2016,,Moreno Valley,FT
+Dena Heald,Financial Operations Div Mgr,126104.84,0.00,1282.03,48190.00,127386.87,175576.87,2016,,Moreno Valley,FT
+Linda K Wilson,Sr Management Analyst,100938.01,0.00,39928.31,34380.96,140866.32,175247.28,2016,,Moreno Valley,FT
+Quang D Nguyen,"Sr Engineer, P.E.",116847.97,0.00,5752.64,48548.52,122600.61,171149.13,2016,,Moreno Valley,FT
+Guy Pegan,"Sr Engineer, P.E.",116183.05,0.00,2359.45,52523.56,118542.50,171066.06,2016,,Moreno Valley,FT
+Melchor Alonzo,Parks & Comm Srvcs Div Mgr,121574.95,0.00,12461.61,32910.88,134036.56,166947.44,2016,,Moreno Valley,FT
+Lorenz R Gonzales,"Sr Engineer, P.E.",120784.42,0.00,12737.20,32522.15,133521.62,166043.77,2016,,Moreno Valley,FT
+Vincent Tran,Associate Engineer,118122.63,0.00,9286.60,38214.32,127409.23,165623.55,2016,,Moreno Valley,FT
+Vicente B Giron,Associate Engineer,111351.33,0.00,3796.62,44232.32,115147.95,159380.27,2016,,Moreno Valley,FT
+Steven Fries,Animal Svcs Division Manager,105985.36,0.00,9539.58,42206.39,115524.94,157731.33,2016,,Moreno Valley,FT
+Hoang Nguyen,Associate Engineer,103702.62,0.00,2290.74,49563.97,105993.36,155557.33,2016,,Moreno Valley,FT
+Christopher B Ormsby,Sr Planner,103572.60,0.00,2880.48,48636.76,106453.08,155089.84,2016,,Moreno Valley,FT
+Gordon Macdonald,Applications & DB Admin,111950.88,0.00,12879.23,29830.24,124830.11,154660.35,2016,,Moreno Valley,FT
+Mark D Gross,Sr Planner,106047.84,0.00,18003.20,27765.28,124051.04,151816.32,2016,,Moreno Valley,FT
+Dale T Brose,Building Inspector I I,48125.13,0.00,90862.74,12152.86,138987.87,151140.73,2016,,Moreno Valley,PT
+Scott L Duncan,Traffic Operations Supervisor,100998.56,0.00,20846.30,26498.74,121844.86,148343.60,2016,,Moreno Valley,FT
+Scott Simmons,Asst Network Administrator,100998.05,0.00,4501.02,42731.16,105499.07,148230.23,2016,,Moreno Valley,FT
+Juanita Halstead,City Clerk,30544.92,0.00,102416.63,11946.68,132961.55,144908.23,2016,,Moreno Valley,PT
+Jennifer A Terry,Sr Management Analyst,100948.95,0.00,16831.73,26614.06,117780.68,144394.74,2016,,Moreno Valley,FT
+Nicholas J Henderson,Building Safety Supervisor,99391.17,0.00,18075.13,26926.58,117466.30,144392.88,2016,,Moreno Valley,FT
+Bridgette Montgomery,Sr Human Resources Analyst,103461.57,0.00,11607.98,29196.32,115069.55,144265.87,2016,,Moreno Valley,FT
+Janice Nollar-Conrad,Sr GIS Analyst,100998.08,0.00,16411.18,26448.48,117409.26,143857.74,2016,,Moreno Valley,FT
+Brian S Durfee,Street Maintenance Supervisor,93124.35,0.00,2737.67,44351.91,95862.02,140213.93,2016,,Moreno Valley,FT
+Jeffrey W Bradshaw,Associate Planner,91643.61,0.00,257.40,48180.64,91901.01,140081.65,2016,,Moreno Valley,FT
+Josh Frohman,Associate Engineer,96132.07,0.00,18210.63,25179.55,114342.70,139522.25,2016,,Moreno Valley,FT
+Alice Rod,Management Analyst,74187.27,0.00,37888.71,27084.48,112075.98,139160.46,2016,,Moreno Valley,FT
+Sharon Goodale-Sharp,Management Analyst,97224.96,0.00,7932.65,33572.98,105157.61,138730.59,2016,,Moreno Valley,FT
+Ronald D Matthews,Sr Traffic Signal Technician,86254.56,6278.82,1121.52,42311.36,93654.90,135966.26,2016,,Moreno Valley,FT
+Julia M Descoteaux,Associate Planner,93842.86,0.00,1667.30,39622.09,95510.16,135132.25,2016,,Moreno Valley,FT
+Isa G Rojas,Management Analyst,94318.38,0.00,15477.46,25250.40,109795.84,135046.24,2016,,Moreno Valley,FT
+Kimberlee Krueger,Sr Applications Analyst,95917.13,0.00,12025.05,25176.69,107942.18,133118.87,2016,,Moreno Valley,FT
+Anthony C Hetherman,Parks Projects Coordinator,91285.54,0.00,17110.98,24050.04,108396.52,132446.56,2016,,Moreno Valley,FT
+Gabriel Diaz,Associate Planner,91554.56,0.00,7967.66,32641.53,99522.22,132163.75,2016,,Moreno Valley,FT
+Shanna Palau,Management Analyst,90234.26,0.00,17439.42,23829.59,107673.68,131503.27,2016,,Moreno Valley,FT
+Joseph R Lara,Telecomm Engineer / Admin,89206.36,0.00,17552.75,23657.30,106759.11,130416.41,2016,,Moreno Valley,FT
+Claudia Manrique Miklusek,Associate Planner,88925.41,0.00,2654.65,38321.82,91580.06,129901.88,2016,,Moreno Valley,FT
+Dean R Ristow,Parks Maint Supervisor,86874.11,0.00,2472.82,39097.57,89346.93,128444.50,2016,,Moreno Valley,FT
+Angelica E Davis,Management Analyst,87154.09,0.00,144.72,40967.62,87298.81,128266.43,2016,,Moreno Valley,FT
+Mosallam Almasri,Construction Inspector,79556.61,2265.05,2434.14,43341.47,84255.80,127597.27,2016,,Moreno Valley,FT
+Craig R Frick,Building Inspector I I,89976.31,924.89,3279.05,32845.00,94180.25,127025.25,2016,,Moreno Valley,FT
+Alexander Sr Ramirez,Construction Inspector,81871.12,3245.79,2674.56,39176.89,87791.47,126968.36,2016,,Moreno Valley,FT
+Danny Astorga,Construction Inspector,81584.72,7425.24,14137.64,23448.26,103147.60,126595.86,2016,,Moreno Valley,FT
+Bridget Amaya,Community Svcs Supervisor,83932.96,0.00,10540.00,30081.01,94472.96,124553.97,2016,,Moreno Valley,FT
+Edward Init,Sr Engineering Technician,76073.95,299.43,1723.34,44752.66,78096.72,122849.38,2016,,Moreno Valley,FT
+James V Butler,Parks Maint Supervisor,83042.64,0.00,8982.56,29638.90,92025.20,121664.10,2016,,Moreno Valley,FT
+Michael Mclellan,Electric Utility Program Coord,87510.36,0.00,4638.00,29174.16,92148.36,121322.52,2016,,Moreno Valley,FT
+Daniel Monto,Landscape Services Supervisor,83042.88,0.00,8106.68,29714.53,91149.56,120864.09,2016,,Moreno Valley,FT
+Timothy Carroll,Media & Production Supervisor,87246.64,0.00,10013.04,23380.68,97259.68,120640.36,2016,,Moreno Valley,FT
+Mary Parada,Executive Asst I I,79134.91,0.00,10042.48,30761.27,89177.39,119938.66,2016,,Moreno Valley,FT
+Lesia Gage,Sr Accountant,83042.70,0.00,1790.39,34985.51,84833.09,119818.60,2016,,Moreno Valley,FT
+Sandra E Contreras,Sr Management Analyst,81521.68,0.00,8002.45,29932.90,89524.13,119457.03,2016,,Moreno Valley,FT
+Arthur S Alvarado,Code Compliance Field Spvr,75679.08,0.00,1558.33,41514.11,77237.41,118751.52,2016,,Moreno Valley,FT
+Jacqueline Melendez,Management Analyst,85082.26,0.00,3432.91,29534.56,88515.17,118049.73,2016,,Moreno Valley,FT
+James Verdugo,Building Inspector I I,79486.68,1414.31,346.20,35884.06,81247.19,117131.25,2016,,Moreno Valley,FT
+Celeste Wiggins,Payroll Supervisor,83662.84,0.00,1554.19,31300.97,85217.03,116518.00,2016,,Moreno Valley,FT
+Robert Linton,Management Asst,72378.58,0.00,1727.26,40721.69,74105.84,114827.53,2016,,Moreno Valley,FT
+Eduardo Godinez,Construction Inspector,68319.11,9996.97,16702.41,18214.77,95018.49,113233.26,2016,,Moreno Valley,FT
+Terry Klauminzer,Traffic Signal Technician,71735.04,4500.60,17000.92,19683.56,93236.56,112920.12,2016,,Moreno Valley,FT
+Zara Terrell,Management Analyst,71647.77,0.00,1256.50,39513.97,72904.27,112418.24,2016,,Moreno Valley,FT
+Gabriel Gonzalez,Construction Inspector,70979.51,5483.60,319.20,35057.97,76782.31,111840.28,2016,,Moreno Valley,FT
+Felicia London,Sr Accountant,81521.80,0.00,463.00,29165.67,81984.80,111150.47,2016,,Moreno Valley,FT
+Frank T Gonzales,Street Maintenance Supervisor,75322.97,0.00,15874.52,19931.57,91197.49,111129.06,2016,,Moreno Valley,FT
+Millicent Moore,Code Compliance Officer I I,75367.51,0.00,15167.64,19764.81,90535.15,110299.96,2016,,Moreno Valley,FT
+Leticia Esquivel,Sr Permit Technician,72600.39,1218.28,1685.87,34499.40,75504.54,110003.94,2016,,Moreno Valley,FT
+Terry Wallace,Code Compliance Officer I I,73144.66,0.00,423.24,35395.49,73567.90,108963.39,2016,,Moreno Valley,FT
+Launa L Jimenez,Sr Management Analyst,77451.09,0.00,10780.08,20332.01,88231.17,108563.18,2016,,Moreno Valley,FT
+Gina Gonzalez,Executive Asst I,70910.38,987.70,9280.74,27331.24,81178.82,108510.06,2016,,Moreno Valley,FT
+Margaret S Williams,Sr Administrative Asst,62600.00,0.00,21124.84,24735.83,83724.84,108460.67,2016,,Moreno Valley,FT
+Lisa A Smethurst,Executive Asst I,71778.39,517.63,8537.74,26948.60,80833.76,107782.36,2016,,Moreno Valley,FT
+Melissa Cortes,Accountant I I,72270.84,0.00,8143.99,26485.18,80414.83,106900.01,2016,,Moreno Valley,FT
+Kathleen M Gross,Executive Asst I,61803.91,10702.43,1399.14,32771.41,73905.48,106676.89,2016,,Moreno Valley,FT
+Steven Wilkinson,Management Analyst,75695.43,0.00,4726.73,25777.78,80422.16,106199.94,2016,,Moreno Valley,FT
+David Flowers,Banquet Facility Rep,67600.10,0.00,1341.12,37208.55,68941.22,106149.77,2016,,Moreno Valley,FT
+Julien Van Simaeys,Engineering Technician I I,71734.55,362.13,12576.00,21371.92,84672.68,106044.60,2016,,Moreno Valley,FT
+Dale W Mendenhall,Applications Analyst,68603.94,178.75,3038.72,34097.05,71821.41,105918.46,2016,,Moreno Valley,FT
+Thomas L Baier,Lead Maintenance Worker,69550.82,0.00,1548.27,34808.90,71099.09,105907.99,2016,,Moreno Valley,FT
+Richard Guerrero,Lead Traffic Sign/Marking Tech,69087.55,1503.63,1913.53,32976.74,72504.71,105481.45,2016,,Moreno Valley,FT
+Priscilla A Rasso,Financial Analyst,69632.63,0.00,1413.08,34388.44,71045.71,105434.15,2016,,Moreno Valley,FT
+Denise Hansen,Executive Asst I,69012.42,0.00,15277.08,18828.92,84289.50,103118.42,2016,,Moreno Valley,FT
+Alia Rodriguez,Emerg Mgmt & Vol Svcs Prog Mgr,68206.08,0.00,16932.20,17716.16,85138.28,102854.44,2016,,Moreno Valley,FT
+Rudy A Casados,Sr Parks Maint Technician,62447.42,2088.07,1488.75,36826.60,66024.24,102850.84,2016,,Moreno Valley,FT
+Ruth Guillen,Animal Svcs Office Supervisor,69166.32,0.00,12963.19,20711.74,82129.51,102841.25,2016,,Moreno Valley,FT
+Tony Speed,Traffic Signal Technician,70904.60,4312.23,1157.66,25844.39,76374.49,102218.88,2016,,Moreno Valley,FT
+Rod Davis,Lead Traffic Sign/Marking Tech,68359.26,0.00,8334.84,25459.22,76694.10,102153.32,2016,,Moreno Valley,FT
+Marylou Antero,Accounts Payable Supervisor,68318.91,443.40,8591.20,24542.35,77353.51,101895.86,2016,,Moreno Valley,FT
+Diana Vasquez,Management Asst,69921.82,0.00,4911.01,26561.84,74832.83,101394.67,2016,,Moreno Valley,FT
+Susan Cairns,Executive Asst I,65066.81,2275.74,9024.26,24937.25,76366.81,101304.06,2016,,Moreno Valley,FT
+Joseph Mattox,Fleet Maintenance Supervisor,71341.08,0.00,10526.78,18769.87,81867.86,100637.73,2016,,Moreno Valley,FT
+Stephen M Jarrett,GIS Specialist,66873.75,911.47,14369.52,18275.91,82154.74,100430.65,2016,,Moreno Valley,FT
+Tony Silvas,Sr Parks Maint Technician,59549.34,1396.99,1433.28,37966.78,62379.61,100346.39,2016,,Moreno Valley,FT
+Kandace Baptiste,Executive Asst I,61736.60,0.00,1397.07,36826.59,63133.67,99960.26,2016,,Moreno Valley,FT
+Sylvester M Ii Collins,Maintenance Worker I I,61221.36,7205.34,7855.68,23478.07,76282.38,99760.45,2016,,Moreno Valley,FT
+Kimberly Hitchcock,Human Resources Analyst,69734.53,0.00,10406.68,19580.05,80141.21,99721.26,2016,,Moreno Valley,FT
+Summer D Looy,Permit Technician,65725.73,739.47,12668.76,20390.91,79133.96,99524.87,2016,,Moreno Valley,FT
+Nicholas S Thouas,Info Technology Technician,66742.10,413.86,12282.44,19687.78,79438.40,99126.18,2016,,Moreno Valley,FT
+Ricardo Gonzalez,Sr Telecomm Technician,59250.05,3332.66,241.26,36262.37,62823.97,99086.34,2016,,Moreno Valley,FT
+Jim H White,Accounting Technician,61687.16,187.80,145.80,36836.27,62020.76,98857.03,2016,,Moreno Valley,FT
+Darisa D Vargas,Sr Administrative Asst,65104.00,892.05,14370.96,17958.70,80367.01,98325.71,2016,,Moreno Valley,FT
+Alfred E Fierro,Lead Maintenance Worker,62943.51,3330.69,15378.09,16543.89,81652.29,98196.18,2016,,Moreno Valley,FT
+Ewa N Lopez,Deputy City Clerk,65104.32,328.66,7880.40,24867.32,73313.38,98180.70,2016,,Moreno Valley,FT
+Kathi Pierce,Sr Administrative Asst,65104.00,0.00,6514.80,26232.82,71618.80,97851.62,2016,,Moreno Valley,FT
+Debra L Pratt,Sr Administrative Asst,65104.12,406.91,7757.04,24349.11,73268.07,97617.18,2016,,Moreno Valley,FT
+Tammy A Brooks,Sr Administrative Asst,65104.04,0.00,14351.04,17138.62,79455.08,96593.70,2016,,Moreno Valley,FT
+Sheila Bundley,Accountant I,68193.82,0.00,10309.86,17895.77,78503.68,96399.45,2016,,Moreno Valley,FT
+Humberto Silva,Info Technology Technician,65066.77,0.00,6055.40,25268.78,71122.17,96390.95,2016,,Moreno Valley,FT
+Joy K Uribe,Sr Administrative Asst,63516.47,709.98,7898.28,24196.33,72124.73,96321.06,2016,,Moreno Valley,FT
+Griselda Espino-Salcedo,Permit Technician,57238.54,989.81,85.80,37536.56,58314.15,95850.71,2016,,Moreno Valley,FT
+Stephanie C Cuff,Management Analyst,62838.41,0.00,14942.00,18008.72,77780.41,95789.13,2016,,Moreno Valley,FT
+Patricia D Brock,Management Asst,63651.03,0.00,15212.37,16898.88,78863.40,95762.28,2016,,Moreno Valley,FT
+Robert Lorch,Cable TV Producer,48650.64,13640.02,56.16,33153.48,62346.82,95500.30,2016,,Moreno Valley,FT
+Susan G Bovee,Accounting Technician,65104.01,0.00,5295.96,24867.23,70399.97,95267.20,2016,,Moreno Valley,FT
+Russell Hough,Parks Maint Worker,41329.53,922.96,34979.13,18004.52,77231.62,95236.14,2016,,Moreno Valley,FT
+Yahnel Bishop,Permit Technician,62559.13,0.00,14244.60,17948.97,76803.73,94752.70,2016,,Moreno Valley,FT
+Jennifer Ackerman-Mcdowell,Paralegal,62921.35,727.30,8148.72,22719.12,71797.37,94516.49,2016,,Moreno Valley,FT
+Richard Teichert,CFO / City Treasurer,6137.04,0.00,86433.05,1525.61,92570.09,94095.70,2016,,Moreno Valley,PT
+Daniel Cover,Landscape Svcs Inspector,61967.82,357.51,7966.56,23488.52,70291.89,93780.41,2016,,Moreno Valley,FT
+Robert Roseen,Cable TV Producer,53529.84,10995.49,7545.72,21592.11,72071.05,93663.16,2016,,Moreno Valley,FT
+Barry A Verdusco,Landscape Svcs Inspector,61768.26,0.00,15366.00,16454.55,77134.26,93588.81,2016,,Moreno Valley,FT
+Christine Barajas,Sr Administrative Asst,61967.82,0.00,3228.50,28264.03,65196.32,93460.35,2016,,Moreno Valley,FT
+Archie M Ammons,Lead Maintenance Worker,59902.29,787.36,1535.57,30787.22,62225.22,93012.44,2016,,Moreno Valley,FT
+Patricia A Posey,Code Compliance Officer I I,59584.90,0.00,295.80,32803.84,59880.70,92684.54,2016,,Moreno Valley,FT
+Jose L Salgado,Traffic Sign/Marking Tech I I,56899.37,0.00,506.04,35079.60,57405.41,92485.01,2016,,Moreno Valley,FT
+Rudy Rodriguez,Community Services Coordinator,59016.62,0.00,17580.04,15679.34,76596.66,92276.00,2016,,Moreno Valley,FT
+Antonio Garcia,Lead Parks Maint Worker,56178.16,383.27,340.44,35257.92,56901.87,92159.79,2016,,Moreno Valley,FT
+Brian R Thompson,Equipment Operator,59017.33,1872.64,7538.70,23309.46,68428.67,91738.13,2016,,Moreno Valley,FT
+Juan J Martinez,Lead Parks Maint Worker,59051.20,993.66,15345.36,15688.43,75390.22,91078.65,2016,,Moreno Valley,FT
+Virginia Zaragoza,Administrative Asst,59426.93,571.05,7969.25,22940.75,67967.23,90907.98,2016,,Moreno Valley,FT
+Daniel Mendoza,Lead Parks Maint Worker,57611.34,1765.73,15524.12,16004.84,74901.19,90906.03,2016,,Moreno Valley,FT
+Steve Lulli,Animal Svcs Field Supervisor,30030.82,0.00,45653.81,14801.42,75684.63,90486.05,2016,,Moreno Valley,PT
+Stephen Stenlake,Vehicle / Equipment Technician,60264.56,0.00,5736.35,23838.82,66000.91,89839.73,2016,,Moreno Valley,FT
+Richard F Limas,Traffic Sign/Marking Tech I I,57805.61,531.79,14782.30,16057.71,73119.70,89177.41,2016,,Moreno Valley,FT
+Anna Chacon,Executive Asst I,59016.61,0.00,14100.22,15501.03,73116.83,88617.86,2016,,Moreno Valley,FT
+George Chang-Kin-Kee,Maintenance Worker I I,56134.60,1422.96,7986.36,22656.60,65543.92,88200.52,2016,,Moreno Valley,FT
+Tammy Macy,Sr Permit Technician,57503.36,4948.09,10178.10,15299.26,72629.55,87928.81,2016,,Moreno Valley,FT
+Ruben Huerta,Maintenance Worker I I,49961.86,4276.15,238.20,33342.24,54476.21,87818.45,2016,,Moreno Valley,FT
+Linda Bennett,Sr Parking Control Officer,56240.85,892.27,7546.92,22896.99,64680.04,87577.03,2016,,Moreno Valley,FT
+Larry A Jaime,Sr Graphics Designer,52701.40,9365.85,9799.00,13863.69,71866.25,85729.94,2016,,Moreno Valley,FT
+Karyn Kiefer,Executive Asst I,56614.34,30.40,13182.90,15544.18,69827.64,85371.82,2016,,Moreno Valley,FT
+Glenn Vargas,Code Compliance Officer I I,56206.27,628.27,6128.16,22254.20,62962.70,85216.90,2016,,Moreno Valley,FT
+Thomas Arce,Building Inspector I I,56053.80,656.92,283.65,27876.05,56994.37,84870.42,2016,,Moreno Valley,PT
+Jacquelyn Lankhorst,Sr Administrative Assistant,46370.18,2107.72,17691.91,18343.12,66169.81,84512.93,2016,,Moreno Valley,FT
+Helen Devilbiss,Administrative Asst,53529.84,759.20,8108.00,22066.47,62397.04,84463.51,2016,,Moreno Valley,FT
+Danae E Scott,Permit Technician,54353.37,442.00,15088.74,14294.26,69884.11,84178.37,2016,,Moreno Valley,FT
+Kathleen Savala,Sr Administrative Asst,53987.93,0.00,15176.50,14932.63,69164.43,84097.06,2016,,Moreno Valley,FT
+Ernest Precie,Lead Maintenance Worker,53322.62,1062.55,15231.63,14294.36,69616.80,83911.16,2016,,Moreno Valley,FT
+Debbie Rosales,Principal Accountant,48199.99,0.00,18896.18,16759.59,67096.17,83855.76,2016,,Moreno Valley,PT
+Jeremy Leslie,Asst Buyer,54238.84,0.00,7290.54,22211.32,61529.38,83740.70,2016,,Moreno Valley,FT
+Carol Hancock,Sr Customer Service Asst,53562.31,193.13,6584.88,22970.84,60340.32,83311.16,2016,,Moreno Valley,FT
+Kevin Callister,Interim Community Services Supervisor,53735.74,0.00,14377.87,14996.51,68113.61,83110.12,2016,,Moreno Valley,FT
+Jeremy Hamilton,Business License Liaison,52549.45,173.71,9637.20,20445.53,62360.36,82805.89,2016,,Moreno Valley,FT
+Angel Orellana,Maintenance Worker I I,46774.24,7383.23,7583.06,20800.82,61740.53,82541.35,2016,,Moreno Valley,FT
+Rodolfo Quiroz,Parks Maint Worker,51010.96,2556.68,1871.04,26983.43,55438.68,82422.11,2016,,Moreno Valley,FT
+Claudia Zarazua,Accounting Asst,52103.36,828.21,14848.30,14508.05,67779.87,82287.92,2016,,Moreno Valley,FT
+Mark F Mandel,Code Compliance Officer I I,56206.26,526.94,1733.72,23496.90,58466.92,81963.82,2016,,Moreno Valley,FT
+Evelia Villapando,Parks Maint Worker,51010.96,1427.96,14328.64,14928.45,66767.56,81696.01,2016,,Moreno Valley,FT
+Carlos V Lira,Parks Maint Worker,51431.12,1094.16,1130.04,27980.37,53655.32,81635.69,2016,,Moreno Valley,FT
+Margret Linne,Animal Rescue Coordinator,46518.98,1554.87,1483.46,31679.56,49557.31,81236.87,2016,,Moreno Valley,FT
+Dorathy Haun,Lead Animal Care Technician,52624.95,1057.54,5744.79,21786.62,59427.28,81213.90,2016,,Moreno Valley,FT
+Silvia Gonzalez,Sr Customer Service Asst,51498.34,0.00,7985.56,21710.19,59483.90,81194.09,2016,,Moreno Valley,FT
+Jacqueline D Harris,Sr Customer Service Asst,50980.91,661.79,7786.08,21663.14,59428.78,81091.92,2016,,Moreno Valley,FT
+Arturo Cuen,Parks Maint Worker,49017.64,2072.33,296.28,29648.39,51386.25,81034.64,2016,,Moreno Valley,FT
+Rene Herbert,Management Asst,52668.05,19.30,175.26,28077.54,52862.61,80940.15,2016,,Moreno Valley,PT
+Joseph Iii Jones,Sr Citizens Center Coord,33615.68,0.00,38460.59,8578.10,72076.27,80654.37,2016,,Moreno Valley,PT
+Vincent Iii Roldan,Parking Control Officer,46808.65,470.51,283.40,32674.95,47562.56,80237.51,2016,,Moreno Valley,FT
+Matthew Piper,Animal Control Officer,36547.99,1875.76,32240.74,9505.72,70664.49,80170.21,2016,,Moreno Valley,PT
+Jorge L Heredia Garcia,Lead Parks Maint Worker,45820.63,3690.38,227.40,30007.31,49738.41,79745.72,2016,,Moreno Valley,FT
+David Martinez,Facilities Maint Worker,53550.61,2248.81,10152.42,13541.64,65951.84,79493.48,2016,,Moreno Valley,FT
+Valin E Gray,Landscape Svcs Inspector,38245.38,0.00,21505.01,19546.82,59750.39,79297.21,2016,,Moreno Valley,PT
+Anthony Jr Macias,Equipment Operator,49016.18,1455.29,15261.00,13455.84,65732.47,79188.31,2016,,Moreno Valley,FT
+Adam Patino,Lead Facilities Maint Worker,53529.84,2017.05,9372.68,14070.27,64919.57,78989.84,2016,,Moreno Valley,FT
+Barbara J Hamilton,Sr Office Asst,49767.41,0.00,9916.54,19291.89,59683.95,78975.84,2016,,Moreno Valley,FT
+Oscar Salinas,Sr Equipment Operator,50840.82,2957.76,4975.32,19771.38,58773.90,78545.28,2016,,Moreno Valley,FT
+Tanya D Nichols Dunlap,Sr Administrative Asst,48553.93,1954.98,15150.12,12772.68,65659.03,78431.71,2016,,Moreno Valley,FT
+Carlos Juarez,Maintenance Worker I I,43629.95,332.63,207.60,34204.68,44170.18,78374.86,2016,,Moreno Valley,FT
+Tina M Gallegos,Animal Svcs Dispatcher,43938.40,0.00,1856.97,31924.62,45795.37,77719.99,2016,,Moreno Valley,FT
+David Serna,Maintenance Worker I I,48553.44,245.09,12670.80,15327.12,61469.33,76796.45,2016,,Moreno Valley,FT
+Denise Cooper,Animal Svcs License Inspector,48581.79,43.79,7867.68,20301.92,56493.26,76795.18,2016,,Moreno Valley,FT
+Daphne Mckinney,Facilities Maint Worker,40034.63,1373.60,2207.64,33039.85,43615.87,76655.72,2016,,Moreno Valley,FT
+Dallas Manlunas,Vehicle / Equipment Technician,46574.92,7297.24,9619.50,13002.18,63491.66,76493.84,2016,,Moreno Valley,FT
+Robert Jr Romero,Parks Maint Worker,41708.16,1889.64,1039.02,31342.99,44636.82,75979.81,2016,,Moreno Valley,FT
+Daniel Bustamante,Sr Payroll Technician,51686.88,367.66,8716.02,14952.98,60770.56,75723.54,2016,,Moreno Valley,FT
+Ashleigh Renz,Animal Control Officer,40201.29,3052.06,192.08,32030.15,43445.43,75475.58,2016,,Moreno Valley,FT
+Rodrigo Sanchez,Vehicle/Equipment Technician,42768.78,1447.70,208.80,31045.84,44425.28,75471.12,2016,,Moreno Valley,FT
+Felipe J Alvarado,Parks Maint Worker,40023.92,2080.22,220.20,33027.18,42324.34,75351.52,2016,,Moreno Valley,FT
+Joseph Bolognesi,Animal Control Officer,46496.78,6742.57,1675.84,20112.21,54915.19,75027.40,2016,,Moreno Valley,FT
+Socorro Sandoval,Sr Administrative Asst,44478.17,778.43,468.31,28907.65,45724.91,74632.56,2016,,Moreno Valley,FT
+Brett Murray,Park Ranger,43435.67,1384.73,194.88,28881.59,45015.28,73896.87,2016,,Moreno Valley,FT
+Gina K Henderson,Administrative Asst,46240.97,0.00,14916.72,12347.94,61157.69,73505.63,2016,,Moreno Valley,FT
+Jesus Flores,Equipment Operator,46952.21,2059.16,5756.08,18514.12,54767.45,73281.57,2016,,Moreno Valley,FT
+Ariel Munoz,Park Ranger,45634.43,1179.64,14319.00,12024.62,61133.07,73157.69,2016,,Moreno Valley,FT
+Michael Motta,Animal Control Officer,44038.30,4859.28,10958.28,13000.63,59855.86,72856.49,2016,,Moreno Valley,FT
+Jasmin Rivera,Sr Administrative Asst,48791.94,0.00,2763.08,20359.27,51555.02,71914.29,2016,,Moreno Valley,FT
+Lasonja Nelson,Sr Administrative Asst,49276.97,0.00,9084.66,13019.60,58361.63,71381.23,2016,,Moreno Valley,FT
+Angel J Gutierrez,Sr Administrative Assistant,45904.16,2626.08,2256.64,20036.48,50786.88,70823.36,2016,,Moreno Valley,FT
+Stefanie Loraas,Animal Control Officer,44519.03,2803.60,4059.76,19247.78,51382.39,70630.17,2016,,Moreno Valley,FT
+Martin D Koczanowicz,City Attorney,49829.90,0.00,2789.12,17524.53,52619.02,70143.55,2016,,Moreno Valley,PT
+Timothy Marquez,Lead Parks Maint Worker,45977.08,1605.93,8674.92,13509.45,56257.93,69767.38,2016,,Moreno Valley,FT
+Micala A Barber,Storekeeper,46507.69,0.00,10330.03,12420.44,56837.72,69258.16,2016,,Moreno Valley,FT
+Chantay S Mccarther-Mcknight,Parks Maint Worker,44038.31,772.81,9737.00,14149.63,54548.12,68697.75,2016,,Moreno Valley,FT
+Tiberio Perez,Maintenance Worker I I,45023.86,1238.61,9439.64,12550.89,55702.11,68253.00,2016,,Moreno Valley,FT
+Andrew Cheng,Emerg Mgmt & Vol Svc Prog Spec,39216.64,10063.70,2462.21,15941.26,51742.55,67683.81,2016,,Moreno Valley,PT
+Janelle Kepler,Sr Administrative Asst,43542.19,385.16,12071.76,11484.76,55999.11,67483.87,2016,,Moreno Valley,FT
+Johnny Dunn,Animal Care Technician,39945.11,835.39,15818.21,10527.92,56598.71,67126.63,2016,,Moreno Valley,FT
+Erica Tadeo,Administrative Asst,44135.80,1398.74,1295.12,19752.55,46829.66,66582.21,2016,,Moreno Valley,FT
+Becky Cornwell,Security Guard,40213.15,0.00,7970.86,18232.20,48184.01,66416.21,2016,,Moreno Valley,FT
+Lissette Giron,Sr Administrative Asst,43579.07,697.35,4482.72,16731.10,48759.14,65490.24,2016,,Moreno Valley,FT
+L.C. Franklin,Crossing Guard Supervisor,39368.33,224.96,5639.48,20196.69,45232.77,65429.46,2016,,Moreno Valley,FT
+Juliene Clay,Accounting Asst,42917.04,0.00,10891.60,11379.81,53808.64,65188.45,2016,,Moreno Valley,FT
+Angel Migao,Exec Asst to Mayor / City Cncl,44083.81,1644.94,5585.52,13372.78,51314.27,64687.05,2016,,Moreno Valley,PT
+Joseph F Prieto,Parks Maint Worker,42076.19,695.67,10175.47,11085.03,52947.33,64032.36,2016,,Moreno Valley,FT
+Georgina D Toruno Lundberg,Child Care Program Manager,40188.54,0.00,13195.77,10398.21,53384.31,63782.52,2016,,Moreno Valley,FT
+John Parker,Parking Control Officer,38043.20,356.65,14326.56,10902.13,52726.41,63628.54,2016,,Moreno Valley,FT
+Travis Ennis,Facilities Maint Mechanic,40403.20,541.88,193.20,22307.52,41138.28,63445.80,2016,,Moreno Valley,FT
+Kevin Rafferty,Park Ranger,38817.60,1707.05,175.74,22725.25,40700.39,63425.64,2016,,Moreno Valley,PT
+James Gutierrez,Maintenance Worker I,37346.51,6227.34,2465.36,16779.72,46039.21,62818.93,2016,,Moreno Valley,FT
+Patty Grube,Sr Management Analyst,1443.16,0.00,59285.23,1907.14,60728.39,62635.53,2016,,Moreno Valley,PT
+Mayra Robledo,Executive Asst I,35491.56,0.00,49.28,26248.66,35540.84,61789.50,2016,,Moreno Valley,PT
+Cindy A Miller,Exec Asst to Mayor / City Cncl,442.72,0.00,60100.42,889.26,60543.14,61432.40,2016,,Moreno Valley,PT
+Pablo Arroyo,Maintenance Worker II,40019.39,1381.29,2966.96,17004.93,44367.64,61372.57,2016,,Moreno Valley,FT
+Rene B Jr Martinez,Permit Technician,35593.19,231.57,477.94,24408.21,36302.70,60710.91,2016,,Moreno Valley,PT
+Stephanie Sifuentes,Animal Care Technician,40363.69,1266.05,7642.36,11109.75,49272.10,60381.85,2016,,Moreno Valley,FT
+Kristin James,Animal Services Assistant,33026.88,21.60,32.40,27217.89,33080.88,60298.77,2016,,Moreno Valley,FT
+Michelle Ledesma,Accounting Asst,35348.39,0.00,54.00,23928.19,35402.39,59330.58,2016,,Moreno Valley,PT
+Harvey Bowie,Security Guard,35137.04,223.95,6854.16,16803.03,42215.15,59018.18,2016,,Moreno Valley,FT
+Bulmaro Salas,Parks Maint Worker,37896.72,29.11,4909.60,16008.26,42835.43,58843.69,2016,,Moreno Valley,FT
+Christopher W Paxton,Administrative Services Director,5731.57,0.00,50019.42,2845.82,55750.99,58596.81,2016,,Moreno Valley,PT
+Nicholas Rens,Maintenance Worker I I,38189.83,548.71,9513.01,10270.41,48251.55,58521.96,2016,,Moreno Valley,FT
+Liliana B Alvarado,Executive Asst I,35262.16,0.00,13393.91,9026.06,48656.07,57682.13,2016,,Moreno Valley,PT
+Pamela Chaffin,Code Compliance Officer I,39875.67,321.70,216.70,16686.75,40414.07,57100.82,2016,,Moreno Valley,PT
+Christopher Totaro,Maintenance Worker I I,36396.28,1188.85,9516.12,9604.29,47101.25,56705.54,2016,,Moreno Valley,PT
+Virginia A Garcia,Asst Buyer,36918.96,0.00,5610.54,13499.13,42529.50,56028.63,2016,,Moreno Valley,PT
+Robert Henderson,Parks Maint Worker,35173.48,438.95,4115.76,16137.51,39728.19,55865.70,2016,,Moreno Valley,FT
+Leticia Jimenez,Lead Parks Maint Worker,38346.54,3030.71,4017.42,10005.83,45394.67,55400.50,2016,,Moreno Valley,FT
+Jenifer Sterling,Animal Control Officer,33021.88,2124.85,899.48,18917.80,36046.21,54964.01,2016,,Moreno Valley,PT
+Armilla Walker,Child Care Site Supervisor,36512.08,533.54,51.60,17654.78,37097.22,54752.00,2016,,Moreno Valley,FT
+Betsy Adams,Parks & Comm Svcs Director,5708.92,0.00,46775.75,1419.18,52484.67,53903.85,2016,,Moreno Valley,PT
+Diane L Dinerstein,Animal Services Asst,34800.58,6.22,9696.72,9189.66,44503.52,53693.18,2016,,Moreno Valley,FT
+Marie Macias,Interim City Clerk,52045.50,819.00,0.00,0.00,52864.50,52864.50,2016,,Moreno Valley,PT
+Yesenia Vasquez,Child Care Site Supervisor,36331.20,264.66,5768.16,9481.53,42364.02,51845.55,2016,,Moreno Valley,FT
+Javier D Jr Ponce,Facilities Maintenance Worker,36332.19,951.07,3192.24,10272.93,40475.50,50748.43,2016,,Moreno Valley,FT
+Perry A Singerman,Building Inspector I I,35133.45,1237.66,4292.55,9601.43,40663.66,50265.09,2016,,Moreno Valley,PT
+Janet Palacio,Sr Recreation Program Leader,36501.90,790.49,2855.84,9527.37,40148.23,49675.60,2016,,Moreno Valley,FT
+Lilyanna C Carrillo Diaz,Child Care Site Supervisor,35839.53,244.84,2875.80,10336.19,38960.17,49296.36,2016,,Moreno Valley,PT
+Arthur L Jr Wilson,Maintenance Worker I I,25714.98,0.00,5646.36,16965.06,31361.34,48326.40,2016,,Moreno Valley,PT
+Anne M Shacklett,Sr Office Asst,33373.83,0.00,5928.24,8704.78,39302.07,48006.85,2016,,Moreno Valley,PT
+Jose J Ramirez,Applications Analyst,28582.40,0.00,2583.71,16444.21,31166.11,47610.32,2016,,Moreno Valley,PT
+Markita Smith,Sr Recreation Program Leader,31370.57,480.09,48.60,15373.75,31899.26,47273.01,2016,,Moreno Valley,FT
+Evelyn Bell,Executive Asst I,5016.20,0.00,40586.84,1256.28,45603.04,46859.32,2016,,Moreno Valley,PT
+John M Hernandez,Maintenance Worker I I,30111.99,95.28,150.00,16096.43,30357.27,46453.70,2016,,Moreno Valley,PT
+Jolene Thierry,Sr Office Asst,27429.63,604.93,40.50,18059.84,28075.06,46134.90,2016,,Moreno Valley,PT
+Roy De Herrera,Parks Maint Worker,23977.28,570.47,166.56,21011.72,24714.31,45726.03,2016,,Moreno Valley,PT
+Rosalba Gudino,Child Care Instructor I I,29239.47,132.25,27.60,16178.20,29399.32,45577.52,2016,,Moreno Valley,PT
+Yxstian A Gutierrez,City Council Member,23211.90,0.00,17763.52,4493.44,40975.42,45468.86,2016,,Moreno Valley,PT
+D. Ladonna Jempson,City Council Member,23611.90,0.00,16600.00,4486.34,40211.90,44698.24,2016,,Moreno Valley,PT
+Victor Arreola,Maintenance Worker I,27522.01,1606.90,2524.20,12002.81,31653.11,43655.92,2016,,Moreno Valley,PT
+Anabella C Villasenor Sanchez,Child Care Site Supervisor,31064.33,559.14,3041.34,8982.82,34664.81,43647.63,2016,,Moreno Valley,PT
+Jesse L Molina,City Council Member,22873.78,0.00,0.00,20472.27,22873.78,43346.05,2016,,Moreno Valley,PT
+Shanikqua G Watkins,Sr Management Analyst,31815.68,0.00,2939.74,8202.65,34755.42,42958.07,2016,,Moreno Valley,PT
+Vanessa Leccese,Sr Administrative Asst,28423.32,0.00,965.60,12931.29,29388.92,42320.21,2016,,Moreno Valley,PT
+Vivette Cortez,Administrative Asst,25671.35,142.92,23.40,15918.08,25837.67,41755.75,2016,,Moreno Valley,PT
+Roxana Loria,Animal Services Asst,28225.21,25.19,1330.88,10321.00,29581.28,39902.28,2016,,Moreno Valley,PT
+Jeffrey Giba,City Council Member,22086.90,0.00,17463.36,161.64,39550.26,39711.90,2016,,Moreno Valley,PT
+Gilbert V Ortiz,Traffic Sign / Marking Tech I,13205.00,0.00,17546.91,8593.20,30751.91,39345.11,2016,,Moreno Valley,PT
+Darlene L Waheed,Child Care Asst,26228.09,75.97,5377.56,7327.11,31681.62,39008.73,2016,,Moreno Valley,FT
+Brigitta Bartha,Principal Accountant,27034.53,0.00,912.49,10298.57,27947.02,38245.59,2016,,Moreno Valley,PT
+Scott Nicholson,Recreation Program Leader,24872.59,270.23,5768.16,6493.22,30910.98,37404.20,2016,,Moreno Valley,FT
+Alejandro Escalera,Maintenance Worker I,23689.84,905.77,1979.92,10804.34,26575.53,37379.87,2016,,Moreno Valley,PT
+George E Price,City Council Member,23611.90,0.00,13288.36,161.64,36900.26,37061.90,2016,,Moreno Valley,PT
+Jerry Milton,Equipment Operator,24543.30,150.07,1078.80,10460.20,25772.17,36232.37,2016,,Moreno Valley,PT
+Ceceilia L Palencia Thompson,Child Care Asst,21207.78,455.84,77.40,13202.64,21741.02,34943.66,2016,,Moreno Valley,PT
+Mitchell Quinonez,Recreation Program Leader,24054.64,767.71,3717.84,6379.96,28540.19,34920.15,2016,,Moreno Valley,PT
+Alexondra Alvarado,Recreation Program Leader,19403.53,367.99,5.76,14434.49,19777.28,34211.77,2016,,Moreno Valley,PT
+Leslie Keane,Interim City Clerk,33540.00,540.00,0.00,0.00,34080.00,34080.00,2016,,Moreno Valley,PT
+Yeshialem Mengistu,Asst Crossing Guard Spvr,22447.95,0.00,5768.16,5853.32,28216.11,34069.43,2016,,Moreno Valley,PT
+Samantha J Bloch,Management Aide,18564.27,0.00,17.40,15191.80,18581.67,33773.47,2016,,Moreno Valley,PT
+Shohreh Nourmohammadian,Interim CP Manager/Asst City Eng,33158.69,439.67,0.00,0.00,33598.36,33598.36,2016,,Moreno Valley,PT
+Juan Marquez,Temp Code Compliance Officer I,33435.91,0.00,0.00,0.00,33435.91,33435.91,2016,,Moreno Valley,PT
+Candice Y Thomas,Recreation Program Leader,22068.82,358.26,3830.16,5757.81,26257.24,32015.05,2016,,Moreno Valley,PT
+Megan Palau,Animal Care Technician,22528.30,600.96,3896.75,4594.26,27026.01,31620.27,2016,,Moreno Valley,PT
+Janell Gilbert,Financial Resources Division Mgr,22137.25,0.00,2544.42,6900.14,24681.67,31581.81,2016,,Moreno Valley,PT
+Ryan Jackson,Temp Office Asst,24759.97,0.00,0.00,6445.02,24759.97,31204.99,2016,,Moreno Valley,PT
+Regina Flores,Administrative Asst,25820.43,265.99,2345.13,2722.65,28431.55,31154.20,2016,,Moreno Valley,PT
+Rolanda Pickett,Asst Buyer,21141.81,0.00,3740.05,5979.44,24881.86,30861.30,2016,,Moreno Valley,PT
+Maria Villalobos,Recreation Program Leader,21409.19,336.60,3513.86,5030.70,25259.65,30290.35,2016,,Moreno Valley,PT
+Yessenia Barajas,Administrative Asst,20371.61,514.81,2.25,8769.74,20888.67,29658.41,2016,,Moreno Valley,PT
+Brandon M Miranda,Traffic Sign / Marking Tech I,19358.39,0.00,4049.50,5311.25,23407.89,28719.14,2016,,Moreno Valley,PT
+Aminah Mears,Recycling Specialist,18483.35,1178.78,477.76,8084.27,20139.89,28224.16,2016,,Moreno Valley,PT
+Rosa S Washington,Recycling Specialist,18771.36,0.00,3180.08,5201.68,21951.44,27153.12,2016,,Moreno Valley,PT
+Khrystyne H Villalobos,Animal Services Asst,17541.32,17.76,4331.16,5145.41,21890.24,27035.65,2016,,Moreno Valley,PT
+Lee Ann Florez,Management Asst,26106.20,719.07,0.00,0.00,26825.27,26825.27,2016,,Moreno Valley,PT
+Veronica M Torres,Child Care Asst,18052.95,149.43,3825.12,4719.35,22027.50,26746.85,2016,,Moreno Valley,PT
+Patricia A Medina,Management Aide,19234.88,0.00,2266.23,5232.05,21501.11,26733.16,2016,,Moreno Valley,PT
+Raul Lopez,Maintenance Worker I,17667.68,28.81,3989.20,4925.73,21685.69,26611.42,2016,,Moreno Valley,PT
+Mario J Zavala,Maintenance Worker I,16025.48,699.78,1015.26,7565.37,17740.52,25305.89,2016,,Moreno Valley,PT
+Fallon T Romano,Child Care Asst,14615.32,58.10,3825.12,3824.13,18498.54,22322.67,2016,,Moreno Valley,PT
+Karen R Butler,Animal Care Technician,13827.15,0.00,2388.52,5906.54,16215.67,22122.21,2016,,Moreno Valley,PT
+Eleanor Carter,Temp Office Asst,20622.38,0.00,0.00,0.00,20622.38,20622.38,2016,,Moreno Valley,PT
+Daryl F Brawley,Animal Svcs Field Supervisor,12671.17,0.00,95.46,7845.98,12766.63,20612.61,2016,,Moreno Valley,PT
+Mark Vigil,Maintenance Worker I I,4340.62,717.80,13020.26,2002.91,18078.68,20081.59,2016,,Moreno Valley,PT
+Brian Ware,Temp Management Analyst,18939.14,0.00,0.00,0.00,18939.14,18939.14,2016,,Moreno Valley,PT
+Ruben F Reyes,Maintenance Worker I,9754.64,770.79,2746.28,4448.49,13271.71,17720.20,2016,,Moreno Valley,PT
+Carla Wendelborn,Child Care Site Supervisor,8865.06,0.00,3484.47,5337.40,12349.53,17686.93,2016,,Moreno Valley,PT
+Martin Matus,Temp Laborer,17568.70,52.29,0.00,0.00,17620.99,17620.99,2016,,Moreno Valley,PT
+Darlene Green,Crossing Guard,14060.41,0.00,0.00,3443.64,14060.41,17504.05,2016,,Moreno Valley,PT
+Jessica E Antunez,Child Care Instructor I,12182.74,31.37,1916.88,3313.21,14130.99,17444.20,2016,,Moreno Valley,PT
+Rachel M Cuevas,Temp Animal Care Technician,16923.10,0.00,0.00,0.00,16923.10,16923.10,2016,,Moreno Valley,PT
+Aron Oda,Temp Intern II,16823.03,0.00,0.00,0.00,16823.03,16823.03,2016,,Moreno Valley,PT
+Ayla Cuevas,Temp Code Compliance Officer I,16426.17,0.00,0.00,0.00,16426.17,16426.17,2016,,Moreno Valley,PT
+Jessica De La Torre,Temp Recreation Aide,15505.17,60.20,290.88,0.00,15856.25,15856.25,2016,,Moreno Valley,PT
+Charles Alexander,Temp Recreation Aide,12414.15,0.00,0.00,3233.39,12414.15,15647.54,2016,,Moreno Valley,PT
+Danny K Jr Cummings,Telecomm Technician,10808.90,0.00,1422.70,3103.24,12231.60,15334.84,2016,,Moreno Valley,PT
+Kimberly C Sutherland,Public Info/Intergov Relat Offcr,11150.72,0.00,901.30,3157.26,12052.02,15209.28,2016,,Moreno Valley,PT
+Azzie L Ward,Crossing Guard,12034.51,0.00,0.00,2936.25,12034.51,14970.76,2016,,Moreno Valley,PT
+Jose Rendon,Temp Recreation Aide,14892.80,11.81,0.00,0.00,14904.61,14904.61,2016,,Moreno Valley,PT
+Nadine M Phelps,Temp Office Asst,14216.54,679.68,0.00,0.00,14896.22,14896.22,2016,,Moreno Valley,PT
+Brian Stewart,Crossing Guard,11773.27,0.00,0.00,2864.61,11773.27,14637.88,2016,,Moreno Valley,PT
+Alma P Hernandez,Crossing Guard,11627.51,0.00,0.00,2824.44,11627.51,14451.95,2016,,Moreno Valley,PT
+Charlie Sr James,Crossing Guard,11605.54,0.00,0.00,2818.99,11605.54,14424.53,2016,,Moreno Valley,PT
+Edward Fife,Crossing Guard,11528.48,0.00,0.00,2797.91,11528.48,14326.39,2016,,Moreno Valley,PT
+Paula Diaz,Crossing Guard,11516.93,0.00,0.00,2788.87,11516.93,14305.80,2016,,Moreno Valley,PT
+Thanin Wijarnjoragij,Temp Intern II,14171.52,0.00,0.00,0.00,14171.52,14171.52,2016,,Moreno Valley,PT
+Olga Serna,Crossing Guard,11374.87,0.00,0.00,2746.81,11374.87,14121.68,2016,,Moreno Valley,PT
+Erika Lamas,Temp Recreation Aide,14015.70,60.20,0.00,0.00,14075.90,14075.90,2016,,Moreno Valley,PT
+Christopher Spence,Equipment Operator,4806.42,0.00,2611.29,6590.35,7417.71,14008.06,2016,,Moreno Valley,PT
+Caleb Enriquez,Temp Code Compliance Officer I,13939.93,0.00,0.00,0.00,13939.93,13939.93,2016,,Moreno Valley,PT
+Martha Acosta,Management Analyst,8680.77,0.00,1405.23,3734.57,10086.00,13820.57,2016,,Moreno Valley,PT
+Charlestine Brazile,Crossing Guard,11115.91,0.00,0.00,2687.02,11115.91,13802.93,2016,,Moreno Valley,PT
+Deborah Spikes,Temp Office Asst,13761.07,0.00,0.00,0.00,13761.07,13761.07,2016,,Moreno Valley,PT
+Janelle Blackwell,Temp Recreation Aide,13695.36,45.00,0.00,0.00,13740.36,13740.36,2016,,Moreno Valley,PT
+Rina R Mitchell,Temp Recreation Aide,13720.02,15.75,0.00,0.00,13735.77,13735.77,2016,,Moreno Valley,PT
+Laurette Mosley,Crossing Guard,11010.91,0.00,0.00,2663.65,11010.91,13674.56,2016,,Moreno Valley,PT
+Amy Nesmith,Management Aide,8965.66,0.00,2339.93,2235.24,11305.59,13540.83,2016,,Moreno Valley,PT
+Devin Perdomo,Temp Animal Care Technician,13260.29,139.72,0.00,0.00,13400.01,13400.01,2016,,Moreno Valley,PT
+Michael Hall,Temp Recreation Aide,13387.09,0.00,0.00,0.00,13387.09,13387.09,2016,,Moreno Valley,PT
+Virginia R Celis-Garibay,Temp Recreation Aide,13025.13,0.00,290.88,0.00,13316.01,13316.01,2016,,Moreno Valley,PT
+Robert Russell,Telecomm Technician,7485.31,42.56,257.00,5240.89,7784.87,13025.76,2016,,Moreno Valley,PT
+Alejandro Urbina,Temp Laborer,12939.42,0.00,0.00,0.00,12939.42,12939.42,2016,,Moreno Valley,PT
+Sijifredo Fernandez,Temp Intern I,12814.87,0.00,0.00,0.00,12814.87,12814.87,2016,,Moreno Valley,PT
+Mark Kirks,Temp Intern II,10145.85,0.00,0.00,2633.87,10145.85,12779.72,2016,,Moreno Valley,PT
+Beatriz Diaz,Temp Recreation Aide,12770.74,0.00,0.00,0.00,12770.74,12770.74,2016,,Moreno Valley,PT
+Shanelle R Anderson,Temp Recreation Aide,12730.47,0.00,0.00,0.00,12730.47,12730.47,2016,,Moreno Valley,PT
+Kassandra Leyva,Temp Recreation Aide,12661.80,0.00,0.00,0.00,12661.80,12661.80,2016,,Moreno Valley,PT
+Marian Butler,Temp Office Asst,12111.36,0.00,0.00,0.00,12111.36,12111.36,2016,,Moreno Valley,PT
+Heather M Knight,Temp Recreation Aide,11999.25,48.75,0.00,0.00,12048.00,12048.00,2016,,Moreno Valley,PT
+Justin J Fierro,Temp Recreation Aide,11987.38,48.75,0.00,0.00,12036.13,12036.13,2016,,Moreno Valley,PT
+Imani N Davis,Temp Recreation Aide,12004.45,7.88,0.00,0.00,12012.33,12012.33,2016,,Moreno Valley,PT
+Casaundra L Beamon,Temp Office Asst,11390.80,338.70,0.00,0.00,11729.50,11729.50,2016,,Moreno Valley,PT
+Shandelle D Anderson,Temp Recreation Aide,11364.36,0.00,0.00,0.00,11364.36,11364.36,2016,,Moreno Valley,PT
+Alyssa Rico,Community Services Coordinator,7469.83,0.00,471.92,3252.36,7941.75,11194.11,2016,,Moreno Valley,PT
+Mirta Jaimes,Crossing Guard,11165.85,0.00,0.00,0.00,11165.85,11165.85,2016,,Moreno Valley,PT
+Marissa Honrada,Temp Recreation Aide,11100.89,0.00,0.00,0.00,11100.89,11100.89,2016,,Moreno Valley,PT
+Mark Bryant,Crossing Guard,11070.86,0.00,0.00,0.00,11070.86,11070.86,2016,,Moreno Valley,PT
+Lollita F Nasser,Crossing Guard,10994.60,0.00,0.00,0.00,10994.60,10994.60,2016,,Moreno Valley,PT
+Monica Luna,Temp Intern I,10973.67,0.00,0.00,0.00,10973.67,10973.67,2016,,Moreno Valley,PT
+Cecilia Montoya,Child Care Instructor I,7508.14,0.00,1276.84,2041.91,8784.98,10826.89,2016,,Moreno Valley,PT
+Donna D Kukrall,Temp Office Asst,10732.22,0.00,0.00,0.00,10732.22,10732.22,2016,,Moreno Valley,PT
+Alice Ferguson,Crossing Guard,10722.03,0.00,0.00,0.00,10722.03,10722.03,2016,,Moreno Valley,PT
+Erin W Weaver,Temp Office Asst,10413.19,210.86,0.00,0.00,10624.05,10624.05,2016,,Moreno Valley,PT
+Maranda Bates,Crossing Guard,10611.47,0.00,0.00,0.00,10611.47,10611.47,2016,,Moreno Valley,PT
+Mercedes Pantoja,Crossing Guard,10601.22,0.00,0.00,0.00,10601.22,10601.22,2016,,Moreno Valley,PT
+Luis Pena,Crossing Guard,10513.10,0.00,0.00,0.00,10513.10,10513.10,2016,,Moreno Valley,PT
+Arelia Rodriguez,Crossing Guard,10510.60,0.00,0.00,0.00,10510.60,10510.60,2016,,Moreno Valley,PT
+Eddie Torres,Temp Recreation Aide,10478.22,0.00,0.00,0.00,10478.22,10478.22,2016,,Moreno Valley,PT
+Marisol Jaimes,Crossing Guard,10383.91,0.00,0.00,0.00,10383.91,10383.91,2016,,Moreno Valley,PT
+Jon Chastine,Temp Recreation Aide,10364.87,0.00,0.00,0.00,10364.87,10364.87,2016,,Moreno Valley,PT
+Moren A Meza,Crossing Guard,10271.59,0.00,0.00,0.00,10271.59,10271.59,2016,,Moreno Valley,PT
+Robert Mccoy,Crossing Guard,10230.70,0.00,0.00,0.00,10230.70,10230.70,2016,,Moreno Valley,PT
+Beverly Barganier,Crossing Guard,10230.10,0.00,0.00,0.00,10230.10,10230.10,2016,,Moreno Valley,PT
+Maria Alvarez,Crossing Guard,10077.50,0.00,0.00,0.00,10077.50,10077.50,2016,,Moreno Valley,PT
+Carmen A Pickersgill,Crossing Guard,10010.00,0.00,0.00,0.00,10010.00,10010.00,2016,,Moreno Valley,PT
+Jerardo Espinoza,Maintenance Worker I,6270.84,0.00,609.52,3007.41,6880.36,9887.77,2016,,Moreno Valley,PT
+Alex Vasquez,Temp Code Compliance Officer I,9488.26,0.00,0.00,0.00,9488.26,9488.26,2016,,Moreno Valley,PT
+Joseph D Huhn,Facilities Maintenance Spvr,6725.11,0.00,220.24,2500.61,6945.35,9445.96,2016,,Moreno Valley,PT
+Morgan Pollard,Temp Recreation Aide,9408.93,0.00,0.00,0.00,9408.93,9408.93,2016,,Moreno Valley,PT
+Jonathan Chavez,Temp Recreation Aide,9214.55,0.00,0.00,0.00,9214.55,9214.55,2016,,Moreno Valley,PT
+Anna Watz,Crossing Guard,9138.96,0.00,74.34,0.00,9213.30,9213.30,2016,,Moreno Valley,PT
+Jourdan Thomas,Temp Intern I,9012.85,0.00,0.00,0.00,9012.85,9012.85,2016,,Moreno Valley,PT
+Carlos Sanchez,Temp Intern I,8869.87,0.00,0.00,0.00,8869.87,8869.87,2016,,Moreno Valley,PT
+Emawne Brown,Temp Recreation Aide,8629.93,26.25,0.00,0.00,8656.18,8656.18,2016,,Moreno Valley,PT
+Geronimo Chavez,Temp Recreation Aide,8650.09,0.00,0.00,0.00,8650.09,8650.09,2016,,Moreno Valley,PT
+Miriam Barragan,Temp Recreation Aide,8608.27,0.00,0.00,0.00,8608.27,8608.27,2016,,Moreno Valley,PT
+Jeltz K Walker,Temp Recreation Aide,8560.62,0.00,0.00,0.00,8560.62,8560.62,2016,,Moreno Valley,PT
+Shayne J Bradshaw,Temp Intern II,8471.10,0.00,0.00,0.00,8471.10,8471.10,2016,,Moreno Valley,PT
+Lorenzo Soriano,Temp Recreation Aide,8223.77,0.00,0.00,0.00,8223.77,8223.77,2016,,Moreno Valley,PT
+Ana Lilly,Temp Intern I,7841.80,0.00,0.00,0.00,7841.80,7841.80,2016,,Moreno Valley,PT
+Dawn C Harris,Temp Office Asst,7756.47,0.00,0.00,0.00,7756.47,7756.47,2016,,Moreno Valley,PT
+Guillermo Mena,Alternate Crossing Guard,7515.00,0.00,0.00,0.00,7515.00,7515.00,2016,,Moreno Valley,PT
+Michael Ternoir,Temp Recreation Aide,7385.74,0.00,0.00,0.00,7385.74,7385.74,2016,,Moreno Valley,PT
+Roderick Tatum,Temp Recreation Aide,5816.43,0.00,0.00,1537.34,5816.43,7353.77,2016,,Moreno Valley,PT
+Alejandra Alfaro,Temp Recreation Aide,7309.00,0.00,0.00,0.00,7309.00,7309.00,2016,,Moreno Valley,PT
+Carlos Torres,Temp Recreation Aide,7308.54,0.00,0.00,0.00,7308.54,7308.54,2016,,Moreno Valley,PT
+Christian Delaine,Temp Recreation Aide,7253.04,0.00,0.00,0.00,7253.04,7253.04,2016,,Moreno Valley,PT
+Gideon Salvador,Temp Recreation Aide,7246.50,0.00,0.00,0.00,7246.50,7246.50,2016,,Moreno Valley,PT
+Brittney M Butler,Temp Recreation Aide,7170.00,0.00,0.00,0.00,7170.00,7170.00,2016,,Moreno Valley,PT
+Tsui Li,Temp Intern I,7013.98,0.00,0.00,0.00,7013.98,7013.98,2016,,Moreno Valley,PT
+Alexys M Rodriguez,Temp Recreation Aide,6677.50,0.00,0.00,0.00,6677.50,6677.50,2016,,Moreno Valley,PT
+Mallory Cason,Temp Recreation Aide,6525.00,0.00,0.00,0.00,6525.00,6525.00,2016,,Moreno Valley,PT
+Valonzio K King,Temp Parking Control Officer,6491.87,0.00,0.00,0.00,6491.87,6491.87,2016,,Moreno Valley,PT
+Duane Diffie,Temp Recreation Aide,6238.48,0.00,0.00,0.00,6238.48,6238.48,2016,,Moreno Valley,PT
+Mark Espinoza,Temp Recreation Aide,6187.26,0.00,0.00,0.00,6187.26,6187.26,2016,,Moreno Valley,PT
+Mario M Becerra,Temp Laborer,5911.97,0.00,0.00,0.00,5911.97,5911.97,2016,,Moreno Valley,PT
+Joseph Vigil,Temp Recreation Aide,5850.00,0.00,0.00,0.00,5850.00,5850.00,2016,,Moreno Valley,PT
+Edward Torres,Temp Code Compliance Officer I,4646.90,0.00,0.00,1158.67,4646.90,5805.57,2016,,Moreno Valley,PT
+Nestor Machado,Temp Recreation Aide,5800.00,0.00,0.00,0.00,5800.00,5800.00,2016,,Moreno Valley,PT
+Aleyssa A Gavin,Temp Recreation Aide,5765.00,0.00,0.00,0.00,5765.00,5765.00,2016,,Moreno Valley,PT
+Robert Calderon,Temp Recreation Aide,5759.50,0.00,0.00,0.00,5759.50,5759.50,2016,,Moreno Valley,PT
+Willie Mitchell,Temp Recreation Aide,5735.00,15.00,0.00,0.00,5750.00,5750.00,2016,,Moreno Valley,PT
+Frankie Williams,Crossing Guard,5650.00,0.00,0.00,0.00,5650.00,5650.00,2016,,Moreno Valley,PT
+Beatrice Ontiveros,Temp Recreation Aide,5617.50,0.00,0.00,0.00,5617.50,5617.50,2016,,Moreno Valley,PT
+William W Draper,Temp Recreation Aide,5585.72,0.00,0.00,0.00,5585.72,5585.72,2016,,Moreno Valley,PT
+Reeyad Persaud,Temp Laborer,5556.42,0.00,0.00,0.00,5556.42,5556.42,2016,,Moreno Valley,PT
+Jonathan Diaz,Temp Recreation Aide,5168.06,0.00,0.00,0.00,5168.06,5168.06,2016,,Moreno Valley,PT
+Victoria M Gresham,Crossing Guard,5067.50,0.00,61.00,0.00,5128.50,5128.50,2016,,Moreno Valley,PT
+Sergio Gutierrez,Temp Intern I,5044.54,0.00,0.00,0.00,5044.54,5044.54,2016,,Moreno Valley,PT
+Jasmin Carreon,Temp Recreation Aide,5024.62,0.00,0.00,0.00,5024.62,5024.62,2016,,Moreno Valley,PT
+Betty Withers,Alternate Crossing Guard,4911.28,0.00,0.00,0.00,4911.28,4911.28,2016,,Moreno Valley,PT
+Larry Mills,Temp Code Compliance Officer I,4841.42,0.00,0.00,0.00,4841.42,4841.42,2016,,Moreno Valley,PT
+Sierra Patterson,Temp Recreation Aide,4632.50,0.00,0.00,0.00,4632.50,4632.50,2016,,Moreno Valley,PT
+Andrea Aguilar,Temp Intern I,4590.93,0.00,0.00,0.00,4590.93,4590.93,2016,,Moreno Valley,PT
+Isaac Robles,Temp Recreation Aide,4517.50,0.00,0.00,0.00,4517.50,4517.50,2016,,Moreno Valley,PT
+Manuel Medrano,Temp Recreation Aide,4480.00,0.00,0.00,0.00,4480.00,4480.00,2016,,Moreno Valley,PT
+Vanessa A Rosales,Temp Recreation Aide,4460.00,3.75,0.00,0.00,4463.75,4463.75,2016,,Moreno Valley,PT
+Amy Rizzo,Temp Recreation Aide,3485.45,0.00,0.00,869.97,3485.45,4355.42,2016,,Moreno Valley,PT
+Daissy Alvarado,Temp Recreation Aide,4201.00,0.00,0.00,0.00,4201.00,4201.00,2016,,Moreno Valley,PT
+Pedro Ambriz,Temp Laborer,3169.56,0.00,0.00,844.23,3169.56,4013.79,2016,,Moreno Valley,PT
+Juan A Aguado,Temp Intern I,3997.71,0.00,0.00,0.00,3997.71,3997.71,2016,,Moreno Valley,PT
+Matthew Mahaffey,Emerg Mgmt & Vol Svc Prog Spec,1925.82,0.00,1211.53,812.01,3137.35,3949.36,2016,,Moreno Valley,PT
+Paul H Jr Smith,Temp Intern II,3919.95,0.00,0.00,0.00,3919.95,3919.95,2016,,Moreno Valley,PT
+Lidia Cobian,Alternate Crossing Guard,3692.50,0.00,0.00,0.00,3692.50,3692.50,2016,,Moreno Valley,PT
+Adriana Castaneda,Temp Office Asst,3517.44,0.00,0.00,0.00,3517.44,3517.44,2016,,Moreno Valley,PT
+Shannon Dill,Temp Intern I,3359.09,0.00,0.00,0.00,3359.09,3359.09,2016,,Moreno Valley,PT
+Jocelyn Rendon,Temp Recreation Aide,3302.50,0.00,0.00,0.00,3302.50,3302.50,2016,,Moreno Valley,PT
+Vickie A Vela,Child Care Instructor I I,1874.34,0.00,174.26,1051.40,2048.60,3100.00,2016,,Moreno Valley,PT
+Denise Beltran,Temp Recreation Aide,2990.88,0.00,0.00,0.00,2990.88,2990.88,2016,,Moreno Valley,PT
+Gabriela Perez,Temp Recreation Aide,2598.26,0.00,323.20,0.00,2921.46,2921.46,2016,,Moreno Valley,PT
+Alexis Brown,Temp Recreation Aide,2832.50,22.50,0.00,0.00,2855.00,2855.00,2016,,Moreno Valley,PT
+Joann Zamora,Temp Recreation Aide,2764.80,0.00,0.00,0.00,2764.80,2764.80,2016,,Moreno Valley,PT
+Diana M Noriega,Temp Recreation Aide,2667.50,0.00,0.00,0.00,2667.50,2667.50,2016,,Moreno Valley,PT
+Gabriela Chavez,Temp Recreation Aide,2645.00,0.00,0.00,0.00,2645.00,2645.00,2016,,Moreno Valley,PT
+Annette Johnson,Alternate Crossing Guard,2640.00,0.00,0.00,0.00,2640.00,2640.00,2016,,Moreno Valley,PT
+Edwar Sissi,Temp Intern I,2461.36,0.00,0.00,0.00,2461.36,2461.36,2016,,Moreno Valley,PT
+Andrew Acevedo,Temp Recreation Aide,1929.56,0.00,0.00,506.07,1929.56,2435.63,2016,,Moreno Valley,PT
+Mary J Ochoa,Temp Recreation Aide,2405.00,0.00,0.00,0.00,2405.00,2405.00,2016,,Moreno Valley,PT
+Hector I Flores,Temp Laborer,2384.31,0.00,0.00,0.00,2384.31,2384.31,2016,,Moreno Valley,PT
+Marissa A Marquez,Temp Recreation Aide,2380.00,0.00,0.00,0.00,2380.00,2380.00,2016,,Moreno Valley,PT
+Tarun Kondabolu,Temp Intern II,2345.93,0.00,0.00,0.00,2345.93,2345.93,2016,,Moreno Valley,PT
+T'asia Julienne,Temp Recreation Aide,2225.00,0.00,0.00,0.00,2225.00,2225.00,2016,,Moreno Valley,PT
+Cynthia Y James,Temp Office Asst,2211.84,0.00,0.00,0.00,2211.84,2211.84,2016,,Moreno Valley,PT
+David Peters,Temp Parking Control Officer,2177.40,0.00,0.00,0.00,2177.40,2177.40,2016,,Moreno Valley,PT
+Noravuth S Tav,Temp Recreation Aide,2109.97,0.00,0.00,0.00,2109.97,2109.97,2016,,Moreno Valley,PT
+James S Jr Thomas,Alternate Crossing Guard,2102.52,0.00,0.00,0.00,2102.52,2102.52,2016,,Moreno Valley,PT
+Kenneth T Wiggins,Temp Recreation Aide,2047.50,0.00,0.00,0.00,2047.50,2047.50,2016,,Moreno Valley,PT
+Bessie Duncan,Crossing Guard,782.85,0.00,1031.91,185.91,1814.76,2000.67,2016,,Moreno Valley,PT
+Vanessa Armas,Temp Recreation Aide,1990.00,0.00,0.00,0.00,1990.00,1990.00,2016,,Moreno Valley,PT
+Marissa Miller,Temp Recreation Aide,1950.00,0.00,0.00,0.00,1950.00,1950.00,2016,,Moreno Valley,PT
+Austin Quinonez,Temp Recreation Aide,1886.08,0.00,0.00,0.00,1886.08,1886.08,2016,,Moreno Valley,PT
+Tufan Sural,Temp Intern II,1865.01,0.00,0.00,0.00,1865.01,1865.01,2016,,Moreno Valley,PT
+Kurtis Duchai,Temp Laborer,1854.46,0.00,0.00,0.00,1854.46,1854.46,2016,,Moreno Valley,PT
+Breeanna Steiger,Alternate Crossing Guard,1842.50,0.00,0.00,0.00,1842.50,1842.50,2016,,Moreno Valley,PT
+Tiffany Willis,Temp Recreation Aide,1635.00,0.00,0.00,0.00,1635.00,1635.00,2016,,Moreno Valley,PT
+Stephanie Ramirez,Temp Recreation Aide,1540.50,0.00,0.00,0.00,1540.50,1540.50,2016,,Moreno Valley,PT
+Victor E Greer,Temp Recreation Aide,1480.00,0.00,0.00,0.00,1480.00,1480.00,2016,,Moreno Valley,PT
+Charity L White,Temp Human Resources Tech,1422.79,0.00,0.00,0.00,1422.79,1422.79,2016,,Moreno Valley,PT
+Justin Jones,Temp Code Compliance Officer I,1113.42,0.00,0.00,277.46,1113.42,1390.88,2016,,Moreno Valley,PT
+Pamela S Brown,Alternate Crossing Guard,1366.89,0.00,0.00,0.00,1366.89,1366.89,2016,,Moreno Valley,PT
+Roberto A Luera,Temp Parking Control Officer,1354.82,0.00,0.00,0.00,1354.82,1354.82,2016,,Moreno Valley,PT
+Annie Mcmillan,Alternate Crossing Guard,1297.50,0.00,0.00,0.00,1297.50,1297.50,2016,,Moreno Valley,PT
+Shaleah Thomas,Temp Recreation Aide,1255.74,0.00,0.00,0.00,1255.74,1255.74,2016,,Moreno Valley,PT
+Lissette Rayas,Temp Animal Care Technician,998.00,0.00,0.00,249.00,998.00,1247.00,2016,,Moreno Valley,PT
+Jayson Miller,Exec Asst to Mayor / City Cncl,1207.50,0.00,0.00,0.00,1207.50,1207.50,2016,,Moreno Valley,PT
+Brian R Lowell,Planning Commissioner,1200.00,0.00,0.00,0.00,1200.00,1200.00,2016,,Moreno Valley,15
+Marilyn Avatefi,Temp Parking Control Officer,914.52,0.00,0.00,227.34,914.52,1141.86,2016,,Moreno Valley,PT
+Jeffrey D Sims,Planning Commissioner,1100.00,0.00,0.00,0.00,1100.00,1100.00,2016,,Moreno Valley,15
+Ray L Baker,Planning Commissioner,1100.00,0.00,0.00,0.00,1100.00,1100.00,2016,,Moreno Valley,15
+Andre Johnson,Temp Recreation Aide,862.87,0.00,0.00,215.23,862.87,1078.10,2016,,Moreno Valley,PT
+Andres Vargas,Temp Recreation Aide,1060.00,0.00,0.00,0.00,1060.00,1060.00,2016,,Moreno Valley,PT
+Victoria Baca,City Council Member,808.15,0.00,0.00,219.78,808.15,1027.93,2016,,Moreno Valley,PT
+Patricia Korzec,Planning Commissioner,1000.00,0.00,0.00,0.00,1000.00,1000.00,2016,,Moreno Valley,15
+Jeffrey M Barnes,Planning Commissioner,1000.00,0.00,0.00,0.00,1000.00,1000.00,2016,,Moreno Valley,15
+Whitney Thorn,Temp Intern II,922.67,0.00,0.00,0.00,922.67,922.67,2016,,Moreno Valley,PT
+Eugene L Knox,Temp Recreation Aide,920.50,0.00,0.00,0.00,920.50,920.50,2016,,Moreno Valley,PT
+Adelfo Melloni,Temp Intern I,908.51,0.00,0.00,0.00,908.51,908.51,2016,,Moreno Valley,PT
+Carlos Ramirez,Planning Commissioner,900.00,0.00,0.00,0.00,900.00,900.00,2016,,Moreno Valley,15
+Anna M Chacon,Temp Office Asst,821.77,0.00,0.00,0.00,821.77,821.77,2016,,Moreno Valley,PT
+David Marquez,City Council Member,508.15,0.00,300.00,0.00,808.15,808.15,2016,,Moreno Valley,PT
+Erlan Gonzalez,Alternate Planning Commissioner,800.00,0.00,0.00,0.00,800.00,800.00,2016,,Moreno Valley,15
+Blanca Ortiz,Temp Recreation Aide,790.00,0.00,0.00,0.00,790.00,790.00,2016,,Moreno Valley,PT
+Mary Van Natta,Planning Commissioner,700.00,0.00,0.00,0.00,700.00,700.00,2016,,Moreno Valley,15
+Lori Nickel,Alternate Planning Commissioner,700.00,0.00,0.00,0.00,700.00,700.00,2016,,Moreno Valley,15
+Nicole L Toro,Temp Recreation Aide,696.40,0.00,0.00,0.00,696.40,696.40,2016,,Moreno Valley,PT
+Norrita R Lyles,Temp Sr Payroll Technician,606.92,0.00,0.00,0.00,606.92,606.92,2016,,Moreno Valley,PT
+Davian A Sandoval,Alternate Crossing Guard,507.50,0.00,0.00,0.00,507.50,507.50,2016,,Moreno Valley,PT
+Jessica Bugarin-Carranza,Temp Recreation Aide,500.00,0.00,0.00,0.00,500.00,500.00,2016,,Moreno Valley,PT
+Paul Jr Sanchez,Alternate Crossing Guard,447.50,0.00,0.00,0.00,447.50,447.50,2016,,Moreno Valley,PT
+Kellee N Fiddler,Alternate Crossing Guard,432.50,0.00,0.00,0.00,432.50,432.50,2016,,Moreno Valley,PT
+Alexandra Lemond,Temp Recreation Aide,399.00,0.00,0.00,0.00,399.00,399.00,2016,,Moreno Valley,PT
+Marie Rivera,Temp Recreation Aide,373.41,0.00,0.00,0.00,373.41,373.41,2016,,Moreno Valley,PT
+Thanya Espericueta,Temp Intern I,358.62,0.00,0.00,0.00,358.62,358.62,2016,,Moreno Valley,PT
+Edgar Gutierrez,Temp Intern I,346.69,0.00,0.00,0.00,346.69,346.69,2016,,Moreno Valley,PT
+Jonathan L Pouchie,Temp Recreation Aide,325.00,0.00,0.00,0.00,325.00,325.00,2016,,Moreno Valley,PT
+Alyssa M Ramirez,Temp Recreation Aide,320.00,0.00,0.00,0.00,320.00,320.00,2016,,Moreno Valley,PT
+Jovita Mota,Temp Recreation Aide,285.00,0.00,0.00,0.00,285.00,285.00,2016,,Moreno Valley,PT
+Darlene D Gamboa,Alternate Crossing Guard,277.50,0.00,0.00,0.00,277.50,277.50,2016,,Moreno Valley,PT
+Steven M Arriola,Temp Laborer,264.92,0.00,0.00,0.00,264.92,264.92,2016,,Moreno Valley,PT
+Aslan Pishdad,Temp Intern II,68.71,0.00,0.00,0.00,68.71,68.71,2016,,Moreno Valley,PT
+Brian Reyes,Temp Recreation Aide,60.00,0.00,0.00,0.00,60.00,60.00,2016,,Moreno Valley,PT
+Columbus Allen,Temp Office Asst,25.40,0.00,0.00,0.00,25.40,25.40,2016,,Moreno Valley,PT
+Erika Y Shelton,Temp Recreation Aide,20.00,0.00,0.00,0.00,20.00,20.00,2016,,Moreno Valley,PT

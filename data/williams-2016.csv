@@ -1,0 +1,41 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Frank M Kennedy,City Administrator,109825.00,0.00,0.00,28948.00,109825.00,138773.00,2016,,Williams,FT
+Rex J Greenbaum,Finance Officer,104653.00,0.00,0.00,31495.00,104653.00,136148.00,2016,,Williams,FT
+John K Osbourn,Police Chief,89325.00,0.00,0.00,39877.00,89325.00,129202.00,2016,,Williams,FT
+Steven Woldanski,Sergeant,74035.00,15452.00,0.00,37153.00,89487.00,126640.00,2016,,Williams,FT
+Edwin E Anderson,Sergeant,77782.00,7833.00,0.00,36648.00,85615.00,122263.00,2016,,Williams,FT
+Anna Monica Stegall,City Planner,90464.00,0.00,0.00,28434.00,90464.00,118898.00,2016,,Williams,FT
+Daniel Mata,Police Officer,65931.00,9001.00,0.00,33261.00,74932.00,108193.00,2016,,Williams,FT
+Peter Garcia,Wastewater Operator 3,63295.00,18712.00,0.00,24784.00,82007.00,106791.00,2016,,Williams,FT
+Jennifer D Parker,Police Officer,65931.00,5709.00,0.00,32810.00,71640.00,104450.00,2016,,Williams,FT
+Greg G Endeman,Sewer Operator Supervisor,67682.00,7641.00,0.00,25948.00,75323.00,101271.00,2016,,Williams,FT
+Michael D Mitchell,Water Foreman,64706.00,6455.00,0.00,25189.00,71161.00,96350.00,2016,,Williams,FT
+Beverly J Maxey,Police Services Manager,69304.00,0.00,0.00,25752.00,69304.00,95056.00,2016,,Williams,FT
+Eileen M Niblack,Accounting Specialist 3,61911.00,7269.00,0.00,24915.00,69180.00,94095.00,2016,,Williams,FT
+John T Benson,Public Works Superintendent,65447.00,0.00,0.00,26014.00,65447.00,91461.00,2016,,Williams,FT
+Anahi Garcia,Accounting Specialist 2,58640.00,3400.00,0.00,24006.00,62040.00,86046.00,2016,,Williams,FT
+Ivan H Maldonado,Police Officer,53744.00,0.00,0.00,28829.00,53744.00,82573.00,2016,,Williams,FT
+Eduardo Barajas,Police Officer,52002.00,0.00,0.00,28086.00,52002.00,80088.00,2016,,Williams,FT
+Esther Corona,Police Service Technician,55816.00,0.00,0.00,24169.00,55816.00,79985.00,2016,,Williams,FT
+Glen A McLaughlin,Water Operator,54230.00,0.00,0.00,23932.00,54230.00,78162.00,2016,,Williams,FT
+Erik M Farias,Police Officer,51754.00,0.00,0.00,25680.00,51754.00,77434.00,2016,,Williams,FT
+Christopher M Miller,Police Officer,49425.00,0.00,0.00,27689.00,49425.00,77114.00,2016,,Williams,FT
+Lourdes L Hernandez,Maintenance Worker,48005.00,6085.00,0.00,22810.00,54090.00,76900.00,2016,,Williams,FT
+Vianey Velasquez,Administrative Secretary,51928.00,0.00,0.00,23868.00,51928.00,75796.00,2016,,Williams,FT
+Mariana Pineda,City Clerk,52814.00,0.00,0.00,21678.00,52814.00,74492.00,2016,,Williams,FT
+Williams R Bowen,Maintenance Worker,48005.00,2570.00,0.00,23417.00,50575.00,73992.00,2016,,Williams,FT
+Robert J Alvernaz,Maintenance Worker,48005.00,1945.00,0.00,22484.00,49950.00,72434.00,2016,,Williams,FT
+Nick Thompson,Maintenance Worker,47092.00,0.00,0.00,23325.00,47092.00,70417.00,2016,,Williams,FT
+Tracy L Bybee,Administration,46895.00,0.00,0.00,20996.00,46895.00,67891.00,2016,,Williams,FT
+Victoria Bonilla,Police Officer,43483.00,0.00,0.00,24380.00,43483.00,67863.00,2016,,Williams,FT
+Sandeep S Grewal,Police Officer,39779.00,0.00,0.00,22570.00,39779.00,62349.00,2016,,Williams,PT
+David B Soares,Police Officer,32426.00,0.00,0.00,24661.00,32426.00,57087.00,2016,,Williams,PT
+Jack R McDade,Maintenance Worker,20455.00,0.00,0.00,18715.00,20455.00,39170.00,2016,,Williams,PT
+Joseph S Bowers,Maintenance Worker,13115.00,0.00,0.00,17807.00,13115.00,30922.00,2016,,Williams,PT
+Deborah J Rich,Building Inspector,12631.00,0.00,0.00,18036.00,12631.00,30667.00,2016,,Williams,PT
+Alfred Sellers,Mayor,4800.00,0.00,0.00,600.00,4800.00,5400.00,2016,,Williams,PT
+Roberto Mendoza,Council Member,3600.00,0.00,0.00,600.00,3600.00,4200.00,2016,,Williams,PT
+Jose Santos Jauregui,Council Member,3600.00,0.00,0.00,600.00,3600.00,4200.00,2016,,Williams,PT
+Kent S Boes,Council Member,3600.00,0.00,0.00,600.00,3600.00,4200.00,2016,,Williams,PT
+Charles Bergson,Council Member,3600.00,0.00,0.00,600.00,3600.00,4200.00,2016,,Williams,PT
+John Jr. Troughton,Council Member,3600.00,0.00,0.00,600.00,3600.00,4200.00,2016,,Williams,PT

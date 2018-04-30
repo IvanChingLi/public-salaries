@@ -1,0 +1,804 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Richard Haydon,City Manager,216796.00,0.00,53095.00,106937.00,269891.00,376828.00,2016,,Santa Maria,FT
+Gilbert Trujillo,City Attorney,194930.00,0.00,47420.00,79356.00,242350.00,321706.00,2016,,Santa Maria,FT
+Thomas Crakes,Fire Battalion Chief,110571.00,96749.00,12081.00,43012.00,219401.00,262413.00,2016,,Santa Maria,FT
+Anthony Morales,Fire Captain,95230.00,96897.00,18339.00,40337.00,210466.00,250803.00,2016,,Santa Maria,FT
+Ralph Martin,Chief of Police,192556.00,0.00,22722.00,34200.00,215278.00,249478.00,2016,,Santa Maria,FT
+Kendall Greene,Police Division Commander,147718.00,0.00,18849.00,76558.00,166567.00,243125.00,2016,,Santa Maria,FT
+Alexander Posada,Director of Recreation & Parks,159100.00,0.00,28528.00,55492.00,187628.00,243120.00,2016,,Santa Maria,FT
+James Clayton,Fire Captain,98778.00,82378.00,19914.00,41688.00,201070.00,242758.00,2016,,Santa Maria,FT
+Lawrence Appel,Director of Community Development,149190.00,0.00,25824.00,67401.00,175014.00,242415.00,2016,,Santa Maria,FT
+Shad Springer,Director of Utilities,155022.00,0.00,25371.00,56500.00,180393.00,236893.00,2016,,Santa Maria,FT
+Evan Scott,Fire Captain,96792.00,78333.00,19552.00,40879.00,194677.00,235556.00,2016,,Santa Maria,FT
+Michael Barneich,Fire Battalion Chief,125463.00,39768.00,18338.00,51029.00,183569.00,234598.00,2016,,Santa Maria,FT
+John Laframboise,Fire Captain,96147.00,77725.00,8236.00,48793.00,182108.00,230901.00,2016,,Santa Maria,FT
+Michael Farmer,Fire Battalion Chief,99482.00,67934.00,19083.00,41124.00,186499.00,227623.00,2016,,Santa Maria,PT
+Steven Kahn,Director of Public Works- City Engr,155276.00,0.00,17652.00,52947.00,172928.00,225875.00,2016,,Santa Maria,FT
+Russell Mengel Ii,Police Sergeant,104976.00,50073.00,26062.00,43263.00,181111.00,224374.00,2016,,Santa Maria,FT
+Chad Wennerstrom,Fire Captain,98779.00,73758.00,12298.00,38291.00,184835.00,223126.00,2016,,Santa Maria,FT
+Matthew Lesage,Fire Engineer,86761.00,78653.00,18954.00,37167.00,184368.00,221535.00,2016,,Santa Maria,FT
+Mark Schnorf,Fire Captain,98503.00,56960.00,20973.00,42016.00,176436.00,218452.00,2016,,Santa Maria,FT
+Teri Maa,Information Technology Manager,140581.00,0.00,19866.00,57772.00,160447.00,218219.00,2016,,Santa Maria,FT
+Leonard Champion,Fire Chief,106034.00,45695.00,8653.00,55585.00,160382.00,215967.00,2016,,Santa Maria,PT
+Anthony Clayburg,Fire Battalion Chief,93581.00,49773.00,19706.00,52887.00,163060.00,215947.00,2016,,Santa Maria,PT
+Daniel Cohen,Police Lieutenant,125550.00,4543.00,32005.00,52044.00,162098.00,214142.00,2016,,Santa Maria,FT
+Michael Huffman,Police Corporal,88638.00,54769.00,29101.00,39060.00,172508.00,211568.00,2016,,Santa Maria,FT
+John Acosta,Fire Engineer,84911.00,73435.00,16726.00,36315.00,175072.00,211387.00,2016,,Santa Maria,FT
+Jeffrey Clarin,Utilities Manager/Deputy Director,136325.00,0.00,10968.00,63560.00,147293.00,210853.00,2016,,Santa Maria,FT
+Ricardo Arias,Police Officer,75450.00,73447.00,16147.00,43336.00,165044.00,208380.00,2016,,Santa Maria,FT
+Mary Housel,City Librarian,155968.00,0.00,13752.00,37421.00,169720.00,207141.00,2016,,Santa Maria,FT
+Douglas Bedell,Fire Captain,85933.00,50617.00,13419.00,50737.00,149969.00,200706.00,2016,,Santa Maria,FT
+Jason Stilwell,Deputy City Manager,135182.00,0.00,15606.00,49447.00,150788.00,200235.00,2016,,Santa Maria,FT
+John Sabedra,Fire Engineer,73916.00,71550.00,9827.00,44746.00,155293.00,200039.00,2016,,Santa Maria,FT
+Phillip Hansen,Police Commander,163119.00,0.00,19159.00,17468.00,182278.00,199746.00,2016,,Santa Maria,FT
+Jose De Leija Jr,Police Officer,73328.00,53246.00,27462.00,45614.00,154036.00,199650.00,2016,,Santa Maria,FT
+Ronald Butterfield,Fire Engineer,89700.00,52538.00,11256.00,45057.00,153494.00,198551.00,2016,,Santa Maria,FT
+Brett Smith,Fire Captain,96630.00,43384.00,17702.00,40401.00,157716.00,198117.00,2016,,Santa Maria,FT
+Marc Schneider,Police Lieutenant,112257.00,2550.00,23184.00,59003.00,137991.00,196994.00,2016,,Santa Maria,FT
+Shannon Sweeney,Water Resources Manager,115980.00,0.00,19775.00,60468.00,135755.00,196223.00,2016,,Santa Maria,FT
+Mark Norling,Police Lieutenant,111793.00,3642.00,20586.00,59698.00,136021.00,195719.00,2016,,Santa Maria,FT
+Peter Gilli,Planning Division Manager,139234.00,0.00,7347.00,47616.00,146581.00,194197.00,2016,,Santa Maria,FT
+Philip Sinco,Assistant City Attorney,132987.00,0.00,1860.00,58660.00,134847.00,193507.00,2016,,Santa Maria,FT
+Jesus Garcia,Police Officer,82224.00,50843.00,17777.00,42051.00,150844.00,192895.00,2016,,Santa Maria,FT
+Jack Dunn Iii,Police Lieutenant,119988.00,0.00,23523.00,49228.00,143511.00,192739.00,2016,,Santa Maria,FT
+Andrew Brice,Police Officer,76271.00,53443.00,17551.00,43344.00,147265.00,190609.00,2016,,Santa Maria,FT
+Mary Harvey,Director of Finance,118774.00,0.00,25441.00,45565.00,144215.00,189780.00,2016,,Santa Maria,PT
+Paul Van Meel,Police Lieutenant,96779.00,14295.00,22929.00,53757.00,134003.00,187760.00,2016,,Santa Maria,PT
+Shawn Fuggs,Police Officer,83601.00,43077.00,24787.00,35806.00,151465.00,187271.00,2016,,Santa Maria,FT
+Jesus Valle,Police Sergeant,104613.00,16035.00,21540.00,44767.00,142188.00,186955.00,2016,,Santa Maria,FT
+Jesse Silva,Police Lieutenant,110489.00,3839.00,27150.00,45111.00,141478.00,186589.00,2016,,Santa Maria,FT
+Robert Morris,Police Sergeant,104307.00,22572.00,17871.00,41349.00,144750.00,186099.00,2016,,Santa Maria,FT
+Daniel Rios,Police Sergeant,86969.00,40634.00,9146.00,48722.00,136749.00,185471.00,2016,,Santa Maria,FT
+Rafael Torres Jr,Police Officer,69879.00,54815.00,16310.00,43017.00,141004.00,184021.00,2016,,Santa Maria,FT
+Mark Streker,Police Sergeant,103897.00,13255.00,22276.00,43379.00,139428.00,182807.00,2016,,Santa Maria,FT
+Nathan Totorica,Police Officer,83884.00,34380.00,26790.00,37165.00,145054.00,182219.00,2016,,Santa Maria,FT
+Duane Schneider,Police Sergeant,90020.00,30130.00,12531.00,47713.00,132681.00,180394.00,2016,,Santa Maria,FT
+Kristine Mollenkopf,Assistant City Attorney,137867.00,0.00,9063.00,32875.00,146930.00,179805.00,2016,,Santa Maria,FT
+Eligio Lara,Police Sergeant,91876.00,16852.00,18371.00,51867.00,127099.00,178966.00,2016,,Santa Maria,FT
+Christopher Rehs,Fire Captain,84267.00,37530.00,17888.00,35854.00,139685.00,175539.00,2016,,Santa Maria,FT
+Woodrow Vega,Police Sergeant,88718.00,20754.00,16101.00,49778.00,125573.00,175351.00,2016,,Santa Maria,FT
+David Beas,Principal Civil Engineer,114911.00,0.00,3907.00,56302.00,118818.00,175120.00,2016,,Santa Maria,FT
+James Bettencourt Iii,Fire Engineer,77212.00,62229.00,16467.00,18271.00,155908.00,174179.00,2016,,Santa Maria,FT
+Victor Gutierrez,Fire Engineer,86761.00,37564.00,14155.00,35460.00,138480.00,173940.00,2016,,Santa Maria,FT
+Matthew Luis,Fire Engineer,86761.00,38937.00,13383.00,34583.00,139081.00,173664.00,2016,,Santa Maria,FT
+Rodger Olds,Principal Civil Engineer,107631.00,0.00,9749.00,55413.00,117380.00,172793.00,2016,,Santa Maria,FT
+Alex George,Police Officer,70540.00,28975.00,26155.00,45614.00,125670.00,171284.00,2016,,Santa Maria,FT
+Steven Lopez,Police Sergeant,102426.00,5924.00,19043.00,43263.00,127393.00,170656.00,2016,,Santa Maria,FT
+Felix Diaz,Police Officer,83771.00,16325.00,32672.00,37877.00,132768.00,170645.00,2016,,Santa Maria,FT
+Paul Flores Jr,Police Sergeant,88159.00,13768.00,17228.00,50917.00,119155.00,170072.00,2016,,Santa Maria,FT
+Michae Canales,Fire Fighter,71247.00,46132.00,9509.00,41908.00,126888.00,168796.00,2016,,Santa Maria,FT
+Matthew Mihlhauser,Fire Engineer,82993.00,38130.00,13747.00,33281.00,134870.00,168151.00,2016,,Santa Maria,FT
+Andy Magallon,Police Sergeant,90196.00,28849.00,10585.00,37167.00,129630.00,166797.00,2016,,Santa Maria,FT
+Clint Mcintosh,Fire Fighter,76632.00,37798.00,12770.00,39532.00,127200.00,166732.00,2016,,Santa Maria,FT
+Terry Flaa,Police Sergeant,104861.00,1580.00,17890.00,42124.00,124331.00,166455.00,2016,,Santa Maria,FT
+Will Howell,Fire Fighter,65961.00,50657.00,6876.00,40949.00,123494.00,164443.00,2016,,Santa Maria,FT
+Elijah Coleman,Fire Captain,96048.00,9990.00,17762.00,40622.00,123800.00,164422.00,2016,,Santa Maria,FT
+Jeffrey Lopez,Police Sergeant,98948.00,4353.00,19460.00,40610.00,122761.00,163371.00,2016,,Santa Maria,FT
+Matthew Chircop,Fire Engineer,74946.00,52768.00,17114.00,18325.00,144828.00,163153.00,2016,,Santa Maria,FT
+Michael Parker,Police Officer,72103.00,30986.00,16466.00,43417.00,119555.00,162972.00,2016,,Santa Maria,FT
+Heriberto Cantu,Solid Waste Manager,112970.00,0.00,7449.00,41615.00,120419.00,162034.00,2016,,Santa Maria,FT
+Mark Green,Plan Check Engineer,107056.00,0.00,1653.00,53128.00,108709.00,161837.00,2016,,Santa Maria,FT
+Kyle Dodds,Fire Captain,73929.00,32433.00,10129.00,44676.00,116491.00,161167.00,2016,,Santa Maria,FT
+Paul Santiago,Police Officer,80626.00,31894.00,12522.00,36120.00,125042.00,161162.00,2016,,Santa Maria,FT
+Michael Mcgehee,Police Sergeant,72620.00,29127.00,14409.00,44850.00,116156.00,161006.00,2016,,Santa Maria,PT
+Michelle Ladue,Human Resources Manager,105918.00,0.00,8771.00,45120.00,114689.00,159809.00,2016,,Santa Maria,FT
+Laura Brannon,Senior Dispatcher,74901.00,49701.00,2478.00,32611.00,127080.00,159691.00,2016,,Santa Maria,FT
+Scott Casey,Police Officer,73708.00,38163.00,21554.00,25879.00,133425.00,159304.00,2016,,Santa Maria,FT
+Stephen Best,Police Corporal,89002.00,12287.00,14343.00,43294.00,115632.00,158926.00,2016,,Santa Maria,FT
+Austin O'Dell,Transit Services Manager,102496.00,0.00,12409.00,43848.00,114905.00,158753.00,2016,,Santa Maria,FT
+Timothy Smallwood,Fire Fighter,74282.00,53585.00,10850.00,19860.00,138717.00,158577.00,2016,,Santa Maria,FT
+David Culver,Police Officer,83884.00,23522.00,16673.00,33481.00,124079.00,157560.00,2016,,Santa Maria,FT
+Robert Prescott,Police Corporal,77075.00,26768.00,9093.00,44295.00,112936.00,157231.00,2016,,Santa Maria,FT
+Shane Gidlund,ARFF Specialist II,66458.00,42425.00,7239.00,41007.00,116122.00,157129.00,2016,,Santa Maria,FT
+Derek Mcleod,Fire Engineer,75615.00,46734.00,10355.00,23539.00,132704.00,156243.00,2016,,Santa Maria,FT
+Ronald Murillo,Police Officer,82308.00,21072.00,11244.00,41039.00,114624.00,155663.00,2016,,Santa Maria,FT
+Shane Armstrong,Police Officer,83609.00,15891.00,19215.00,36297.00,118715.00,155012.00,2016,,Santa Maria,FT
+Kevin Raimer,Fire Fighter,78524.00,21559.00,21207.00,33683.00,121290.00,154973.00,2016,,Santa Maria,FT
+Francisco Velazquez,Police Officer,68365.00,32228.00,11023.00,43231.00,111616.00,154847.00,2016,,Santa Maria,FT
+Salvador Guerra,Police Officer,70822.00,26729.00,13923.00,43336.00,111474.00,154810.00,2016,,Santa Maria,FT
+Michael Cardona,Building Division Manager,104753.00,0.00,11221.00,37947.00,115974.00,153921.00,2016,,Santa Maria,FT
+Teresa Reyburn,Recreation Services Manager,101994.00,0.00,4750.00,46143.00,106744.00,152887.00,2016,,Santa Maria,FT
+Timothy Sutcliffe,Senior Criminalistics Technician,98584.00,4529.00,13332.00,35708.00,116445.00,152153.00,2016,,Santa Maria,FT
+Matthew Kline,Police Officer,83601.00,24057.00,10341.00,33368.00,117999.00,151367.00,2016,,Santa Maria,FT
+Raymon Easter,Police Officer,83885.00,23173.00,10553.00,33368.00,117611.00,150979.00,2016,,Santa Maria,FT
+Andrew Dowhower,Fire Engineer,86762.00,11492.00,15568.00,36178.00,113822.00,150000.00,2016,,Santa Maria,FT
+Richard Dupuis,Public Works Operations Manager,96327.00,0.00,7449.00,46182.00,103776.00,149958.00,2016,,Santa Maria,FT
+Christopher Chavis,Fire Engineer,79478.00,19625.00,10950.00,39692.00,110053.00,149745.00,2016,,Santa Maria,FT
+William Jackson,Police Officer,81416.00,17690.00,10388.00,40057.00,109494.00,149551.00,2016,,Santa Maria,FT
+James Oswald,Systems Analyst II,83496.00,422.00,24713.00,40911.00,108631.00,149542.00,2016,,Santa Maria,FT
+John Wilkins Iii,Fire Engineer,76519.00,38899.00,15940.00,18030.00,131358.00,149388.00,2016,,Santa Maria,FT
+Michael Davis,Systems Analyst II,84279.00,0.00,28583.00,36354.00,112862.00,149216.00,2016,,Santa Maria,FT
+David Logan,Police Sergeant,78088.00,15340.00,11034.00,44560.00,104462.00,149022.00,2016,,Santa Maria,PT
+Patrick Youngern,Fire Engineer,71228.00,12794.00,18962.00,45714.00,102984.00,148698.00,2016,,Santa Maria,FT
+Clark Cashmore,Risk Mgr-Bus License Insp,63471.00,0.00,35542.00,49448.00,99013.00,148461.00,2016,,Santa Maria,PT
+Jesus Caro Magallon,Police Officer,76092.00,27185.00,19409.00,25769.00,122686.00,148455.00,2016,,Santa Maria,FT
+Rhonda Garietz,Chief Deputy City Clerk,102916.00,0.00,1409.00,44091.00,104325.00,148416.00,2016,,Santa Maria,FT
+Hallie Holden,Senior Civil Engineer,103765.00,0.00,2618.00,42001.00,106383.00,148384.00,2016,,Santa Maria,FT
+Louis Tanore,Police Corporal,90421.00,7765.00,13166.00,36442.00,111352.00,147794.00,2016,,Santa Maria,FT
+Scott Kenley,Interim Director II,127756.00,7880.00,2373.00,9716.00,138009.00,147725.00,2016,,Santa Maria,PT
+Matthew Jensen,Police Officer,83600.00,21803.00,8283.00,33368.00,113686.00,147054.00,2016,,Santa Maria,FT
+Robert Hain Jr,Fire Fighter,75509.00,40561.00,13363.00,17335.00,129433.00,146768.00,2016,,Santa Maria,FT
+Jason Zickuhr,Police Sergeant,87505.00,10878.00,11314.00,35399.00,109697.00,145096.00,2016,,Santa Maria,FT
+Jesse Magana,Police Officer,82694.00,14218.00,6861.00,40897.00,103773.00,144670.00,2016,,Santa Maria,FT
+David Brewer,Police Officer,69813.00,31561.00,17197.00,25842.00,118571.00,144413.00,2016,,Santa Maria,FT
+Sam Angulo,Senior Civil Engineer,91656.00,1771.00,3588.00,47252.00,97015.00,144267.00,2016,,Santa Maria,FT
+Herminio Rodriguez Iii,Police Officer,83400.00,3504.00,20549.00,35635.00,107453.00,143088.00,2016,,Santa Maria,FT
+James Davis,Parks Services Manager,96086.00,0.00,12624.00,34358.00,108710.00,143068.00,2016,,Santa Maria,FT
+Ernest Salinas,Police Officer,82793.00,4934.00,19807.00,35384.00,107534.00,142918.00,2016,,Santa Maria,FT
+Rudy Alvara,Police Officer,83600.00,18888.00,7756.00,32009.00,110244.00,142253.00,2016,,Santa Maria,FT
+Sam Gwo,Police Officer,83872.00,14935.00,10841.00,32550.00,109648.00,142198.00,2016,,Santa Maria,FT
+Seth Wells,Fire Captain,52232.00,33670.00,9954.00,46266.00,95856.00,142122.00,2016,,Santa Maria,PT
+Amanda Ricker,Police Officer,83885.00,5882.00,18764.00,33533.00,108531.00,142064.00,2016,,Santa Maria,FT
+Michael Wheeler,Police Officer,68729.00,21782.00,9186.00,41654.00,99697.00,141351.00,2016,,Santa Maria,FT
+Alfredo Ruiz,Police Sergeant,67070.00,3196.00,19846.00,50781.00,90112.00,140893.00,2016,,Santa Maria,PT
+Evan Hamaker,Fire Fighter,70939.00,47674.00,10768.00,10844.00,129381.00,140225.00,2016,,Santa Maria,FT
+Lawrence Comerford,Fire Prevention Officer II,70562.00,25275.00,4233.00,39524.00,100070.00,139594.00,2016,,Santa Maria,FT
+Trevor Hutton,Police Officer,71764.00,10798.00,14363.00,42577.00,96925.00,139502.00,2016,,Santa Maria,FT
+Cassandra Stowasser,Police Officer,75450.00,2163.00,17031.00,44855.00,94644.00,139499.00,2016,,Santa Maria,FT
+Andrew Bouwmeester,Systems Analyst II,87197.00,620.00,13517.00,37806.00,101334.00,139140.00,2016,,Santa Maria,FT
+Emilia Enriquez,Fire Prevention Officer II,78524.00,19555.00,9804.00,31240.00,107883.00,139123.00,2016,,Santa Maria,FT
+Cris Dodos,Fire Engineer,89194.00,1119.00,5047.00,43105.00,95360.00,138465.00,2016,,Santa Maria,FT
+Matthew Stevens,Fire Fighter,73261.00,32466.00,14456.00,17094.00,120183.00,137277.00,2016,,Santa Maria,FT
+Stephen Flick Jr,Police Officer,71764.00,15428.00,8498.00,41251.00,95690.00,136941.00,2016,,Santa Maria,FT
+Anthony Tevis,Fire Fighter,70054.00,39023.00,10763.00,16879.00,119840.00,136719.00,2016,,Santa Maria,FT
+Robert Mathews,Fleet Services Supervisor,90217.00,0.00,7031.00,39399.00,97248.00,136647.00,2016,,Santa Maria,FT
+Laura Waddell,Dispatcher II,65124.00,31703.00,7866.00,31381.00,104693.00,136074.00,2016,,Santa Maria,FT
+Gilberto Coria,Police Officer,82224.00,8248.00,4950.00,40011.00,95422.00,135433.00,2016,,Santa Maria,FT
+Lazaro Rosas,Water Resources Lead Operator,79219.00,6633.00,18793.00,29846.00,104645.00,134491.00,2016,,Santa Maria,FT
+Marvin Maggio,Street Maint Supervisor,88882.00,585.00,2662.00,41232.00,92129.00,133361.00,2016,,Santa Maria,FT
+Roberto Ruiz,Police Officer,60936.00,19723.00,10311.00,41818.00,90970.00,132788.00,2016,,Santa Maria,PT
+Jillian Hoover,Fire Engineer,63935.00,27547.00,9469.00,31145.00,100951.00,132096.00,2016,,Santa Maria,PT
+William Scott,Planner III,91700.00,1948.00,6632.00,31216.00,100280.00,131496.00,2016,,Santa Maria,FT
+Mark Van De Kamp,Pub Info Ofr/Mgmt Analyst II,79576.00,0.00,9248.00,42299.00,88824.00,131123.00,2016,,Santa Maria,FT
+Carla Amado,Dispatcher II,77854.00,19816.00,9260.00,23884.00,106930.00,130814.00,2016,,Santa Maria,FT
+Rocio Flores,Police Officer,73451.00,22695.00,11711.00,22248.00,107857.00,130105.00,2016,,Santa Maria,FT
+Lydia Magdaleno,Criminalistics Technician II,76829.00,5136.00,11800.00,35231.00,93765.00,128996.00,2016,,Santa Maria,FT
+Douglas Shearer,Solid Waste Landfill Supervisor,86174.00,2746.00,3146.00,36739.00,92066.00,128805.00,2016,,Santa Maria,FT
+Michael Spears,Systems Analyst II,88980.00,69.00,9315.00,29805.00,98364.00,128169.00,2016,,Santa Maria,FT
+Alexandra Griffith,Reg Compliance Supervisor,76666.00,65.00,7713.00,42494.00,84444.00,126938.00,2016,,Santa Maria,FT
+James Reid Ii,Utilities Technology Analyst,76455.00,0.00,7124.00,43302.00,83579.00,126881.00,2016,,Santa Maria,FT
+Humberto Guerrero,Water Resources Lead Operator,80981.00,2081.00,14013.00,29100.00,97075.00,126175.00,2016,,Santa Maria,FT
+Scott Roberts,Police Officer,75371.00,23420.00,10965.00,15891.00,109756.00,125647.00,2016,,Santa Maria,FT
+Mathew Silver,Police Officer,83885.00,15075.00,10728.00,15933.00,109688.00,125621.00,2016,,Santa Maria,FT
+Sylvester Swain,Police Officer,76502.00,7099.00,8028.00,33473.00,91629.00,125102.00,2016,,Santa Maria,FT
+Brian Halvorson,Planner III,74600.00,558.00,9353.00,40524.00,84511.00,125035.00,2016,,Santa Maria,FT
+Stephen Shaffer,Police Officer,83771.00,890.00,7755.00,32481.00,92416.00,124897.00,2016,,Santa Maria,FT
+Richard Cunningham,Systems Analyst II,79390.00,0.00,3923.00,40557.00,83313.00,123870.00,2016,,Santa Maria,FT
+Gregorio Santiago,Police Officer,64160.00,28566.00,11919.00,19007.00,104645.00,123652.00,2016,,Santa Maria,FT
+Christopher Furtado,Fire Fighter,66161.00,33502.00,12702.00,11016.00,112365.00,123381.00,2016,,Santa Maria,FT
+Gregory Gardner,Accountant,75386.00,0.00,9741.00,38183.00,85127.00,123310.00,2016,,Santa Maria,FT
+Shanna Hixenbaugh,Senior Dispatcher,79808.00,14379.00,29.00,28911.00,94216.00,123127.00,2016,,Santa Maria,FT
+Lisa-Marie Long,Utilities Business Manager,89510.00,0.00,10905.00,22005.00,100415.00,122420.00,2016,,Santa Maria,FT
+Scott Mangler,Fire Fighter,65200.00,31651.00,8541.00,16251.00,105392.00,121643.00,2016,,Santa Maria,FT
+Chan Leam,Dispatcher II,78773.00,15854.00,3932.00,22560.00,98559.00,121119.00,2016,,Santa Maria,FT
+Juliane Verduzco,Dispatcher II,79696.00,10791.00,2866.00,27745.00,93353.00,121098.00,2016,,Santa Maria,FT
+Angela Jorge,Criminalistics Technician II,75205.00,4630.00,12234.00,28472.00,92069.00,120541.00,2016,,Santa Maria,FT
+Wendy Hanson,Senior Dispatcher,79880.00,9564.00,1595.00,28942.00,91039.00,119981.00,2016,,Santa Maria,FT
+Neda Zayer,Principal Planner,84150.00,0.00,7.00,35433.00,84157.00,119590.00,2016,,Santa Maria,PT
+Jeremy Mace,Fire Fighter,65622.00,29229.00,10544.00,14134.00,105395.00,119529.00,2016,,Santa Maria,FT
+Erik Hesch,Police Officer,70910.00,29318.00,3432.00,15572.00,103660.00,119232.00,2016,,Santa Maria,FT
+Lance Lodes,Landfill Heavy Equip Lead Operator,72298.00,7466.00,2682.00,36303.00,82446.00,118749.00,2016,,Santa Maria,FT
+Melissa Parker,Dispatcher II,73093.00,14409.00,2699.00,27916.00,90201.00,118117.00,2016,,Santa Maria,FT
+Rafael Carrasco,Police Officer,60667.00,28821.00,10623.00,17842.00,100111.00,117953.00,2016,,Santa Maria,PT
+Zackary Robbins,Police Officer,69054.00,31253.00,9415.00,8142.00,109722.00,117864.00,2016,,Santa Maria,FT
+Esequiel Moreno,Code Compliance Supervisor,78772.00,0.00,10902.00,28181.00,89674.00,117855.00,2016,,Santa Maria,FT
+Marsha Valentine,Dispatcher II,83332.00,4179.00,5854.00,24386.00,93365.00,117751.00,2016,,Santa Maria,FT
+Nicholas La Monica,Fire Fighter,65671.00,26545.00,8933.00,16213.00,101149.00,117362.00,2016,,Santa Maria,FT
+Brian Santiago,Police Officer,65801.00,27823.00,7006.00,16138.00,100630.00,116768.00,2016,,Santa Maria,FT
+Rick Garcia,Special Districts Coordinator,73923.00,0.00,1080.00,41128.00,75003.00,116131.00,2016,,Santa Maria,FT
+Matthew Boland,Police Officer,70160.00,22072.00,6657.00,16623.00,98889.00,115512.00,2016,,Santa Maria,FT
+Seth Mcmillan,Chief Building Inspector,77875.00,0.00,8600.00,29027.00,86475.00,115502.00,2016,,Santa Maria,FT
+Barbara Peck,Dispatcher II,69616.00,12257.00,2440.00,30370.00,84313.00,114683.00,2016,,Santa Maria,FT
+Dennis Smitherman,Management Analyst I,71963.00,0.00,4667.00,37815.00,76630.00,114445.00,2016,,Santa Maria,FT
+Vonda Damore,Senior Dispatcher,69370.00,5601.00,6047.00,33000.00,81018.00,114018.00,2016,,Santa Maria,FT
+Andres Lopez,Police Officer,64307.00,21212.00,9321.00,18808.00,94840.00,113648.00,2016,,Santa Maria,FT
+Daniel Ortiz,Water System Operator II,64046.00,8517.00,7914.00,33157.00,80477.00,113634.00,2016,,Santa Maria,FT
+Pamela Mcneil,Dispatcher II,75694.00,9078.00,6402.00,21796.00,91174.00,112970.00,2016,,Santa Maria,FT
+Monique Sandoval,Police Officer,67320.00,18367.00,10357.00,16776.00,96044.00,112820.00,2016,,Santa Maria,FT
+Johnathan Uhl,Police Officer,67335.00,24396.00,5145.00,15864.00,96876.00,112740.00,2016,,Santa Maria,FT
+Ruben Peinado,Police Officer,58342.00,26858.00,8662.00,18417.00,93862.00,112279.00,2016,,Santa Maria,PT
+Steven Soto,Water Resources Operator,73259.00,1748.00,7058.00,29786.00,82065.00,111851.00,2016,,Santa Maria,FT
+Saul Ramirez,Water Resources Operator,73092.00,1314.00,11967.00,25285.00,86373.00,111658.00,2016,,Santa Maria,FT
+Andrew Tse,Deputy City Manager,66483.00,0.00,18568.00,26488.00,85051.00,111539.00,2016,,Santa Maria,PT
+Richard Ustick,Police Officer,78954.00,16273.00,5971.00,10199.00,101198.00,111397.00,2016,,Santa Maria,FT
+Rocco Church,Police Officer,70115.00,16202.00,8989.00,15792.00,95306.00,111098.00,2016,,Santa Maria,FT
+Daniel Martinez,Police Officer,72504.00,15444.00,12643.00,10126.00,100591.00,110717.00,2016,,Santa Maria,FT
+Eduardo Servin,Police Officer,69511.00,14916.00,10220.00,15978.00,94647.00,110625.00,2016,,Santa Maria,FT
+Seth Hall,Police Officer,77488.00,6078.00,7822.00,17993.00,91388.00,109381.00,2016,,Santa Maria,FT
+Nicholas Giese,Police Officer,71241.00,17206.00,5309.00,15597.00,93756.00,109353.00,2016,,Santa Maria,FT
+Thomas Jack,Plans Examiner,67514.00,0.00,3777.00,37538.00,71291.00,108829.00,2016,,Santa Maria,FT
+Frank Albro Jr,Planner II,71611.00,0.00,0.00,37152.00,71611.00,108763.00,2016,,Santa Maria,FT
+Richard Armstrong,Water Supervisor,77235.00,1997.00,225.00,28908.00,79457.00,108365.00,2016,,Santa Maria,FT
+Stanley Powell,Water Resources Operator,72064.00,0.00,10538.00,25427.00,82602.00,108029.00,2016,,Santa Maria,FT
+Reid Goeckner,Police Officer,76915.00,9628.00,3721.00,17029.00,90264.00,107293.00,2016,,Santa Maria,FT
+Daniel Bridges,Police Officer,69321.00,15413.00,13600.00,8893.00,98334.00,107227.00,2016,,Santa Maria,FT
+Cynthia Arias,Dispatcher II,72036.00,3591.00,539.00,30782.00,76166.00,106948.00,2016,,Santa Maria,FT
+David Gonzalez,Water Resources Operator,64628.00,0.00,4311.00,37969.00,68939.00,106908.00,2016,,Santa Maria,FT
+Alan Sutterfield,Peg Station Manager,64636.00,0.00,3366.00,38897.00,68002.00,106899.00,2016,,Santa Maria,FT
+Gregory Moran,Building Inspector II,65390.00,0.00,5057.00,36334.00,70447.00,106781.00,2016,,Santa Maria,FT
+Rosa Narez,Community Programs Manager,68990.00,0.00,5877.00,31678.00,74867.00,106545.00,2016,,Santa Maria,FT
+Francis Meriot,Solid Waste Equipment Opr I,62327.00,15983.00,1163.00,25894.00,79473.00,105367.00,2016,,Santa Maria,FT
+Evan Stradley,Police Officer,67273.00,15019.00,13001.00,9803.00,95293.00,105096.00,2016,,Santa Maria,FT
+Casey Stone,Senior Park Services Officer,67670.00,0.00,4857.00,32429.00,72527.00,104956.00,2016,,Santa Maria,FT
+Tari Heslop,Reg Compliance Specialist,57821.00,21808.00,3602.00,21198.00,83231.00,104429.00,2016,,Santa Maria,FT
+Martin Maestas,Solid Waste Equipment Crew Leader,51066.00,15540.00,2952.00,34432.00,69558.00,103990.00,2016,,Santa Maria,FT
+Ryan Heath,Recreation Supervisor,60072.00,0.00,6222.00,37399.00,66294.00,103693.00,2016,,Santa Maria,FT
+Rogelio Teniente,Parks & Forest Supervisor,70840.00,0.00,6352.00,26165.00,77192.00,103357.00,2016,,Santa Maria,FT
+Jeffrey Bettiga,Senior Crew Leader-Maint Spec,68356.00,515.00,0.00,34085.00,68871.00,102956.00,2016,,Santa Maria,FT
+Mason Jackson,Police Officer,76021.00,10736.00,4541.00,11570.00,91298.00,102868.00,2016,,Santa Maria,FT
+Keith Howland,Senior Traffic Signal Tech,64698.00,147.00,0.00,38003.00,64845.00,102848.00,2016,,Santa Maria,FT
+Nickolas Barton,Police Officer,72505.00,9537.00,10661.00,10126.00,92703.00,102829.00,2016,,Santa Maria,FT
+Richard Villegas,Water Resources Operator,61356.00,1224.00,6132.00,33570.00,68712.00,102282.00,2016,,Santa Maria,FT
+Scott Christian,Special Districts Supervisor,68808.00,0.00,1824.00,31047.00,70632.00,101679.00,2016,,Santa Maria,PT
+Walton Whitty,Utilities Analyst,68988.00,0.00,8310.00,24359.00,77298.00,101657.00,2016,,Santa Maria,FT
+Ricky Hawblitzel,Utility Billing Manager,76445.00,0.00,6240.00,18567.00,82685.00,101252.00,2016,,Santa Maria,FT
+George Torres,Landfill Heavy Equipment Operator,53981.00,10892.00,2192.00,34097.00,67065.00,101162.00,2016,,Santa Maria,FT
+Andrew Peterson,Police Officer,76144.00,8727.00,5921.00,10126.00,90792.00,100918.00,2016,,Santa Maria,FT
+Dena Salas,Police Officer,71966.00,6226.00,6124.00,16563.00,84316.00,100879.00,2016,,Santa Maria,FT
+Cynthia Hoskins,Recreation Supervisor,65951.00,0.00,9992.00,24707.00,75943.00,100650.00,2016,,Santa Maria,FT
+Cole Whitney,Police Officer,73884.00,6895.00,8841.00,10790.00,89620.00,100410.00,2016,,Santa Maria,FT
+Christina Alvarez,Management Analyst I,60414.00,0.00,2704.00,37067.00,63118.00,100185.00,2016,,Santa Maria,FT
+Miguel Reyes,Solid Waste Equipment Opr II,51610.00,13612.00,1184.00,33556.00,66406.00,99962.00,2016,,Santa Maria,FT
+Jose Hernandez,CAD Technician,59840.00,0.00,3559.00,36548.00,63399.00,99947.00,2016,,Santa Maria,FT
+Jess Moran,Lead Mechanic,62547.00,0.00,83.00,37109.00,62630.00,99739.00,2016,,Santa Maria,FT
+Marvin Gerletti,Water Resources Operator,54105.00,3492.00,18264.00,23872.00,75861.00,99733.00,2016,,Santa Maria,PT
+Thomas Mcnulty,Water System Operator II,52601.00,6695.00,8753.00,31451.00,68049.00,99500.00,2016,,Santa Maria,FT
+Ricky Diaz,Solid Waste Equip Lead Operator,54554.00,7794.00,1176.00,35644.00,63524.00,99168.00,2016,,Santa Maria,FT
+Alex Rodriguez,Building Inspector II,69830.00,0.00,10464.00,18365.00,80294.00,98659.00,2016,,Santa Maria,FT
+Sonia Martinez,Management Analyst I,68666.00,0.00,10342.00,19134.00,79008.00,98142.00,2016,,Santa Maria,FT
+Sean Buczynski,Fire Fighter,66556.00,7095.00,13948.00,10509.00,87599.00,98108.00,2016,,Santa Maria,FT
+Joylyn Castaing,Code Compliance Officer II,65954.00,0.00,8559.00,23446.00,74513.00,97959.00,2016,,Santa Maria,FT
+Michelle Tasseff,Code Compliance Officer II,65954.00,0.00,8559.00,23446.00,74513.00,97959.00,2016,,Santa Maria,FT
+Steve Hossli,Special Districts Technician,69441.00,0.00,0.00,28211.00,69441.00,97652.00,2016,,Santa Maria,FT
+Matthew Sailors,Police Officer,37674.00,0.00,25009.00,34758.00,62683.00,97441.00,2016,,Santa Maria,PT
+John Veres Iv,Police Officer,54170.00,11957.00,21688.00,9581.00,87815.00,97396.00,2016,,Santa Maria,PT
+David Kell,Facilities Supervisor,67988.00,306.00,4860.00,23397.00,73154.00,96551.00,2016,,Santa Maria,FT
+Kyle Nudson,Police Officer,55166.00,18482.00,15361.00,7512.00,89009.00,96521.00,2016,,Santa Maria,PT
+Cheryl Lane,Secretary to the City Manager,60144.00,0.00,1330.00,34525.00,61474.00,95999.00,2016,,Santa Maria,FT
+Stephen Johnson,Crew Leader-Maint Specialist,63099.00,971.00,1234.00,30477.00,65304.00,95781.00,2016,,Santa Maria,FT
+Christopher Mathews,Police Officer,58875.00,6501.00,8249.00,22032.00,73625.00,95657.00,2016,,Santa Maria,PT
+Daniel Vegezzi,Landfill Heavy Equipment Operator,58695.00,5058.00,2555.00,29238.00,66308.00,95546.00,2016,,Santa Maria,FT
+Reynaldo Perez Jr,Dispatcher I,66087.00,1239.00,8415.00,19701.00,75741.00,95442.00,2016,,Santa Maria,FT
+Michelle Heath,GIS Technician,66401.00,0.00,4860.00,23997.00,71261.00,95258.00,2016,,Santa Maria,FT
+Brian Martinelli,Park Services Officer III,60321.00,370.00,5908.00,28404.00,66599.00,95003.00,2016,,Santa Maria,FT
+Mellissa Guerrero,Management Analyst I,62982.00,0.00,8664.00,23264.00,71646.00,94910.00,2016,,Santa Maria,FT
+Albino Castillo Asebez,Solid Waste Equipment Opr II,49406.00,8802.00,2839.00,33839.00,61047.00,94886.00,2016,,Santa Maria,FT
+Dustin Rhoads,Police Officer,57226.00,15089.00,5588.00,16952.00,77903.00,94855.00,2016,,Santa Maria,PT
+Michael Balcorta,Dispatcher I,60374.00,15496.00,5305.00,13580.00,81175.00,94755.00,2016,,Santa Maria,FT
+Dawn Jackson,Librarian III,64070.00,0.00,704.00,29950.00,64774.00,94724.00,2016,,Santa Maria,PT
+Cristal Burkett,Criminalistics Technician I,64171.00,2581.00,7212.00,20565.00,73964.00,94529.00,2016,,Santa Maria,FT
+Robert Cossa,Landfill Heavy Equipment Operator,54009.00,5388.00,917.00,34209.00,60314.00,94523.00,2016,,Santa Maria,FT
+Kenneth Mize,Police Officer,70956.00,8749.00,6148.00,8590.00,85853.00,94443.00,2016,,Santa Maria,FT
+Kevin Cota,Police Officer,67868.00,8295.00,400.00,17785.00,76563.00,94348.00,2016,,Santa Maria,FT
+Celia Lennon,Code Compliance Officer II,64602.00,0.00,495.00,29089.00,65097.00,94186.00,2016,,Santa Maria,FT
+Gabriel Zamora,Solid Waste Equipment Opr II,55103.00,7182.00,96.00,31325.00,62381.00,93706.00,2016,,Santa Maria,FT
+Brett Rose,Water System Operator II,65441.00,152.00,984.00,27053.00,66577.00,93630.00,2016,,Santa Maria,FT
+Tracy Mathews,Dispatcher II,51697.00,17848.00,5089.00,18650.00,74634.00,93284.00,2016,,Santa Maria,PT
+Angie Hernandez,Revenue Technician,54332.00,0.00,3613.00,35293.00,57945.00,93238.00,2016,,Santa Maria,FT
+Raed Awadallah,Solid Waste Equipment Opr II,49686.00,10089.00,0.00,33383.00,59775.00,93158.00,2016,,Santa Maria,FT
+Graeme Johnson,Police Officer,65694.00,7914.00,961.00,18374.00,74569.00,92943.00,2016,,Santa Maria,FT
+Anthony Polizzi,Property-Evidence Clerk,52659.00,703.00,4377.00,34999.00,57739.00,92738.00,2016,,Santa Maria,FT
+Richard Cuello Jr,Solid Waste Equipment Opr II,52024.00,6802.00,314.00,33435.00,59140.00,92575.00,2016,,Santa Maria,FT
+David Edmondson,Field Mechanic,55697.00,1505.00,220.00,34938.00,57422.00,92360.00,2016,,Santa Maria,FT
+Selena Fierro,Librarian II,59129.00,0.00,0.00,33058.00,59129.00,92187.00,2016,,Santa Maria,FT
+Katrina Garcia,Management Analyst I,62990.00,991.00,9744.00,17865.00,73725.00,91590.00,2016,,Santa Maria,FT
+Edward Sarten,Senior Crew Leader-Maint Spec,53301.00,3614.00,216.00,34150.00,57131.00,91281.00,2016,,Santa Maria,FT
+David Giesmann,Equipment Mechanic II,53997.00,266.00,3018.00,33894.00,57281.00,91175.00,2016,,Santa Maria,FT
+Todd Suter,Laboratory Coordinator,68187.00,176.00,0.00,22782.00,68363.00,91145.00,2016,,Santa Maria,FT
+Jorge Guevara,Recreation Technician,61594.00,0.00,2727.00,26206.00,64321.00,90527.00,2016,,Santa Maria,FT
+Tracy Aris,Management Analyst I,56906.00,422.00,5031.00,27615.00,62359.00,89974.00,2016,,Santa Maria,PT
+Helen Fischer,Librarian II,58575.00,0.00,3373.00,27797.00,61948.00,89745.00,2016,,Santa Maria,FT
+Meliza Zarate,Building Permit Technician,45299.00,3321.00,6766.00,34237.00,55386.00,89623.00,2016,,Santa Maria,FT
+Eduardo Marquez,Recreation Coordinator,57839.00,0.00,4117.00,27359.00,61956.00,89315.00,2016,,Santa Maria,FT
+Anthony Hernandez,Police Officer,52145.00,14538.00,10198.00,12324.00,76881.00,89205.00,2016,,Santa Maria,PT
+Floyd Watson,Senior Crew Leader-Maint Spec,62294.00,0.00,5315.00,21414.00,67609.00,89023.00,2016,,Santa Maria,FT
+Sofia Marques,Police Officer,56375.00,8798.00,7598.00,16206.00,72771.00,88977.00,2016,,Santa Maria,PT
+Hector Perales,Senior Crew Leader-Maint Spec,54038.00,0.00,540.00,34251.00,54578.00,88829.00,2016,,Santa Maria,FT
+Steven Kapka,Public Works Inspector,56462.00,0.00,96.00,32246.00,56558.00,88804.00,2016,,Santa Maria,FT
+Eric Fausel,Equipment Mechanic II,54911.00,266.00,1363.00,31765.00,56540.00,88305.00,2016,,Santa Maria,FT
+Val Davie,Recreation Supervisor,59306.00,0.00,1486.00,27470.00,60792.00,88262.00,2016,,Santa Maria,FT
+Alvaro Ruiz,Maintenance Worker II,40741.00,14556.00,1916.00,30542.00,57213.00,87755.00,2016,,Santa Maria,FT
+Jon Dana,Landfill Heavy Equipment Operator,55009.00,0.00,704.00,31941.00,55713.00,87654.00,2016,,Santa Maria,FT
+Juan Guzman,Water System Operator I,46107.00,7765.00,16036.00,17282.00,69908.00,87190.00,2016,,Santa Maria,FT
+Kevin Pritchard,Electrician II,52259.00,714.00,364.00,33706.00,53337.00,87043.00,2016,,Santa Maria,FT
+Melissa Johnson,Property-Evidence Clerk,54669.00,178.00,36.00,31997.00,54883.00,86880.00,2016,,Santa Maria,FT
+James Albano,Plans Examiner,64041.00,0.00,7242.00,15477.00,71283.00,86760.00,2016,,Santa Maria,FT
+Rudolph Gutierrez,Recreation Coordinator,59464.00,0.00,7148.00,20103.00,66612.00,86715.00,2016,,Santa Maria,FT
+Julian Ruiz,Crew Leader-Maint Specialist,58762.00,291.00,5997.00,20785.00,65050.00,85835.00,2016,,Santa Maria,FT
+Eddie Garcia Jr,Maintenance Worker II,55268.00,0.00,193.00,30220.00,55461.00,85681.00,2016,,Santa Maria,FT
+Lyndon Furtado,Field Mechanic,64571.00,883.00,4956.00,15085.00,70410.00,85495.00,2016,,Santa Maria,FT
+Jennifer Harmer,Librarian I,57272.00,0.00,1143.00,26811.00,58415.00,85226.00,2016,,Santa Maria,FT
+David S Gomez,Crew Leader-Maint Specialist,51668.00,1152.00,203.00,32046.00,53023.00,85069.00,2016,,Santa Maria,FT
+Victor Tejeda,Water System Operator I,47621.00,5811.00,14192.00,17327.00,67624.00,84951.00,2016,,Santa Maria,FT
+Kathy Dias,Crew Leader-Maint Specialist,57910.00,0.00,0.00,26731.00,57910.00,84641.00,2016,,Santa Maria,FT
+Michelle Ruiz,Administrative Assistant,50642.00,42.00,1164.00,32779.00,51848.00,84627.00,2016,,Santa Maria,FT
+Salvador Castro,Maintenance Worker II,54326.00,0.00,96.00,30188.00,54422.00,84610.00,2016,,Santa Maria,FT
+Randy Wilkinson,Senior Crew Leader-Maint Spec,58842.00,72.00,5003.00,20025.00,63917.00,83942.00,2016,,Santa Maria,FT
+Joanna Acevedo,Police Services Technician,58526.00,47.00,7249.00,17750.00,65822.00,83572.00,2016,,Santa Maria,FT
+Alejandra Cervantes,Police Services Technician,58526.00,0.00,7249.00,17630.00,65775.00,83405.00,2016,,Santa Maria,FT
+Gabriel Velasco,Recreation Supervisor,54361.00,0.00,2787.00,25751.00,57148.00,82899.00,2016,,Santa Maria,FT
+Carlos Mariscal,Solid Waste Equipment Opr II,50583.00,8034.00,5992.00,18179.00,64609.00,82788.00,2016,,Santa Maria,FT
+Jesse Cano,Solid Waste Equipment Opr I,53668.00,3120.00,6573.00,19400.00,63361.00,82761.00,2016,,Santa Maria,FT
+Bethany Barnett,Senior Police Records Tech,51127.00,3817.00,9466.00,18245.00,64410.00,82655.00,2016,,Santa Maria,FT
+Tee Jane Teh,Police Services Technician,56480.00,0.00,8151.00,17750.00,64631.00,82381.00,2016,,Santa Maria,FT
+Adrian Paz Servin,Solid Waste Equipment Opr I,55240.00,1065.00,6834.00,19080.00,63139.00,82219.00,2016,,Santa Maria,FT
+Barbara Wiley,Recreation Coordinator,55032.00,0.00,257.00,26828.00,55289.00,82117.00,2016,,Santa Maria,FT
+Michael Baker,Solid Waste Equipment Opr I,55356.00,2606.00,5063.00,18853.00,63025.00,81878.00,2016,,Santa Maria,FT
+Margaret Cleary,Deputy City Clerk,58881.00,0.00,932.00,21472.00,59813.00,81285.00,2016,,Santa Maria,FT
+Gabriel Alvarez,Police Officer,49257.00,13027.00,8269.00,10704.00,70553.00,81257.00,2016,,Santa Maria,PT
+Jennifer Alvarado,Accounting Technician III,56396.00,0.00,5974.00,18577.00,62370.00,80947.00,2016,,Santa Maria,FT
+Silvia Athie,Library Assistant II,54885.00,0.00,7024.00,18974.00,61909.00,80883.00,2016,,Santa Maria,FT
+John Harrison,Building Inspector I,50502.00,94.00,2603.00,27578.00,53199.00,80777.00,2016,,Santa Maria,FT
+Robert Baker,Senior Crew Leader-Maint Spec,56315.00,0.00,4956.00,19377.00,61271.00,80648.00,2016,,Santa Maria,FT
+Abel Morin,Maintenance Worker II,42566.00,5527.00,2100.00,30365.00,50193.00,80558.00,2016,,Santa Maria,FT
+Raul Santa Cruz,Solid Waste Equipment Opr I,54667.00,201.00,6036.00,19578.00,60904.00,80482.00,2016,,Santa Maria,FT
+Marie Sarri,Police Records Supervisor,59176.00,91.00,0.00,20869.00,59267.00,80136.00,2016,,Santa Maria,FT
+Sasha Silva,Crime Analyst,52387.00,0.00,1080.00,26514.00,53467.00,79981.00,2016,,Santa Maria,FT
+Mark Navarrete,Maintenance Worker I,44150.00,11267.00,7813.00,16715.00,63230.00,79945.00,2016,,Santa Maria,FT
+Heather Nix,Police Services Technician,58525.00,44.00,4321.00,16800.00,62890.00,79690.00,2016,,Santa Maria,FT
+Tiffany Alvarez,Administrative Assistant,54413.00,0.00,6252.00,18952.00,60665.00,79617.00,2016,,Santa Maria,FT
+Mark Cole,Fire Captain,22077.00,0.00,46612.00,10568.00,68689.00,79257.00,2016,,Santa Maria,PT
+Edith Nieto,Solid Waste Equipment Opr I,48842.00,20.00,434.00,29746.00,49296.00,79042.00,2016,,Santa Maria,FT
+Sara Peet,Secretary,45706.00,0.00,1637.00,31695.00,47343.00,79038.00,2016,,Santa Maria,FT
+Zenia Jimenez,Library Technician,46767.00,0.00,0.00,31782.00,46767.00,78549.00,2016,,Santa Maria,FT
+Kathleen Wilson,Secretary,51069.00,0.00,2021.00,25177.00,53090.00,78267.00,2016,,Santa Maria,FT
+Ashley Pennell,Reg Compliance Specialist,54862.00,0.00,2813.00,20537.00,57675.00,78212.00,2016,,Santa Maria,FT
+Anthony Noriega,Solid Waste Equipment Opr II,46549.00,0.00,461.00,30866.00,47010.00,77876.00,2016,,Santa Maria,FT
+Allen Wilhite,Maintenance Worker I,47415.00,6174.00,992.00,23231.00,54581.00,77812.00,2016,,Santa Maria,FT
+Austin Castro,Water System Operator I,45581.00,2976.00,10586.00,18247.00,59143.00,77390.00,2016,,Santa Maria,FT
+Darleen Vallejo,Secretary,49993.00,0.00,2046.00,24772.00,52039.00,76811.00,2016,,Santa Maria,FT
+Sylvia Contreras,Library Assistant II,45181.00,0.00,2114.00,29152.00,47295.00,76447.00,2016,,Santa Maria,FT
+Nina Toedte,Senior Police Records Tech,48345.00,2682.00,122.00,25123.00,51149.00,76272.00,2016,,Santa Maria,FT
+Julie Orozco,Secretary,44973.00,0.00,1706.00,29466.00,46679.00,76145.00,2016,,Santa Maria,FT
+Aracely Lupian,Police Records Tech-Detectives,40623.00,4297.00,2897.00,27951.00,47817.00,75768.00,2016,,Santa Maria,FT
+Meghan Pap,Building Inspector I,57396.00,0.00,4860.00,12914.00,62256.00,75170.00,2016,,Santa Maria,FT
+Martin Burgos,Water Meter Reader,49524.00,1133.00,6529.00,17850.00,57186.00,75036.00,2016,,Santa Maria,FT
+Gail Guerra,Finance Clerk II,49231.00,0.00,987.00,23979.00,50218.00,74197.00,2016,,Santa Maria,FT
+Darrel Downing,Crew Leader-Maint Specialist,51900.00,280.00,4886.00,17115.00,57066.00,74181.00,2016,,Santa Maria,FT
+Jorge Salazar,Maintenance Worker II,49499.00,375.00,6791.00,17465.00,56665.00,74130.00,2016,,Santa Maria,FT
+Neil Medrano,Police Officer,13524.00,9687.00,9672.00,41058.00,32883.00,73941.00,2016,,Santa Maria,PT
+William Shipsey,Planner III,48213.00,140.00,3156.00,22309.00,51509.00,73818.00,2016,,Santa Maria,PT
+Donna Mathews,Account Clerk II,47469.00,109.00,2414.00,23755.00,49992.00,73747.00,2016,,Santa Maria,FT
+Humberto Orozco,Maintenance Worker II,50272.00,0.00,5940.00,17442.00,56212.00,73654.00,2016,,Santa Maria,FT
+Eustaquio Valdez Jr,Transit Coordinator,49191.00,0.00,381.00,24039.00,49572.00,73611.00,2016,,Santa Maria,FT
+Raymond Estrada,Maintenance Worker II,46896.00,0.00,2100.00,24398.00,48996.00,73394.00,2016,,Santa Maria,FT
+John Silva,Maintenance Worker II,47889.00,0.00,1080.00,24139.00,48969.00,73108.00,2016,,Santa Maria,FT
+Myra Ritchie,Water Conservation Specialist,39936.00,1974.00,966.00,30157.00,42876.00,73033.00,2016,,Santa Maria,FT
+Mario Eulloqui,Senior Crew Leader-Maint Spec,50259.00,0.00,4956.00,17788.00,55215.00,73003.00,2016,,Santa Maria,FT
+Antonio Perez-Esparza,Maintenance Worker II,48362.00,317.00,0.00,24190.00,48679.00,72869.00,2016,,Santa Maria,FT
+Anthony Vargas,Police Officer,51044.00,10316.00,349.00,11083.00,61709.00,72792.00,2016,,Santa Maria,PT
+Karl Kovarik,Water System Operator I,41429.00,0.00,1062.00,30188.00,42491.00,72679.00,2016,,Santa Maria,FT
+Christopher Petro,Engineer I,48368.00,0.00,2472.00,21677.00,50840.00,72517.00,2016,,Santa Maria,PT
+Marisela Moreno,Account Clerk,39926.00,3860.00,1219.00,27179.00,45005.00,72184.00,2016,,Santa Maria,FT
+Matthew Tesoro,Maintenance Worker II,47808.00,842.00,94.00,23338.00,48744.00,72082.00,2016,,Santa Maria,FT
+Suzanne Clement,Police Records Technician II,43697.00,5318.00,880.00,22123.00,49895.00,72018.00,2016,,Santa Maria,FT
+Trinidad Ramos,Maintenance Worker II,49020.00,0.00,5496.00,17497.00,54516.00,72013.00,2016,,Santa Maria,FT
+Brandan Gonzalez,Police Officer,36420.00,16352.00,3195.00,15556.00,55967.00,71523.00,2016,,Santa Maria,PT
+David Portwood,Solid Waste Collections Supervisor,54524.00,159.00,4000.00,12770.00,58683.00,71453.00,2016,,Santa Maria,PT
+Samantha Jones,Dispatcher II,45337.00,559.00,3124.00,22261.00,49020.00,71281.00,2016,,Santa Maria,PT
+Sara Kauth,Police Records Technician II,47107.00,314.00,36.00,23092.00,47457.00,70549.00,2016,,Santa Maria,FT
+Dawn Palacios,Code Compliance Officer I,51026.00,0.00,6948.00,12458.00,57974.00,70432.00,2016,,Santa Maria,FT
+Luis Moreno,Maintenance Worker II,48420.00,0.00,4956.00,16558.00,53376.00,69934.00,2016,,Santa Maria,FT
+Delia Magallon,Senior Police Records Tech,39181.00,294.00,722.00,29422.00,40197.00,69619.00,2016,,Santa Maria,FT
+Miguel Garcia,Maintenance Worker I,40510.00,0.00,1888.00,26831.00,42398.00,69229.00,2016,,Santa Maria,FT
+Augustine Diaz,Maintenance Worker I,40516.00,18.00,1176.00,27360.00,41710.00,69070.00,2016,,Santa Maria,FT
+Marlene Gutierrez,Police Services Technician,41715.00,636.00,2924.00,23674.00,45275.00,68949.00,2016,,Santa Maria,PT
+Adriana Ruiz,Building Permit Technician,49097.00,2102.00,5868.00,11848.00,57067.00,68915.00,2016,,Santa Maria,FT
+Christopher Evangelista,Account Clerk,45419.00,336.00,130.00,22828.00,45885.00,68713.00,2016,,Santa Maria,FT
+John Corbett,Principal Librarian,42413.00,0.00,7076.00,19168.00,49489.00,68657.00,2016,,Santa Maria,PT
+Carl Lee,Account Clerk,47065.00,444.00,4956.00,16100.00,52465.00,68565.00,2016,,Santa Maria,FT
+Adriana De La Cruz,Finance Clerk I,44489.00,0.00,540.00,23162.00,45029.00,68191.00,2016,,Santa Maria,FT
+Tara Oishi,Account Clerk II,46048.00,0.00,5788.00,16293.00,51836.00,68129.00,2016,,Santa Maria,FT
+Richard Sweet,Project Manager - Utilites,67851.00,0.00,0.00,0.00,67851.00,67851.00,2016,,Santa Maria,PT
+Silvia Almaguer,Police Records Technician II,44673.00,33.00,6925.00,15690.00,51631.00,67321.00,2016,,Santa Maria,FT
+Brend Pollock Cabonce,Police Records Technician II,45361.00,0.00,5782.00,16130.00,51143.00,67273.00,2016,,Santa Maria,FT
+David W Gomez,Maintenance Worker I,42537.00,35.00,1215.00,23292.00,43787.00,67079.00,2016,,Santa Maria,FT
+James Roach Iii,Solid Waste Equipment Opr I,47078.00,1150.00,1635.00,16915.00,49863.00,66778.00,2016,,Santa Maria,FT
+Scott Overman,Solid Waste Equipment Opr I,48579.00,1191.00,4860.00,12022.00,54630.00,66652.00,2016,,Santa Maria,FT
+Ryan Cornell,Accounting & Budget Manager,46888.00,0.00,696.00,18823.00,47584.00,66407.00,2016,,Santa Maria,PT
+Kristin Cheadle,Office Assistant II,41544.00,221.00,2159.00,22191.00,43924.00,66115.00,2016,,Santa Maria,FT
+Christopher Green,Police Officer,6492.00,789.00,7038.00,51520.00,14319.00,65839.00,2016,,Santa Maria,PT
+Christopher Nartatez,Provisional Officer,65606.00,220.00,0.00,0.00,65826.00,65826.00,2016,,Santa Maria,PT
+Kristi Toles-Martin,Secretary,42931.00,149.00,884.00,21843.00,43964.00,65807.00,2016,,Santa Maria,FT
+Sean Gowing,Police Officer,-124.00,0.00,52368.00,13502.00,52244.00,65746.00,2016,,Santa Maria,PT
+Anthony Garcia,Maintenance Worker II,37281.00,74.00,0.00,28352.00,37355.00,65707.00,2016,,Santa Maria,PT
+Denna Owen,Code Compliance Technician,39335.00,0.00,0.00,26106.00,39335.00,65441.00,2016,,Santa Maria,FT
+Ricky Wilson,Maintenance Worker II,42973.00,68.00,44.00,21858.00,43085.00,64943.00,2016,,Santa Maria,FT
+Nicolas Chavez,Recreation Technician,46749.00,0.00,6185.00,11899.00,52934.00,64833.00,2016,,Santa Maria,FT
+Norma Montez,Building Permit Technician,45109.00,302.00,540.00,18825.00,45951.00,64776.00,2016,,Santa Maria,FT
+Deborah Hildinger,Library Technician,38233.00,0.00,2717.00,23441.00,40950.00,64391.00,2016,,Santa Maria,PT
+Tinamarie Garcia,Finance Clerk II,42491.00,0.00,5379.00,16378.00,47870.00,64248.00,2016,,Santa Maria,FT
+Shari Ligon,Office Assistant II,41597.00,0.00,0.00,21482.00,41597.00,63079.00,2016,,Santa Maria,FT
+Roy Dugger,Emergency Services Specialist,48802.00,0.00,3180.00,10945.00,51982.00,62927.00,2016,,Santa Maria,PT
+Sandra Cachola,Office Assistant II,39105.00,0.00,2025.00,21458.00,41130.00,62588.00,2016,,Santa Maria,FT
+Patrick Perkins,Senior Civil Engineer,44455.00,0.00,2521.00,15435.00,46976.00,62411.00,2016,,Santa Maria,PT
+Mark Mueller,Engineering Tech III,44096.00,0.00,2278.00,15824.00,46374.00,62198.00,2016,,Santa Maria,PT
+Judd Avila,Maintenance Worker I,36000.00,4063.00,1706.00,19963.00,41769.00,61732.00,2016,,Santa Maria,FT
+Stephanie Cuellar,Police Records Technician II,42017.00,0.00,5200.00,14452.00,47217.00,61669.00,2016,,Santa Maria,FT
+Katie Keefe,Reg Compliance Specialist,43954.00,186.00,700.00,16371.00,44840.00,61211.00,2016,,Santa Maria,PT
+Antonio Quintanar,Park Services Officer,47729.00,0.00,3990.00,9403.00,51719.00,61122.00,2016,,Santa Maria,FT
+Karen Portillo,Finance Clerk I,36659.00,0.00,1585.00,22356.00,38244.00,60600.00,2016,,Santa Maria,FT
+Diego Vargas,Office Assistant I,37697.00,0.00,1750.00,20315.00,39447.00,59762.00,2016,,Santa Maria,FT
+Javier Valencia,Groundskeeper,39735.00,0.00,6082.00,13700.00,45817.00,59517.00,2016,,Santa Maria,FT
+Raquel Villard,Office Assistant I,37698.00,1353.00,0.00,20137.00,39051.00,59188.00,2016,,Santa Maria,FT
+Natalia Heredia,Secretary,33188.00,0.00,4459.00,21037.00,37647.00,58684.00,2016,,Santa Maria,PT
+Jurissa Cruz,Dispatcher I,43445.00,2494.00,2759.00,9982.00,48698.00,58680.00,2016,,Santa Maria,PT
+Kathy Lambert,Library Clerk,36628.00,0.00,752.00,21244.00,37380.00,58624.00,2016,,Santa Maria,FT
+Michele Cooper,Secretary,42416.00,0.00,5754.00,10195.00,48170.00,58365.00,2016,,Santa Maria,FT
+Kevin Lodes,Maintenance Worker I,38848.00,3821.00,6263.00,9207.00,48932.00,58139.00,2016,,Santa Maria,FT
+Wendy Hudson,Facility Specialist III,42573.00,723.00,3885.00,10828.00,47181.00,58009.00,2016,,Santa Maria,FT
+Jose Paz,Maintenance Worker I,38856.00,0.00,5634.00,13386.00,44490.00,57876.00,2016,,Santa Maria,FT
+Philip Dix,Police Officer,34824.00,294.00,4922.00,17733.00,40040.00,57773.00,2016,,Santa Maria,PT
+Edward Price,Park Services Officer,42008.00,0.00,6188.00,9411.00,48196.00,57607.00,2016,,Santa Maria,PT
+Jeffrey Jones,Consultant III,54783.00,0.00,1997.00,0.00,56780.00,56780.00,2016,,Santa Maria,PT
+Alma Mendez,Finance Clerk I,39147.00,0.00,7898.00,9510.00,47045.00,56555.00,2016,,Santa Maria,FT
+Kristina Aguilar,Office Assistant II,36346.00,0.00,2632.00,16160.00,38978.00,55138.00,2016,,Santa Maria,FT
+Marla O'Loughlin,Office Assistant II,35643.00,0.00,0.00,19465.00,35643.00,55108.00,2016,,Santa Maria,FT
+David Rodriguez,Community Outreach Coordinator,34608.00,0.00,3091.00,16890.00,37699.00,54589.00,2016,,Santa Maria,PT
+Jennifer Wolf,Police Records Technician I,35387.00,2513.00,693.00,15690.00,38593.00,54283.00,2016,,Santa Maria,FT
+Dale Pena,Peg Specialist,36141.00,0.00,1050.00,16708.00,37191.00,53899.00,2016,,Santa Maria,PT
+David Castillo,Maintenance Worker I,38971.00,0.00,5321.00,9319.00,44292.00,53611.00,2016,,Santa Maria,FT
+Erik Dodos,Park Services Officer II,32880.00,310.00,1193.00,18959.00,34383.00,53342.00,2016,,Santa Maria,PT
+Aryanna Reyes,Human Resources Clerk,34779.00,13.00,1145.00,16818.00,35937.00,52755.00,2016,,Santa Maria,FT
+Sheila Hastings,Secretary,31296.00,0.00,1197.00,20043.00,32493.00,52536.00,2016,,Santa Maria,PT
+Kristal Ontiveros,Account Clerk I,35776.00,0.00,0.00,15688.00,35776.00,51464.00,2016,,Santa Maria,FT
+Sheldon Lechuga,Groundskeeper,33066.00,0.00,1800.00,15778.00,34866.00,50644.00,2016,,Santa Maria,FT
+Erik Peres,Maintenance Worker I,30915.00,660.00,5465.00,13446.00,37040.00,50486.00,2016,,Santa Maria,PT
+Candida Casavantes,Facility Specialist II,34304.00,0.00,5250.00,10572.00,39554.00,50126.00,2016,,Santa Maria,FT
+Jerid Vodopija,Groundskeeper,36127.00,0.00,4860.00,8682.00,40987.00,49669.00,2016,,Santa Maria,FT
+Elizabeth Ramirez,Customer Service Clerk,32759.00,0.00,1105.00,15088.00,33864.00,48952.00,2016,,Santa Maria,FT
+Kalin Middleton,Maintenance Worker I,33924.00,95.00,7158.00,7658.00,41177.00,48835.00,2016,,Santa Maria,PT
+Jennifer Patton,Office Assistant I,32004.00,0.00,1315.00,14937.00,33319.00,48256.00,2016,,Santa Maria,FT
+Alicia Vela,Grants Specialist I,32484.00,0.00,1640.00,13691.00,34124.00,47815.00,2016,,Santa Maria,PT
+Daniel Slutske,Library Technical Assistant,33767.00,0.00,3809.00,9980.00,37576.00,47556.00,2016,,Santa Maria,FT
+Kevin Ochoa,Police Officer,33828.00,3943.00,2047.00,7651.00,39818.00,47469.00,2016,,Santa Maria,PT
+Kristine Jacobs,Utilities Outreach Coordinator,33454.00,347.00,99.00,13457.00,33900.00,47357.00,2016,,Santa Maria,PT
+Diana Reed,Confidential Office Clerk I,24789.00,335.00,113.00,21864.00,25237.00,47101.00,2016,,Santa Maria,PT
+Heber Juarez,Water System Operator Trainee,31904.00,2543.00,4050.00,7676.00,38497.00,46173.00,2016,,Santa Maria,PT
+Genesis Negrete,Customer Service Clerk,31388.00,0.00,130.00,14639.00,31518.00,46157.00,2016,,Santa Maria,FT
+Alfonso Morin Jr,Laborer III,30673.00,0.00,1157.00,14088.00,31830.00,45918.00,2016,,Santa Maria,FT
+Maribel Salazar,Recreation Technician,28937.00,0.00,1497.00,15219.00,30434.00,45653.00,2016,,Santa Maria,PT
+Randy Sibal,Laborer III,31622.00,0.00,4337.00,8893.00,35959.00,44852.00,2016,,Santa Maria,FT
+Sara Voss,Graphics Technician,31341.00,0.00,3165.00,9266.00,34506.00,43772.00,2016,,Santa Maria,FT
+Grayelynn Brown,Laborer III,29972.00,0.00,4433.00,8922.00,34405.00,43327.00,2016,,Santa Maria,FT
+Julia Tatarian,Police Officer,30515.00,748.00,4482.00,7411.00,35745.00,43156.00,2016,,Santa Maria,PT
+Frank Velasquez,Laborer III,30235.00,0.00,3854.00,8922.00,34089.00,43011.00,2016,,Santa Maria,FT
+Derrik Treur,Facility Specialist II,31443.00,0.00,4369.00,7002.00,35812.00,42814.00,2016,,Santa Maria,PT
+Elysha Perry,Facility Specialist II,30913.00,0.00,4681.00,6738.00,35594.00,42332.00,2016,,Santa Maria,PT
+Carlos Moreno,Laborer III,30023.00,0.00,3180.00,8893.00,33203.00,42096.00,2016,,Santa Maria,FT
+James Webber,Police Officer,30515.00,585.00,3811.00,7163.00,34911.00,42074.00,2016,,Santa Maria,PT
+Mario Perez,Laborer III,29613.00,0.00,3180.00,8893.00,32793.00,41686.00,2016,,Santa Maria,FT
+Raul Betancourt,Laborer III,29538.00,0.00,3180.00,8893.00,32718.00,41611.00,2016,,Santa Maria,FT
+Erubey Ponce,Police Officer,28730.00,914.00,2249.00,9695.00,31893.00,41588.00,2016,,Santa Maria,PT
+Phillip Espinosa Jr,Laborer III,28983.00,0.00,3758.00,8743.00,32741.00,41484.00,2016,,Santa Maria,FT
+Ronald Schram,Consultant I,41424.00,0.00,0.00,0.00,41424.00,41424.00,2016,,Santa Maria,PT
+Victor Medina,Laborer III,29326.00,0.00,3180.00,8893.00,32506.00,41399.00,2016,,Santa Maria,FT
+Diana Borjas,Facility Specialist III,28391.00,0.00,762.00,12005.00,29153.00,41158.00,2016,,Santa Maria,PT
+Allan Zepeda,Laborer III,30814.00,0.00,3731.00,6433.00,34545.00,40978.00,2016,,Santa Maria,FT
+John Abad,Laborer III,31114.00,15.00,3180.00,6610.00,34309.00,40919.00,2016,,Santa Maria,FT
+Bret Matthews,Police Officer,30515.00,572.00,2800.00,6961.00,33887.00,40848.00,2016,,Santa Maria,PT
+Alfredo Rodriguez,Police Officer,28673.00,536.00,1558.00,9525.00,30767.00,40292.00,2016,,Santa Maria,PT
+Tiffanie Delaney,Police Officer,28615.00,670.00,1409.00,9525.00,30694.00,40219.00,2016,,Santa Maria,PT
+Nathanael Craven,Police Officer,30515.00,559.00,2254.00,6823.00,33328.00,40151.00,2016,,Santa Maria,PT
+Armando Ruiz,Laborer III,30077.00,0.00,1157.00,8893.00,31234.00,40127.00,2016,,Santa Maria,FT
+Ryan Preast,Police Officer,28564.00,536.00,1409.00,9525.00,30509.00,40034.00,2016,,Santa Maria,PT
+Eric Shaw,Water Resources Operator,14218.00,120.00,20495.00,4888.00,34833.00,39721.00,2016,,Santa Maria,PT
+Ruben Perez,Laborer III,29973.00,0.00,674.00,8922.00,30647.00,39569.00,2016,,Santa Maria,FT
+Argelia Camarena,Police Records Technician I,27750.00,0.00,2893.00,8327.00,30643.00,38970.00,2016,,Santa Maria,PT
+Adam White,Facility Specialist II,26381.00,0.00,591.00,11857.00,26972.00,38829.00,2016,,Santa Maria,PT
+Raul Ruiz,Laborer III,30187.00,108.00,0.00,8526.00,30295.00,38821.00,2016,,Santa Maria,FT
+Jose Gutierrez,Laborer III,29153.00,7.00,3377.00,6122.00,32537.00,38659.00,2016,,Santa Maria,FT
+Brandie Yruegas,Facility Specialist II,28528.00,0.00,3660.00,6330.00,32188.00,38518.00,2016,,Santa Maria,PT
+Jayne Anderson,Director of Human Resources & Records,26851.00,0.00,3686.00,7613.00,30537.00,38150.00,2016,,Santa Maria,PT
+Ronald Medrano Ii,Laborer III,25116.00,0.00,1048.00,11302.00,26164.00,37466.00,2016,,Santa Maria,PT
+Karin Collett,Police Records Technician II,20286.00,348.00,8914.00,7146.00,29548.00,36694.00,2016,,Santa Maria,PT
+Darrell Delgado,Consultant III,36586.00,0.00,0.00,0.00,36586.00,36586.00,2016,,Santa Maria,PT
+Andrew Orozco,Laborer III,26682.00,0.00,3180.00,6433.00,29862.00,36295.00,2016,,Santa Maria,PT
+Andrew Gutierrez,Water System Operator Trainee,25445.00,409.00,3630.00,6593.00,29484.00,36077.00,2016,,Santa Maria,PT
+James Best,Laborer III,22480.00,0.00,674.00,12874.00,23154.00,36028.00,2016,,Santa Maria,PT
+Raquel Martinez,Account Clerk Aide,26328.00,0.00,3540.00,5716.00,29868.00,35584.00,2016,,Santa Maria,FT
+Rogelio Maldonado,Park Services Officer,28368.00,0.00,734.00,6364.00,29102.00,35466.00,2016,,Santa Maria,PT
+Salvador Barrera Iii,Laborer III,25594.00,141.00,3626.00,5847.00,29361.00,35208.00,2016,,Santa Maria,PT
+Arthu Martinez,Provisional Officer,34871.00,0.00,0.00,0.00,34871.00,34871.00,2016,,Santa Maria,PT
+Gerald Lux,Provisional Officer,34833.00,0.00,0.00,0.00,34833.00,34833.00,2016,,Santa Maria,PT
+Timothy Purkett,Laborer III,22824.00,0.00,500.00,11108.00,23324.00,34432.00,2016,,Santa Maria,PT
+Amador Valenzuela,Laborer III,25312.00,0.00,3180.00,5686.00,28492.00,34178.00,2016,,Santa Maria,PT
+Virginia Montoya,Clerk II,23477.00,0.00,3631.00,6952.00,27108.00,34060.00,2016,,Santa Maria,FT
+Alice Patino,Mayor,10208.00,0.00,8103.00,15613.00,18311.00,33924.00,2016,,Santa Maria,PT
+Carmen Alvarez,Clerk II,19947.00,0.00,1277.00,12253.00,21224.00,33477.00,2016,,Santa Maria,PT
+Irma Ruedas,Clerk II,21960.00,0.00,4457.00,7058.00,26417.00,33475.00,2016,,Santa Maria,PT
+Jorge Delgado,Groundskeeper,22484.00,0.00,3100.00,7777.00,25584.00,33361.00,2016,,Santa Maria,PT
+Karen Anderson,Clerk II,22713.00,0.00,3631.00,6895.00,26344.00,33239.00,2016,,Santa Maria,FT
+Stacy Brigman,Library Technical Assistant,23352.00,0.00,2783.00,7100.00,26135.00,33235.00,2016,,Santa Maria,PT
+Heath Miller,Police Officer,22632.00,522.00,564.00,9496.00,23718.00,33214.00,2016,,Santa Maria,PT
+Barbara Serio,Clerk II,20414.00,0.00,451.00,12147.00,20865.00,33012.00,2016,,Santa Maria,PT
+Thomas Lococo,Fire Fighter,18896.00,3156.00,5973.00,4970.00,28025.00,32995.00,2016,,Santa Maria,PT
+Bianca Mcneil,Facility Specialist II,22438.00,0.00,438.00,9717.00,22876.00,32593.00,2016,,Santa Maria,PT
+"Juan Robles, Jr",Police Officer,18956.00,3674.00,3999.00,5875.00,26629.00,32504.00,2016,,Santa Maria,PT
+Ignacio Vargas,Laborer III,23248.00,0.00,3884.00,5314.00,27132.00,32446.00,2016,,Santa Maria,PT
+Cleve Jones Ii,Laborer III,20802.00,0.00,476.00,10792.00,21278.00,32070.00,2016,,Santa Maria,PT
+Erik Herrera,Water System Operator Trainee,23203.00,0.00,3180.00,5649.00,26383.00,32032.00,2016,,Santa Maria,PT
+Delfino Carreras Jr,Senior Library Page,21385.00,0.00,4098.00,6523.00,25483.00,32006.00,2016,,Santa Maria,FT
+Gerard Almaguer,Laborer III,23120.00,0.00,3180.00,5596.00,26300.00,31896.00,2016,,Santa Maria,PT
+Ryan Hester,Clerk II,21820.00,0.00,3159.00,6910.00,24979.00,31889.00,2016,,Santa Maria,PT
+Bobby Ornelas,Laborer III,25503.00,0.00,219.00,5687.00,25722.00,31409.00,2016,,Santa Maria,PT
+Silvia Garcia-Lopez,Clerk II,22818.00,0.00,1185.00,7164.00,24003.00,31167.00,2016,,Santa Maria,FT
+Lisa Reddick,Senior Library Page,20769.00,0.00,3611.00,6351.00,24380.00,30731.00,2016,,Santa Maria,PT
+Nancy Meraz,Utility Billing Lead Clerk,18974.00,0.00,418.00,11171.00,19392.00,30563.00,2016,,Santa Maria,PT
+Norman Ronemus,Provisional Officer,30503.00,0.00,0.00,0.00,30503.00,30503.00,2016,,Santa Maria,PT
+Gary Steigler,Provisional Officer,30464.00,0.00,0.00,0.00,30464.00,30464.00,2016,,Santa Maria,PT
+Nestor Galvan,Solid Waste Equipment Opr I,19176.00,0.00,4286.00,7001.00,23462.00,30463.00,2016,,Santa Maria,PT
+Alfred Torres Jr,Provisional Officer,30252.00,0.00,0.00,0.00,30252.00,30252.00,2016,,Santa Maria,PT
+Bernard Cabreana,Provisional Officer,30058.00,0.00,0.00,0.00,30058.00,30058.00,2016,,Santa Maria,PT
+Nancy Smith,Account Clerk Aide,19579.00,0.00,0.00,10466.00,19579.00,30045.00,2016,,Santa Maria,PT
+Jeanette Blanco,Facility Specialist II,22230.00,0.00,2621.00,5154.00,24851.00,30005.00,2016,,Santa Maria,PT
+Sasha Victorica,Graphics Technician,21689.00,0.00,2806.00,5207.00,24495.00,29702.00,2016,,Santa Maria,PT
+Shae Kakos,Senior Lifeguard,21228.00,0.00,3250.00,4833.00,24478.00,29311.00,2016,,Santa Maria,PT
+Anacany Hurtado,Planner I,20894.00,0.00,0.00,8035.00,20894.00,28929.00,2016,,Santa Maria,PT
+John Boysen,Council Member,12636.00,0.00,11256.00,4406.00,23892.00,28298.00,2016,,Santa Maria,PT
+Henrietta Waterfield,Council Member,12636.00,0.00,11044.00,4406.00,23680.00,28086.00,2016,,Santa Maria,PT
+Dallas Jensen,Provisional Officer,27777.00,0.00,0.00,0.00,27777.00,27777.00,2016,,Santa Maria,PT
+Nicholas Mcneal,Laborer III,19372.00,0.00,3613.00,4343.00,22985.00,27328.00,2016,,Santa Maria,PT
+Robert Orach,Council Member,6520.00,0.00,5761.00,14900.00,12281.00,27181.00,2016,,Santa Maria,PT
+Emigdio Hernandez,Laborer III,19985.00,0.00,2518.00,4556.00,22503.00,27059.00,2016,,Santa Maria,PT
+Terri Zuniga,Council Member,12454.00,0.00,10918.00,3558.00,23372.00,26930.00,2016,,Santa Maria,PT
+Alexander Salazar,Laborer III,12811.00,0.00,8674.00,5349.00,21485.00,26834.00,2016,,Santa Maria,PT
+Rachel Frank,Library Technical Assistant,20458.00,0.00,1984.00,3738.00,22442.00,26180.00,2016,,Santa Maria,PT
+Debra Goeres,Administrative Aide I,21128.00,0.00,0.00,4783.00,21128.00,25911.00,2016,,Santa Maria,PT
+Susan Tuttle,Facility Specialist II,17138.00,0.00,371.00,8144.00,17509.00,25653.00,2016,,Santa Maria,PT
+Alexandra Valadez,Customer Service Clerk,15325.00,0.00,317.00,9989.00,15642.00,25631.00,2016,,Santa Maria,PT
+Kristina Moreno,Office Assistant I,18051.00,0.00,2713.00,4526.00,20764.00,25290.00,2016,,Santa Maria,PT
+Alicia Lara,Project Manager - Human Resources,23282.00,0.00,0.00,0.00,23282.00,23282.00,2016,,Santa Maria,PT
+Celeste Coelho-Hudson,Project Manager - Special Projects,-13123.00,0.00,30050.00,6289.00,16927.00,23216.00,2016,,Santa Maria,PT
+William Story,Skilled Laborer,22763.00,0.00,0.00,0.00,22763.00,22763.00,2016,,Santa Maria,PT
+Ellen Pritchett,Project Manager - Water,21457.00,0.00,0.00,0.00,21457.00,21457.00,2016,,Santa Maria,PT
+Joseph Hall,Senior Crew Leader-Maint Spec,13905.00,0.00,128.00,7109.00,14033.00,21142.00,2016,,Santa Maria,PT
+Jolene Lopez,Account Clerk Aide,13109.00,0.00,283.00,7022.00,13392.00,20414.00,2016,,Santa Maria,PT
+James Green,Fire Fighter,9856.00,2204.00,6744.00,1403.00,18804.00,20207.00,2016,,Santa Maria,PT
+Sandra Hernandez,Police Work Aide,15865.00,0.00,0.00,3627.00,15865.00,19492.00,2016,,Santa Maria,PT
+Dominic Arganda,Laborer III,16185.00,0.00,1092.00,2003.00,17277.00,19280.00,2016,,Santa Maria,PT
+Daniel Salazar,Laborer III,12262.00,0.00,3119.00,3220.00,15381.00,18601.00,2016,,Santa Maria,PT
+Ismael Garcia,Laborer III,14614.00,0.00,439.00,3516.00,15053.00,18569.00,2016,,Santa Maria,PT
+Heather Oswald,Assistant Library Technician,14004.00,0.00,1240.00,3146.00,15244.00,18390.00,2016,,Santa Maria,PT
+Cathleen Kromer,Clerk II,12634.00,0.00,1855.00,3662.00,14489.00,18151.00,2016,,Santa Maria,PT
+Elizabeth Bucio,Police Work Aide,15583.00,0.00,0.00,2148.00,15583.00,17731.00,2016,,Santa Maria,PT
+Angela Haifi,Permit Processing Supervisor,123.00,0.00,14601.00,1892.00,14724.00,16616.00,2016,,Santa Maria,PT
+Eric Marquez,Facility Specialist II,10352.00,0.00,961.00,5231.00,11313.00,16544.00,2016,,Santa Maria,PT
+Anna Padilla,Clerk II,10074.00,0.00,2743.00,3221.00,12817.00,16038.00,2016,,Santa Maria,PT
+Sergio Torres,General Laborer,14488.00,0.00,0.00,0.00,14488.00,14488.00,2016,,Santa Maria,PT
+Karen Robertson,Assistant Clerk - Office,11525.00,0.00,0.00,2637.00,11525.00,14162.00,2016,,Santa Maria,PT
+Jose Ayala,Senior Lifeguard,11603.00,0.00,764.00,1167.00,12367.00,13534.00,2016,,Santa Maria,PT
+Laura Dittman,Library Page,10653.00,0.00,0.00,2442.00,10653.00,13095.00,2016,,Santa Maria,PT
+Matthew Graef,Water System Operator I,9023.00,79.00,1736.00,2060.00,10838.00,12898.00,2016,,Santa Maria,PT
+Gavin Harrington,Laborer III,9208.00,0.00,1357.00,2226.00,10565.00,12791.00,2016,,Santa Maria,PT
+Lorenzo Sanchez Garcia,General Laborer,12387.00,0.00,0.00,0.00,12387.00,12387.00,2016,,Santa Maria,PT
+Beatriz Olivarez Barajas,Technical Aide I,12313.00,0.00,0.00,0.00,12313.00,12313.00,2016,,Santa Maria,PT
+Eduardo Ramirez-Espinoza,Lifeguard,12293.00,0.00,0.00,0.00,12293.00,12293.00,2016,,Santa Maria,PT
+Zachary Bennett,Laborer III,9760.00,0.00,921.00,1558.00,10681.00,12239.00,2016,,Santa Maria,PT
+Kimberly Graham,Consultant I,12238.00,0.00,0.00,0.00,12238.00,12238.00,2016,,Santa Maria,PT
+Miguel Martinez,General Laborer,11948.00,0.00,0.00,0.00,11948.00,11948.00,2016,,Santa Maria,PT
+Phillip Cordero,Security Aide,11931.00,0.00,0.00,0.00,11931.00,11931.00,2016,,Santa Maria,PT
+Alice Camp,Assistant Clerk - Office,11926.00,0.00,0.00,0.00,11926.00,11926.00,2016,,Santa Maria,PT
+Juan Ramos,Technical Aide I,11891.00,0.00,0.00,0.00,11891.00,11891.00,2016,,Santa Maria,PT
+Mary Beth Amenta,Assistant Clerk - Office,11830.00,0.00,0.00,0.00,11830.00,11830.00,2016,,Santa Maria,PT
+Evan Lowman,Assistant Library Technician,11651.00,0.00,0.00,0.00,11651.00,11651.00,2016,,Santa Maria,PT
+David Standley,Assistant Clerk - Office,11621.00,0.00,0.00,0.00,11621.00,11621.00,2016,,Santa Maria,PT
+Martha Olsen,Technical Aide I,11553.00,0.00,0.00,0.00,11553.00,11553.00,2016,,Santa Maria,PT
+Cecilia Reyes,Assistant Clerk - Office,11515.00,0.00,0.00,0.00,11515.00,11515.00,2016,,Santa Maria,PT
+Theresa Armas,Customer Service Phone Operator,11359.00,0.00,0.00,0.00,11359.00,11359.00,2016,,Santa Maria,PT
+Kevin Garcia-Suarez,Lifeguard,11299.00,0.00,0.00,0.00,11299.00,11299.00,2016,,Santa Maria,PT
+Neil Thomas,Assistant Library Technician,11206.00,0.00,0.00,0.00,11206.00,11206.00,2016,,Santa Maria,PT
+Lissette Valencia,Customer Service Phone Operator,11049.00,0.00,0.00,0.00,11049.00,11049.00,2016,,Santa Maria,PT
+Allyson Graham,Library Page,10918.00,0.00,0.00,0.00,10918.00,10918.00,2016,,Santa Maria,PT
+Estefany Cortes Perez,Lifeguard,10917.00,0.00,0.00,0.00,10917.00,10917.00,2016,,Santa Maria,PT
+Dolores Navarro,Assistant Clerk - Office,10911.00,0.00,0.00,0.00,10911.00,10911.00,2016,,Santa Maria,PT
+Dante Gamble,Recreation Leader II,10674.00,0.00,0.00,0.00,10674.00,10674.00,2016,,Santa Maria,PT
+Robert Curry,Library Page,10647.00,0.00,0.00,0.00,10647.00,10647.00,2016,,Santa Maria,PT
+Angela Rodriguez,Recreation Leader II,10584.00,0.00,0.00,0.00,10584.00,10584.00,2016,,Santa Maria,PT
+Mitchell Lewis,Recreation Leader II,10581.00,0.00,0.00,0.00,10581.00,10581.00,2016,,Santa Maria,PT
+Edda Bevilacqua,Library Page,10566.00,0.00,0.00,0.00,10566.00,10566.00,2016,,Santa Maria,PT
+Bonnie Potts,Assistant Clerk - Office,10544.00,0.00,0.00,0.00,10544.00,10544.00,2016,,Santa Maria,PT
+Tre Deparini,General Laborer,10536.00,0.00,0.00,0.00,10536.00,10536.00,2016,,Santa Maria,PT
+Patty Lampke,Assistant Clerk - Office,10514.00,0.00,0.00,0.00,10514.00,10514.00,2016,,Santa Maria,PT
+Gary Robertson,Library Page,10272.00,0.00,0.00,0.00,10272.00,10272.00,2016,,Santa Maria,PT
+Yadira De Jesus,Staff Assistant,10054.00,0.00,11.00,166.00,10065.00,10231.00,2016,,Santa Maria,PT
+Ana Pitacua,Library Page,10178.00,0.00,0.00,0.00,10178.00,10178.00,2016,,Santa Maria,PT
+Wendy Stockton,Project Manager - Attorney,10177.00,0.00,0.00,0.00,10177.00,10177.00,2016,,Santa Maria,PT
+Rosana Wilson,Library Page,10173.00,0.00,0.00,0.00,10173.00,10173.00,2016,,Santa Maria,PT
+Teressa Hall,City Treasurer - Elected,2135.00,0.00,6496.00,1515.00,8631.00,10146.00,2016,,Santa Maria,PT
+Victor Alcorta,Recreation Leader II,9736.00,0.00,0.00,0.00,9736.00,9736.00,2016,,Santa Maria,PT
+Luis Barahona,Recreation Leader II,9683.00,0.00,0.00,0.00,9683.00,9683.00,2016,,Santa Maria,PT
+Stephen Good,Technical Aide I,9617.00,0.00,0.00,0.00,9617.00,9617.00,2016,,Santa Maria,PT
+Brianna Schneider,Police Work Aide,9512.00,0.00,0.00,0.00,9512.00,9512.00,2016,,Santa Maria,PT
+Nathan Ramirez,Lifeguard,9494.00,0.00,0.00,0.00,9494.00,9494.00,2016,,Santa Maria,PT
+Diego Sanchez-Zamora,Technical Aide I,9493.00,0.00,0.00,0.00,9493.00,9493.00,2016,,Santa Maria,PT
+Cristie Kuepper,Assistant Clerk - Office,9438.00,0.00,0.00,0.00,9438.00,9438.00,2016,,Santa Maria,PT
+Briar Hurd,Lifeguard,9427.00,0.00,0.00,0.00,9427.00,9427.00,2016,,Santa Maria,PT
+Uziel Vital,Lifeguard,9406.00,0.00,0.00,0.00,9406.00,9406.00,2016,,Santa Maria,PT
+Jacob Mccann,Lifeguard,9388.00,0.00,0.00,0.00,9388.00,9388.00,2016,,Santa Maria,PT
+Angela Garcia,Swim Pool Clerk,9317.00,0.00,0.00,0.00,9317.00,9317.00,2016,,Santa Maria,PT
+Miriam Mendez-Lopez,Swim Pool Clerk,9298.00,0.00,0.00,0.00,9298.00,9298.00,2016,,Santa Maria,PT
+Shirley Stoltey,Swim Pool Clerk,9181.00,0.00,0.00,0.00,9181.00,9181.00,2016,,Santa Maria,PT
+Mary Sahagun,Recreation Leader II,9144.00,0.00,0.00,0.00,9144.00,9144.00,2016,,Santa Maria,PT
+Melissa Erdahl,Confidential Office Clerk I,6182.00,0.00,1160.00,1799.00,7342.00,9141.00,2016,,Santa Maria,PT
+Cynthia Espy,Library Page,9072.00,0.00,0.00,0.00,9072.00,9072.00,2016,,Santa Maria,PT
+Franklin Cardoza,Laborer III,6057.00,0.00,78.00,2870.00,6135.00,9005.00,2016,,Santa Maria,PT
+Arturo Morales-Escalona,Recreation Leader II,8979.00,0.00,0.00,0.00,8979.00,8979.00,2016,,Santa Maria,PT
+Brandon Heuchert,Lifeguard,8971.00,0.00,0.00,0.00,8971.00,8971.00,2016,,Santa Maria,PT
+Joanne Gonzales,Recreation Leader II,8946.00,0.00,0.00,0.00,8946.00,8946.00,2016,,Santa Maria,PT
+Janelie Gutierrez,Recreation Leader II,8934.00,0.00,0.00,0.00,8934.00,8934.00,2016,,Santa Maria,PT
+Jenny Armenta,Staff Aide - Facilities,8832.00,0.00,0.00,0.00,8832.00,8832.00,2016,,Santa Maria,PT
+Sandrine Berger,Assistant Clerk - Office,8824.00,0.00,0.00,0.00,8824.00,8824.00,2016,,Santa Maria,PT
+Johnny Enriquez,Solid Waste Equipment Opr II,3283.00,0.00,4155.00,1336.00,7438.00,8774.00,2016,,Santa Maria,PT
+Sarah Veloz,Lifeguard,8573.00,0.00,0.00,0.00,8573.00,8573.00,2016,,Santa Maria,PT
+Angelica Albarran-Haro,Staff Aide - Facilities,8505.00,0.00,0.00,0.00,8505.00,8505.00,2016,,Santa Maria,PT
+Maria Gil,Recreation Leader II,8499.00,0.00,0.00,0.00,8499.00,8499.00,2016,,Santa Maria,PT
+Gaylord Curto,Library Page,8480.00,0.00,0.00,0.00,8480.00,8480.00,2016,,Santa Maria,PT
+Patricia Rodriguez,City Clerk - Elected,1282.00,0.00,6496.00,662.00,7778.00,8440.00,2016,,Santa Maria,PT
+Jason Iliff,Recreation Leader II,8171.00,250.00,0.00,0.00,8421.00,8421.00,2016,,Santa Maria,PT
+Jack Henry,Lifeguard,8403.00,0.00,0.00,0.00,8403.00,8403.00,2016,,Santa Maria,PT
+Jacqueline Hernandez-Flores,Staff Aide - Facilities,8401.00,0.00,0.00,0.00,8401.00,8401.00,2016,,Santa Maria,PT
+Nicole Delgado,Swim Instructor,8293.00,0.00,0.00,0.00,8293.00,8293.00,2016,,Santa Maria,PT
+Antonia Arredondo,Staff Aide - Facilities,8241.00,0.00,0.00,0.00,8241.00,8241.00,2016,,Santa Maria,PT
+Laura Caines,Library Page,8186.00,0.00,0.00,0.00,8186.00,8186.00,2016,,Santa Maria,PT
+Jesus Castaneda,Recreation Leader II,7915.00,262.00,0.00,0.00,8177.00,8177.00,2016,,Santa Maria,PT
+Taylor Harms,Intern - Profession,8177.00,0.00,0.00,0.00,8177.00,8177.00,2016,,Santa Maria,PT
+Frances Walker,Administrative Aide I,7991.00,0.00,0.00,0.00,7991.00,7991.00,2016,,Santa Maria,PT
+Philip Kussler,Water System Operator Trainee,5154.00,163.00,64.00,2486.00,5381.00,7867.00,2016,,Santa Maria,PT
+Caija Mcneil,Swim Instructor,7859.00,0.00,0.00,0.00,7859.00,7859.00,2016,,Santa Maria,PT
+"Joe Garcia, Jr",Water System Operator Trainee,5637.00,163.00,64.00,1955.00,5864.00,7819.00,2016,,Santa Maria,PT
+Cayetano Ramirez,Lifeguard,7628.00,0.00,0.00,0.00,7628.00,7628.00,2016,,Santa Maria,PT
+Marvella Lopez Jimenez,Swim Instructor,7552.00,0.00,0.00,0.00,7552.00,7552.00,2016,,Santa Maria,PT
+Philip Espinoza,Lifeguard,7457.00,0.00,0.00,0.00,7457.00,7457.00,2016,,Santa Maria,PT
+Ernesto Barrera,Security Aide,7430.00,0.00,0.00,0.00,7430.00,7430.00,2016,,Santa Maria,PT
+Donna Olivera Gonzalez,Library Page,7217.00,0.00,0.00,0.00,7217.00,7217.00,2016,,Santa Maria,PT
+Melissa Pantoja,Recreation Leader II,7212.00,0.00,0.00,0.00,7212.00,7212.00,2016,,Santa Maria,PT
+Jamie Cole,Assistant Clerk - Office,7156.00,0.00,0.00,0.00,7156.00,7156.00,2016,,Santa Maria,PT
+Christina De La Cruz,Assistant Clerk - Office,7127.00,0.00,0.00,0.00,7127.00,7127.00,2016,,Santa Maria,PT
+Chavela Matias-Lopez,Staff Aide - Facilities,7087.00,0.00,0.00,0.00,7087.00,7087.00,2016,,Santa Maria,PT
+Kaela Popovich,Assistant Library Technician,6922.00,0.00,0.00,0.00,6922.00,6922.00,2016,,Santa Maria,PT
+Nixcen Villamayor,Staff Aide - Facilities,6852.00,0.00,0.00,0.00,6852.00,6852.00,2016,,Santa Maria,PT
+Alyssa Lozoya,Assistant Clerk - Office,6813.00,0.00,0.00,0.00,6813.00,6813.00,2016,,Santa Maria,PT
+Diana Vega,Swim Pool Clerk,6755.00,0.00,0.00,0.00,6755.00,6755.00,2016,,Santa Maria,PT
+Jaime Maycotte,Recreation Leader II,6732.00,0.00,0.00,0.00,6732.00,6732.00,2016,,Santa Maria,PT
+Aldo Baez,Recreation Leader II,6641.00,0.00,0.00,0.00,6641.00,6641.00,2016,,Santa Maria,PT
+Linda Lopez,Recreation Leader II,6607.00,0.00,0.00,0.00,6607.00,6607.00,2016,,Santa Maria,PT
+Amanda Gutierrez,Recreation Leader II,6558.00,0.00,0.00,0.00,6558.00,6558.00,2016,,Santa Maria,PT
+Maryury Diaz,Staff Aide - Facilities,6476.00,0.00,0.00,0.00,6476.00,6476.00,2016,,Santa Maria,PT
+Grace Weaver,Lifeguard,6443.00,0.00,0.00,0.00,6443.00,6443.00,2016,,Santa Maria,PT
+Michael Garcia,Recreation Leader II,6427.00,0.00,0.00,0.00,6427.00,6427.00,2016,,Santa Maria,PT
+Noe Contreras-Sandoval,Intern - Profession,6390.00,0.00,0.00,0.00,6390.00,6390.00,2016,,Santa Maria,PT
+Rebecca Rojas,Recreation Leader II,6245.00,0.00,0.00,0.00,6245.00,6245.00,2016,,Santa Maria,PT
+Audrie Ibarra,Recreation Leader II,6219.00,0.00,0.00,0.00,6219.00,6219.00,2016,,Santa Maria,PT
+Bryant Hernandez,Lifeguard,6135.00,0.00,0.00,0.00,6135.00,6135.00,2016,,Santa Maria,PT
+Eric Martinez,Intern - Profession,5979.00,0.00,0.00,0.00,5979.00,5979.00,2016,,Santa Maria,PT
+Jacqueline Pacheco-Velez,Recreation Leader II,5953.00,0.00,0.00,0.00,5953.00,5953.00,2016,,Santa Maria,PT
+Tiffany Espinoza,Technical Aide I,5944.00,0.00,0.00,0.00,5944.00,5944.00,2016,,Santa Maria,PT
+Michael Arnett,Recreation Leader II,5813.00,0.00,0.00,0.00,5813.00,5813.00,2016,,Santa Maria,PT
+Anisha Arellano,Swim Instructor,5812.00,0.00,0.00,0.00,5812.00,5812.00,2016,,Santa Maria,PT
+Jasmine Crisp,Staff Aide - Facilities,5766.00,0.00,0.00,0.00,5766.00,5766.00,2016,,Santa Maria,PT
+Quetzal Sanchez,Recreation Leader II,5766.00,0.00,0.00,0.00,5766.00,5766.00,2016,,Santa Maria,PT
+Jalen Gragston,Recreation Leader II,5739.00,0.00,0.00,0.00,5739.00,5739.00,2016,,Santa Maria,PT
+Dan Langstaff,Provisional Officer,5722.00,0.00,0.00,0.00,5722.00,5722.00,2016,,Santa Maria,PT
+Thuy Le,Recreation Leader II,5710.00,0.00,0.00,0.00,5710.00,5710.00,2016,,Santa Maria,PT
+Julia Harris,Assistant Clerk - Office,5691.00,0.00,0.00,0.00,5691.00,5691.00,2016,,Santa Maria,PT
+Jake Weaver,Lifeguard,5645.00,0.00,0.00,0.00,5645.00,5645.00,2016,,Santa Maria,PT
+Jonathan Naranjo,Recreation Leader II,5641.00,0.00,0.00,0.00,5641.00,5641.00,2016,,Santa Maria,PT
+Daniel Ramos,Recreation Leader II,5639.00,0.00,0.00,0.00,5639.00,5639.00,2016,,Santa Maria,PT
+Margaret Alvarez,Library Page,5632.00,0.00,0.00,0.00,5632.00,5632.00,2016,,Santa Maria,PT
+Edward Gonzales,Recreation Leader II,5549.00,0.00,0.00,0.00,5549.00,5549.00,2016,,Santa Maria,PT
+Kathryn Procedo,Police Records Technician I,3458.00,0.00,0.00,2091.00,3458.00,5549.00,2016,,Santa Maria,PT
+Jensine Xiong,Technical Aide I,5543.00,0.00,0.00,0.00,5543.00,5543.00,2016,,Santa Maria,PT
+Martin Molina,Assistant Clerk - Office,5541.00,0.00,0.00,0.00,5541.00,5541.00,2016,,Santa Maria,PT
+Rigg Ramirez,Recreation Leader II,5463.00,0.00,0.00,0.00,5463.00,5463.00,2016,,Santa Maria,PT
+Brett Sylvester,Recreation Leader II,5404.00,0.00,0.00,0.00,5404.00,5404.00,2016,,Santa Maria,PT
+Dioni Garcia,Lifeguard,5285.00,0.00,0.00,0.00,5285.00,5285.00,2016,,Santa Maria,PT
+Jessica Shute,Transit Technician,4237.00,0.00,17.00,1005.00,4254.00,5259.00,2016,,Santa Maria,PT
+Angel Bautista,Lifeguard,5220.00,0.00,0.00,0.00,5220.00,5220.00,2016,,Santa Maria,PT
+Paige Harris,Library Page,5205.00,0.00,0.00,0.00,5205.00,5205.00,2016,,Santa Maria,PT
+Ashton Castillo,Recreation Leader II,5122.00,0.00,0.00,0.00,5122.00,5122.00,2016,,Santa Maria,PT
+Lauri Bean,Library Page,5112.00,0.00,0.00,0.00,5112.00,5112.00,2016,,Santa Maria,PT
+Kenneth Oclaray,Recreation Leader II,5014.00,0.00,0.00,0.00,5014.00,5014.00,2016,,Santa Maria,PT
+Miguel Morales,General Laborer,4948.00,0.00,0.00,0.00,4948.00,4948.00,2016,,Santa Maria,PT
+John Vilarino,Senior Lifeguard,4687.00,0.00,0.00,102.00,4687.00,4789.00,2016,,Santa Maria,PT
+Jeremy Eves,Recreation Leader II,4732.00,0.00,0.00,0.00,4732.00,4732.00,2016,,Santa Maria,PT
+Matthew Morales,Lifeguard,4631.00,0.00,0.00,0.00,4631.00,4631.00,2016,,Santa Maria,PT
+Colton Brickey,Recreation Leader II,4573.00,0.00,0.00,0.00,4573.00,4573.00,2016,,Santa Maria,PT
+Crystal Sanchez,Recreation Leader II,4519.00,0.00,0.00,0.00,4519.00,4519.00,2016,,Santa Maria,PT
+Jose Covarrubias,Swim Instructor,4475.00,0.00,0.00,0.00,4475.00,4475.00,2016,,Santa Maria,PT
+Joshua Morrison,Staff Aide - Facilities,4408.00,0.00,0.00,0.00,4408.00,4408.00,2016,,Santa Maria,PT
+Kathie Aparicio,Lifeguard,4377.00,0.00,0.00,0.00,4377.00,4377.00,2016,,Santa Maria,PT
+Marcos Cervantes,Lifeguard,4349.00,0.00,0.00,0.00,4349.00,4349.00,2016,,Santa Maria,PT
+Bridget Cano,Technical Aide I,4321.00,0.00,0.00,0.00,4321.00,4321.00,2016,,Santa Maria,PT
+Victoria Castro,Recreation Leader II,4305.00,0.00,0.00,0.00,4305.00,4305.00,2016,,Santa Maria,PT
+Sherry Ashbrook,Staff Aide - Facilities,4280.00,0.00,0.00,0.00,4280.00,4280.00,2016,,Santa Maria,PT
+Leonor Garcia Medina,Staff Aide - Facilities,4249.00,0.00,0.00,0.00,4249.00,4249.00,2016,,Santa Maria,PT
+Daniel Rose,Library Page,4158.00,0.00,0.00,0.00,4158.00,4158.00,2016,,Santa Maria,PT
+Ethan Ellickson,Lifeguard,4086.00,0.00,0.00,0.00,4086.00,4086.00,2016,,Santa Maria,PT
+Julio Ruiz,Recreation Leader II,3897.00,0.00,0.00,146.00,3897.00,4043.00,2016,,Santa Maria,PT
+Ami Purmort,Staff Aide - Facilities,3934.00,0.00,0.00,0.00,3934.00,3934.00,2016,,Santa Maria,PT
+Christian Reyes,Recreation Leader II,3933.00,0.00,0.00,0.00,3933.00,3933.00,2016,,Santa Maria,PT
+Miridalia Castaneda-Aguilera,Staff Aide - Facilities,3887.00,0.00,0.00,0.00,3887.00,3887.00,2016,,Santa Maria,PT
+Isaiah Heath,Recreation Leader II,3875.00,0.00,0.00,0.00,3875.00,3875.00,2016,,Santa Maria,PT
+Cristina Gonzalez,Staff Aide - Facilities,3868.00,0.00,0.00,0.00,3868.00,3868.00,2016,,Santa Maria,PT
+Cindy Hernandez,Staff Aide - Facilities,3859.00,0.00,0.00,0.00,3859.00,3859.00,2016,,Santa Maria,PT
+Beridiana Mendoza,Recreation Leader II,3853.00,0.00,0.00,0.00,3853.00,3853.00,2016,,Santa Maria,PT
+Christina Curry,Facility Specialist III,2454.00,0.00,821.00,557.00,3275.00,3832.00,2016,,Santa Maria,PT
+Mario Sanchez,Recreation Leader II,3779.00,0.00,0.00,0.00,3779.00,3779.00,2016,,Santa Maria,PT
+Brenda Ruiz,Swim Pool Clerk,3745.00,0.00,0.00,0.00,3745.00,3745.00,2016,,Santa Maria,PT
+Lucero Lopez-Martinez,Recreation Leader II,3573.00,0.00,0.00,0.00,3573.00,3573.00,2016,,Santa Maria,PT
+Richard Veglia,Staff Aide - Facilities,3557.00,0.00,0.00,0.00,3557.00,3557.00,2016,,Santa Maria,PT
+Skyler Funkhouser,Lifeguard,3540.00,0.00,0.00,0.00,3540.00,3540.00,2016,,Santa Maria,PT
+Brandon Hess,General Laborer,3136.00,0.00,0.00,0.00,3136.00,3136.00,2016,,Santa Maria,PT
+"Martin Garcia, Jr",Recreation Leader II,3097.00,0.00,0.00,0.00,3097.00,3097.00,2016,,Santa Maria,PT
+Christine Foster,Lifeguard,3017.00,0.00,0.00,0.00,3017.00,3017.00,2016,,Santa Maria,PT
+Bianca Aleman,Lifeguard,2803.00,0.00,0.00,0.00,2803.00,2803.00,2016,,Santa Maria,PT
+Cara Moussa,Lifeguard,2747.00,0.00,0.00,0.00,2747.00,2747.00,2016,,Santa Maria,PT
+Elisa Benitez,Staff Aide - Facilities,2686.00,0.00,0.00,0.00,2686.00,2686.00,2016,,Santa Maria,PT
+Marcus Peinado,Lifeguard,2684.00,0.00,0.00,0.00,2684.00,2684.00,2016,,Santa Maria,PT
+Alex Lopez,General Laborer,2646.00,0.00,0.00,0.00,2646.00,2646.00,2016,,Santa Maria,PT
+Guillermo Aguilera,Public Works Inspector,2057.00,0.00,39.00,485.00,2096.00,2581.00,2016,,Santa Maria,PT
+Rafael Razo,Staff Aide - Facilities,2466.00,0.00,0.00,0.00,2466.00,2466.00,2016,,Santa Maria,PT
+Sara Rodriguez,Recreation Leader II,2361.00,0.00,0.00,0.00,2361.00,2361.00,2016,,Santa Maria,PT
+Robert Dickerson,Planning Commissioner,2325.00,0.00,0.00,0.00,2325.00,2325.00,2016,,Santa Maria,PT
+Chantel Molina,Recreation Leader II,2298.00,0.00,0.00,0.00,2298.00,2298.00,2016,,Santa Maria,PT
+Tim Seifert,Planning Commissioner,2250.00,0.00,0.00,0.00,2250.00,2250.00,2016,,Santa Maria,PT
+Maribel Aguilera-Hernandez,Planning Commissioner,2250.00,0.00,0.00,0.00,2250.00,2250.00,2016,,Santa Maria,PT
+April Pacaoan,Recreation Leader II,2212.00,0.00,0.00,0.00,2212.00,2212.00,2016,,Santa Maria,PT
+Paul Karp,Consultant III,2196.00,0.00,0.00,0.00,2196.00,2196.00,2016,,Santa Maria,PT
+Devin Franklin,Lifeguard,2138.00,0.00,0.00,0.00,2138.00,2138.00,2016,,Santa Maria,PT
+Adrian Andrade,Planning Commissioner,2100.00,0.00,0.00,0.00,2100.00,2100.00,2016,,Santa Maria,PT
+Nicole Ridenour,Account Clerk Aide,1688.00,0.00,0.00,393.00,1688.00,2081.00,2016,,Santa Maria,PT
+Aaron Olsen,Recreation Leader II,2075.00,0.00,0.00,0.00,2075.00,2075.00,2016,,Santa Maria,PT
+Yobanie Martinez,Recreation Leader II,2061.00,0.00,0.00,0.00,2061.00,2061.00,2016,,Santa Maria,PT
+Kaitlyn Domingues,Recreation Leader II,2007.00,0.00,0.00,0.00,2007.00,2007.00,2016,,Santa Maria,PT
+Analleli Maldonado,Recreation Leader II,1981.00,0.00,0.00,0.00,1981.00,1981.00,2016,,Santa Maria,PT
+Albert Buelna,Recreation Leader II,1916.00,0.00,0.00,0.00,1916.00,1916.00,2016,,Santa Maria,PT
+Katrina Ramos,Staff Aide - Facilities,1894.00,0.00,0.00,0.00,1894.00,1894.00,2016,,Santa Maria,PT
+Lisbet Peinado,Recreation Leader II,1893.00,0.00,0.00,0.00,1893.00,1893.00,2016,,Santa Maria,PT
+Leah Iliff,Swim Instructor,1852.00,0.00,0.00,0.00,1852.00,1852.00,2016,,Santa Maria,PT
+Gayle Pratt,Planning Commissioner,1800.00,0.00,0.00,0.00,1800.00,1800.00,2016,,Santa Maria,PT
+Sandro Candelario,Water System Operator Trainee,1424.00,0.00,27.00,336.00,1451.00,1787.00,2016,,Santa Maria,PT
+Sean Harris,Recreation Leader II,1690.00,0.00,0.00,0.00,1690.00,1690.00,2016,,Santa Maria,PT
+Alannah Robb,Recreation Leader II,1664.00,0.00,0.00,0.00,1664.00,1664.00,2016,,Santa Maria,PT
+Salvador Valdovinos,Recreation Leader II,1617.00,0.00,0.00,0.00,1617.00,1617.00,2016,,Santa Maria,PT
+Brittany Anaya,Regulatory Compliance Clerk,1247.00,0.00,0.00,291.00,1247.00,1538.00,2016,,Santa Maria,PT
+Emily Ayers,Lifeguard,1523.00,0.00,0.00,0.00,1523.00,1523.00,2016,,Santa Maria,PT
+Ivan Cordero,Technical Aide I,1517.00,0.00,0.00,0.00,1517.00,1517.00,2016,,Santa Maria,PT
+Steven Mansera,General Laborer,1513.00,0.00,0.00,0.00,1513.00,1513.00,2016,,Santa Maria,PT
+Debbie Domingcil,Assistant Clerk - Office,1430.00,0.00,0.00,0.00,1430.00,1430.00,2016,,Santa Maria,PT
+Johnathan Olguin,Staff Aide - Facilities,1345.00,0.00,0.00,0.00,1345.00,1345.00,2016,,Santa Maria,PT
+Mayra Razo-Diaz,Staff Aide - Facilities,1298.00,0.00,0.00,0.00,1298.00,1298.00,2016,,Santa Maria,PT
+Marcela Flores,Staff Aide - Facilities,1266.00,0.00,0.00,0.00,1266.00,1266.00,2016,,Santa Maria,PT
+Jessica Solis,Staff Aide - Facilities,1237.00,0.00,0.00,0.00,1237.00,1237.00,2016,,Santa Maria,PT
+Jennifer Hernandez Mora,Library Page,1170.00,0.00,0.00,0.00,1170.00,1170.00,2016,,Santa Maria,PT
+Christopher Frutos,Recreation Leader II,1165.00,0.00,0.00,0.00,1165.00,1165.00,2016,,Santa Maria,PT
+Kaylene Morrison,Recreation Leader II,1087.00,0.00,0.00,0.00,1087.00,1087.00,2016,,Santa Maria,PT
+David Castillo,Recreation Leader II,1020.00,0.00,0.00,0.00,1020.00,1020.00,2016,,Santa Maria,PT
+Deisy Ruiz,Staff Aide - Facilities,915.00,0.00,0.00,0.00,915.00,915.00,2016,,Santa Maria,PT
+Ines Ruiz Garcia,Recreation Leader II,894.00,0.00,0.00,0.00,894.00,894.00,2016,,Santa Maria,PT
+Julia Pimentel Lopez,Recreation Leader II,846.00,0.00,0.00,0.00,846.00,846.00,2016,,Santa Maria,PT
+Laura Henderson,Rec & Parks Commissioner,825.00,0.00,0.00,0.00,825.00,825.00,2016,,Santa Maria,PT
+Katherine Perez,Recreation Leader II,813.00,0.00,0.00,0.00,813.00,813.00,2016,,Santa Maria,PT
+Alissa Garcia,Recreation Leader II,808.00,0.00,0.00,0.00,808.00,808.00,2016,,Santa Maria,PT
+Abbie Stoltey,Recreation Leader II,798.00,0.00,0.00,0.00,798.00,798.00,2016,,Santa Maria,PT
+Randy Delapena,Recreation Leader II,792.00,0.00,0.00,0.00,792.00,792.00,2016,,Santa Maria,PT
+Ryan Elliott,Recreation Leader II,755.00,0.00,0.00,0.00,755.00,755.00,2016,,Santa Maria,PT
+Yleana Velasco,Rec & Parks Commissioner,750.00,0.00,0.00,0.00,750.00,750.00,2016,,Santa Maria,PT
+Carey Runzel Oberly,Assistant Clerk - Office,708.00,0.00,0.00,0.00,708.00,708.00,2016,,Santa Maria,PT
+Valentina Ramirez-Gomez,Recreation Leader II,687.00,0.00,0.00,0.00,687.00,687.00,2016,,Santa Maria,PT
+Amber Stoltey,Recreation Leader II,683.00,0.00,0.00,0.00,683.00,683.00,2016,,Santa Maria,PT
+Kirk Spry,Rec & Parks Commissioner,675.00,0.00,0.00,0.00,675.00,675.00,2016,,Santa Maria,PT
+Henry Grennan,Rec & Parks Commissioner,675.00,0.00,0.00,0.00,675.00,675.00,2016,,Santa Maria,PT
+Susan Urias,Assistant Clerk - Office,660.00,0.00,0.00,0.00,660.00,660.00,2016,,Santa Maria,PT
+Erica Ruvalcaba-Heredia,Consultant III,646.00,0.00,0.00,0.00,646.00,646.00,2016,,Santa Maria,PT
+Michael Capelle,Police Trainee,464.00,0.00,18.00,110.00,482.00,592.00,2016,,Santa Maria,PT
+Jennifer Newell,Administrative Aide II,564.00,0.00,0.00,0.00,564.00,564.00,2016,,Santa Maria,PT
+Stephanie Meza,Swim Pool Clerk,525.00,0.00,0.00,0.00,525.00,525.00,2016,,Santa Maria,PT
+Raquel Ramirez,Assistant Clerk - Office,450.00,0.00,0.00,0.00,450.00,450.00,2016,,Santa Maria,PT
+Robin Bishop,Recreation Leader II,390.00,0.00,0.00,0.00,390.00,390.00,2016,,Santa Maria,PT
+James Talamantes,Recreation Leader II,311.00,0.00,0.00,0.00,311.00,311.00,2016,,Santa Maria,PT
+Greg Burtnett,Rec & Parks Commissioner,300.00,0.00,0.00,0.00,300.00,300.00,2016,,Santa Maria,PT
+Andrea Figueroa-Zamora,Swim Instructor,294.00,0.00,0.00,0.00,294.00,294.00,2016,,Santa Maria,PT
+Juan Carlos Ramos,Recreation Leader II,229.00,0.00,0.00,0.00,229.00,229.00,2016,,Santa Maria,PT
+Theresa Mcnutt,Assistant Clerk - Office,214.00,0.00,0.00,0.00,214.00,214.00,2016,,Santa Maria,PT

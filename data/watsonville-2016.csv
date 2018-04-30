@@ -1,0 +1,617 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+David Mccartney,Deputy Police Chief,158133.51,0.00,32063.47,66061.30,190196.98,256258.28,2016,,Watsonville,FT
+Charles Montoya,City Manager,199153.86,0.00,20824.93,30252.67,219978.79,250231.46,2016,,Watsonville,PT
+Terry Traub,Deputy Police Chief,154705.82,0.00,28830.71,65130.89,183536.53,248667.42,2016,,Watsonville,FT
+Pablo Barreto,Fire Chief,153545.37,0.00,17890.87,66155.16,171436.24,237591.40,2016,,Watsonville,FT
+Jorge Zamora,Police Captain,144615.91,0.00,24325.52,55786.57,168941.43,224728.00,2016,,Watsonville,FT
+W Kirt Vojvoda,Fire Captain,105623.18,40920.61,26836.57,51241.75,173380.36,224622.11,2016,,Watsonville,FT
+Richard Pettigrew,Fire Captain,105623.18,39642.43,23831.63,51286.04,169097.24,220383.28,2016,,Watsonville,FT
+Steven Palmisano,Public Works & Utility Director,166859.77,0.00,8252.07,37969.70,175111.84,213081.54,2016,,Watsonville,FT
+Darrin Oldakowski,Fire Captain,103301.78,26973.43,29489.03,50795.34,159764.24,210559.58,2016,,Watsonville,FT
+Maria Esther Rodriguez,Assist Dir Of Pw & U,142880.50,0.00,30135.60,37007.67,173016.10,210023.77,2016,,Watsonville,FT
+Thomas Avila,Division Fire Chief,133386.68,0.00,14455.71,58746.56,147842.39,206588.95,2016,,Watsonville,FT
+Robert Ryan,Division Fire Chief,136627.17,0.00,9399.95,59661.31,146027.12,205688.43,2016,,Watsonville,FT
+Ezequiel Vega Rios,Admin Svcs Director,156772.97,0.00,11059.94,36984.90,167832.91,204817.81,2016,,Watsonville,FT
+Rodolfo Lopez,Division Fire Chief,130372.27,0.00,12006.21,58088.72,142378.48,200467.20,2016,,Watsonville,FT
+Eduardo Caro,Fire Captain,103301.78,32937.47,13257.02,50417.64,149496.27,199913.91,2016,,Watsonville,FT
+Dan Lucas,Fire Captain,105623.18,29758.08,13378.22,51064.80,148759.48,199824.28,2016,,Watsonville,FT
+Michael Mckinley,Police Captain,130450.07,0.00,18168.42,50583.70,148618.49,199202.19,2016,,Watsonville,FT
+Matthew Ryan,Fire Captain,105623.18,22026.42,20189.36,50974.50,147838.96,198813.46,2016,,Watsonville,FT
+Jacob Cousins,Fire Captain,97737.91,34178.62,18334.03,48221.35,150250.56,198471.91,2016,,Watsonville,FT
+Corey Schaefer,Fire Captain,105623.18,34962.18,7211.18,49796.20,147796.54,197592.74,2016,,Watsonville,FT
+Ana Espinoza,Pcs Director,143821.34,0.00,18401.42,35227.14,162222.76,197449.90,2016,,Watsonville,FT
+Mark Lamoreaux,IT Director,149486.81,0.00,10130.01,35419.83,159616.82,195036.65,2016,,Watsonville,FT
+Eric Montalbo,Police Sergeant,118176.80,15843.13,13863.02,46101.66,147882.95,193984.61,2016,,Watsonville,FT
+Antonio Figueroa,Police Sergeant,109823.28,17616.27,18302.56,44701.60,145742.11,190443.71,2016,,Watsonville,FT
+Clayton Powell,Fire Captain,96865.26,37200.44,8988.37,47339.94,143054.07,190394.01,2016,,Watsonville,FT
+Brian Fulgoni,Police Officer,97542.09,32518.63,13350.60,46261.65,143411.32,189672.97,2016,,Watsonville,FT
+Nathalie Manning,Deputy City Manager,141913.45,0.00,13392.65,34313.68,155306.10,189619.78,2016,,Watsonville,FT
+Almita Schaefer,Fire Captain,101173.84,17147.67,18346.59,50681.12,136668.10,187349.22,2016,,Watsonville,FT
+Eric Baron,Fire Captain,97737.92,33255.00,8251.71,47578.55,139244.63,186823.18,2016,,Watsonville,FT
+Gabriel Gordo,Assist Dir Of Pw & U,134921.72,0.00,17429.89,33968.88,152351.61,186320.49,2016,,Watsonville,FT
+Radovan Radich,Police Officer,98655.32,20537.63,17625.16,47283.93,136818.11,184102.04,2016,,Watsonville,FT
+Henry Robles,Police Sergeant,118176.81,6984.09,12813.02,46101.66,137973.92,184075.58,2016,,Watsonville,FT
+Christopher Kramer,Fire Engineer,93544.96,34725.71,7647.83,46070.43,135918.50,181988.93,2016,,Watsonville,FT
+Anthony Magdayao,Police Sergeant,119214.88,6084.97,10209.58,45126.18,135509.43,180635.61,2016,,Watsonville,FT
+Matthew Mccollum,Fire Engineer,95290.26,27469.52,9683.60,47152.52,132443.38,179595.90,2016,,Watsonville,FT
+Juan Trujillo Cardozo,Police Sergeant,110694.17,13883.64,11146.36,43713.99,135724.17,179438.16,2016,,Watsonville,FT
+Brian Ridgway,Police Sergeant,118176.78,5234.85,10290.03,44977.18,133701.66,178678.84,2016,,Watsonville,FT
+Noe Rocha,Police Officer,89494.22,27098.62,17410.79,44273.79,134003.63,178277.42,2016,,Watsonville,FT
+Fernando Lopez,Police Officer,97542.10,18582.79,15366.84,46643.18,131491.73,178134.91,2016,,Watsonville,FT
+Lawrence Chin,Fire Engineer,95290.26,14677.18,17700.64,47182.81,127668.08,174850.89,2016,,Watsonville,FT
+Michael Ridgway,Police Sergeant,118176.79,1342.26,10290.03,44977.18,129809.08,174786.26,2016,,Watsonville,FT
+Naim Figueroa,Police Officer,97542.09,20673.04,10114.60,45645.63,128329.73,173975.36,2016,,Watsonville,FT
+Edmundo Rodriguez,Police Sergeant,113847.98,7327.12,7850.29,43957.85,129025.39,172983.24,2016,,Watsonville,FT
+Alberto Lopez,Police Officer,97542.09,11082.56,17482.75,46643.18,126107.40,172750.58,2016,,Watsonville,FT
+Joseph Perez,Police Officer,97542.11,18725.37,10489.76,45715.07,126757.24,172472.31,2016,,Watsonville,FT
+Sergio Banuelos,Police Officer,97542.10,14184.72,13491.04,46289.13,125217.86,171506.99,2016,,Watsonville,FT
+Beatriz Flores,City Clerk,120978.48,0.00,11365.84,37682.37,132344.32,170026.69,2016,,Watsonville,FT
+Saul Gonzalez,Police Lieutenant,91819.55,0.00,40865.78,36930.91,132685.33,169616.24,2016,,Watsonville,PT
+Patrice Theriot,Principal Engineer,126632.87,0.00,10915.36,32065.58,137548.23,169613.81,2016,,Watsonville,FT
+Alejandro Rodriguez,Police Officer,97542.09,9951.77,15366.84,46643.18,122860.70,169503.88,2016,,Watsonville,FT
+William Hays,Admin Svcs Manager,122291.16,0.00,14600.37,31885.70,136891.53,168777.23,2016,,Watsonville,FT
+Murray Fontes,Principal Engineer,126632.87,0.00,9744.37,32065.57,136377.24,168442.81,2016,,Watsonville,FT
+Lee Katich,Police Officer,97542.09,10438.92,14134.46,45870.63,122115.47,167986.10,2016,,Watsonville,FT
+Burton Iles,Police Officer,97542.09,11141.26,11989.96,46000.58,120673.31,166673.89,2016,,Watsonville,FT
+Elizabeth Sousa,Police Officer,97542.10,6491.79,15854.55,46724.13,119888.44,166612.57,2016,,Watsonville,FT
+Bryan Fuentez,Police Officer,97542.08,12686.37,10489.76,45715.07,120718.21,166433.28,2016,,Watsonville,FT
+James Williams,Airport Manager,125624.07,0.00,8685.35,31917.38,134309.42,166226.80,2016,,Watsonville,FT
+Donald Thul,Police Sergeant,112343.19,3408.97,6609.44,42958.23,122361.60,165319.83,2016,,Watsonville,FT
+Jess Ojeda,Police Officer,97542.11,3761.65,17060.69,46643.18,118364.45,165007.63,2016,,Watsonville,FT
+Kevin Silviera,Wastewater Division Manager,125067.95,0.00,7704.84,31856.79,132772.79,164629.58,2016,,Watsonville,FT
+Suzanne Merriam,Comm Dev Director,123370.56,0.00,9397.11,31789.99,132767.67,164557.66,2016,,Watsonville,FT
+Matthew Sanchez,Fire Engineer,95290.26,15001.20,6353.84,46522.24,116645.30,163167.54,2016,,Watsonville,FT
+Ryan Ballard,Fire Engineer,95224.81,11929.31,6694.37,46559.01,113848.49,160407.50,2016,,Watsonville,FT
+Ely Uretsky,Police Officer,97542.09,10660.52,7112.88,45072.58,115315.49,160388.07,2016,,Watsonville,FT
+Carol Heitzig,Library Director,119662.14,0.00,8883.83,31047.02,128545.97,159592.99,2016,,Watsonville,FT
+Angel Calderon,Police Officer,97542.08,5667.92,10489.76,45715.07,113699.76,159414.83,2016,,Watsonville,FT
+Javier Ayala-Reyes,Police Officer,93969.10,20593.55,13115.50,30712.51,127678.15,158390.66,2016,,Watsonville,FT
+Charles Bailey,Police Officer,97542.09,8235.39,7775.49,44823.68,113552.97,158376.65,2016,,Watsonville,FT
+Isaak Rodriguez,Police Officer,97542.10,6280.83,8989.12,45434.24,112812.05,158246.29,2016,,Watsonville,FT
+Rudy Lopez,Police Officer,97542.10,4255.74,10489.76,45715.07,112287.60,158002.67,2016,,Watsonville,FT
+Ronald Miranda,Police Officer,91365.86,10028.31,11466.22,43711.24,112860.39,156571.63,2016,,Watsonville,FT
+Eddie Santana,Police Officer,94156.25,1011.20,15366.84,45604.25,110534.29,156138.54,2016,,Watsonville,FT
+Kraig Kliewer,Police Officer,101176.47,3582.18,5192.03,45345.49,109950.68,155296.17,2016,,Watsonville,FT
+Christopher Greene,Police Officer,97542.08,464.26,10489.76,45715.07,108496.10,154211.17,2016,,Watsonville,FT
+Beau Kayser,Water Ops Supervior,103312.67,125.96,21073.68,29315.11,124512.31,153827.42,2016,,Watsonville,FT
+Robert Warrick,Fire Engineer,95290.26,5412.49,5632.30,46373.45,106335.05,152708.50,2016,,Watsonville,FT
+Thomas Sharp,Sr Utilities Engnr,115694.48,0.00,5691.69,30648.02,121386.17,152034.19,2016,,Watsonville,FT
+John Espinoza,Police Officer,97542.09,1957.31,7639.50,44838.34,107138.90,151977.24,2016,,Watsonville,FT
+Jarrod Pisturino,Police Officer,97542.10,3729.95,5800.26,44823.68,107072.31,151895.99,2016,,Watsonville,FT
+Cristina Rangel,Police Officer,97073.15,3531.30,6363.00,44841.98,106967.45,151809.43,2016,,Watsonville,FT
+Michael Wagoner,Wastewater Operations Supervisor,104835.39,82.69,17820.61,29039.08,122738.69,151777.77,2016,,Watsonville,FT
+Lourdes Gombos,Police Officer,97542.10,2511.23,5875.30,44838.34,105928.63,150766.97,2016,,Watsonville,FT
+David Honda,Police Chief,116177.41,0.00,5027.92,28939.53,121205.33,150144.86,2016,,Watsonville,PT
+Charles Johnson,Police Officer,97542.11,5268.67,2859.94,44262.01,105670.72,149932.73,2016,,Watsonville,FT
+Randy Pesce,Police Officer,97542.08,627.82,6818.83,44838.34,104988.73,149827.07,2016,,Watsonville,FT
+Efren Martinez,Police Officer,97542.08,7069.45,1223.78,43895.55,105835.31,149730.86,2016,,Watsonville,FT
+Corey Johnston,Police Officer,97542.09,3605.14,3174.14,42412.30,104321.37,146733.67,2016,,Watsonville,FT
+Trevor Ihlen,Police Officer,92897.21,3956.83,5380.50,43304.00,102234.54,145538.54,2016,,Watsonville,FT
+Robert Berry,Project Manager,105004.43,0.00,10831.22,29464.82,115835.65,145300.47,2016,,Watsonville,FT
+Juan Sanchez Ortega,Police Officer,87177.01,15465.41,11314.53,29373.07,113956.95,143330.02,2016,,Watsonville,FT
+Maria Rodriguez,Project Manager,98484.71,0.00,15346.60,28875.72,113831.31,142707.03,2016,,Watsonville,FT
+Marissa Duran,Project Manager,98484.70,0.00,15346.60,28875.72,113831.30,142707.02,2016,,Watsonville,FT
+Steven Hernandez,Water Ops Supervior,104835.43,0.00,7373.59,29039.08,112209.02,141248.10,2016,,Watsonville,FT
+Nancy Lockwood,Sw Div Manager,105659.30,0.00,5041.67,29028.05,110700.97,139729.02,2016,,Watsonville,FT
+Sjon Tol,Police Officer,89803.91,2906.94,3549.29,42872.19,96260.14,139132.33,2016,,Watsonville,FT
+Bryan Rodriguez,Police Officer,91536.02,2612.73,1960.10,42204.73,96108.85,138313.58,2016,,Watsonville,FT
+Brad Blachly,Assist Pcs Director,99997.67,0.00,9628.40,28244.53,109626.07,137870.60,2016,,Watsonville,FT
+John Martorella,Fire Captain,77793.22,0.00,18697.95,40780.62,96491.17,137271.79,2016,,Watsonville,FT
+Tamara Vides,Project Manager,95192.62,0.00,11750.26,28075.19,106942.88,135018.07,2016,,Watsonville,FT
+Enrique Vazquez,Municipal Srvcs Operations Manager,92002.50,0.00,13469.33,27642.99,105471.83,133114.82,2016,,Watsonville,FT
+Silvia Diaz,Financial Analyst,95434.24,0.00,8777.78,27918.48,104212.02,132130.50,2016,,Watsonville,FT
+Stephen Parra,Wastewater Opr III,92153.47,3282.84,8907.75,27356.71,104344.06,131700.77,2016,,Watsonville,FT
+Henry Cervantes,Utility Crew Leader,75834.17,18798.32,10502.94,25235.59,105135.43,130371.02,2016,,Watsonville,FT
+Rex Boyes,Gis Coordinator,95816.54,0.00,6340.79,27542.57,102157.33,129699.90,2016,,Watsonville,FT
+Michael Molfino,Sr Water Opr,92000.99,662.38,9608.64,26983.99,102272.01,129256.00,2016,,Watsonville,FT
+Fabian Guzman,Construction Manager,89699.47,0.00,11537.89,27183.99,101237.36,128421.35,2016,,Watsonville,FT
+Benjamin Lyon-Avis,Firefighter,66340.38,26948.59,12455.31,22650.23,105744.28,128394.51,2016,,Watsonville,FT
+John Stone,Firefighter,73873.17,6967.49,18970.10,28450.50,99810.76,128261.26,2016,,Watsonville,FT
+Barbara Pierson,Laboratory Manager,92153.46,0.00,8619.40,27091.31,100772.86,127864.17,2016,,Watsonville,FT
+William O'brien,Firefighter,66464.61,26242.32,11108.80,22491.74,103815.73,126307.47,2016,,Watsonville,FT
+James Johnson,Util Maint Supvr,92153.49,0.00,6779.02,27177.72,98932.51,126110.23,2016,,Watsonville,FT
+William Barrett,Police Officer,56274.30,0.00,41083.76,27532.72,97358.06,124890.78,2016,,Watsonville,PT
+Julian Olvera,Utility Crew Leader,75834.16,8343.23,14079.67,25235.58,98257.06,123492.64,2016,,Watsonville,FT
+Gail Browne,Building Official,88405.07,0.00,7695.19,26754.49,96100.26,122854.75,2016,,Watsonville,FT
+Aaron Chavarria,Police Officer,76426.76,17432.44,4557.02,22826.43,98416.22,121242.65,2016,,Watsonville,FT
+Noe Hernandez,Police Officer,73767.12,18894.88,5859.54,22629.10,98521.54,121150.64,2016,,Watsonville,FT
+James Crowley,Source Control Mgr,88028.66,0.00,6662.05,26399.54,94690.71,121090.25,2016,,Watsonville,FT
+Bradley Stoke,Utl Elc/Inst Tech II,87661.14,1999.01,4699.24,26345.57,94359.39,120704.96,2016,,Watsonville,FT
+Ruben Zendejas,Police Officer,74607.01,10510.17,10780.51,23323.85,95897.69,119221.54,2016,,Watsonville,FT
+Dorothy Anderson,Principal Librarian,87311.47,0.00,4211.34,26294.34,91522.81,117817.15,2016,,Watsonville,FT
+Dewey Garrett,Collec System Mngr,88188.48,0.00,2733.52,26509.32,90922.00,117431.32,2016,,Watsonville,FT
+Joaquin Gonzalez,Wastewater Opr II,79959.77,2657.32,8903.87,25874.06,91520.96,117395.02,2016,,Watsonville,FT
+Jacqueline Mccloud,Environ Proj Manager,84935.20,0.00,5714.73,25949.84,90649.93,116599.77,2016,,Watsonville,FT
+Cesar Sanchez,Water Operator II,79959.75,899.26,9866.10,25647.33,90725.11,116372.44,2016,,Watsonville,FT
+Kevin Ditano,Firefighter,66603.12,13380.26,13721.76,22641.69,93705.14,116346.83,2016,,Watsonville,FT
+Kirk Mitchell,Integrated Waste Supervisor,75671.68,11063.66,4149.29,25418.04,90884.63,116302.67,2016,,Watsonville,FT
+Martin Muhoberac,Fire Engineer,71733.95,6229.23,13671.98,23438.71,91635.16,115073.87,2016,,Watsonville,FT
+Kevin Laine,Firefighter,68824.28,11335.83,11948.21,22754.18,92108.32,114862.50,2016,,Watsonville,FT
+Saul Valadez,Police Officer,73767.13,9130.03,8454.36,22968.67,91351.52,114320.19,2016,,Watsonville,FT
+Marcela Tavantzis,Assist City Manager,57877.01,0.00,43210.42,13046.99,101087.43,114134.42,2016,,Watsonville,PT
+Aaron Whiting,Firefighter,69396.54,9021.29,12040.96,22904.78,90458.79,113363.57,2016,,Watsonville,FT
+Juan Bribiesca,Police Officer,73767.12,9050.53,7535.34,22864.26,90352.99,113217.25,2016,,Watsonville,FT
+Dolores Maldonado,Police Fiscal Mngr,78217.50,0.00,9422.47,25554.62,87639.97,113194.59,2016,,Watsonville,FT
+Matthew Stoddard,Firefighter,66340.41,12733.55,10662.83,22464.29,89736.79,112201.08,2016,,Watsonville,FT
+Nelson Hernandez Rodriguez,Police Officer,73067.22,9412.79,6950.33,22712.22,89430.34,112142.56,2016,,Watsonville,FT
+Salvador Mendoza,Police Officer,75026.94,5512.00,8323.80,23113.10,88862.74,111975.84,2016,,Watsonville,FT
+Devon Mcmahon,Police Officer,77235.12,2253.39,5059.04,26793.74,84547.55,111341.29,2016,,Watsonville,FT
+Raymundo Martin,Sr Int Waste Worker,70558.26,3011.35,12836.90,24839.82,86406.51,111246.33,2016,,Watsonville,FT
+Frances Delfino,Personnel Analyst,70869.01,0.00,14898.66,24516.53,85767.67,110284.20,2016,,Watsonville,FT
+Marisa Bermudez Orozco,Personnel Analyst,70398.43,1959.90,12996.12,24862.64,85354.45,110217.09,2016,,Watsonville,FT
+Richard Delfin,Police Officer,77234.98,4835.00,4597.44,22928.94,86667.42,109596.36,2016,,Watsonville,FT
+Michael Crane,Water Qlity Chemist,80199.88,2177.23,1509.17,25324.27,83886.28,109210.55,2016,,Watsonville,FT
+Andrew Schwander,Firefighter,66464.61,6751.58,13001.72,22620.32,86217.91,108838.23,2016,,Watsonville,FT
+Aaron Netzel,Firefighter,66340.39,6648.94,13090.25,22627.59,86079.58,108707.17,2016,,Watsonville,FT
+Mario Sanchez Ayala,Util Maint Mech II,73442.04,303.04,9818.97,24875.82,83564.05,108439.87,2016,,Watsonville,FT
+Jacqueline Aluffi,Admin Analyst,70611.19,0.00,13763.22,23866.91,84374.41,108241.32,2016,,Watsonville,FT
+Michelle Templeton,Assist Dir Of Pw & U,74177.19,0.00,8882.96,24887.42,83060.15,107947.57,2016,,Watsonville,PT
+Kevin Lew,IT Project Manager,76524.16,0.00,6017.07,24845.07,82541.23,107386.30,2016,,Watsonville,FT
+Tyler Likins,Police Officer,72787.26,7275.32,4648.30,22426.90,84710.88,107137.78,2016,,Watsonville,FT
+Jessie Mosqueda,Wastewater Opr II,79959.76,0.00,1444.83,25215.22,81404.59,106619.81,2016,,Watsonville,FT
+Tyler Wildey,Police Officer,74972.54,5915.77,3064.84,22482.10,83953.15,106435.25,2016,,Watsonville,FT
+Rosemarie Dow,Const Inspector,75531.64,0.00,5686.08,25025.84,81217.72,106243.56,2016,,Watsonville,FT
+Clara Cawaling,Admin Analyst,73446.99,0.00,7514.52,24701.20,80961.51,105662.71,2016,,Watsonville,FT
+Hilda Velasco,Police Officer,73767.12,3637.26,5460.49,22629.10,82864.87,105493.97,2016,,Watsonville,FT
+Erik Haselhofer,Bus Systems Admin,75944.40,0.00,4258.82,24666.53,80203.22,104869.75,2016,,Watsonville,FT
+Brian Long,Firefighter,66340.38,5135.23,10841.33,22458.73,82316.94,104775.67,2016,,Watsonville,FT
+Toni Notar,Lit Outreach Coord,75531.65,0.00,4572.73,24565.25,80104.38,104669.63,2016,,Watsonville,FT
+Abraham Escobedo,Police Officer,72787.26,4333.17,4648.30,22426.91,81768.73,104195.64,2016,,Watsonville,FT
+Adolfo Gonzalez,Traffic Systms Coord,75079.70,0.00,3974.42,24628.62,79054.12,103682.74,2016,,Watsonville,FT
+Juan Lopez,Sr Buildng Inspector,71714.50,0.00,7367.10,24437.14,79081.60,103518.74,2016,,Watsonville,FT
+Heather Geddes,Principal Librarian,73384.32,72.80,5400.86,24460.48,78857.98,103318.46,2016,,Watsonville,FT
+Douglas Mattos,Admin Analyst,73446.95,0.00,4986.52,24259.44,78433.47,102692.91,2016,,Watsonville,FT
+Matthew Huffaker,Assist City Manager,79893.77,0.00,3440.40,19111.40,83334.17,102445.57,2016,,Watsonville,PT
+Gregorio Montes,Firefighter,64607.53,9846.68,5666.40,21680.74,80120.61,101801.35,2016,,Watsonville,FT
+Benjamin Heistein,Parks Superintendent,73938.33,0.00,3189.40,24336.32,77127.73,101464.05,2016,,Watsonville,FT
+Richard Banuelos,Utility Worker III,58085.32,9724.59,10919.53,22689.46,78729.44,101418.90,2016,,Watsonville,FT
+John Bridges,Firefighter,64607.53,9001.86,5480.04,21658.93,79089.43,100748.36,2016,,Watsonville,FT
+Laurie Blackwood,Sr Admin Analyst,74850.37,0.00,1327.15,24471.04,76177.52,100648.56,2016,,Watsonville,FT
+Eugene Mcgrath,Util Maint Mech I,74556.23,67.47,1347.19,24422.06,75970.89,100392.95,2016,,Watsonville,FT
+Genaro Gordo,Process Center Coord,68210.24,0.00,7729.62,24009.28,75939.86,99949.14,2016,,Watsonville,FT
+Grant Adams,Facilities & Maintenance Supv,71876.11,0.00,3205.97,24028.77,75082.08,99110.85,2016,,Watsonville,FT
+Antonio Banderas,Sr Int Waste Worker,64018.64,3448.76,7767.86,23855.45,75235.26,99090.71,2016,,Watsonville,FT
+Robert Larsen,Firefighter,64607.53,7398.56,5370.23,21645.66,77376.32,99021.98,2016,,Watsonville,FT
+Ruben Tellez,Collec System Opr II,65663.50,957.75,8961.99,23301.98,75583.24,98885.22,2016,,Watsonville,FT
+Terry Barnard,Utility Crew Leader,68668.59,0.00,6432.44,23731.93,75101.03,98832.96,2016,,Watsonville,FT
+Jose Camacho,Wastewater Opr II,68703.70,1425.99,4248.24,24160.47,74377.93,98538.40,2016,,Watsonville,FT
+Salvador Carrillo,Utility Worker III,65122.45,2914.93,6548.44,23745.73,74585.82,98331.55,2016,,Watsonville,FT
+Ruben Vargas,Code Enforce Off Ii,68705.99,60.54,5448.27,24101.98,74214.80,98316.78,2016,,Watsonville,FT
+Joseph Cervantez,Wastewater Opr II,62801.70,4138.34,7703.82,23367.99,74643.86,98011.85,2016,,Watsonville,FT
+Rosa Meyer,Admin Analyst,65938.61,0.00,8006.92,23746.79,73945.53,97692.32,2016,,Watsonville,FT
+Alicia Martinez,Librarian,66081.10,0.00,7351.94,23667.71,73433.04,97100.75,2016,,Watsonville,FT
+Jesus Vizcaino,Utility Worker III,65724.33,1551.35,5956.47,23721.93,73232.15,96954.08,2016,,Watsonville,FT
+Suzanne Silva,Crime Analyst,69907.03,0.00,2800.37,23778.74,72707.40,96486.14,2016,,Watsonville,FT
+Jack Scroggins,Utility Worker III,65724.35,4052.49,2932.63,23669.60,72709.47,96379.07,2016,,Watsonville,FT
+Rocky Shiraishi,Park Maint Supvr,66793.76,0.00,5981.78,23282.84,72775.54,96058.38,2016,,Watsonville,FT
+Mary Stepovich,Rev Collec Supervisor,70427.31,0.00,1272.59,23816.16,71699.90,95516.06,2016,,Watsonville,FT
+Griselda Medina,Property & Evid Supv,64562.00,0.00,7383.81,23454.37,71945.81,95400.18,2016,,Watsonville,FT
+Jose Rocha,Park Maint Supvr,62922.94,0.00,9052.95,23320.14,71975.89,95296.03,2016,,Watsonville,FT
+Robert Robertson,Airport Oper Supvr,66990.05,0.00,4327.09,23350.61,71317.14,94667.75,2016,,Watsonville,FT
+Jaime Jimenez,Rec Supervisor,64950.22,0.00,6187.05,23444.31,71137.27,94581.58,2016,,Watsonville,FT
+Michael Elmasu,Firefighter,64607.53,2661.04,5555.59,21667.36,72824.16,94491.52,2016,,Watsonville,FT
+Alfonso Hernandez,Util Maint Mech I,61352.91,3665.35,6303.88,22683.47,71322.14,94005.61,2016,,Watsonville,FT
+Jose De Jesus Garcia,Utility Worker III,50836.46,10527.57,11029.41,21575.95,72393.44,93969.39,2016,,Watsonville,FT
+Michael Holland,Supvr Equip Mech,67625.42,0.00,2260.17,23423.04,69885.59,93308.63,2016,,Watsonville,FT
+Watonka Addison,Sr Librarian,64137.25,0.00,5948.78,23201.97,70086.03,93288.00,2016,,Watsonville,FT
+Irwin Ortiz,Assistant City Clerk,60419.87,0.00,9846.05,22940.02,70265.92,93205.94,2016,,Watsonville,FT
+Adriana Flores,Crime Analyst,62277.60,680.92,6978.79,23181.75,69937.31,93119.06,2016,,Watsonville,FT
+Alex Siqueiros,Veh Srvc Supervisor,64870.59,0.00,7713.73,20390.31,72584.32,92974.63,2016,,Watsonville,FT
+Martin Martinez,Equipment Mech III,65799.71,1717.24,2188.97,23137.02,69705.92,92842.94,2016,,Watsonville,FT
+Gabriel Moreno,Equipment Mech III,65799.71,0.00,3804.43,23137.02,69604.14,92741.16,2016,,Watsonville,FT
+Veronica Carrillo,Accounting Tech,63221.10,1931.72,4204.53,23199.24,69357.35,92556.59,2016,,Watsonville,FT
+Susan Nilsson,Librarian,63696.93,0.00,5345.95,23247.59,69042.88,92290.47,2016,,Watsonville,FT
+Susan Renison,Librarian,62681.87,0.00,6133.36,23368.85,68815.23,92184.08,2016,,Watsonville,FT
+Alexander Gonzalez,Sr Int Waste Worker,59842.40,3267.49,5895.34,23010.46,69005.23,92015.69,2016,,Watsonville,FT
+Coresta Angelo,Rec Supervisor,64950.19,0.00,3932.12,23012.30,68882.31,91894.61,2016,,Watsonville,FT
+Matthew Williams,Police Officer,57680.47,1595.53,2186.72,30394.53,61462.72,91857.25,2016,,Watsonville,PT
+Sofia Vazquez-Quintero,Devlop Review Tech,61627.55,0.00,7206.88,22977.30,68834.43,91811.73,2016,,Watsonville,FT
+Hilda Figueroa,Records Supervisor,59307.87,0.00,9115.42,22964.59,68423.29,91387.88,2016,,Watsonville,FT
+John Preston,Equipment Mech III,65799.73,0.00,2188.97,23137.02,67988.70,91125.72,2016,,Watsonville,FT
+Israel Tirado,Rec Supervisor,61186.23,0.00,6847.37,22912.32,68033.60,90945.92,2016,,Watsonville,FT
+Roxanna Ibarra,Legal Assistant,61263.30,0.00,6655.96,22904.17,67919.26,90823.43,2016,,Watsonville,FT
+Eddie Rocha,Intgrd Waste Worker,56979.48,5253.34,5683.01,22299.37,67915.83,90215.20,2016,,Watsonville,FT
+Carlos Ortega,Utl Elc/Inst Tech I,63784.55,164.45,3151.76,22988.28,67100.76,90089.04,2016,,Watsonville,FT
+Tomas Gomez,Customer Serv Tech,62279.93,0.00,4675.51,23131.89,66955.44,90087.33,2016,,Watsonville,FT
+Maria Elena Olmedo,Librarian,58595.71,0.00,8460.99,22810.47,67056.70,89867.17,2016,,Watsonville,FT
+Maxwell Brandenburg,Cust Service Manager,62775.90,0.00,4175.18,22866.00,66951.08,89817.08,2016,,Watsonville,FT
+Martha Shiah-Vega,Police Service Specialist,58741.46,2860.08,4584.14,22789.28,66185.68,88974.96,2016,,Watsonville,FT
+Hilda Martinez,Admin Analyst,60425.19,0.00,5749.16,22780.21,66174.35,88954.56,2016,,Watsonville,FT
+Tram Nguyen,Water Qlity Chemist,63256.56,128.89,2356.00,22962.50,65741.45,88703.95,2016,,Watsonville,FT
+Adolfo Rocha,Water Operator I,59525.94,389.23,6111.42,22648.23,66026.59,88674.82,2016,,Watsonville,FT
+Monte Plasman,Engineering Assoc,63735.50,0.00,1853.88,22880.35,65589.38,88469.73,2016,,Watsonville,FT
+Oscar Lopez,Intgrd Waste Worker,56484.51,4499.84,4675.67,22693.38,65660.02,88353.40,2016,,Watsonville,FT
+Imelda Negrete,Rec Coordinator,59126.08,0.00,6579.66,22589.50,65705.74,88295.24,2016,,Watsonville,FT
+Natalie Diaz,Engineering Assoc,62790.81,0.00,2472.81,22903.52,65263.62,88167.14,2016,,Watsonville,FT
+Martin Sanchez,Wastewater Opr I,56303.60,2258.80,7002.46,22548.17,65564.86,88113.03,2016,,Watsonville,FT
+Jesus Regalado,Utility Worker III,52035.68,6784.73,7573.71,21683.89,66394.12,88078.01,2016,,Watsonville,FT
+Leticia Hernandez,Accounting Tech,60210.24,933.25,4088.11,22748.66,65231.60,87980.26,2016,,Watsonville,FT
+Cecilio Campos,Intgrd Waste Worker,56885.44,3968.45,4029.73,22732.57,64883.62,87616.19,2016,,Watsonville,FT
+Rex Rackley,Utility Worker III,59555.26,4197.44,1593.53,22225.41,65346.23,87571.64,2016,,Watsonville,FT
+Luz Martinez,Executive Assistant,59303.50,0.00,5560.04,22615.51,64863.54,87479.05,2016,,Watsonville,FT
+Leticia Samano,Assist Admin Analyst,59911.18,0.00,4693.84,22787.70,64605.02,87392.72,2016,,Watsonville,FT
+Tamara Stolzenthaler,Environ Ed Coord,60476.79,0.00,3883.02,22394.52,64359.81,86754.33,2016,,Watsonville,FT
+Jose Sandoval,Environ Ed Coord,59329.73,0.00,4879.64,22303.78,64209.37,86513.15,2016,,Watsonville,FT
+Kurt Overmeyer,Sr Planner,60610.96,0.00,9401.14,16467.64,70012.10,86479.74,2016,,Watsonville,PT
+Juan Vasquez,Intgrd Waste Worker,57199.48,4908.70,2055.76,22307.05,64163.94,86470.99,2016,,Watsonville,FT
+Marisol Maciel,Rec Coordinator,56227.69,0.00,7836.47,22293.18,64064.16,86357.34,2016,,Watsonville,FT
+Lupe Banuelos,Microcomputer Tech,52791.74,1329.58,5700.84,26449.71,59822.16,86271.87,2016,,Watsonville,FT
+Mindy Esqueda,Admin Assit II,56215.11,0.00,7606.83,22333.52,63821.94,86155.46,2016,,Watsonville,FT
+Angela Paz,Admin Assit II,56053.56,0.00,7531.03,22444.79,63584.59,86029.38,2016,,Watsonville,FT
+Irma Haas,Police Service Specialist,58741.45,0.00,4527.44,22600.08,63268.89,85868.97,2016,,Watsonville,FT
+Maria Hernandez,Sr Library Assist,58772.29,0.00,4515.97,22537.64,63288.26,85825.90,2016,,Watsonville,FT
+Juvenal Mendoza,Intgrd Waste Worker,57199.47,1662.86,4084.73,22448.81,62947.06,85395.87,2016,,Watsonville,FT
+Christine Mcgrath,Assist Admin Analyst,61245.52,0.00,1660.06,22469.59,62905.58,85375.17,2016,,Watsonville,FT
+Cynthia Pintor,Code Enforce Off I,57418.37,0.00,5502.49,22452.83,62920.86,85373.69,2016,,Watsonville,FT
+Angelica Diaz-Ortiz,Sr Library Assist,58772.28,0.00,4062.13,22537.64,62834.41,85372.05,2016,,Watsonville,FT
+Lucy Murillo,Assist Admin Analyst,57808.41,0.00,4902.31,22535.24,62710.72,85245.96,2016,,Watsonville,FT
+Jose Roman,Rec Supervisor,57622.76,0.00,5221.17,22016.03,62843.93,84859.96,2016,,Watsonville,FT
+Deborah Muniz,Executive Assistant,59303.47,0.00,2789.90,22183.52,62093.37,84276.89,2016,,Watsonville,FT
+Maria Carranco,Sr Accounting Assist,55659.77,973.26,5318.38,22081.56,61951.41,84032.97,2016,,Watsonville,FT
+Monica Florez,Exec Ast To Cm & Cc,55939.08,29.62,5541.21,22152.00,61509.91,83661.91,2016,,Watsonville,FT
+Gabriel Moreno,Equipment Mech III,56756.75,2151.52,2604.91,21876.16,61513.18,83389.34,2016,,Watsonville,FT
+Edward Romero,Intgrd Waste Worker,57199.49,2701.84,1029.59,22153.23,60930.92,83084.15,2016,,Watsonville,FT
+Rebecca Ramirez,Police Officer Train,60065.41,127.30,1050.33,21831.85,61243.04,83074.89,2016,,Watsonville,PT
+Christian Miranda Llanas,Rec Supervisor,54334.86,0.00,6673.60,21927.06,61008.46,82935.52,2016,,Watsonville,FT
+Erika Sanchez,Admin Assit II,55111.38,348.78,5299.51,22087.68,60759.67,82847.35,2016,,Watsonville,FT
+Hannah Clement,Librarian,57506.18,0.00,3374.56,21922.65,60880.74,82803.39,2016,,Watsonville,FT
+Marco Diaz,Admin Assit II,54500.09,60.17,6020.57,21973.68,60580.83,82554.51,2016,,Watsonville,FT
+David Rosenow,Gis Technician II,58922.76,0.00,1064.70,22127.56,59987.46,82115.02,2016,,Watsonville,FT
+Elliott Gil,Collec System Opr I,58058.99,115.10,1756.09,22112.43,59930.18,82042.61,2016,,Watsonville,FT
+Mario Bejar,Water Operator I,50684.88,904.22,8534.92,21584.71,60124.02,81708.73,2016,,Watsonville,PT
+Angela Avidano,Water Qlity Lab Tech,57503.63,0.00,1730.44,21993.67,59234.07,81227.74,2016,,Watsonville,FT
+Salvador Lopez,Intgrd Waste Worker,54176.34,897.02,4053.62,21915.39,59126.98,81042.37,2016,,Watsonville,FT
+Amalia Gutierrez,Customer Serv Tech,53799.96,1171.68,3972.28,21807.83,58943.92,80751.75,2016,,Watsonville,FT
+Anna Zarate,Police Clerk II,52198.10,738.70,5543.66,21729.83,58480.46,80210.29,2016,,Watsonville,FT
+Veronica Morales,Police Clerk II,53290.00,259.91,4646.35,21859.82,58196.26,80056.08,2016,,Watsonville,FT
+Joaquin Vasquez,Customer Serv Tech,55548.15,0.00,2325.37,21869.35,57873.52,79742.87,2016,,Watsonville,FT
+Emma Timboy-Pickering,Environ Proj Analyst,56793.97,0.00,1018.45,21784.54,57812.42,79596.96,2016,,Watsonville,FT
+Byron Bobo,Intgrd Waste Worker,55209.04,1494.82,1053.89,21767.12,57757.75,79524.87,2016,,Watsonville,FT
+Jose Hernandez,Rec Coordinator,51410.53,0.00,6632.26,21458.49,58042.79,79501.28,2016,,Watsonville,FT
+Jerry Carry,Special Proj Utility Wkr,56468.83,122.64,1020.36,21767.53,57611.83,79379.36,2016,,Watsonville,PT
+Maria Sanchez,Police Clerk II,52099.25,1126.43,4024.33,21547.24,57250.01,78797.25,2016,,Watsonville,FT
+Daniel Rocha,Street Sweeper Opr,50038.78,437.00,6787.71,21297.43,57263.49,78560.92,2016,,Watsonville,FT
+Randall Vevea,Microcomputer Tech,55347.60,0.00,1540.10,21602.95,56887.70,78490.65,2016,,Watsonville,FT
+Cecilia Magdaleno,Pub Dropoff Attn I,50136.76,2390.15,4506.09,21356.56,57033.00,78389.56,2016,,Watsonville,FT
+Elizabeth Padilla,Admin Analyst,51184.68,0.00,5596.54,21428.48,56781.22,78209.70,2016,,Watsonville,PT
+Yvette Herrera,Sr Accounting Assist,50985.42,272.71,4452.64,21413.62,55710.77,77124.39,2016,,Watsonville,FT
+Ilda Estrada,Accounting Tech,51049.02,0.00,4222.25,21448.54,55271.27,76719.81,2016,,Watsonville,FT
+Jorge Rocha,Sr Park Maint Worker,51910.96,2234.03,1258.29,21116.57,55403.28,76519.85,2016,,Watsonville,FT
+Miguel Navarrete Morales,Lead Custodian,50097.18,0.00,4451.73,21353.72,54548.91,75902.63,2016,,Watsonville,FT
+Yesenia Alvarez,Sr Accounting Assist,48927.62,928.22,4423.35,21180.08,54279.19,75459.27,2016,,Watsonville,FT
+Eugene Bragado,Rec Coordinator,51341.48,0.00,3092.12,21015.97,54433.60,75449.57,2016,,Watsonville,FT
+Ignacio Valencia,Rec Specialist,47208.85,0.00,7010.14,21022.40,54218.99,75241.39,2016,,Watsonville,FT
+Maria Fernandez,Admin Assist I,49973.52,0.00,3903.14,21246.27,53876.66,75122.93,2016,,Watsonville,FT
+Jaime Preciado,Customer Serv Tech,46564.15,1911.33,5111.69,20929.80,53587.17,74516.97,2016,,Watsonville,FT
+Jennifer Vivenzi,Rec Coordinator,49863.82,0.00,3575.13,20921.42,53438.95,74360.37,2016,,Watsonville,FT
+Erskine Mcclain,Wastewater Opr II,53596.20,578.86,1444.83,18726.54,55619.89,74346.43,2016,,Watsonville,PT
+Antonio Moreno,Utility Worker II,45440.71,2903.82,5015.21,20297.69,53359.74,73657.43,2016,,Watsonville,FT
+Desiree Moya,Admin Assit II,47104.49,0.00,5585.39,20878.70,52689.88,73568.58,2016,,Watsonville,FT
+Jesus Espinoza Valadez,Customer Serv Tech,46564.17,2291.76,3911.69,20756.99,52767.62,73524.61,2016,,Watsonville,FT
+Guillermo Campos,Park Maint Worker II,51508.35,0.00,930.73,21039.31,52439.08,73478.39,2016,,Watsonville,FT
+Bruce Farr,Park Maint Worker II,51508.31,0.00,930.73,21039.31,52439.04,73478.35,2016,,Watsonville,FT
+Cristy Cassel-Shimabukuro,Environ Proj Manager,47498.07,0.00,4919.37,20806.96,52417.44,73224.40,2016,,Watsonville,PT
+Michael Kerrick,Parkng Control Offcr,48135.10,1363.04,2826.96,20826.71,52325.10,73151.81,2016,,Watsonville,FT
+Justin Meek,Principal Planner,54815.76,0.00,2141.35,16172.90,56957.11,73130.01,2016,,Watsonville,PT
+Edgar Maravilla,Assistant Planner,50342.87,0.00,1740.55,20988.49,52083.42,73071.91,2016,,Watsonville,FT
+Sylvia Velarde-Amezcua,Admin Assit II,47277.57,0.00,4813.10,20807.99,52090.67,72898.66,2016,,Watsonville,FT
+Samuel Rosas,Utility Worker II,48699.09,22.50,2505.19,20800.68,51226.78,72027.46,2016,,Watsonville,FT
+David Hudson,Street Sweeper Opr,45088.54,1916.34,4137.90,20383.03,51142.78,71525.81,2016,,Watsonville,FT
+Patricio Castaneda Guerrero,Intgrd Waste Worker,43141.35,3068.27,4593.45,20719.55,50803.07,71522.62,2016,,Watsonville,FT
+Diana Rivas,Accountant Ii,51067.12,0.00,1894.22,18496.63,52961.34,71457.97,2016,,Watsonville,PT
+Alejandro Bejar,Sr Accounting Assist,45628.78,1214.27,3824.63,20608.57,50667.68,71276.25,2016,,Watsonville,FT
+Leonardo Rocha,Collec System Opr I,45164.86,1194.59,4646.39,20242.67,51005.84,71248.51,2016,,Watsonville,FT
+Javier Paredez,Intgrd Waste Worker,45420.47,3411.01,1072.90,20595.71,49904.38,70500.09,2016,,Watsonville,FT
+Sheri Shiraishi,Intgrd Waste Worker,45161.94,3571.37,941.26,20482.41,49674.57,70156.98,2016,,Watsonville,FT
+Paul Galiste,Utility Worker II,46546.75,1531.11,1443.44,20341.75,49521.30,69863.05,2016,,Watsonville,FT
+Cristobal Lopez,Utility Worker II,47712.62,107.65,968.31,20496.11,48788.58,69284.69,2016,,Watsonville,FT
+Jose Rodriguez,Custodian,44827.20,0.00,3810.14,20490.86,48637.34,69128.20,2016,,Watsonville,FT
+Gonzalo Garcia Ochoa,Solid Waste Aide I,33583.82,5786.41,9591.16,19711.19,48961.39,68672.58,2016,,Watsonville,FT
+Noe Rocha,Park Maint Worker II,46040.86,0.00,2131.59,20420.07,48172.45,68592.52,2016,,Watsonville,FT
+Lilia Placensia,Library Assistant,40854.41,0.00,3000.22,24502.00,43854.63,68356.63,2016,,Watsonville,FT
+Peter Batin,Parkng Control Offcr,44942.49,366.14,2139.49,20268.26,47448.12,67716.38,2016,,Watsonville,FT
+John Moreno-Ramirez,Utility Worker II,42707.27,2251.03,2664.66,19931.96,47622.96,67554.92,2016,,Watsonville,FT
+Atanas Milkov,Microcomputer Tech,44662.73,0.00,2411.77,20240.97,47074.50,67315.47,2016,,Watsonville,PT
+Oswaldo Larios,Police Officer Train,50065.85,52.49,620.00,16562.38,50738.34,67300.72,2016,,Watsonville,PT
+Daniel Kamalani,Intgrd Waste Worker,45012.34,987.25,1029.59,20261.97,47029.18,67291.15,2016,,Watsonville,FT
+Louie Leon,Custodian,44827.19,0.00,2067.41,20058.74,46894.60,66953.34,2016,,Watsonville,FT
+Irene Acosta,Sr Accounting Assist,42281.41,152.74,3674.61,20132.26,46108.76,66241.02,2016,,Watsonville,FT
+Elgin Cawaling,Utility Worker II,43439.47,417.92,2138.21,19872.87,45995.60,65868.47,2016,,Watsonville,FT
+Karen Belick,Library Assistant,40854.44,0.00,738.22,24176.34,41592.66,65769.00,2016,,Watsonville,FT
+Sheila Mitchell,Literacy Prgm Assist,40854.43,0.00,738.22,24176.34,41592.65,65768.99,2016,,Watsonville,FT
+Paul Kindle,Custodian,44827.20,0.00,810.00,20058.74,45637.20,65695.94,2016,,Watsonville,FT
+Samuel Leon,Park Maint Worker II,44547.74,0.00,2625.38,18434.27,47173.12,65607.39,2016,,Watsonville,FT
+Armando Rodriguez,Utility Worker II,43052.00,969.22,955.97,19817.89,44977.19,64795.08,2016,,Watsonville,FT
+Philip Jennings,Custodian,43563.86,0.00,1350.00,19869.98,44913.86,64783.84,2016,,Watsonville,FT
+Donna Morse,Solid Waste Aide I,39720.78,3625.02,1658.28,19517.42,45004.08,64521.50,2016,,Watsonville,FT
+Tomas Corral,Police Officer,33764.58,4971.49,9552.46,16098.87,48288.53,64387.40,2016,,Watsonville,PT
+Cesar Sanchez,Park Maint Worker II,38215.79,512.88,3930.87,19647.29,42659.54,62306.83,2016,,Watsonville,FT
+Rudy Zaragoza,Utility Worker II,39446.61,581.13,1969.52,19480.86,41997.26,61478.12,2016,,Watsonville,FT
+Jose Sotelo,Utility Worker II,39894.00,694.61,1403.88,19413.86,41992.49,61406.35,2016,,Watsonville,FT
+Claudia Leonor,Accounting Assistant,39464.89,139.93,2134.43,19554.58,41739.25,61293.83,2016,,Watsonville,FT
+Daniel Dickie,Solid Waste Aide I,39720.76,15.37,1917.26,19555.08,41653.39,61208.47,2016,,Watsonville,FT
+Erica Duran,Accounting Assistant,39985.75,305.20,1231.87,19503.14,41522.82,61025.96,2016,,Watsonville,FT
+Angelica Jauregui,Police Clerk II,38282.54,486.32,2569.99,19372.99,41338.85,60711.84,2016,,Watsonville,FT
+Vicki Allen,Librarian,33479.70,0.00,3509.95,23309.67,36989.65,60299.32,2016,,Watsonville,PT
+Rosalba Fernandez,Solid Waste Aide I,36756.63,3355.30,1142.92,18995.86,41254.85,60250.71,2016,,Watsonville,FT
+Jesus Hurtado,Utility Worker I,37300.67,3132.39,674.01,18954.11,41107.07,60061.18,2016,,Watsonville,FT
+Yesenia Fernandez,Police Clerk II,38035.36,355.93,2227.19,19294.57,40618.48,59913.05,2016,,Watsonville,FT
+Keith Boyle,Acting Comm Development Dir,47317.79,0.00,571.17,11677.84,47888.96,59566.80,2016,,Watsonville,PT
+Andrea Webster,Librarian,33463.57,0.00,2104.50,23156.26,35568.07,58724.33,2016,,Watsonville,PT
+Mayra Ortiz,Microcomputer Tech,39821.08,0.00,4516.07,14154.37,44337.15,58491.52,2016,,Watsonville,PT
+Javier Villalobos,Utility Worker I,36004.50,2167.01,1008.04,18272.88,39179.55,57452.43,2016,,Watsonville,FT
+Celia Castro,Rec Specialist,30016.98,0.00,4289.54,22942.91,34306.52,57249.43,2016,,Watsonville,PT
+Patricia Mata,Rec Specialist,34178.29,0.00,3477.36,18744.42,37655.65,56400.07,2016,,Watsonville,PT
+Jose Rocha,Park Maint Worker I,35387.84,324.39,883.53,18693.27,36595.76,55289.03,2016,,Watsonville,FT
+Jesus Ibarra,Intgrd Waste Trainee,37897.86,2266.76,-787.90,14603.59,39376.72,53980.31,2016,,Watsonville,FT
+Eva Marie Nottage,Librarian,29576.85,0.00,1006.37,22583.02,30583.22,53166.24,2016,,Watsonville,PT
+Edgar Quintero,Collec System Opr I,36928.40,135.98,1932.99,13590.29,38997.37,52587.66,2016,,Watsonville,PT
+Lusero Juarez,Accounting Assistant,33553.92,614.95,1342.91,17000.18,35511.78,52511.96,2016,,Watsonville,FT
+David Ramirez Penaranda,Rec Specialist,32846.67,0.00,3552.69,16089.61,36399.36,52488.97,2016,,Watsonville,PT
+Maria Ramirez,Library Assistant,27236.44,60.47,2210.47,22403.46,29507.38,51910.84,2016,,Watsonville,PT
+Alejandro Chavez,Library Assistant,27026.12,387.78,2000.15,22373.88,29414.05,51787.93,2016,,Watsonville,PT
+Dolores Wiemers,Librarian,27218.51,0.00,1927.70,22211.64,29146.21,51357.85,2016,,Watsonville,PT
+Leonel Viorato Castro,Accounting Assistant,32621.07,676.19,1342.91,16680.86,34640.17,51321.03,2016,,Watsonville,FT
+Guadalupe Velasco,Community Organizer,27712.32,0.00,2223.80,21136.70,29936.12,51072.82,2016,,Watsonville,PT
+Alicia Barba,Library Assistant,26289.91,57.89,2250.54,22306.91,28598.34,50905.25,2016,,Watsonville,PT
+John Georges,Network Admin,38029.46,0.00,1720.61,11145.16,39750.07,50895.23,2016,,Watsonville,PT
+Susan Salas,Library Assistant,27236.44,0.00,702.47,22177.47,27938.91,50116.38,2016,,Watsonville,PT
+Maria Vega-Rodriguez,Library Assistant,25419.66,62.66,2259.29,22180.91,27741.61,49922.52,2016,,Watsonville,PT
+Shelly Crandon,Library Assistant,27236.44,0.00,492.15,22177.47,27728.59,49906.06,2016,,Watsonville,PT
+Lacey Kane,Police Officer,35273.83,1771.58,1334.85,11115.10,38380.26,49495.36,2016,,Watsonville,PT
+Andrea Curtis,Admin Assist I,35443.59,530.11,796.35,11991.12,36770.05,48761.17,2016,,Watsonville,FT
+Jose Perez,Building Inspector,35079.09,0.00,1610.52,10697.22,36689.61,47386.83,2016,,Watsonville,PT
+Jose Robles,Solid Waste Aide I,25918.18,1552.80,4943.10,12561.81,32414.08,44975.89,2016,,Watsonville,PT
+Puriam Alanis-Ojeda,Utility Worker I,26833.82,987.64,3432.02,13325.40,31253.48,44578.88,2016,,Watsonville,PT
+Manuel Solano,Police Chief,5328.10,0.00,36756.58,2306.24,42084.68,44390.92,2016,,Watsonville,PT
+Marissa Jacobo,Librarian,23865.28,0.00,2117.54,18393.91,25982.82,44376.73,2016,,Watsonville,PT
+Hilda Peralta,Environ Ed Coord,36271.62,0.00,0.00,6765.12,36271.62,43036.74,2016,,Watsonville,PT
+Gabriel Suarez,Police Officer,29394.86,780.15,3720.87,9110.00,33895.88,43005.88,2016,,Watsonville,PT
+Cyrus Gutnick,Firefighter,23107.32,3885.58,7473.08,8267.79,34465.98,42733.77,2016,,Watsonville,PT
+Robert Willsie,Park Maint Worker II,26918.25,87.65,2189.69,12709.98,29195.59,41905.57,2016,,Watsonville,PT
+Oscar Hernandez-Frias,Solid Waste Aide I,26391.48,858.31,1089.51,13288.66,28339.30,41627.96,2016,,Watsonville,PT
+Antonio Castillo,Solid Waste Aide I,26425.40,815.39,535.59,13173.39,27776.38,40949.77,2016,,Watsonville,PT
+Juan Molina,Utility Worker I,25675.72,1255.65,674.01,13207.92,27605.38,40813.30,2016,,Watsonville,PT
+Marisol Anaya,Library Clerk,17950.99,117.17,844.18,20907.24,18912.34,39819.58,2016,,Watsonville,PT
+Joey Guerrero,Utility Worker I,24087.02,2146.76,1185.28,12298.85,27419.06,39717.91,2016,,Watsonville,PT
+Thaddeus Jaworski,Facilities & Maintenance Supv,15297.95,0.00,19059.73,5209.99,34357.68,39567.67,2016,,Watsonville,PT
+Sandra Mendoza,Library Clerk,17751.13,0.00,893.92,20869.65,18645.05,39514.70,2016,,Watsonville,PT
+Janet Taylor,Library Clerk,17717.82,0.00,477.16,20804.90,18194.98,38999.88,2016,,Watsonville,PT
+Martha Fuentes,Library Clerk,18287.17,35.42,475.30,18197.59,18797.89,36995.48,2016,,Watsonville,PT
+John Homer,Prop & Evid Tech I,23541.85,0.00,680.78,12211.64,24222.63,36434.27,2016,,Watsonville,PT
+Jaime Fernandez,Solid Waste Aide I,24821.15,3368.85,737.74,7408.25,28927.74,36335.99,2016,,Watsonville,PT
+Victor Velez,Park Maint Worker II,23377.88,0.00,930.73,11674.39,24308.61,35983.00,2016,,Watsonville,PT
+Miguel Chavez,Police Service Specialist,17164.98,428.50,10583.42,6735.71,28176.90,34912.61,2016,,Watsonville,PT
+Coral Plascencia,Solid Waste Aide I,22508.98,1384.02,535.59,10455.73,24428.59,34884.32,2016,,Watsonville,PT
+Ramiro Ramirez,Utility Worker I,27824.10,567.07,0.00,6102.24,28391.17,34493.41,2016,,Watsonville,PT
+Martin Rocha,Police Officer,24985.63,367.44,1385.03,7693.11,26738.10,34431.21,2016,,Watsonville,PT
+Alexander Torres,Utility Worker I,23793.97,1512.20,724.01,7899.88,26030.18,33930.06,2016,,Watsonville,PT
+Javier Paredez,Pub Dropoff Attn I,20800.95,961.46,1184.32,10978.31,22946.73,33925.04,2016,,Watsonville,PT
+Mark Angiolani,Firefighter,24855.69,0.00,0.00,8197.36,24855.69,33053.05,2016,,Watsonville,PT
+Robert Leonardich,Police Officer,32435.97,0.00,0.00,0.00,32435.97,32435.97,2016,,Watsonville,PT
+Robert Ketley,Sr Utilities Engnr,5350.85,0.00,24799.67,518.44,30150.52,30668.96,2016,,Watsonville,PT
+Abel Medrano,Library Clerk,15902.75,17.48,899.82,12114.08,16820.05,28934.13,2016,,Watsonville,PT
+Araceli Perez,Office Assistant I,20619.50,0.00,69.24,7330.93,20688.74,28019.67,2016,,Watsonville,PT
+Ariel San Pedro,Police Officer,20633.90,184.65,1381.69,4696.96,22200.24,26897.20,2016,,Watsonville,PT
+Loues Perez,Office Assistant I,16507.01,0.00,594.25,9390.71,17101.26,26491.97,2016,,Watsonville,PT
+Aurora Torres,Environ Ed Assist,22325.80,0.00,0.00,3214.18,22325.80,25539.98,2016,,Watsonville,PT
+David Lopez,Police Officer,24670.50,0.00,0.00,0.00,24670.50,24670.50,2016,,Watsonville,PT
+Ricardo Gutierrez Magana,Library Clerk,15332.71,45.80,380.97,8262.06,15759.48,24021.54,2016,,Watsonville,PT
+Jorge Martinez-Vasquez,Park Maint Worker I,19366.76,0.00,0.00,3843.81,19366.76,23210.57,2016,,Watsonville,PT
+Enrique Mendez,Customer Serv Tech,22716.99,0.00,0.00,0.00,22716.99,22716.99,2016,,Watsonville,PT
+Andres Villegas Vasques,Utility Worker II,11388.61,238.47,5124.33,5380.01,16751.41,22131.42,2016,,Watsonville,PT
+Mario Alvarez-Fernandez,Library Clerk,9908.29,19.28,1771.48,9160.72,11699.05,20859.77,2016,,Watsonville,PT
+Cynthia Scott,Assist Admin Analyst,20573.94,0.00,0.00,0.00,20573.94,20573.94,2016,,Watsonville,PT
+Ruben Escobar,Utility Worker I,11521.45,1417.68,157.52,5885.05,13096.65,18981.70,2016,,Watsonville,PT
+Maria Lucina Jimenez,Community Organizer,17946.73,0.00,376.41,0.00,18323.14,18323.14,2016,,Watsonville,PT
+Amanda Kippen,Environ Ed Coord,13017.89,0.00,0.00,5073.84,13017.89,18091.73,2016,,Watsonville,PT
+Ernest Contreras,Park Services Manager,2436.07,0.00,14750.60,852.74,17186.67,18039.41,2016,,Watsonville,PT
+Eugene Hoularis,Building Inspector,17817.22,0.00,0.00,0.00,17817.22,17817.22,2016,,Watsonville,PT
+Lizette Salgado,Office Assistant I,7979.59,174.99,904.58,8248.57,9059.16,17307.73,2016,,Watsonville,PT
+Roberto Orejel,Utility Worker I,11521.44,999.13,94.51,4384.68,12615.08,16999.76,2016,,Watsonville,PT
+Jose Rios Ovando,Utility Worker I,9469.19,312.65,1721.95,4961.80,11503.79,16465.59,2016,,Watsonville,PT
+Jonathan Varela,Utility Worker I,10081.26,1200.10,200.00,4661.13,11481.36,16142.49,2016,,Watsonville,PT
+Stephanie Rios,Environ Ed Assist,16069.92,0.00,0.00,0.00,16069.92,16069.92,2016,,Watsonville,PT
+Esteban Serna,Solid Waste Aide I,9551.59,42.92,791.65,5616.77,10386.16,16002.93,2016,,Watsonville,PT
+Karen Chavez,Community Organizer,15488.65,0.00,0.00,0.00,15488.65,15488.65,2016,,Watsonville,PT
+Valentin Rodriguez,Park Maint Worker I,13663.44,0.00,0.00,1638.98,13663.44,15302.42,2016,,Watsonville,PT
+Maria Godinez,Community Organizer,14564.04,0.00,444.91,0.00,15008.95,15008.95,2016,,Watsonville,PT
+Theresa Levandoski-Byers,Airport Operator I,14850.11,0.00,0.00,0.00,14850.11,14850.11,2016,,Watsonville,PT
+Frank Onufray,Construction Manager,14719.04,0.00,0.00,0.00,14719.04,14719.04,2016,,Watsonville,PT
+Alejandra Pacheco,Office Assistant I,14597.30,0.00,0.00,0.00,14597.30,14597.30,2016,,Watsonville,PT
+Michael Leon,Park Maint Worker I,13017.04,0.00,0.00,1438.28,13017.04,14455.32,2016,,Watsonville,PT
+Tai Chau,Principal Engineer,11641.19,0.00,0.00,2792.48,11641.19,14433.67,2016,,Watsonville,PT
+Christopher Johnson,Division Fire Chief,14206.45,0.00,0.00,0.00,14206.45,14206.45,2016,,Watsonville,PT
+Jaime Reyes,Sr Recreation Leader,12205.36,0.00,0.00,1763.60,12205.36,13968.96,2016,,Watsonville,PT
+Esperanza Gutierrez,Literacy Liaison,13684.26,0.00,0.00,0.00,13684.26,13684.26,2016,,Watsonville,PT
+Benjamin Leguillon,Solid Waste Aide I,13607.55,0.00,0.00,0.00,13607.55,13607.55,2016,,Watsonville,PT
+Ana Paulina Deleon-Romero,Sr Recreation Leader,13160.12,0.00,0.00,0.00,13160.12,13160.12,2016,,Watsonville,PT
+Alexis Flores,Solid Waste Aide I,13020.93,0.00,0.00,0.00,13020.93,13020.93,2016,,Watsonville,PT
+Luisa Manzo,Youth Dev Assistant,12954.88,0.00,28.86,0.00,12983.74,12983.74,2016,,Watsonville,PT
+Daniel Cook,Laboratory Assistant,12922.38,0.00,0.00,0.00,12922.38,12922.38,2016,,Watsonville,PT
+Martin Moreira,Environ Ed Intern,12165.30,0.00,0.00,0.00,12165.30,12165.30,2016,,Watsonville,PT
+David Koch,Assist City Manager,12000.45,0.00,145.56,0.00,12146.01,12146.01,2016,,Watsonville,PT
+Mirian Navarro Hernandez,Laborer,12052.63,0.00,0.00,0.00,12052.63,12052.63,2016,,Watsonville,PT
+Ferdinand Tihista,Sr Recreation Leader,11999.29,0.00,0.00,0.00,11999.29,11999.29,2016,,Watsonville,PT
+Fabiola Pizano-Paez,Environ Ed Intern,11954.51,0.00,0.00,0.00,11954.51,11954.51,2016,,Watsonville,PT
+Alexandra Aguado,Office Assistant I,11322.30,0.00,0.00,0.00,11322.30,11322.30,2016,,Watsonville,PT
+Deborah Ruiz,Sr Recreation Leader,11253.11,0.00,0.00,0.00,11253.11,11253.11,2016,,Watsonville,PT
+Jeremiah Valdez,Solid Waste Aide I,10414.24,0.00,0.00,0.00,10414.24,10414.24,2016,,Watsonville,PT
+Alvaro Contreras,Solid Waste Aide I,10414.23,0.00,0.00,0.00,10414.23,10414.23,2016,,Watsonville,PT
+Raul Acevedo,Sr Recreation Leader,9943.23,0.00,0.00,0.00,9943.23,9943.23,2016,,Watsonville,PT
+Anthony Wagenhoffer-Yniguez,Sr Recreation Leader,9872.75,0.00,0.00,0.00,9872.75,9872.75,2016,,Watsonville,PT
+Jose Figueroa,Laborer,9862.24,0.00,0.00,0.00,9862.24,9862.24,2016,,Watsonville,PT
+Patricia Fernandez,Library Page Intern,9774.83,0.00,0.00,0.00,9774.83,9774.83,2016,,Watsonville,PT
+Rosemary Guerrero,Bus Systems Admin,9387.44,0.00,0.00,0.00,9387.44,9387.44,2016,,Watsonville,PT
+Cesar Martin,Library Clerk,9221.86,0.00,0.00,0.00,9221.86,9221.86,2016,,Watsonville,PT
+Carlos Lira,Recreation Leader,9119.12,0.00,20.25,0.00,9139.37,9139.37,2016,,Watsonville,PT
+Maria Ortiz Castillo,Environ Ed Assist,9130.24,0.00,0.00,0.00,9130.24,9130.24,2016,,Watsonville,PT
+Eric Banuelos,Recreation Leader,9024.16,0.00,0.00,0.00,9024.16,9024.16,2016,,Watsonville,PT
+Guadalupe Cruz,Utility Worker I,5472.69,162.02,559.15,2824.79,6193.86,9018.65,2016,,Watsonville,PT
+Mark Vasquez,Library Clerk,9005.86,0.00,0.00,0.00,9005.86,9005.86,2016,,Watsonville,PT
+Carlos Campos,Sr Recreation Leader,8920.05,0.00,0.00,0.00,8920.05,8920.05,2016,,Watsonville,PT
+Martin Rojas-Vera,Wastewater Opr Assist,8831.39,0.00,0.00,0.00,8831.39,8831.39,2016,,Watsonville,PT
+Patrick Kelly,Firefighter ,6213.92,0.00,287.39,2309.26,6501.31,8810.57,2016,,Watsonville,PT
+Cindy Dachel,Library Assistant,8790.43,0.00,0.00,0.00,8790.43,8790.43,2016,,Watsonville,PT
+Karen Sepulveda,Librarian,7532.08,0.00,0.00,1093.54,7532.08,8625.62,2016,,Watsonville,PT
+Fabian Banderas,Solid Waste Aide I,6666.23,547.67,0.00,1406.06,7213.90,8619.96,2016,,Watsonville,PT
+Jake Rivas,Wastewater Opr Assist,8553.08,0.00,0.00,0.00,8553.08,8553.08,2016,,Watsonville,PT
+Daniela Valenzuela Arenas,Recreation Leader,8378.61,0.00,70.44,0.00,8449.05,8449.05,2016,,Watsonville,PT
+Cheyne Barba,Solid Waste Aide I,8411.41,0.00,0.00,0.00,8411.41,8411.41,2016,,Watsonville,PT
+Lillian Ramirez,Library Clerk,8371.39,0.00,0.00,0.00,8371.39,8371.39,2016,,Watsonville,PT
+Ricardo Carrillo,Intgrd Waste Worker,6033.08,185.84,0.00,2073.76,6218.92,8292.68,2016,,Watsonville,PT
+Carmen Huante,Library Clerk,4783.92,0.00,642.43,2812.37,5426.35,8238.72,2016,,Watsonville,PT
+Pedro Macias,Sr Recreation Leader,8234.71,0.00,0.00,0.00,8234.71,8234.71,2016,,Watsonville,PT
+Alfredo Ortega,Comp Cntr Assist/Ac,8171.34,0.00,0.00,0.00,8171.34,8171.34,2016,,Watsonville,PT
+Patricia Lorenzo,Librarian,8162.60,0.00,0.00,0.00,8162.60,8162.60,2016,,Watsonville,PT
+Diana Aguirre,Sr Recreation Leader,8020.88,0.00,17.76,0.00,8038.64,8038.64,2016,,Watsonville,PT
+Scot Shiraishi,Equipment Mech II,5957.57,0.00,0.00,1935.35,5957.57,7892.92,2016,,Watsonville,PT
+Felipe Hernandez,City Council Member,7038.60,0.00,770.75,0.00,7809.35,7809.35,2016,,Watsonville,PT
+Nazmy Godinez,Sr Recreation Leader,7733.72,0.00,0.00,0.00,7733.72,7733.72,2016,,Watsonville,PT
+Alan Guzman,Student Assistant I,7511.39,0.00,0.00,0.00,7511.39,7511.39,2016,,Watsonville,PT
+Manuel Montero,Laborer,7481.59,0.00,0.00,0.00,7481.59,7481.59,2016,,Watsonville,PT
+Jose Cortes Vazquez,Sr Recreation Leader,7417.07,0.00,0.00,0.00,7417.07,7417.07,2016,,Watsonville,PT
+Alexander Esqueda,Sr Recreation Leader,7390.78,0.00,0.00,0.00,7390.78,7390.78,2016,,Watsonville,PT
+Patricia Carter,Laborer,7261.66,0.00,0.00,0.00,7261.66,7261.66,2016,,Watsonville,PT
+Trina Gomez,City Council Member,6023.30,0.00,1080.00,0.00,7103.30,7103.30,2016,,Watsonville,PT
+Lowell Hurst,City Council Member,6023.30,0.00,1080.00,0.00,7103.30,7103.30,2016,,Watsonville,PT
+Ivan Valladares,Solid Waste Aide I,7095.39,0.00,0.00,0.00,7095.39,7095.39,2016,,Watsonville,PT
+Rudy Ramirez,Laborer,6847.55,0.00,0.00,0.00,6847.55,6847.55,2016,,Watsonville,PT
+Judith Grunstra,Librarian,6843.44,0.00,0.00,0.00,6843.44,6843.44,2016,,Watsonville,PT
+Marco Lugo,Police Officer,4629.69,0.00,270.00,1854.83,4899.69,6754.52,2016,,Watsonville,PT
+Tomas Gomez,Equipment Mech II,4964.64,0.00,0.00,1785.60,4964.64,6750.24,2016,,Watsonville,PT
+Ivanna Velasquez,Sr Recreation Leader,6735.18,0.00,0.00,0.00,6735.18,6735.18,2016,,Watsonville,PT
+Stephanie Barraza,Library Clerk,6731.57,0.00,0.00,0.00,6731.57,6731.57,2016,,Watsonville,PT
+Elbert Sanchez,Laborer,6615.93,0.00,0.00,0.00,6615.93,6615.93,2016,,Watsonville,PT
+Linda Patania,Library Clerk,6605.31,0.00,0.00,0.00,6605.31,6605.31,2016,,Watsonville,PT
+Nancy Bilicich,City Council Member,6207.90,0.00,277.40,0.00,6485.30,6485.30,2016,,Watsonville,PT
+Brandon Contreras Torres,Recreation Leader,6393.35,0.00,0.00,0.00,6393.35,6393.35,2016,,Watsonville,PT
+Eduardo Quiroz Mendoza,Solid Waste Aide I,6365.77,0.00,0.00,0.00,6365.77,6365.77,2016,,Watsonville,PT
+Monica Valtierra Alvarado,Recreation Leader,6351.39,0.00,0.00,0.00,6351.39,6351.39,2016,,Watsonville,PT
+Francisco Vazquez,Sr Recreation Leader,6305.47,0.00,0.00,0.00,6305.47,6305.47,2016,,Watsonville,PT
+Christopher Briano,Sr Official,5347.35,0.00,127.59,797.48,5474.94,6272.42,2016,,Watsonville,PT
+Aidee Valdez Martinez,Sr Recreation Leader,6035.08,0.00,0.00,0.00,6035.08,6035.08,2016,,Watsonville,PT
+James Dutra,City Council Member,6023.30,0.00,0.00,0.00,6023.30,6023.30,2016,,Watsonville,PT
+Rebecca Garcia,City Council Member,6023.30,0.00,0.00,0.00,6023.30,6023.30,2016,,Watsonville,PT
+Karina Cervantez,City Council Member,6023.30,0.00,0.00,0.00,6023.30,6023.30,2016,,Watsonville,PT
+William Powers,Laborer,6001.35,0.00,0.00,0.00,6001.35,6001.35,2016,,Watsonville,PT
+Ulises Cisneros-Abrego,Student Assistant I,5996.36,0.00,0.00,0.00,5996.36,5996.36,2016,,Watsonville,PT
+Suryel Vasquez,Audiovisual Tech,5934.92,0.00,0.00,0.00,5934.92,5934.92,2016,,Watsonville,PT
+Christian Ramirez,Accounting Assistant,5885.47,0.00,0.00,0.00,5885.47,5885.47,2016,,Watsonville,PT
+Joseph Padilla,City Manager'S Video,5784.14,0.00,0.00,0.00,5784.14,5784.14,2016,,Watsonville,PT
+Sharon Sanchez,Sr Recreation Leader,5715.25,0.00,0.00,0.00,5715.25,5715.25,2016,,Watsonville,PT
+Minerva Olmos Espindola,Sr Recreation Leader,5701.34,0.00,0.00,0.00,5701.34,5701.34,2016,,Watsonville,PT
+Monica Sandoval,Office Assistant I,5629.14,0.00,0.00,0.00,5629.14,5629.14,2016,,Watsonville,PT
+Jessica Carrasco,Sr Recreation Leader,5526.59,0.00,0.00,0.00,5526.59,5526.59,2016,,Watsonville,PT
+Sandra Anaya-Zamora,Sr Recreation Leader,5415.60,0.00,0.00,0.00,5415.60,5415.60,2016,,Watsonville,PT
+Ivan Ramirez,Recreation Leader,5395.80,0.00,18.25,0.00,5414.05,5414.05,2016,,Watsonville,PT
+Ana Ramirez-Baladez,Sr Recreation Leader,5346.59,0.00,0.00,0.00,5346.59,5346.59,2016,,Watsonville,PT
+Timothy Johnson,Utility Worker II,5180.86,0.00,0.00,0.00,5180.86,5180.86,2016,,Watsonville,PT
+Robert Steelman,Integrated Waste Supervisor,2328.34,0.00,1994.91,844.82,4323.25,5168.07,2016,,Watsonville,PT
+Jessica Mattos,Pool Manager,4983.63,91.58,0.00,0.00,5075.21,5075.21,2016,,Watsonville,PT
+Jason Barreto Flores,Laborer,5001.12,0.00,0.00,0.00,5001.12,5001.12,2016,,Watsonville,PT
+Richard Gomez,Sr Official,4652.16,0.00,0.00,0.00,4652.16,4652.16,2016,,Watsonville,PT
+Maia Ventura,Laboratory Assistant,4630.80,0.00,0.00,0.00,4630.80,4630.80,2016,,Watsonville,PT
+Michael Chavez,Wastewater Opr Assist,4605.50,0.00,0.00,0.00,4605.50,4605.50,2016,,Watsonville,PT
+Alejandro Ayala Magdaleno,Solid Waste Aide I,4463.22,0.00,0.00,0.00,4463.22,4463.22,2016,,Watsonville,PT
+Nadyne Vargas,Library Page Intern,4218.37,0.00,0.00,0.00,4218.37,4218.37,2016,,Watsonville,PT
+Hope Lopez,Library Clerk,4183.85,0.00,0.00,0.00,4183.85,4183.85,2016,,Watsonville,PT
+Priscilla Lopez,Community Organizer,3710.07,0.00,347.01,0.00,4057.08,4057.08,2016,,Watsonville,PT
+Marilyn Lopez-Zamora,Police Service Specialist,2537.43,31.72,18.27,1419.55,2587.42,4006.97,2016,,Watsonville,PT
+Matthew Jimenez,Recreation Special,4000.82,0.00,0.00,0.00,4000.82,4000.82,2016,,Watsonville,PT
+Erik Lopez,Utility Worker I,3744.48,0.00,0.00,0.00,3744.48,3744.48,2016,,Watsonville,PT
+Robert Strong,Police Service Specialist,2325.98,0.00,18.27,1387.66,2344.25,3731.91,2016,,Watsonville,PT
+Carina Ramirez,Office Assistant I,3555.01,0.00,0.00,0.00,3555.01,3555.01,2016,,Watsonville,PT
+Anthony Augimeri,Librarian,3437.87,0.00,0.00,0.00,3437.87,3437.87,2016,,Watsonville,PT
+Maria Gonzalez Espinoza,Library Page Intern,3250.48,0.00,0.00,0.00,3250.48,3250.48,2016,,Watsonville,PT
+Atalo Paniagua-Gutierrez,Sr Recreation Leader,3050.29,0.00,0.00,0.00,3050.29,3050.29,2016,,Watsonville,PT
+Hebert Perez-Mendez,Recreation Leader,3040.68,0.00,0.00,0.00,3040.68,3040.68,2016,,Watsonville,PT
+Abraham Gallegos,Laborer,3010.64,0.00,0.00,0.00,3010.64,3010.64,2016,,Watsonville,PT
+Liam Kuhn,Lifeguard / Instruct,2989.59,0.00,0.00,0.00,2989.59,2989.59,2016,,Watsonville,PT
+Cebrina Chavez,Lifeguard / Instruct,2981.45,0.00,0.00,0.00,2981.45,2981.45,2016,,Watsonville,PT
+Rodolfo Cardenas,Library Page Intern,2870.69,0.00,0.00,0.00,2870.69,2870.69,2016,,Watsonville,PT
+Carlos Pantoja Torres,Wastewater Opr Assist,2859.45,0.00,0.00,0.00,2859.45,2859.45,2016,,Watsonville,PT
+Etienne Green,Lifeguard / Instruct,2846.19,0.00,0.00,0.00,2846.19,2846.19,2016,,Watsonville,PT
+Yesenia Reyes Suarez,Sr Recreation Leader,2802.20,0.00,0.00,0.00,2802.20,2802.20,2016,,Watsonville,PT
+Mattea Burgin,Lifeguard / Instruct,2743.37,0.00,0.00,0.00,2743.37,2743.37,2016,,Watsonville,PT
+Jose Maciel,Comm Cntr Attendant,2730.61,0.00,0.00,0.00,2730.61,2730.61,2016,,Watsonville,PT
+Linda Jennings,Sr Official,2677.47,0.00,0.00,0.00,2677.47,2677.47,2016,,Watsonville,PT
+Delano Berry,Sr Official,2638.73,0.00,0.00,0.00,2638.73,2638.73,2016,,Watsonville,PT
+Anthony Bussey,Sr Official,2624.91,0.00,0.00,0.00,2624.91,2624.91,2016,,Watsonville,PT
+Michael Kanner,Sr Official,2596.19,0.00,0.00,0.00,2596.19,2596.19,2016,,Watsonville,PT
+Andrew Cervantes,Sr Recreation Leader,2583.22,0.00,0.00,0.00,2583.22,2583.22,2016,,Watsonville,PT
+Jose Bernal Santos,Recreation Leader,2500.56,0.00,0.00,0.00,2500.56,2500.56,2016,,Watsonville,PT
+Consuelo Gomez,Sr Recreation Leader,2351.51,0.00,0.00,0.00,2351.51,2351.51,2016,,Watsonville,PT
+Johnathan Mullin,Lifeguard / Instruct,2296.75,0.00,0.00,0.00,2296.75,2296.75,2016,,Watsonville,PT
+David Martinez,Wastewater Opr Assist,2277.43,0.00,0.00,0.00,2277.43,2277.43,2016,,Watsonville,PT
+Evelyn Salazar Meza,Student Assistant I,2240.49,0.00,0.00,0.00,2240.49,2240.49,2016,,Watsonville,PT
+Grant Meyers,Lifeguard / Instruct,2232.03,0.00,0.00,0.00,2232.03,2232.03,2016,,Watsonville,PT
+William Waldron,Official,2176.55,0.00,0.00,0.00,2176.55,2176.55,2016,,Watsonville,PT
+Andrea Rodriguez-Rocha,Recreation Leader,2157.96,0.00,0.00,0.00,2157.96,2157.96,2016,,Watsonville,PT
+Roxanna Guzman,Sr Recreation Leader,2106.49,0.00,0.00,0.00,2106.49,2106.49,2016,,Watsonville,PT
+Lizbeth Vital Rodriguez,Sr Recreation Leader,2100.96,0.00,0.00,0.00,2100.96,2100.96,2016,,Watsonville,PT
+Vanessa Cowans,Scorekeeper,2090.42,0.00,0.00,0.00,2090.42,2090.42,2016,,Watsonville,PT
+Kiirstie Ramon,Official,2033.04,0.00,0.00,0.00,2033.04,2033.04,2016,,Watsonville,PT
+Sergio Salvador,Student Assistant I,1988.42,0.00,0.00,0.00,1988.42,1988.42,2016,,Watsonville,PT
+Jessica Ibarra,Sr Recreation Leader,1986.30,0.00,0.00,0.00,1986.30,1986.30,2016,,Watsonville,PT
+Jorge Flores Cuevas,Student Assistant I,1972.93,0.00,0.00,0.00,1972.93,1972.93,2016,,Watsonville,PT
+Jasmin Fernandez,Library Page Intern,1920.44,0.00,0.00,0.00,1920.44,1920.44,2016,,Watsonville,PT
+Christian Sanchez,Recreation Leader,1902.91,0.00,0.00,0.00,1902.91,1902.91,2016,,Watsonville,PT
+Mario Sanchez,Wastewater Opr Assist,1855.68,0.00,0.00,0.00,1855.68,1855.68,2016,,Watsonville,PT
+Dario Leon,Community Organizer,946.46,0.00,0.00,841.97,946.46,1788.43,2016,,Watsonville,PT
+Abel Mendoza Rivera,Custodian,1775.85,0.00,0.00,0.00,1775.85,1775.85,2016,,Watsonville,PT
+Yazmin Esqueda,Recreation Leader,1745.37,0.00,0.00,0.00,1745.37,1745.37,2016,,Watsonville,PT
+Hugo Quiroz,Custodian,1743.56,0.00,0.00,0.00,1743.56,1743.56,2016,,Watsonville,PT
+Isaac Herrera,Recreation Leader,1730.36,0.00,0.00,0.00,1730.36,1730.36,2016,,Watsonville,PT
+Jonathan Galaviz,Recreation Leader,1715.37,0.00,0.00,0.00,1715.37,1715.37,2016,,Watsonville,PT
+Juan Arevalos,Wastewater Opr Assist,1686.99,0.00,0.00,0.00,1686.99,1686.99,2016,,Watsonville,PT
+Maria Berrelleza Urquidez,Student Assistant I,1682.89,0.00,0.00,0.00,1682.89,1682.89,2016,,Watsonville,PT
+Collin Travers,Parkng Control Offcr,1679.55,0.00,0.00,0.00,1679.55,1679.55,2016,,Watsonville,PT
+Salvador Esqueda,Comm Cntr Attendant,1648.99,0.00,0.00,0.00,1648.99,1648.99,2016,,Watsonville,PT
+Juan Martinez,Recreation Leader,1585.34,0.00,0.00,0.00,1585.34,1585.34,2016,,Watsonville,PT
+Maria Del Carmen Perez Flores,Student Assistant I,1540.34,0.00,0.00,0.00,1540.34,1540.34,2016,,Watsonville,PT
+Roberto Flores,Assist Admin Analyst,1537.47,0.00,0.00,0.00,1537.47,1537.47,2016,,Watsonville,PT
+Andrea Castillo,Recreation Leader,1515.33,0.00,0.00,0.00,1515.33,1515.33,2016,,Watsonville,PT
+Rick Garrett,Sr Official,1475.70,0.00,0.00,0.00,1475.70,1475.70,2016,,Watsonville,PT
+Martin Zepeda,Sr Official,1455.44,0.00,0.00,0.00,1455.44,1455.44,2016,,Watsonville,PT
+Douglas Glass,Airport Operator I,1263.66,0.00,0.00,173.42,1263.66,1437.08,2016,,Watsonville,PT
+Raymond Morones,Water Sfty Instructor,1412.81,0.00,0.00,0.00,1412.81,1412.81,2016,,Watsonville,PT
+Andrea Sampson,Library Page Intern,1412.80,0.00,0.00,0.00,1412.80,1412.80,2016,,Watsonville,PT
+Sergio Ledesma,Sr Official,1410.60,0.00,0.00,0.00,1410.60,1410.60,2016,,Watsonville,PT
+Armando Alonso-Guillen,Laborer,1310.30,0.00,0.00,0.00,1310.30,1310.30,2016,,Watsonville,PT
+Sandralynn Traub,Sr Recreation Leader,1301.91,0.00,0.00,0.00,1301.91,1301.91,2016,,Watsonville,PT
+Marissa Sanchez,Recreation Leader,1220.28,0.00,0.00,0.00,1220.28,1220.28,2016,,Watsonville,PT
+Cesar Estrada,Sr Official,1052.70,0.00,0.00,154.94,1052.70,1207.64,2016,,Watsonville,PT
+Salvador Martinez-Vasquez,Laborer,1180.26,0.00,0.00,0.00,1180.26,1180.26,2016,,Watsonville,PT
+Nestor Orozco,Environmental Ed Intern,1178.15,0.00,0.00,0.00,1178.15,1178.15,2016,,Watsonville,PT
+Monique Sanchez,Sr Recreation Leader,1158.56,0.00,0.00,0.00,1158.56,1158.56,2016,,Watsonville,PT
+Daniel Olivarez-Vega,Scorekeeper,1095.22,0.00,0.00,0.00,1095.22,1095.22,2016,,Watsonville,PT
+Jack Beard,Wastewater Opr Assist,1079.68,0.00,0.00,0.00,1079.68,1079.68,2016,,Watsonville,PT
+Lorena Fernandez,Sr Recreation Leader,1014.08,0.00,0.00,0.00,1014.08,1014.08,2016,,Watsonville,PT
+Genaro Sanchez,Sr Official,1000.48,0.00,0.00,0.00,1000.48,1000.48,2016,,Watsonville,PT
+Tiana Keeton,Library Page Intern,995.20,0.00,0.00,0.00,995.20,995.20,2016,,Watsonville,PT
+Alana Sigala,Scorekeeper,922.72,0.00,0.00,0.00,922.72,922.72,2016,,Watsonville,PT
+Matthew Strader,Sr Recreation Leader,920.15,0.00,0.00,0.00,920.15,920.15,2016,,Watsonville,PT
+Adalberto Fernandez,Library Page Intern,903.05,0.00,0.00,0.00,903.05,903.05,2016,,Watsonville,PT
+Ralph Biondi,Comm Cntr Attendant,873.37,0.00,0.00,0.00,873.37,873.37,2016,,Watsonville,PT
+Zachariah Figueroa,Sr Recreation Leader,820.43,0.00,0.00,0.00,820.43,820.43,2016,,Watsonville,PT
+Oliver Indarose,Scorekeeper,800.18,0.00,0.00,0.00,800.18,800.18,2016,,Watsonville,PT
+Diego Montano,Comm Cntr Attendant,798.58,0.00,0.00,0.00,798.58,798.58,2016,,Watsonville,PT
+Omar Vigil,Environ Ed Assist,721.89,0.00,0.00,0.00,721.89,721.89,2016,,Watsonville,PT
+Alexis Silva-Guerrero,Official,680.44,0.00,0.00,0.00,680.44,680.44,2016,,Watsonville,PT
+Julissa Escutia,Recreation Leader,660.14,0.00,0.00,0.00,660.14,660.14,2016,,Watsonville,PT
+Jose Rodriguez,Scorekeeper,650.00,0.00,0.00,0.00,650.00,650.00,2016,,Watsonville,PT
+Celeste Sandoval-Chavez,Recreation Leader,565.45,0.00,0.00,0.00,565.45,565.45,2016,,Watsonville,PT
+Pablo Moran,Park Maint Worker II,467.47,0.00,0.00,70.50,467.47,537.97,2016,,Watsonville,PT
+Oracio Cervantes,Comm Cntr Attendant,443.65,0.00,0.00,0.00,443.65,443.65,2016,,Watsonville,PT
+Joaquin Pacheco,Sr Recreation Leader,421.30,0.00,0.00,0.00,421.30,421.30,2016,,Watsonville,PT
+Jose Flores-Martinez,Sr Recreation Leader,393.58,0.00,0.00,0.00,393.58,393.58,2016,,Watsonville,PT
+Armando Palmerin,Student Assistant I,380.08,0.00,0.00,0.00,380.08,380.08,2016,,Watsonville,PT
+Susan Mangan,Sr Recreation Leader,325.45,0.00,0.00,0.00,325.45,325.45,2016,,Watsonville,PT
+Bianey Aguilera-Torres,Student Assistant I,260.06,0.00,0.00,0.00,260.06,260.06,2016,,Watsonville,PT
+Eric Silva,Lifeguard / Instruct,223.71,0.00,0.00,0.00,223.71,223.71,2016,,Watsonville,PT
+Javier Mendoza,Laborer,210.05,0.00,0.00,0.00,210.05,210.05,2016,,Watsonville,PT
+Leslie Rios,Laboratory Assistant,184.55,0.00,0.00,0.00,184.55,184.55,2016,,Watsonville,PT
+Hector Cruz,Sr Official,150.07,0.00,0.00,0.00,150.07,150.07,2016,,Watsonville,PT
+Oscar Rios,Mayor,144.23,0.00,0.00,0.00,144.23,144.23,2016,,Watsonville,PT
+Gayla Faahs,Sr Official,10.00,0.00,0.00,0.00,10.00,10.00,2016,,Watsonville,PT

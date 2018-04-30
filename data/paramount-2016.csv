@@ -1,0 +1,477 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+John Moreno,City Manager,198952.00,0.00,29550.00,66113.00,228502.00,294615.00,2016,,Paramount,FT
+Kevin Chun,Assistant City Manager,148006.00,0.00,3782.00,41795.00,151788.00,193583.00,2016,,Paramount,FT
+David Johnson,Director CSR,134054.00,0.00,12363.00,23236.00,146417.00,169653.00,2016,,Paramount,FT
+Maria Meraz,Director  PS,133801.00,0.00,12152.00,23266.00,145953.00,169219.00,2016,,Paramount,FT
+Christopher Cash,Director PW,133802.00,0.00,11214.00,23236.00,145016.00,168252.00,2016,,Paramount,FT
+Karina Lam Liu,Director Fin,133801.00,0.00,9153.00,23236.00,142954.00,166190.00,2016,,Paramount,FT
+Lana Chikami,City Clerk,110767.00,0.00,3401.00,35898.00,114168.00,150066.00,2016,,Paramount,FT
+Adriana Lopez,Assist PS Director,103808.00,0.00,388.00,33880.00,104196.00,138076.00,2016,,Paramount,FT
+John Carver,Assist CD Director,105216.00,0.00,2022.00,23688.00,107238.00,130926.00,2016,,Paramount,FT
+Antulio Garcia,Development Services Mgr,96106.00,0.00,911.00,31622.00,97017.00,128639.00,2016,,Paramount,FT
+Clyde Alexander,Asst Finance Director,87811.00,0.00,2336.00,27745.00,90147.00,117892.00,2016,,Paramount,FT
+Yecenia Guillen,Asst Recreation Director,90282.00,0.00,4170.00,22670.00,94452.00,117122.00,2016,,Paramount,FT
+Sarah Ho,Asst Public Works Director,93546.00,0.00,5443.00,16747.00,98989.00,115736.00,2016,,Paramount,FT
+John King,Planning Manager,87611.00,0.00,158.00,27691.00,87769.00,115460.00,2016,,Paramount,FT
+Richard Sommers,PW Superintendent,79527.00,0.00,1806.00,28334.00,81333.00,109667.00,2016,,Paramount,FT
+Norman Mamea,Water Superintendent,79133.00,0.00,531.00,29926.00,79664.00,109590.00,2016,,Paramount,FT
+Roland Lewis,Water Mntc Supervisor,69890.00,8001.00,103.00,28845.00,77994.00,106839.00,2016,,Paramount,FT
+Christopher Callard,Public Information Officer,72946.00,0.00,1913.00,28920.00,74859.00,103779.00,2016,,Paramount,FT
+Wendy Macias,Public Works Manager,80149.00,0.00,5614.00,14630.00,85763.00,100393.00,2016,,Paramount,FT
+Magda Garcia-Juarez,Senior Recreation Supervisor,69888.00,0.00,1971.00,26872.00,71859.00,98731.00,2016,,Paramount,FT
+Ricardo Baptista,Building and Safety Inspector,77651.00,455.00,1295.00,19049.00,79401.00,98450.00,2016,,Paramount,FT
+Michael Carrillo,Management Analyst,50118.00,0.00,25459.00,21711.00,75577.00,97288.00,2016,,Paramount,PT
+Marlene Vargas,CSR Supervisor,67269.00,0.00,272.00,27418.00,67541.00,94959.00,2016,,Paramount,FT
+Anthony Martinez,Crime Analyst,74573.00,0.00,1852.00,18527.00,76425.00,94952.00,2016,,Paramount,FT
+Margarita Gutierrez,Finance Supervisor,67040.00,0.00,283.00,27418.00,67323.00,94741.00,2016,,Paramount,FT
+Steven Coumparoules,Management Analyst,67111.00,0.00,22.00,27388.00,67133.00,94521.00,2016,,Paramount,FT
+Patrick Lynch,Maintenance Supervisor,64114.00,1659.00,1457.00,26855.00,67230.00,94085.00,2016,,Paramount,FT
+Enrique Garcia,Maintenance Supervisor,69834.00,2524.00,7423.00,12996.00,79781.00,92777.00,2016,,Paramount,FT
+Suleyma Rosales,CSR Supervisor,68034.00,0.00,202.00,24090.00,68236.00,92326.00,2016,,Paramount,FT
+Mario Ponce,CSO Supervisor,61492.00,0.00,1955.00,27265.00,63447.00,90712.00,2016,,Paramount,FT
+Harris Mataalii,Senior Maintenance Worker,56196.00,6248.00,1333.00,25786.00,63777.00,89563.00,2016,,Paramount,FT
+Antonio Pena,CSR Supervisor,69923.00,0.00,6459.00,12996.00,76382.00,89378.00,2016,,Paramount,FT
+Ignacio Villasenor,Senior Maintenance Worker,54274.00,11455.00,1490.00,21885.00,67219.00,89104.00,2016,,Paramount,FT
+Angel Arredondo,CE Division Head,69620.00,0.00,1219.00,17728.00,70839.00,88567.00,2016,,Paramount,FT
+Ben Svensson,IT Supervisor,69993.00,0.00,5436.00,11649.00,75429.00,87078.00,2016,,Paramount,FT
+Ruben Campos,Comm Service Officer,49931.00,7986.00,1645.00,26147.00,59562.00,85709.00,2016,,Paramount,FT
+Todd Mish,Senior Maintenance Worker,56213.00,2007.00,19.00,27139.00,58239.00,85378.00,2016,,Paramount,FT
+John Martin,Building and Safety Inspector,66036.00,0.00,408.00,16454.00,66444.00,82898.00,2016,,Paramount,FT
+Allison Mcconnell,Executive Secretary,64304.00,0.00,1633.00,16843.00,65937.00,82780.00,2016,,Paramount,FT
+Raymond Morones,Warehouse Attendant,52547.00,568.00,1351.00,28129.00,54466.00,82595.00,2016,,Paramount,FT
+Manuel Quirarte,Senior Maintenance Worker,53687.00,2129.00,1368.00,25213.00,57184.00,82397.00,2016,,Paramount,FT
+Flora Ornelas,Secretary III,56196.00,0.00,1368.00,24797.00,57564.00,82361.00,2016,,Paramount,FT
+Janene Ottaiano,HR Manager,42681.00,0.00,22568.00,16890.00,65249.00,82139.00,2016,,Paramount,PT
+Mario Flores,Senior Maintenance Worker,54189.00,5130.00,187.00,21885.00,59506.00,81391.00,2016,,Paramount,FT
+Lashan Shannon,Senior Maintenance Worker,53507.00,1358.00,1310.00,25184.00,56175.00,81359.00,2016,,Paramount,FT
+Angelica Gomez,Comm Service Officer,50188.00,5779.00,424.00,24690.00,56391.00,81081.00,2016,,Paramount,FT
+Marco Cuevas Jr.,Community Development Planner,63156.00,0.00,5605.00,11902.00,68761.00,80663.00,2016,,Paramount,FT
+Jorge Garcia,Senior Maintenance Worker,53292.00,1352.00,193.00,25815.00,54837.00,80652.00,2016,,Paramount,FT
+Charlie Ordonez,Comm Service Officer,50153.00,5789.00,460.00,23700.00,56402.00,80102.00,2016,,Paramount,FT
+Erika Aguero-Medina,Finance Clerk,53546.00,0.00,223.00,25815.00,53769.00,79584.00,2016,,Paramount,FT
+Gloria Hannah,Secretary III,56177.00,0.00,295.00,22976.00,56472.00,79448.00,2016,,Paramount,FT
+Talya Mobley,Finance Clerk,53581.00,324.00,296.00,24797.00,54201.00,78998.00,2016,,Paramount,FT
+Kenneth Waldecker,Code Enforcement Officer,51978.00,1082.00,245.00,25665.00,53305.00,78970.00,2016,,Paramount,FT
+David Arellano,Senior Maintenance Worker,52338.00,11879.00,184.00,14565.00,64401.00,78966.00,2016,,Paramount,FT
+Renee Acero,Finance Clerk,53687.00,973.00,8.00,24194.00,54668.00,78862.00,2016,,Paramount,FT
+Michael Herrera,Maintenance Worker,47058.00,7943.00,1.00,23793.00,55002.00,78795.00,2016,,Paramount,FT
+Elva Padilla,Finance Clerk,53412.00,0.00,188.00,24207.00,53600.00,77807.00,2016,,Paramount,FT
+Bertha Castro,Code Enforcement Officer,51793.00,354.00,1212.00,23958.00,53359.00,77317.00,2016,,Paramount,FT
+Mark Dorsey,Code Enforcement Officer,52811.00,1673.00,314.00,18233.00,54798.00,73031.00,2016,,Paramount,FT
+Sol Bejarano,Building Permit Technician,56921.00,0.00,224.00,15293.00,57145.00,72438.00,2016,,Paramount,FT
+Alma Rivera-Juarez,Secretary III,56016.00,0.00,5628.00,9801.00,61644.00,71445.00,2016,,Paramount,FT
+Valerie Zaragoza,Secretary III,55253.00,0.00,188.00,15422.00,55441.00,70863.00,2016,,Paramount,FT
+Diana Lopez,Secretary III,49413.00,0.00,252.00,21119.00,49665.00,70784.00,2016,,Paramount,FT
+Jonathan Masannat,Management Analyst,60358.00,0.00,5408.00,4904.00,65766.00,70670.00,2016,,Paramount,FT
+Dale Long,Maintenance Worker,48444.00,1763.00,5.00,19932.00,50212.00,70144.00,2016,,Paramount,FT
+Nancy Hamilton,Code Enforcement Officer,53359.00,1043.00,280.00,15128.00,54682.00,69810.00,2016,,Paramount,FT
+Joseph Green,Maintenance Worker,48363.00,36.00,5.00,21385.00,48404.00,69789.00,2016,,Paramount,FT
+Johnathan Stewart,Maintenance Worker,47857.00,1599.00,1.00,19570.00,49457.00,69027.00,2016,,Paramount,FT
+Ulisses Ramos,Maintenance Worker,49423.00,4707.00,182.00,14488.00,54312.00,68800.00,2016,,Paramount,FT
+Ingrid Holly,Departmental Clerk,48292.00,0.00,73.00,20395.00,48365.00,68760.00,2016,,Paramount,FT
+Shaun O'brien,Parking Control Officer,51689.00,112.00,6844.00,10072.00,58645.00,68717.00,2016,,Paramount,FT
+Erika Carmody,Secretary III,51857.00,0.00,6286.00,10095.00,58143.00,68238.00,2016,,Paramount,FT
+Patrick Matson,HR Manager,50758.00,0.00,23.00,16884.00,50781.00,67665.00,2016,,Paramount,PT
+Danny Elizarraras,Management Analyst,56364.00,0.00,426.00,9874.00,56790.00,66664.00,2016,,Paramount,FT
+Joe Galaz,Maintenance Worker,49993.00,673.00,3332.00,12168.00,53998.00,66166.00,2016,,Paramount,FT
+Eric Barela,Comm Service Officer,43732.00,6610.00,6573.00,8465.00,56915.00,65380.00,2016,,Paramount,FT
+Leah Clark,Payroll Specialist,49387.00,324.00,1036.00,14604.00,50747.00,65351.00,2016,,Paramount,FT
+Anthony Hernandez,Maintenance Worker,39636.00,2090.00,183.00,22574.00,41909.00,64483.00,2016,,Paramount,FT
+Monique Mandujano,Departmental Clerk,49289.00,91.00,36.00,15019.00,49416.00,64435.00,2016,,Paramount,FT
+Alejandro Banuelos,Maintenance Worker,44207.00,8809.00,180.00,9440.00,53196.00,62636.00,2016,,Paramount,FT
+Monica Camacho,Comm Service Officer,43107.00,2386.00,420.00,15911.00,45913.00,61824.00,2016,,Paramount,FT
+Luis Bueno,Maintenance Worker,31259.00,8233.00,5014.00,16016.00,44506.00,60522.00,2016,,Paramount,PT
+Alfonso Robles,Comm Service Officer,43275.00,5462.00,420.00,9393.00,49157.00,58550.00,2016,,Paramount,FT
+Carlos Mendoza,Neigh. Pres. Specialist,37364.00,0.00,5890.00,15050.00,43254.00,58304.00,2016,,Paramount,PT
+Lorean Bautista,Graphic Artist Social Media Coordinator,48150.00,0.00,0.00,9694.00,48150.00,57844.00,2016,,Paramount,FT
+Alberto Rodriguez,Maintenance Worker,45428.00,1134.00,5400.00,4813.00,51962.00,56775.00,2016,,Paramount,FT
+Robert Renteria,Maintenance Worker,41331.00,4141.00,180.00,9480.00,45652.00,55132.00,2016,,Paramount,FT
+Bobby Avina,Code Enforcement Officer,43200.00,1660.00,690.00,8508.00,45550.00,54058.00,2016,,Paramount,FT
+"Jaime De Guzman, Jr",Senior Accountant,46906.00,0.00,1809.00,2378.00,48715.00,51093.00,2016,,Paramount,PT
+Giovanni Ballesteros,Computer Technician,39133.00,0.00,240.00,0.00,39373.00,39373.00,2016,,Paramount,PT
+Michael Bunyi,Computer Technician,35257.00,0.00,240.00,223.00,35497.00,35720.00,2016,,Paramount,FT
+Anthony Padilla,Comm Service Officer,22837.00,2907.00,120.00,4895.00,25864.00,30759.00,2016,,Paramount,PT
+Daryl Hofmeyer,Council Member,12929.00,0.00,0.00,16007.00,12929.00,28936.00,2016,,Paramount,PT
+Gene Daniels,Council Member,13045.00,0.00,0.00,15350.00,13045.00,28395.00,2016,,Paramount,PT
+Rebecca Rios,Public Service Assistant,25793.00,0.00,0.00,0.00,25793.00,25793.00,2016,,Paramount,FT
+Enrique Corona,Recreation Assistant,23818.00,0.00,240.00,0.00,24058.00,24058.00,2016,,Paramount,FT
+Peggy Lemons,Council Member,15084.00,0.00,5400.00,3550.00,20484.00,24034.00,2016,,Paramount,PT
+Cindy Montenegro,Finance Assistant,23944.00,0.00,0.00,0.00,23944.00,23944.00,2016,,Paramount,FT
+Diane Martinez,Council Member,15084.00,0.00,5400.00,2877.00,20484.00,23361.00,2016,,Paramount,PT
+Thomas Hansen,Council Member,15084.00,0.00,5400.00,2284.00,20484.00,22768.00,2016,,Paramount,PT
+Cristina Andrade,Recreation Coordinator,21271.00,0.00,0.00,0.00,21271.00,21271.00,2016,,Paramount,PT
+Alejandra Bueno,Recreation Coordinator,21186.00,0.00,0.00,0.00,21186.00,21186.00,2016,,Paramount,PT
+Stephany Resendez,Recreation Assistant,20879.00,0.00,0.00,0.00,20879.00,20879.00,2016,,Paramount,PT
+Maria Yepez,Public Service Assistant,20675.00,0.00,0.00,0.00,20675.00,20675.00,2016,,Paramount,FT
+Beatriz Contreras,Recreation Coordinator,20398.00,0.00,240.00,0.00,20638.00,20638.00,2016,,Paramount,PT
+Mark Koolmees,Senior Maintenance Worker,6003.00,0.00,36.00,14266.00,6039.00,20305.00,2016,,Paramount,PT
+Javier Miranda,Maintenance Worker,18209.00,329.00,23.00,1036.00,18561.00,19597.00,2016,,Paramount,PT
+Ivette Arce,Recreation Coordinator,19467.00,0.00,0.00,0.00,19467.00,19467.00,2016,,Paramount,PT
+Diana Vargas,Recreation Assistant,19458.00,0.00,0.00,0.00,19458.00,19458.00,2016,,Paramount,PT
+Melissa Alarcon,Office Aide II,19057.00,149.00,0.00,0.00,19206.00,19206.00,2016,,Paramount,PT
+Enrique Reynoso,Public Service Assistant,18682.00,0.00,240.00,0.00,18922.00,18922.00,2016,,Paramount,PT
+Jazlyn Nunez,Recreation Coordinator,18829.00,0.00,0.00,0.00,18829.00,18829.00,2016,,Paramount,PT
+Maria Deed,Public Service Assistant,18684.00,0.00,0.00,0.00,18684.00,18684.00,2016,,Paramount,PT
+Ana Hernandez,Office Aide II,18575.00,0.00,0.00,0.00,18575.00,18575.00,2016,,Paramount,PT
+Elizabeth Casillas,Recreation Coordinator,18552.00,0.00,0.00,0.00,18552.00,18552.00,2016,,Paramount,PT
+Swann Mayca,Recreation Assistant,18254.00,0.00,200.00,0.00,18454.00,18454.00,2016,,Paramount,PT
+Jovan Dillard,Public Service Assistant,18429.00,0.00,0.00,0.00,18429.00,18429.00,2016,,Paramount,PT
+Leslie Velasquez,Recreation Coordinator,18222.00,0.00,110.00,0.00,18332.00,18332.00,2016,,Paramount,PT
+Adriana Hermosillo,HR Assistant,18306.00,0.00,0.00,0.00,18306.00,18306.00,2016,,Paramount,PT
+Marlene Carvajal,Recreation Coordinator,18052.00,0.00,0.00,0.00,18052.00,18052.00,2016,,Paramount,PT
+Fabian Sanchez,Recreation Coordinator,18049.00,0.00,0.00,0.00,18049.00,18049.00,2016,,Paramount,PT
+Taylor Dorsey,Public Service Assistant,17677.00,0.00,0.00,0.00,17677.00,17677.00,2016,,Paramount,PT
+Jeremy Cisneros,Recreation Coordinator,17598.00,0.00,0.00,0.00,17598.00,17598.00,2016,,Paramount,PT
+Melyssa Martinez,Public Service Assistant,17574.00,0.00,0.00,0.00,17574.00,17574.00,2016,,Paramount,PT
+Maricela Parga,Senior Recreation Leader,17501.00,0.00,0.00,0.00,17501.00,17501.00,2016,,Paramount,PT
+Irene Diaz,Office Aide II,17406.00,0.00,0.00,0.00,17406.00,17406.00,2016,,Paramount,PT
+Abel Raygoza,Recreation Coordinator,17367.00,0.00,0.00,0.00,17367.00,17367.00,2016,,Paramount,PT
+Daisy Lopezaraiza,Recreation Coordinator,17363.00,0.00,0.00,0.00,17363.00,17363.00,2016,,Paramount,PT
+Elizabeth Navarro,Office Aide II,17245.00,98.00,0.00,0.00,17343.00,17343.00,2016,,Paramount,PT
+Edgar Montelongo,Public Service Assistant,17089.00,0.00,0.00,0.00,17089.00,17089.00,2016,,Paramount,PT
+Mirna Perez Gonzales Ramirez,Office Aide I,17038.00,0.00,0.00,0.00,17038.00,17038.00,2016,,Paramount,PT
+Jose Barajas Olguin,Recreation Coordinator,16898.00,0.00,0.00,0.00,16898.00,16898.00,2016,,Paramount,PT
+Derek Wisnowski,Public Service Assistant,16853.00,0.00,0.00,0.00,16853.00,16853.00,2016,,Paramount,PT
+Patricia Buenrostro,Office Aide II,16066.00,148.00,0.00,0.00,16214.00,16214.00,2016,,Paramount,PT
+Josue Ramos,Public Service Assistant,16127.00,0.00,0.00,0.00,16127.00,16127.00,2016,,Paramount,PT
+Venessa Velasquez,Office Aide II,16092.00,0.00,0.00,0.00,16092.00,16092.00,2016,,Paramount,PT
+Daisy Najar,Recreation Assistant,15712.00,0.00,160.00,0.00,15872.00,15872.00,2016,,Paramount,PT
+Jessica Vazquez-Zepeda,Recreation Coordinator,15093.00,0.00,0.00,0.00,15093.00,15093.00,2016,,Paramount,PT
+"Cain Cabrera, Jr.",Recreation Leader,15055.00,0.00,0.00,0.00,15055.00,15055.00,2016,,Paramount,PT
+Humberto Siordia,Facility Leader,14695.00,0.00,0.00,0.00,14695.00,14695.00,2016,,Paramount,PT
+Hector Soto,Recreation Coordinator,14617.00,0.00,0.00,0.00,14617.00,14617.00,2016,,Paramount,PT
+Matthew Calderon,Recreation Leader,14576.00,0.00,0.00,0.00,14576.00,14576.00,2016,,Paramount,PT
+Tamoriah Solis,PT Accountant,14426.00,0.00,0.00,101.00,14426.00,14527.00,2016,,Paramount,PT
+Santiago Pena,Recreation Coordinator,14494.00,0.00,0.00,0.00,14494.00,14494.00,2016,,Paramount,PT
+Kathleen Anderson,Recreation Leader,14493.00,0.00,0.00,0.00,14493.00,14493.00,2016,,Paramount,PT
+Guillermo Espinoza,Maintenance Aide,14460.00,0.00,0.00,0.00,14460.00,14460.00,2016,,Paramount,PT
+Pio Nunez,Maintenance Aide,14375.00,0.00,0.00,0.00,14375.00,14375.00,2016,,Paramount,PT
+Raul Pastran,Recreation Leader,14313.00,0.00,0.00,0.00,14313.00,14313.00,2016,,Paramount,PT
+Alan Munoz,Maintenance Aide,14311.00,0.00,0.00,0.00,14311.00,14311.00,2016,,Paramount,PT
+Rafael Varela,Maintenance Aide,14269.00,0.00,0.00,0.00,14269.00,14269.00,2016,,Paramount,PT
+Janet Alvarez,Office Aide II,14080.00,141.00,0.00,0.00,14221.00,14221.00,2016,,Paramount,PT
+Oscar Romo-Munoz,Recreation Leader,14136.00,0.00,0.00,0.00,14136.00,14136.00,2016,,Paramount,PT
+Ernesto Ortiz Hernandez,Maintenance Aide,14076.00,0.00,0.00,0.00,14076.00,14076.00,2016,,Paramount,PT
+Rudolph Villegas,Recreation Leader,14050.00,0.00,0.00,0.00,14050.00,14050.00,2016,,Paramount,PT
+Michael Martinez,Maintenance Aide,14001.00,0.00,0.00,0.00,14001.00,14001.00,2016,,Paramount,PT
+Ricardo Lopez,Maintenance Aide,14001.00,0.00,0.00,0.00,14001.00,14001.00,2016,,Paramount,PT
+Cenobia Villasenor,Facility Leader,13974.00,0.00,0.00,0.00,13974.00,13974.00,2016,,Paramount,PT
+Cynthia Garcia,Recreation Coordinator,13957.00,0.00,0.00,0.00,13957.00,13957.00,2016,,Paramount,PT
+Jesus Michel,Recreation Leader,13832.00,0.00,0.00,0.00,13832.00,13832.00,2016,,Paramount,PT
+Donald Simpson,Maintenance Aide,13797.00,0.00,0.00,0.00,13797.00,13797.00,2016,,Paramount,PT
+Natalie Puente,Recreation Leader,13785.00,0.00,0.00,0.00,13785.00,13785.00,2016,,Paramount,PT
+Eilene Banuelos,Recreation Leader,13756.00,0.00,0.00,0.00,13756.00,13756.00,2016,,Paramount,PT
+Noemi Vega,Recreation Coordinator,13667.00,0.00,0.00,0.00,13667.00,13667.00,2016,,Paramount,PT
+Hirmita Zavala,Facility Leader,13619.00,0.00,0.00,0.00,13619.00,13619.00,2016,,Paramount,PT
+Margarita Luna,Recreation Coordinator,13549.00,0.00,0.00,0.00,13549.00,13549.00,2016,,Paramount,PT
+Raul Fernandez,Maintenance Aide,13410.00,0.00,0.00,0.00,13410.00,13410.00,2016,,Paramount,PT
+Alexander Ramos,Recreation Leader,13401.00,0.00,0.00,0.00,13401.00,13401.00,2016,,Paramount,PT
+Billy Zelada,Maintenance Aide,13383.00,0.00,0.00,0.00,13383.00,13383.00,2016,,Paramount,PT
+Jessica Beltran,Recreation Leader,13332.00,0.00,0.00,0.00,13332.00,13332.00,2016,,Paramount,PT
+Jonathan Ramirez,Recreation Leader,13326.00,0.00,0.00,0.00,13326.00,13326.00,2016,,Paramount,PT
+Wendy Garduno,Recreation Leader,13210.00,0.00,0.00,0.00,13210.00,13210.00,2016,,Paramount,PT
+Michelle Corrales,Recreation Coordinator,13188.00,0.00,0.00,0.00,13188.00,13188.00,2016,,Paramount,PT
+Ivan Escobar,Maintenance Aide,13063.00,0.00,0.00,0.00,13063.00,13063.00,2016,,Paramount,PT
+Andres Castellon,Maintenance Aide,12982.00,0.00,0.00,0.00,12982.00,12982.00,2016,,Paramount,PT
+Alejandro Quezada,Maintenance Aide,12957.00,0.00,0.00,0.00,12957.00,12957.00,2016,,Paramount,PT
+Jessica Hernandez,Recreation Leader,12893.00,0.00,0.00,0.00,12893.00,12893.00,2016,,Paramount,PT
+Karen Cervantes,Recreation Leader,12867.00,0.00,0.00,0.00,12867.00,12867.00,2016,,Paramount,PT
+Martin Frausto,Maintenance Aide,12724.00,0.00,0.00,0.00,12724.00,12724.00,2016,,Paramount,PT
+Fernando Beltran,Maintenance Aide,12620.00,0.00,0.00,0.00,12620.00,12620.00,2016,,Paramount,PT
+Gerson Ortega,Recreation Leader,12616.00,0.00,0.00,0.00,12616.00,12616.00,2016,,Paramount,PT
+Ricardo Lopez,Recreation Leader,12606.00,0.00,0.00,0.00,12606.00,12606.00,2016,,Paramount,PT
+Oscar Lopez,Public Service Assistant,12456.00,0.00,0.00,0.00,12456.00,12456.00,2016,,Paramount,PT
+Daniel Renteria,Maintenance Aide,12388.00,0.00,0.00,0.00,12388.00,12388.00,2016,,Paramount,PT
+Ester Mendoza,Recreation Leader,12331.00,0.00,0.00,0.00,12331.00,12331.00,2016,,Paramount,PT
+Bethany Ketchum,Recreation Leader,12277.00,0.00,0.00,0.00,12277.00,12277.00,2016,,Paramount,PT
+Leonardo Farias,Recreation Leader,12272.00,0.00,0.00,0.00,12272.00,12272.00,2016,,Paramount,PT
+Christine Gutierrez,Recreation Leader,12105.00,0.00,0.00,0.00,12105.00,12105.00,2016,,Paramount,PT
+Cynthia Juarez,Recreation Leader,11968.00,0.00,0.00,0.00,11968.00,11968.00,2016,,Paramount,PT
+Jessy Velazquez,Maintenance Aide,11937.00,0.00,0.00,0.00,11937.00,11937.00,2016,,Paramount,PT
+Julianna Ledezma,Recreation Leader,11907.00,0.00,0.00,0.00,11907.00,11907.00,2016,,Paramount,PT
+Alexa Olmos,Recreation Leader,11820.00,0.00,0.00,0.00,11820.00,11820.00,2016,,Paramount,PT
+Allan Jenkins-Castillo,Recreation Leader,11800.00,0.00,0.00,0.00,11800.00,11800.00,2016,,Paramount,PT
+Alexander Gonzalez,Recreation Leader,11798.00,0.00,0.00,0.00,11798.00,11798.00,2016,,Paramount,PT
+Brenda Sandoval,Recreation Leader,11734.00,0.00,0.00,0.00,11734.00,11734.00,2016,,Paramount,PT
+Jesus Sedano,Recreation Leader,11651.00,0.00,0.00,0.00,11651.00,11651.00,2016,,Paramount,PT
+Michelle Carrillo,Recreation Leader,11618.00,0.00,0.00,0.00,11618.00,11618.00,2016,,Paramount,PT
+Rocio Beltran,Recreation Leader,11487.00,0.00,0.00,0.00,11487.00,11487.00,2016,,Paramount,PT
+Marina Quijano,Recreation Leader,11460.00,0.00,0.00,0.00,11460.00,11460.00,2016,,Paramount,PT
+Olegario Gallardo,Recreation Leader,11409.00,0.00,0.00,0.00,11409.00,11409.00,2016,,Paramount,PT
+Gabriela Vargas,Recreation Leader,11377.00,0.00,0.00,0.00,11377.00,11377.00,2016,,Paramount,PT
+Jesus Cano,Recreation Leader,11317.00,0.00,0.00,0.00,11317.00,11317.00,2016,,Paramount,PT
+Gissel Gonzalez,Recreation Leader,11307.00,0.00,0.00,0.00,11307.00,11307.00,2016,,Paramount,PT
+Nestor Plascencia-Gomez,Recreation Leader,11306.00,0.00,0.00,0.00,11306.00,11306.00,2016,,Paramount,PT
+Shelby Cramton,Administrative Intern,11300.00,0.00,0.00,0.00,11300.00,11300.00,2016,,Paramount,PT
+Christine Navarro,Recreation Coordinator,11300.00,0.00,0.00,0.00,11300.00,11300.00,2016,,Paramount,PT
+Ivette Lopez,Recreation Leader,11078.00,0.00,0.00,0.00,11078.00,11078.00,2016,,Paramount,PT
+Jimmy Rodriguez,Senior Recreation Leader,11070.00,0.00,0.00,0.00,11070.00,11070.00,2016,,Paramount,PT
+Xiomara Bonales,Recreation Leader,11011.00,0.00,0.00,0.00,11011.00,11011.00,2016,,Paramount,PT
+Valeria Vidal,Recreation Leader,10987.00,0.00,0.00,0.00,10987.00,10987.00,2016,,Paramount,PT
+George Aviles,Recreation Leader,10970.00,0.00,0.00,0.00,10970.00,10970.00,2016,,Paramount,PT
+Pedro Tapia,Recreation Leader,10953.00,0.00,0.00,0.00,10953.00,10953.00,2016,,Paramount,PT
+Samantha Avalos,Recreation Leader,10932.00,0.00,0.00,0.00,10932.00,10932.00,2016,,Paramount,PT
+Jose Quinonez Santos,Recreation Leader,10831.00,0.00,0.00,0.00,10831.00,10831.00,2016,,Paramount,PT
+Roger Silva,Recreation Leader,10830.00,0.00,0.00,0.00,10830.00,10830.00,2016,,Paramount,PT
+Vanessa Hernandez,Recreation Coordinator,10679.00,0.00,150.00,0.00,10829.00,10829.00,2016,,Paramount,PT
+Abraham Estrada,Recreation Leader,10825.00,0.00,0.00,0.00,10825.00,10825.00,2016,,Paramount,PT
+Yvette Serrano-Rocha,Recreation Leader,10716.00,0.00,0.00,0.00,10716.00,10716.00,2016,,Paramount,PT
+Adriana Yepez,Recreation Leader,10691.00,0.00,0.00,0.00,10691.00,10691.00,2016,,Paramount,PT
+Daisy Godines Jimenez,Recreation Leader,10643.00,0.00,0.00,0.00,10643.00,10643.00,2016,,Paramount,PT
+Jesse Gonzalez,Recreation Leader,10633.00,0.00,0.00,0.00,10633.00,10633.00,2016,,Paramount,PT
+Auriel Martinez,Recreation Leader,10623.00,0.00,0.00,0.00,10623.00,10623.00,2016,,Paramount,PT
+Salvador Villasenor,Maintenance Aide,10617.00,0.00,0.00,0.00,10617.00,10617.00,2016,,Paramount,PT
+Johanna Hernandez,Recreation Leader,10559.00,0.00,0.00,0.00,10559.00,10559.00,2016,,Paramount,PT
+Carlos Quinonez,Recreation Leader,10544.00,0.00,0.00,0.00,10544.00,10544.00,2016,,Paramount,PT
+Rogelio Hernandez,Maintenance Worker,2618.00,0.00,5585.00,2271.00,8203.00,10474.00,2016,,Paramount,PT
+Joseph Navarro,Recreation Leader,10403.00,0.00,0.00,0.00,10403.00,10403.00,2016,,Paramount,PT
+Gabriela Banuelos,Recreation Leader,10282.00,0.00,0.00,0.00,10282.00,10282.00,2016,,Paramount,PT
+Gabriel Romo,Recreation Leader,10282.00,0.00,0.00,0.00,10282.00,10282.00,2016,,Paramount,PT
+Dalia Beltran,Recreation Leader,10236.00,0.00,0.00,0.00,10236.00,10236.00,2016,,Paramount,PT
+George Mendoza,Maintenance Aide,10138.00,0.00,0.00,0.00,10138.00,10138.00,2016,,Paramount,PT
+Sydney Roumeliotis,Recreation Leader,10101.00,0.00,0.00,0.00,10101.00,10101.00,2016,,Paramount,PT
+Rosalie Cano,Recreation Leader,9969.00,0.00,0.00,0.00,9969.00,9969.00,2016,,Paramount,PT
+Isabel Paredes,Recreation Leader,9965.00,0.00,0.00,0.00,9965.00,9965.00,2016,,Paramount,PT
+Joel Jimenez,Recreation Leader,9957.00,0.00,0.00,0.00,9957.00,9957.00,2016,,Paramount,PT
+Gabrielle Porter,Recreation Leader,9789.00,0.00,0.00,0.00,9789.00,9789.00,2016,,Paramount,PT
+Victor Mendoza,Recreation Leader,9734.00,0.00,0.00,0.00,9734.00,9734.00,2016,,Paramount,PT
+Vanessa Salazar Flores,Recreation Leader,9648.00,0.00,0.00,0.00,9648.00,9648.00,2016,,Paramount,PT
+Gabriela Paredes,Office Aide II,9596.00,0.00,0.00,0.00,9596.00,9596.00,2016,,Paramount,PT
+Juan Padilla,Maintenance Aide,9577.00,0.00,0.00,0.00,9577.00,9577.00,2016,,Paramount,PT
+Bethany Nunez,Recreation Leader,9530.00,0.00,0.00,0.00,9530.00,9530.00,2016,,Paramount,PT
+Laura Plascencia,Recreation Leader,9482.00,0.00,0.00,0.00,9482.00,9482.00,2016,,Paramount,PT
+Rudy Melendez,Recreation Leader,9471.00,0.00,0.00,0.00,9471.00,9471.00,2016,,Paramount,PT
+Erik Benitez Hernandez,Maintenance Aide,9313.00,0.00,0.00,0.00,9313.00,9313.00,2016,,Paramount,PT
+Tania Martinez,Recreation Leader,9247.00,0.00,0.00,0.00,9247.00,9247.00,2016,,Paramount,PT
+Ricardo Guzman,Recreation Leader,9055.00,0.00,0.00,0.00,9055.00,9055.00,2016,,Paramount,PT
+Heaven Garcia,Recreation Leader,9048.00,0.00,0.00,0.00,9048.00,9048.00,2016,,Paramount,PT
+Yesica Meza-Navarro,Office Aide II,8987.00,0.00,0.00,0.00,8987.00,8987.00,2016,,Paramount,PT
+Sonia Maldonado,Recreation Leader,8956.00,0.00,0.00,0.00,8956.00,8956.00,2016,,Paramount,PT
+Eddie Castaneda,Recreation Leader,8813.00,0.00,0.00,0.00,8813.00,8813.00,2016,,Paramount,PT
+William Rodriguez,Recreation Leader,8701.00,0.00,0.00,0.00,8701.00,8701.00,2016,,Paramount,PT
+Valente Zavala Jr,Maintenance Aide,8589.00,0.00,0.00,0.00,8589.00,8589.00,2016,,Paramount,PT
+Ivan Montano,Senior Lifeguard,8556.00,0.00,0.00,0.00,8556.00,8556.00,2016,,Paramount,PT
+Conny Ramirez,Recreation Leader,8472.00,0.00,0.00,0.00,8472.00,8472.00,2016,,Paramount,PT
+Maria Bolanos,Recreation Leader,8452.00,0.00,0.00,0.00,8452.00,8452.00,2016,,Paramount,PT
+Jessica Beltran,Recreation Leader,8345.00,0.00,0.00,0.00,8345.00,8345.00,2016,,Paramount,PT
+Omar Monroy,Recreation Leader,8331.00,0.00,0.00,0.00,8331.00,8331.00,2016,,Paramount,PT
+Bianka Vargas-Guzman,Recreation Leader,8249.00,0.00,0.00,0.00,8249.00,8249.00,2016,,Paramount,PT
+Nathalie Lopez,Recreation Leader,8208.00,0.00,0.00,0.00,8208.00,8208.00,2016,,Paramount,PT
+Noe Corona,Recreation Leader,8128.00,0.00,0.00,0.00,8128.00,8128.00,2016,,Paramount,PT
+Cristina Ortega,Recreation Leader,8090.00,0.00,0.00,0.00,8090.00,8090.00,2016,,Paramount,PT
+Tayler Trevino,Recreation Leader,7965.00,0.00,0.00,0.00,7965.00,7965.00,2016,,Paramount,PT
+Gustavo Coto,Code Enforcement Officer,7896.00,0.00,0.00,0.00,7896.00,7896.00,2016,,Paramount,PT
+Shawn Gardner,Code Enforcement Officer,4981.00,0.00,1464.00,1449.00,6445.00,7894.00,2016,,Paramount,PT
+Arthur Montes Jr.,Recreation Leader,7841.00,0.00,0.00,0.00,7841.00,7841.00,2016,,Paramount,PT
+Fernando Parga,Recreation Coordinator,7831.00,0.00,0.00,0.00,7831.00,7831.00,2016,,Paramount,PT
+Luis Ochoa,Recreation Leader,7777.00,0.00,0.00,0.00,7777.00,7777.00,2016,,Paramount,PT
+Karla Virgen,Recreation Leader,7666.00,0.00,0.00,0.00,7666.00,7666.00,2016,,Paramount,PT
+Adrian Tamayo,Recreation Leader,7606.00,0.00,0.00,0.00,7606.00,7606.00,2016,,Paramount,PT
+Alejandra Garcia,Recreation Coordinator,7527.00,0.00,0.00,0.00,7527.00,7527.00,2016,,Paramount,PT
+Christine Bonilla,Recreation Leader,7439.00,0.00,0.00,0.00,7439.00,7439.00,2016,,Paramount,PT
+Lizbeth Aguilera,Recreation Leader,7436.00,0.00,0.00,0.00,7436.00,7436.00,2016,,Paramount,PT
+Jocelyn Valdez,Recreation Leader,7387.00,0.00,0.00,0.00,7387.00,7387.00,2016,,Paramount,PT
+Christian Padilla,Maintenance Aide,7298.00,0.00,0.00,0.00,7298.00,7298.00,2016,,Paramount,PT
+Stephanie Acevedo,Recreation Leader,7207.00,0.00,0.00,0.00,7207.00,7207.00,2016,,Paramount,PT
+Gregory Moore Jr.,Recreation Leader,7153.00,0.00,0.00,0.00,7153.00,7153.00,2016,,Paramount,PT
+Desirae Gastelum,Recreation Leader,7141.00,0.00,0.00,0.00,7141.00,7141.00,2016,,Paramount,PT
+Yudith Ruvalcaba,Recreation Coordinator,7125.00,0.00,0.00,0.00,7125.00,7125.00,2016,,Paramount,PT
+Ruth Rodriguez,Recreation Leader,7066.00,0.00,0.00,0.00,7066.00,7066.00,2016,,Paramount,PT
+Alexandra Vazquez,Recreation Leader,6977.00,0.00,0.00,0.00,6977.00,6977.00,2016,,Paramount,PT
+Alexis Sanchez-Lopez,Recreation Leader,6868.00,0.00,0.00,0.00,6868.00,6868.00,2016,,Paramount,PT
+Brenda Robles,Recreation Leader,6812.00,0.00,0.00,0.00,6812.00,6812.00,2016,,Paramount,PT
+Matthew Martinez,Recreation Leader,6781.00,0.00,0.00,0.00,6781.00,6781.00,2016,,Paramount,PT
+Armando Zavala,Recreation Leader,6746.00,0.00,0.00,0.00,6746.00,6746.00,2016,,Paramount,PT
+Alicia Escobar,Recreation Leader,6708.00,0.00,0.00,0.00,6708.00,6708.00,2016,,Paramount,PT
+Jaime Zambrano,Recreation Leader,6615.00,0.00,0.00,0.00,6615.00,6615.00,2016,,Paramount,PT
+Jose Delgado,Recreation Leader,6575.00,0.00,0.00,0.00,6575.00,6575.00,2016,,Paramount,PT
+Carmen Avila-Diaz,Recreation Leader,6510.00,0.00,0.00,0.00,6510.00,6510.00,2016,,Paramount,PT
+Anahi Mendoza,Recreation Leader,6457.00,0.00,0.00,0.00,6457.00,6457.00,2016,,Paramount,PT
+Andres Gonzalez,Recreation Coordinator,6314.00,0.00,0.00,0.00,6314.00,6314.00,2016,,Paramount,PT
+Osmara Sanabria Padilla,Recreation Leader,6266.00,0.00,0.00,0.00,6266.00,6266.00,2016,,Paramount,PT
+Marco Martinez,Recreation Leader,6247.00,0.00,0.00,0.00,6247.00,6247.00,2016,,Paramount,PT
+William Taualii,Maintenance Aide,6226.00,0.00,0.00,0.00,6226.00,6226.00,2016,,Paramount,PT
+Daniel Manriquez,Recreation Leader,6210.00,0.00,0.00,0.00,6210.00,6210.00,2016,,Paramount,PT
+Eduardo Trejo,Maintenance Aide,6149.00,0.00,0.00,0.00,6149.00,6149.00,2016,,Paramount,PT
+Irma Zuniga-Carrillo,Recreation Leader,6134.00,0.00,0.00,0.00,6134.00,6134.00,2016,,Paramount,PT
+Veronica Gutierrez,Recreation Leader,6125.00,0.00,0.00,0.00,6125.00,6125.00,2016,,Paramount,PT
+Melbe Perez,Recreation Leader,6080.00,0.00,0.00,0.00,6080.00,6080.00,2016,,Paramount,PT
+Javier Carlos,Maintenance Aide,6073.00,0.00,0.00,0.00,6073.00,6073.00,2016,,Paramount,PT
+Kameron Birch,Recreation Leader,5986.00,0.00,0.00,0.00,5986.00,5986.00,2016,,Paramount,PT
+Brenda Campos,Recreation Leader,5928.00,0.00,0.00,0.00,5928.00,5928.00,2016,,Paramount,PT
+Brenda Lozada,Lifeguard,5877.00,0.00,0.00,0.00,5877.00,5877.00,2016,,Paramount,PT
+Ricardo Andrade Villegas,Recreation Leader,5855.00,0.00,0.00,0.00,5855.00,5855.00,2016,,Paramount,PT
+Krystal Fernandez,Recreation Coordinator,5755.00,0.00,0.00,0.00,5755.00,5755.00,2016,,Paramount,PT
+Arely Navarro Hernandez,Recreation Leader,5716.00,0.00,0.00,0.00,5716.00,5716.00,2016,,Paramount,PT
+Aldo Aguilar Valencia,Maintenance Aide,5563.00,0.00,0.00,0.00,5563.00,5563.00,2016,,Paramount,PT
+Alejandra Vargas,Recreation Leader,5553.00,0.00,0.00,0.00,5553.00,5553.00,2016,,Paramount,PT
+Claudia Davila,Recreation Coordinator,5498.00,0.00,0.00,0.00,5498.00,5498.00,2016,,Paramount,PT
+Angela Soto,Recreation Leader,5491.00,0.00,0.00,0.00,5491.00,5491.00,2016,,Paramount,PT
+Antonio Peeples,Recreation Leader,5346.00,0.00,0.00,0.00,5346.00,5346.00,2016,,Paramount,PT
+Ariana Banuelos,Recreation Leader,5335.00,0.00,0.00,0.00,5335.00,5335.00,2016,,Paramount,PT
+Silvia Munoz,Recreation Leader,5320.00,0.00,0.00,0.00,5320.00,5320.00,2016,,Paramount,PT
+Abigail Ruiz,Recreation Leader,5241.00,0.00,0.00,0.00,5241.00,5241.00,2016,,Paramount,PT
+Klaritza Hasbun,Recreation Leader,5222.00,0.00,0.00,0.00,5222.00,5222.00,2016,,Paramount,PT
+Hairo Espinoza,Recreation Leader,5070.00,0.00,0.00,0.00,5070.00,5070.00,2016,,Paramount,PT
+Sonia Graham,Recreation Leader,5004.00,0.00,0.00,0.00,5004.00,5004.00,2016,,Paramount,PT
+Abril Carrasco,Recreation Leader,4959.00,0.00,0.00,0.00,4959.00,4959.00,2016,,Paramount,PT
+Christin Weir,Public Service Assistant,4948.00,0.00,0.00,0.00,4948.00,4948.00,2016,,Paramount,PT
+Elizabeth Gutierrez,Recreation Leader,4930.00,0.00,0.00,0.00,4930.00,4930.00,2016,,Paramount,PT
+Monica Ramirez,Recreation Leader,4926.00,0.00,0.00,0.00,4926.00,4926.00,2016,,Paramount,PT
+Yardley Castellanos,Recreation Coordinator,4802.00,0.00,0.00,0.00,4802.00,4802.00,2016,,Paramount,PT
+Marlene Gonzalez,Recreation Leader,4721.00,0.00,0.00,0.00,4721.00,4721.00,2016,,Paramount,PT
+Cynthia Piza,Recreation Leader,4706.00,0.00,0.00,0.00,4706.00,4706.00,2016,,Paramount,PT
+Henry Estrada,Public Service Assistant,4701.00,0.00,0.00,0.00,4701.00,4701.00,2016,,Paramount,PT
+Carolina Covarrubias,Recreation Leader,4595.00,0.00,0.00,0.00,4595.00,4595.00,2016,,Paramount,PT
+Leticia Andrade,Lifeguard,4514.00,0.00,0.00,0.00,4514.00,4514.00,2016,,Paramount,PT
+Jose Aguilera Jr.,Lifeguard,4385.00,0.00,0.00,0.00,4385.00,4385.00,2016,,Paramount,PT
+Richard Perez,Maintenance Aide,4286.00,0.00,0.00,0.00,4286.00,4286.00,2016,,Paramount,PT
+Luis Casas Rodarte,Maintenance Aide,4250.00,0.00,0.00,0.00,4250.00,4250.00,2016,,Paramount,PT
+Andrea Valenzuela,Finance Assistant,4222.00,0.00,0.00,0.00,4222.00,4222.00,2016,,Paramount,PT
+Jose Calderon,Lifeguard,4193.00,0.00,0.00,0.00,4193.00,4193.00,2016,,Paramount,PT
+Alexis Guerra,Recreation Leader,4172.00,0.00,0.00,0.00,4172.00,4172.00,2016,,Paramount,PT
+Angela Becerra,Recreation Leader,4153.00,0.00,0.00,0.00,4153.00,4153.00,2016,,Paramount,PT
+Elizabeth Cossio,Senior Lifeguard,4142.00,0.00,0.00,0.00,4142.00,4142.00,2016,,Paramount,PT
+Santos Gonzalez,Senior Lifeguard,4100.00,0.00,0.00,0.00,4100.00,4100.00,2016,,Paramount,PT
+Armando Jacobo,Recreation Leader,4056.00,0.00,0.00,0.00,4056.00,4056.00,2016,,Paramount,PT
+James Washington,Maintenance Aide,3938.00,0.00,0.00,0.00,3938.00,3938.00,2016,,Paramount,PT
+Abraham Galindo Reyes,Maintenance Aide,3808.00,0.00,0.00,0.00,3808.00,3808.00,2016,,Paramount,PT
+Angelina Florimon,Lifeguard,3613.00,0.00,0.00,0.00,3613.00,3613.00,2016,,Paramount,PT
+Burshawn Hammonds,Public Service Assistant,3545.00,0.00,0.00,0.00,3545.00,3545.00,2016,,Paramount,PT
+Edward Salgado,Lifeguard,3457.00,0.00,0.00,0.00,3457.00,3457.00,2016,,Paramount,PT
+Sarah Candelas,Lifeguard,3411.00,0.00,0.00,0.00,3411.00,3411.00,2016,,Paramount,PT
+Jorge Gomez,Recreation Leader,3354.00,0.00,0.00,0.00,3354.00,3354.00,2016,,Paramount,PT
+Michael Gilliam,Lifeguard,3271.00,0.00,0.00,0.00,3271.00,3271.00,2016,,Paramount,PT
+Kevin Valverde,Recreation Leader,3159.00,0.00,0.00,0.00,3159.00,3159.00,2016,,Paramount,PT
+Lizet Ochoa,Recreation Leader,3150.00,0.00,0.00,0.00,3150.00,3150.00,2016,,Paramount,PT
+Karina Martinez Cruz,Aquatic Aide,3145.00,0.00,0.00,0.00,3145.00,3145.00,2016,,Paramount,PT
+Venecia Yanez,Recreation Leader,3138.00,0.00,0.00,0.00,3138.00,3138.00,2016,,Paramount,PT
+Roy Gilham,Planning Commission,3000.00,0.00,0.00,0.00,3000.00,3000.00,2016,,Paramount,PT
+James Williams,Planning Commission,3000.00,0.00,0.00,0.00,3000.00,3000.00,2016,,Paramount,PT
+Ernesto Esparza,Planning Commission,3000.00,0.00,0.00,0.00,3000.00,3000.00,2016,,Paramount,PT
+James Hyde,Planning Commission,3000.00,0.00,0.00,0.00,3000.00,3000.00,2016,,Paramount,PT
+Ian Leon,Lifeguard,2999.00,0.00,0.00,0.00,2999.00,2999.00,2016,,Paramount,PT
+Jennifer Garcia,Lifeguard,2963.00,0.00,0.00,0.00,2963.00,2963.00,2016,,Paramount,PT
+Vianney Marin,Recreation Leader,2960.00,0.00,0.00,0.00,2960.00,2960.00,2016,,Paramount,PT
+Oscar Lucero,Recreation Leader,2943.00,0.00,0.00,0.00,2943.00,2943.00,2016,,Paramount,PT
+Reyes Galindo,Maintenance Aide,2857.00,0.00,0.00,0.00,2857.00,2857.00,2016,,Paramount,PT
+Rachel Ornelas,Lifeguard,2851.00,0.00,0.00,0.00,2851.00,2851.00,2016,,Paramount,PT
+Anthony Rodriguez,Recreation Leader,2815.00,0.00,0.00,0.00,2815.00,2815.00,2016,,Paramount,PT
+Luis Cabrales,Recreation Leader,2800.00,0.00,0.00,0.00,2800.00,2800.00,2016,,Paramount,PT
+Isabel Padilla Martinez,Lifeguard,2799.00,0.00,0.00,0.00,2799.00,2799.00,2016,,Paramount,PT
+Mike Hogue,Planning Commission,2750.00,0.00,0.00,0.00,2750.00,2750.00,2016,,Paramount,PT
+Lilian Pham,HR Assistant,2672.00,0.00,0.00,0.00,2672.00,2672.00,2016,,Paramount,PT
+Melissa Montoya,Aquatic Aide,2665.00,0.00,0.00,0.00,2665.00,2665.00,2016,,Paramount,PT
+Esther Fajardo,Aquatic Aide,2620.00,0.00,0.00,0.00,2620.00,2620.00,2016,,Paramount,PT
+Benjamin Aguirre Lopez,Aquatic Aide,2582.00,0.00,0.00,0.00,2582.00,2582.00,2016,,Paramount,PT
+Danessha Nolasco,Lifeguard,2565.00,0.00,0.00,0.00,2565.00,2565.00,2016,,Paramount,PT
+Daniela Veliz Soriano,Aquatic Aide,2549.00,0.00,0.00,0.00,2549.00,2549.00,2016,,Paramount,PT
+Samantha Myers,Lifeguard,2491.00,0.00,0.00,0.00,2491.00,2491.00,2016,,Paramount,PT
+Eva Mora,Lifeguard,2455.00,0.00,0.00,0.00,2455.00,2455.00,2016,,Paramount,PT
+Giselle Ruiz,Recreation Leader,2352.00,0.00,0.00,0.00,2352.00,2352.00,2016,,Paramount,PT
+Julian Mendez-Felix,Recreation Leader,2213.00,0.00,0.00,0.00,2213.00,2213.00,2016,,Paramount,PT
+Fernando Garcia-Gonzalez,Recreation Leader,2150.00,0.00,0.00,0.00,2150.00,2150.00,2016,,Paramount,PT
+Natalie Diaz,Recreation Leader,2133.00,0.00,0.00,0.00,2133.00,2133.00,2016,,Paramount,PT
+Corazon Corona,Lifeguard,2107.00,0.00,0.00,0.00,2107.00,2107.00,2016,,Paramount,PT
+Luis Lopez,Recreation Leader,2079.00,0.00,0.00,0.00,2079.00,2079.00,2016,,Paramount,PT
+Victor Rosas,Maintenance Aide,2046.00,0.00,0.00,0.00,2046.00,2046.00,2016,,Paramount,PT
+Daniel Reyes,Maintenance Aide,1954.00,0.00,0.00,0.00,1954.00,1954.00,2016,,Paramount,PT
+Marlen Villasenor,Recreation Leader,1911.00,0.00,0.00,0.00,1911.00,1911.00,2016,,Paramount,PT
+Danny Candler,Maintenance Aide,1752.00,0.00,0.00,0.00,1752.00,1752.00,2016,,Paramount,PT
+Dasha Alexander,Lifeguard,1733.00,0.00,0.00,0.00,1733.00,1733.00,2016,,Paramount,PT
+Jacqueline Santiago,Lifeguard,1720.00,0.00,0.00,0.00,1720.00,1720.00,2016,,Paramount,PT
+Adonay Villatoro,Public Service Assistant,1625.00,0.00,20.00,0.00,1645.00,1645.00,2016,,Paramount,PT
+Rodolfo Medina,Maintenance Aide,1600.00,0.00,0.00,0.00,1600.00,1600.00,2016,,Paramount,PT
+Jacqueline Flores,Aquatic Aide,1552.00,0.00,0.00,0.00,1552.00,1552.00,2016,,Paramount,PT
+Delia Rubio,Recreation Leader,1505.00,0.00,0.00,0.00,1505.00,1505.00,2016,,Paramount,PT
+Hannah Large,Recreation Leader,1364.00,0.00,0.00,0.00,1364.00,1364.00,2016,,Paramount,PT
+Lautaro Machado,Maintenance Aide,1341.00,0.00,0.00,0.00,1341.00,1341.00,2016,,Paramount,PT
+Jaqueline Lopez,Aquatic Aide,1316.00,0.00,0.00,0.00,1316.00,1316.00,2016,,Paramount,PT
+Yarihtza Penaloza,Recreation Leader,1316.00,0.00,0.00,0.00,1316.00,1316.00,2016,,Paramount,PT
+Jessica Serrano,Recreation Leader,1269.00,0.00,0.00,0.00,1269.00,1269.00,2016,,Paramount,PT
+Melissa Martinez,Recreation Leader,1253.00,0.00,0.00,0.00,1253.00,1253.00,2016,,Paramount,PT
+Elizabeth Luquin,Public Service Assistant,1243.00,0.00,0.00,0.00,1243.00,1243.00,2016,,Paramount,PT
+Sequoia Hernandez,Recreation Leader,1192.00,0.00,0.00,0.00,1192.00,1192.00,2016,,Paramount,PT
+Jacqueline Jacobo,Recreation Leader,1144.00,0.00,0.00,0.00,1144.00,1144.00,2016,,Paramount,PT
+Jaime Abrego,Public Safety Commissioner,1100.00,0.00,0.00,0.00,1100.00,1100.00,2016,,Paramount,PT
+Frank Barraza,Parks and Recreation Commissioner,1100.00,0.00,0.00,0.00,1100.00,1100.00,2016,,Paramount,PT
+Brenda Olmos,Public Safety Commissioner,1100.00,0.00,0.00,0.00,1100.00,1100.00,2016,,Paramount,PT
+Carmen Gomez,Public Safety Commissioner,1100.00,0.00,0.00,0.00,1100.00,1100.00,2016,,Paramount,PT
+Vanessa Duenas,Lifeguard,1063.00,0.00,0.00,0.00,1063.00,1063.00,2016,,Paramount,PT
+Usxiel Barajas Olguin,Recreation Leader,1054.00,0.00,0.00,0.00,1054.00,1054.00,2016,,Paramount,PT
+Alan Morales,Recreation Leader,1038.00,0.00,0.00,0.00,1038.00,1038.00,2016,,Paramount,PT
+Vilma Stallings,Parks and Recreation Commissioner,1000.00,0.00,0.00,0.00,1000.00,1000.00,2016,,Paramount,PT
+Maria Angel,Parks and Recreation Commissioner,1000.00,0.00,0.00,0.00,1000.00,1000.00,2016,,Paramount,PT
+Charlene Landry,Parks and Recreation Commissioner,1000.00,0.00,0.00,0.00,1000.00,1000.00,2016,,Paramount,PT
+Ariel Sanchez,Lifeguard,990.00,0.00,0.00,0.00,990.00,990.00,2016,,Paramount,PT
+Gerardo Zavala,Recreation Leader,982.00,0.00,0.00,0.00,982.00,982.00,2016,,Paramount,PT
+Leslie Chavez Martinez,Recreation Leader,969.00,0.00,0.00,0.00,969.00,969.00,2016,,Paramount,PT
+Martha Soto,Recreation Leader,959.00,0.00,0.00,0.00,959.00,959.00,2016,,Paramount,PT
+Kevin Sanchez-Reyes,Recreation Leader,956.00,0.00,0.00,0.00,956.00,956.00,2016,,Paramount,PT
+Leonela Sandoval Gurrola,Recreation Leader,953.00,0.00,0.00,0.00,953.00,953.00,2016,,Paramount,PT
+Anthony Zavala Jimenez,Recreation Leader,951.00,0.00,0.00,0.00,951.00,951.00,2016,,Paramount,PT
+Crystal Sanchez,Recreation Leader,945.00,0.00,0.00,0.00,945.00,945.00,2016,,Paramount,PT
+Isaiah Goodman,Maintenance Aide,940.00,0.00,0.00,0.00,940.00,940.00,2016,,Paramount,PT
+Nayeli Gomez-Guillermo,Recreation Leader,924.00,0.00,0.00,0.00,924.00,924.00,2016,,Paramount,PT
+Leonel Gurrola,Recreation Leader,903.00,0.00,0.00,0.00,903.00,903.00,2016,,Paramount,PT
+Todd Bousema,Public Safety Commissioner,900.00,0.00,0.00,0.00,900.00,900.00,2016,,Paramount,PT
+Javier Martinez,Public Safety Commissioner,900.00,0.00,0.00,0.00,900.00,900.00,2016,,Paramount,PT
+Eileen Aparicio,Public Works Commissioner,900.00,0.00,0.00,0.00,900.00,900.00,2016,,Paramount,PT
+Giancarlo Castanon Gonzalez,Recreation Leader,897.00,0.00,0.00,0.00,897.00,897.00,2016,,Paramount,PT
+Baudilia Ruiz,Recreation Leader,884.00,0.00,0.00,0.00,884.00,884.00,2016,,Paramount,PT
+"Jose Salgado, Jr",Recreation Leader,858.00,0.00,0.00,0.00,858.00,858.00,2016,,Paramount,PT
+Justine Padilla,Recreation Leader,850.00,0.00,0.00,0.00,850.00,850.00,2016,,Paramount,PT
+Miguel Contreras,Recreation Leader,826.00,0.00,0.00,0.00,826.00,826.00,2016,,Paramount,PT
+Viridiana Reyes,Recreation Leader,823.00,0.00,0.00,0.00,823.00,823.00,2016,,Paramount,PT
+Rosemary Vasquez,Public Works Commissioner,800.00,0.00,0.00,0.00,800.00,800.00,2016,,Paramount,PT
+Charles Garcia,Parks and Recreation Commissioner,800.00,0.00,0.00,0.00,800.00,800.00,2016,,Paramount,PT
+Rosemary Mendez,Public Works Commissioner,800.00,0.00,0.00,0.00,800.00,800.00,2016,,Paramount,PT
+Ariana Cordova,Recreation Leader,797.00,0.00,0.00,0.00,797.00,797.00,2016,,Paramount,PT
+Kassandra Caballero,Recreation Leader,775.00,0.00,0.00,0.00,775.00,775.00,2016,,Paramount,PT
+Estefani Rodriguez Vera,Recreation Leader,773.00,0.00,0.00,0.00,773.00,773.00,2016,,Paramount,PT
+Diana De La Paz,Recreation Leader,735.00,0.00,0.00,0.00,735.00,735.00,2016,,Paramount,PT
+Vitzania Monje,Recreation Leader,733.00,0.00,0.00,0.00,733.00,733.00,2016,,Paramount,PT
+Christopher Renteria,Maintenance Aide,726.00,0.00,0.00,0.00,726.00,726.00,2016,,Paramount,PT
+Paulina Morales,Recreation Leader,712.00,0.00,0.00,0.00,712.00,712.00,2016,,Paramount,PT
+Juan Rivas,Recreation Leader,712.00,0.00,0.00,0.00,712.00,712.00,2016,,Paramount,PT
+Brenda Quijas,Aquatic Aide,692.00,0.00,0.00,0.00,692.00,692.00,2016,,Paramount,PT
+Lucas Saravia,Recreation Leader,682.00,0.00,0.00,0.00,682.00,682.00,2016,,Paramount,PT
+Katherine Patison,Recreation Leader,648.00,0.00,0.00,0.00,648.00,648.00,2016,,Paramount,PT
+Crystal Guardian,Recreation Leader,632.00,0.00,0.00,0.00,632.00,632.00,2016,,Paramount,PT
+Maria Espinoza,Senior Commissioner,600.00,0.00,0.00,0.00,600.00,600.00,2016,,Paramount,PT
+Cleone Hatwan,Senior Commissioner,600.00,0.00,0.00,0.00,600.00,600.00,2016,,Paramount,PT
+Shirley Grayson,Senior Commissioner,600.00,0.00,0.00,0.00,600.00,600.00,2016,,Paramount,PT
+James Stevens,Senior Commissioner,600.00,0.00,0.00,0.00,600.00,600.00,2016,,Paramount,PT
+Claudia Quinones,Senior Commissioner,600.00,0.00,0.00,0.00,600.00,600.00,2016,,Paramount,PT
+Brianna Juarez,Recreation Leader,589.00,0.00,0.00,0.00,589.00,589.00,2016,,Paramount,PT
+Brianna Lopez,Recreation Leader,552.00,0.00,0.00,0.00,552.00,552.00,2016,,Paramount,PT
+Alejandra Hernandez,Recreation Leader,528.00,0.00,0.00,0.00,528.00,528.00,2016,,Paramount,PT
+Stacy Yepez,Recreation Leader,528.00,0.00,0.00,0.00,528.00,528.00,2016,,Paramount,PT
+Miguel Portillo,Recreation Leader,526.00,0.00,0.00,0.00,526.00,526.00,2016,,Paramount,PT
+Julieta Cortez,Aquatic Aide,512.00,0.00,0.00,0.00,512.00,512.00,2016,,Paramount,PT
+Julia Herrera,Recreation Leader,506.00,0.00,0.00,0.00,506.00,506.00,2016,,Paramount,PT
+Joe Espitia,Public Works Commissioner,500.00,0.00,0.00,0.00,500.00,500.00,2016,,Paramount,PT
+Gerardo Lopez,Recreation Leader,491.00,0.00,0.00,0.00,491.00,491.00,2016,,Paramount,PT
+Daniela Valente,Recreation Leader,486.00,0.00,0.00,0.00,486.00,486.00,2016,,Paramount,PT
+Cherell Oden,Recreation Leader,481.00,0.00,0.00,0.00,481.00,481.00,2016,,Paramount,PT
+Cynthia Montoya,Recreation Leader,461.00,0.00,0.00,0.00,461.00,461.00,2016,,Paramount,PT
+Melissa Yrra,Recreation Leader,460.00,0.00,0.00,0.00,460.00,460.00,2016,,Paramount,PT
+Jovan Sedano,Recreation Leader,428.00,0.00,0.00,0.00,428.00,428.00,2016,,Paramount,PT
+Meredith Romero,Recreation Leader,412.00,0.00,0.00,0.00,412.00,412.00,2016,,Paramount,PT
+Julian Olmos-Sanchez,Recreation Leader,364.00,0.00,0.00,0.00,364.00,364.00,2016,,Paramount,PT
+Edgar Varela,Maintenance Aide,358.00,0.00,0.00,0.00,358.00,358.00,2016,,Paramount,PT
+Linda Timmons,Public Works Commissioner,300.00,0.00,0.00,0.00,300.00,300.00,2016,,Paramount,PT
+Alexander Garcia,Public Works Commissioner,300.00,0.00,0.00,0.00,300.00,300.00,2016,,Paramount,PT
+Svetlana Hernandez,Recreation Leader,286.00,0.00,0.00,0.00,286.00,286.00,2016,,Paramount,PT
+Susan Gonzalez,Recreation Leader,263.00,0.00,0.00,0.00,263.00,263.00,2016,,Paramount,PT
+Amy Rodas,Recreation Leader,246.00,0.00,0.00,0.00,246.00,246.00,2016,,Paramount,PT
+Angel Leon,Senior Lifeguard,213.00,0.00,0.00,0.00,213.00,213.00,2016,,Paramount,PT
+Jazmine Castillo-Galvez,Recreation Leader,211.00,0.00,0.00,0.00,211.00,211.00,2016,,Paramount,PT
+Melissa Sanchez,Public Service Assistant,109.00,0.00,0.00,0.00,109.00,109.00,2016,,Paramount,PT
+Erick Caldera,Maintenance Aide,92.00,0.00,0.00,0.00,92.00,92.00,2016,,Paramount,PT
+Jonathan Silva,Aquatic Aide,85.00,0.00,0.00,0.00,85.00,85.00,2016,,Paramount,PT
+Juan Yepez,Maintenance Aide,84.00,0.00,0.00,0.00,84.00,84.00,2016,,Paramount,PT
+Jessica Velasquez,Recreation Leader,74.00,0.00,0.00,0.00,74.00,74.00,2016,,Paramount,PT
+Victoria Campos,Recreation Leader,37.00,0.00,0.00,0.00,37.00,37.00,2016,,Paramount,PT
+Arianna Pena,Recreation Leader,24.00,0.00,0.00,0.00,24.00,24.00,2016,,Paramount,PT
+Laura Garcia,Recreation Leader,7.00,0.00,0.00,0.00,7.00,7.00,2016,,Paramount,PT

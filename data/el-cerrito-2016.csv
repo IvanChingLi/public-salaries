@@ -1,0 +1,355 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Chris Renshaw,Fire Capt/Paramedic/FPO,156701.19,115599.06,725.00,51308.93,273025.25,324334.18,2016,,El Cerrito,FT
+David  Ciappara,Fire Capt/Paramedic,149538.39,106562.14,725.00,43822.26,256825.53,300647.79,2016,,El Cerrito,FT
+Rune Hoyer-Nielsen,Fire Capt/Paramedic,149681.63,98382.61,725.00,50812.20,248789.24,299601.44,2016,,El Cerrito,FT
+Jeffrey Thomas,Fire Captain,136038.62,105661.71,725.00,48450.18,242425.33,290875.51,2016,,El Cerrito,FT
+Scott Hanin,City Manager,215639.50,0.00,17315.50,53806.94,232955.00,286761.94,2016,,El Cerrito,FT
+Robert Janes,Fire Capt/Paramedic,149538.38,80101.19,725.00,50787.23,230364.57,281151.80,2016,,El Cerrito,FT
+Lance Maples,Fire Chief,209370.30,0.00,725.00,60181.40,210095.30,270276.70,2016,,El Cerrito,FT
+Brian Cheshareck,Fire Capt/Paramedic,149538.39,67598.89,725.00,50787.23,217862.28,268649.51,2016,,El Cerrito,FT
+Michael Bond,Fire-Bat Chief,165748.39,18544.40,27418.90,51083.44,211711.69,262795.13,2016,,El Cerrito,FT
+Traviss Crumpacker,Fire Eng/Paramedic,132113.78,75913.87,725.00,47771.17,208752.65,256523.82,2016,,El Cerrito,FT
+Paul Keith,Police Chief,172744.61,0.00,26217.02,56467.35,198961.63,255428.98,2016,,El Cerrito,FT
+Laurence Carr,Fire-Bat Chief,165748.39,35786.80,725.00,52822.30,202260.19,255082.49,2016,,El Cerrito,FT
+Mark Figueira,Fire Capt/Paramedic,149595.66,50587.53,725.00,50796.99,200908.19,251705.18,2016,,El Cerrito,FT
+David Gibson,Fire-Bat Chief/Trainning Officer,173069.23,28578.16,725.00,47095.98,202372.39,249468.37,2016,,El Cerrito,FT
+Michael Pigoni,Fire-Bat Chief,167727.16,38211.59,725.00,42102.31,206663.75,248766.06,2016,,El Cerrito,FT
+Jose Castrejon,Fire Captain,136152.12,53972.48,725.00,48471.95,190849.60,239321.55,2016,,El Cerrito,FT
+Stephen Bonini,Police Lieutenant,158219.64,0.00,19106.76,53827.04,177326.40,231153.44,2016,,El Cerrito,FT
+Joseph Grupalo,Fire Captain,123313.73,58405.22,725.00,46232.81,182443.95,228676.76,2016,,El Cerrito,FT
+Robert DeLaCampa,Police Lieutenant,158219.64,0.00,15571.25,54029.10,173790.89,227819.99,2016,,El Cerrito,FT
+David Hood,Fire Eng/Paramedic,139434.49,37739.97,725.00,47702.83,177899.46,225602.29,2016,,El Cerrito,FT
+John-Tracy Wahrlich,Police Sergeant,131683.32,31733.43,12149.37,48994.32,175566.12,224560.44,2016,,El Cerrito,FT
+Ian Wong,Police Sergeant/Det/Motor assign,137670.10,23133.92,12914.70,50131.70,173718.72,223850.42,2016,,El Cerrito,FT
+David Yun,Fire Eng/Paramedic,132057.94,41455.35,725.00,47762.97,174238.29,222001.26,2016,,El Cerrito,FT
+Kathryn Halligan,Fire Engineer,119909.51,51926.28,725.00,45661.47,172560.79,218222.26,2016,,El Cerrito,FT
+Damien Carrion,FF/Paramed,123140.43,45574.24,725.00,46212.87,169439.67,215652.54,2016,,El Cerrito,FT
+Scott Cliatt,Police Sergeant,131608.41,14985.31,17662.51,49045.86,164256.23,213302.09,2016,,El Cerrito,FT
+David Cesmat,Fire Eng/Paramedic,131713.81,32327.77,725.00,47702.84,164766.58,212469.42,2016,,El Cerrito,FT
+Karen Pinkos,Asst City Manager,179261.40,0.00,3900.00,29171.21,183161.40,212332.61,2016,,El Cerrito,FT
+Shawn Maples,Police Sergeant,135095.04,5340.90,15624.52,49717.63,156060.46,205778.09,2016,,El Cerrito,FT
+Mathew Alexander,Fire Eng/Paramedic,132052.73,31693.55,725.00,40798.11,164471.28,205269.39,2016,,El Cerrito,FT
+Lauren Caputo,Police Sergeant/Det/Motor assign,135441.55,4928.64,12914.70,49752.31,153284.89,203037.20,2016,,El Cerrito,FT
+Gilbert Tang,Police Corporal,123309.92,20307.01,11726.50,47522.48,155343.43,202865.91,2016,,El Cerrito,FT
+Joseph Gagne,Fire Captain,125974.09,28122.61,725.00,46703.31,154821.70,201525.01,2016,,El Cerrito,FT
+David Hartung,Police Lieutenant,149526.23,0.00,19622.55,32154.67,169148.78,201303.45,2016,,El Cerrito,FT
+David Wentworth,Police Sergeant,131855.97,5239.42,12513.03,49088.01,149608.42,198696.43,2016,,El Cerrito,FT
+Aaron Schwartzman,FF/Paramed,116831.52,56241.28,725.00,22555.67,173797.80,196353.47,2016,,El Cerrito,FT
+Thomas Wade Jr,Fire Eng/Paramedic,131713.78,32047.21,725.00,31774.87,164485.99,196260.86,2016,,El Cerrito,FT
+Peter Benson,Fire Eng/Paramedic,129242.41,16813.08,725.00,47282.30,146780.49,194062.79,2016,,El Cerrito,FT
+Bailey Thepkaysone,Pol Officer/Det/Motor,108290.73,26086.91,15367.77,41401.51,149745.41,191146.92,2016,,El Cerrito,FT
+James Chan,Info Systems Manager,132998.78,0.00,17900.29,39842.27,150899.07,190741.34,2016,,El Cerrito,FT
+Gary Johnson,Fire Eng/Paramedic,131713.73,22856.52,725.00,31774.85,155295.25,187070.10,2016,,El Cerrito,FT
+Brian Elder,Police Corporal/Det assign,120243.41,11853.90,8158.33,46415.05,140255.64,186670.69,2016,,El Cerrito,FT
+Donovan Brosas,Police Corporal/Det assign,118108.50,17983.97,16930.48,31520.32,153022.95,184543.27,2016,,El Cerrito,FT
+Yvetteh Ortiz,Public Works Director,153326.90,0.00,8807.16,22095.22,162134.06,184229.28,2016,,El Cerrito,FT
+Cheryl  Silva-Morse,City Clerk,130323.84,0.00,10689.76,39539.98,141013.60,180553.58,2016,,El Cerrito,FT
+Michael Hernandez,Police Corporal/Det assign,122887.87,13597.82,11398.45,31468.48,147884.14,179352.62,2016,,El Cerrito,FT
+Candice Emert,Firefighter,119745.37,28996.34,4804.88,25628.27,153546.59,179174.86,2016,,El Cerrito,FT
+Melanie Mintz,Community Development Director,139121.24,0.00,3900.00,35320.27,143021.24,178341.51,2016,,El Cerrito,FT
+Nicholas Lundberg,FF/Paramed,103376.95,42562.32,725.00,29950.31,146664.27,176614.58,2016,,El Cerrito,FT
+Christopher Jones,Recreation Director,138784.98,0.00,13044.72,24577.29,151829.70,176406.99,2016,,El Cerrito,FT
+Joshua Del Prado,Pol Officer/Det/Motor,109906.31,6709.69,14114.82,45668.99,130730.82,176399.81,2016,,El Cerrito,FT
+Jeffrey Albrandt,Police Officer,108052.31,6790.47,12998.29,45152.98,127841.07,172994.05,2016,,El Cerrito,FT
+Christopher Purdy,Police Officer,103718.59,14295.11,7318.91,43482.19,125332.61,168814.80,2016,,El Cerrito,FT
+Paul Cooper,Police Officer,104697.38,11201.54,7639.30,43711.32,123538.22,167249.54,2016,,El Cerrito,FT
+Sidney Hubbs,Pol Officer/Det/Motor,108096.00,7177.98,7634.84,44269.77,122908.82,167178.59,2016,,El Cerrito,FT
+Aaron Leone,Pol Officer/Det/Motor,109811.51,16328.50,10154.76,29058.09,136294.77,165352.86,2016,,El Cerrito,FT
+Edwin Jacala,Pol Officer/Det/Motor,108290.70,13499.11,20486.70,22453.91,142276.51,164730.42,2016,,El Cerrito,FT
+Anthony Michalek,Fire Engineer,106262.73,16640.29,725.00,40981.78,123628.02,164609.80,2016,,El Cerrito,FT
+Victor Osorio,Police Officer,102475.58,11810.54,5679.74,43011.06,119965.86,162976.92,2016,,El Cerrito,FT
+Jose Delatorre,Police Officer,101383.46,17992.93,4479.84,36655.42,123856.23,160511.65,2016,,El Cerrito,FT
+Chi T Lee,Pol Officer/Det/Motor,105109.61,23748.45,13851.86,14011.62,142709.92,156721.54,2016,,El Cerrito,FT
+Anthony Dawson,Firefighter,94309.12,19426.55,725.00,41234.11,114460.67,155694.78,2016,,El Cerrito,FT
+Matthew Wong,Police Corporal,105310.94,18127.59,3519.92,27199.44,126958.45,154157.89,2016,,El Cerrito,FT
+Kristin Muniz-Bottomley,Police Officer,108290.71,5239.12,3519.92,36665.03,117049.75,153714.78,2016,,El Cerrito,FT
+Alexander Abetkov,Police Officer/Traffic,108290.62,3276.85,14115.04,21442.84,125682.51,147125.35,2016,,El Cerrito,FT
+Robert Wright,Police Officer,96032.79,15331.46,9688.91,24262.17,121053.16,145315.33,2016,,El Cerrito,FT
+Margaret Kavanaugh-Lynch,Development Services Manager,114860.59,0.00,7822.20,19405.62,122682.79,142088.41,2016,,El Cerrito,FT
+Kenneth Hasimoto,Police Officer,102014.41,13925.43,4479.84,20902.33,120419.68,141322.01,2016,,El Cerrito,FT
+Russell Taylor,Police Officer,100604.95,14848.64,1000.00,24816.77,116453.59,141270.36,2016,,El Cerrito,FT
+Ryan Trac,Police Officer,97614.78,16694.92,11971.98,12907.02,126281.68,139188.70,2016,,El Cerrito,FT
+Edward Perales,Police Officer,97659.87,16678.56,9172.12,11838.21,123510.55,135348.76,2016,,El Cerrito,FT
+John Soltes,Bldg Official,109024.66,0.00,12072.12,13823.84,121096.78,134920.62,2016,,El Cerrito,FT
+Adam Jinparn,Police Officer,96565.87,12449.74,5079.88,20687.52,114095.49,134783.01,2016,,El Cerrito,FT
+Maria Sanders,Environmental Svc Manager,104436.29,0.00,7168.38,21477.82,111604.67,133082.49,2016,,El Cerrito,FT
+Melissa Tigbao,Senior Engineer,105598.52,0.00,12072.12,14125.79,117670.64,131796.43,2016,,El Cerrito,FT
+Brett Thatcher,Firefighter,82097.25,30650.89,664.66,17773.47,113412.80,131186.27,2016,,El Cerrito,FT
+Noel Ibalio,Senior Planner,89409.44,0.00,6694.89,34916.49,96104.33,131020.82,2016,,El Cerrito,FT
+William Driscoll,Maint Svcs Superintendent,90594.63,0.00,4724.66,35057.88,95319.29,130377.17,2016,,El Cerrito,FT
+Shannon  Collins,Accounting Supervisor,96330.80,0.00,3900.00,29291.33,100230.80,129522.13,2016,,El Cerrito,FT
+Suzanne Iarla,Assistant to the city manager,96886.65,0.00,11007.91,20636.61,107894.56,128531.17,2016,,El Cerrito,FT
+Stephanie Ware,Police Officer,92853.80,9160.61,8559.72,15777.82,110574.13,126351.95,2016,,El Cerrito,FT
+Samantha Wendling,Police Executive Assistant,84202.43,0.00,7191.32,34710.93,91393.75,126104.68,2016,,El Cerrito,FT
+Alicia Ramos-Banales,Police  Records Supervisor,77135.28,10528.47,6705.74,31571.17,94369.49,125940.66,2016,,El Cerrito,FT
+Phillip Raine,Police Officer,89727.25,11713.72,4479.84,19501.54,105920.81,125422.35,2016,,El Cerrito,FT
+Sean Moss,Senior Planner,89860.18,0.00,6788.68,28011.18,96648.86,124660.04,2016,,El Cerrito,FT
+Sarah Perez,Police Officer,91247.37,7814.04,8559.72,16387.31,107621.13,124008.44,2016,,El Cerrito,FT
+Bridget Cooney,Recreation Supervisor,84180.16,0.00,3900.00,34037.24,88080.16,122117.40,2016,,El Cerrito,FT
+Brendan Bassi,Police Officer,91975.67,6367.59,9172.12,11193.10,107515.38,118708.48,2016,,El Cerrito,FT
+Vivian Brandt,Recreation Supervisor,82615.02,0.00,4628.20,28586.80,87243.22,115830.02,2016,,El Cerrito,FT
+Mario Gonzalez,Recycling Operations Supervisor,78820.68,0.00,2392.13,33719.82,81212.81,114932.63,2016,,El Cerrito,FT
+Stephen Pree,Program Manager,75738.07,0.00,3900.00,33371.56,79638.07,113009.63,2016,,El Cerrito,FT
+Jared Jawad,Police Officer,79593.09,7255.30,3123.53,20873.94,89971.92,110845.86,2016,,El Cerrito,FT
+Cheryl  Mosby,Human Resources Technician,73162.36,89.39,0.00,33093.19,73251.75,106344.94,2016,,El Cerrito,FT
+Louie Montemayor,Plan Chkr II,77425.08,0.00,0.00,28340.83,77425.08,105765.91,2016,,El Cerrito,FT
+Janet Bilbas,Recreation Supervisor,83377.89,0.00,3900.00,18313.54,87277.89,105591.43,2016,,El Cerrito,FT
+Jong Bong Ma,Info Systems Technician,68252.03,0.00,1300.00,32673.44,69552.03,102225.47,2016,,El Cerrito,FT
+Jose Jaramillo,Maintenance Lead Worker,60366.15,11682.48,5043.83,24932.57,77092.46,102025.03,2016,,El Cerrito,FT
+Sylvia Moir,Police Chief,47930.79,0.00,40975.94,9030.38,88906.73,97937.11,2016,,El Cerrito,PT
+Saied Aminian,Engineering Technician,70089.80,0.00,1300.00,26496.36,71389.80,97886.16,2016,,El Cerrito,FT
+Stacey Johnson,Admin Analyst III,66306.27,0.00,5222.80,26027.86,71529.07,97556.93,2016,,El Cerrito,PT
+Alejandro Martinez,Maintenance Worker,54826.34,9533.95,1300.00,31155.26,65660.29,96815.55,2016,,El Cerrito,FT
+Fabian Herrera,Maintenance Worker,54814.92,9430.05,1300.00,31153.93,65544.97,96698.90,2016,,El Cerrito,FT
+Ernest Visconti,Bldg Insp II,70089.84,0.00,0.00,26440.61,70089.84,96530.45,2016,,El Cerrito,FT
+Fernando Herrera,Maintenance Lead Worker,52687.87,8645.22,3795.00,31195.72,65128.09,96323.81,2016,,El Cerrito,FT
+Jorge Martinez,Recycling Maintenance Worker,54814.98,7534.86,2141.86,31007.05,64491.70,95498.75,2016,,El Cerrito,FT
+Mark Rasiah,Finance Director/Treasurer,77076.95,0.00,5879.88,10055.01,82956.83,93011.84,2016,,El Cerrito,PT
+Veronica McElroy,Police Records Specialist,58578.69,0.00,4314.06,29884.03,62892.75,92776.78,2016,,El Cerrito,FT
+Arturo Ortega,Custodial Mtn Leader,60272.81,0.00,0.00,31623.81,60272.81,91896.62,2016,,El Cerrito,FT
+Anthony Billups,Comm Svcs Coordinator,56223.43,680.37,3599.63,31281.69,60503.43,91785.12,2016,,El Cerrito,FT
+Nina Johnson,Account Clerk Technician,55269.49,4557.15,0.00,31057.47,59826.64,90884.11,2016,,El Cerrito,FT
+Katherine Ahlquist,Management Analyst II,64913.78,0.00,3600.00,19379.65,68513.78,87893.43,2016,,El Cerrito,FT
+Craig Johnson,Bldg Insp I,70089.78,0.00,8172.12,9423.95,78261.90,87685.85,2016,,El Cerrito,FT
+Raul Martinez,Recycling Maintenance Worker,54814.97,7188.13,0.00,24042.07,62003.10,86045.17,2016,,El Cerrito,FT
+Sarah Dibenedetto,Management Analyst II,66733.25,214.63,2550.00,16440.02,69497.88,85937.90,2016,,El Cerrito,FT
+Bill Lewis,Property & Evidence Spec,70133.47,0.00,7647.14,7725.58,77780.61,85506.19,2016,,El Cerrito,FT
+Lisa Patrick-Ramos,Management Assistant,56427.98,0.00,0.00,27435.67,56427.98,83863.65,2016,,El Cerrito,FT
+Shielaugh Divelbiss,Comm Svcs Coordinator,56286.72,21.95,2557.01,24208.84,58865.68,83074.52,2016,,El Cerrito,FT
+Denise Rose,Permit Tech II,52781.49,733.46,1300.00,27328.83,54814.95,82143.78,2016,,El Cerrito,FT
+Laurenteen Brazil,Management Assistant,59410.24,453.47,9524.40,8889.38,69388.11,78277.49,2016,,El Cerrito,FT
+Sheryl Shute,Comm Svcs Coordinator,56551.56,2457.08,3557.01,15390.18,62565.65,77955.83,2016,,El Cerrito,FT
+Diane Nakano,Police Records Specialist,58578.69,0.00,4314.06,13956.07,62892.75,76848.82,2016,,El Cerrito,FT
+Esther Banuelos,Comm Svcs Coordinator,56393.34,2132.00,2300.00,15520.76,60825.34,76346.10,2016,,El Cerrito,FT
+Dianna Elder,Recycling Maintenance Worker,54814.99,5728.53,0.00,15079.09,60543.52,75622.61,2016,,El Cerrito,FT
+Yoko Nunokawa,Account Clerk Technician,55562.54,182.01,3829.41,15310.50,59573.96,74884.46,2016,,El Cerrito,FT
+Rogelio Alvarez,Police Officer,32716.28,0.00,27551.93,13971.61,60268.21,74239.82,2016,,El Cerrito,PT
+Precilla Mandujano,Management Assistant,59410.18,0.00,4472.20,9997.55,63882.38,73879.93,2016,,El Cerrito,FT
+Allesandra Mandujano,Police Records Specialist,52430.77,290.94,1924.90,18614.39,54646.61,73261.00,2016,,El Cerrito,FT
+Francisco Vega,Maintenance Worker,46632.34,5310.97,0.00,20017.62,51943.31,71960.93,2016,,El Cerrito,FT
+Leo Martinez,Custodian,41122.99,401.71,0.00,29459.77,41524.70,70984.47,2016,,El Cerrito,FT
+Griselda Ortega,Custodian,41122.98,0.00,0.00,29459.77,41122.98,70582.75,2016,,El Cerrito,FT
+Deborah Haberman,Bldg Permit Tech III,55823.11,2169.77,0.00,11454.85,57992.88,69447.73,2016,,El Cerrito,FT
+Luthera Powell,Childcare Teacher,38600.99,224.69,1000.00,29291.22,39825.68,69116.90,2016,,El Cerrito,FT
+Stephen Dunkle,Assistant Program Supervisor,52503.13,860.81,8172.12,7436.68,61536.06,68972.74,2016,,El Cerrito,FT
+Raymond Finley,Custodian,41123.01,273.16,1000.00,22611.13,42396.17,65007.30,2016,,El Cerrito,FT
+Luis Navarro,Forklift Operator,39009.03,6262.26,0.00,19662.53,45271.29,64933.82,2016,,El Cerrito,FT
+Corinne Diaz,Recreation Supervisor,27840.99,0.00,33234.93,3776.03,61075.92,64851.95,2016,,El Cerrito,PT
+Donald Inserra,Custodian,41123.03,0.00,1000.00,22611.13,42123.03,64734.16,2016,,El Cerrito,FT
+Susan Ortega,Admin Clerk Specialist,47141.43,37.76,1300.00,15825.75,48479.19,64304.94,2016,,El Cerrito,FT
+Andrea Arriaga,Account Clerk,39171.55,564.93,0.00,24566.76,39736.48,64303.24,2016,,El Cerrito,FT
+Melanie West,Childcare Teacher,38611.07,279.04,2757.25,22327.39,41647.36,63974.75,2016,,El Cerrito,FT
+Adam Birdsell,FF/Paramed,39048.87,9457.12,725.00,13598.82,49230.99,62829.81,2016,,El Cerrito,PT
+Lisa Malek-Zadeh,Finance Director/Treasurer,44200.07,0.00,10768.74,7809.12,54968.81,62777.93,2016,,El Cerrito,PT
+Kristen Cunningham,Senior Human Resources Analyst,49707.64,0.00,1950.00,9971.79,51657.64,61629.43,2016,,El Cerrito,PT
+Stacy Corr,Police Records Specialist,50844.72,371.53,725.00,9605.52,51941.25,61546.77,2016,,El Cerrito,FT
+Jessica Palacios,Admin Clerk Specialist,43144.83,34.25,1300.00,13909.35,44479.08,58388.43,2016,,El Cerrito,FT
+Christopher Major,Police Officer,51609.48,0.00,0.00,6308.70,51609.48,57918.18,2016,,El Cerrito,PT
+Edward Nodal,Forklift Operator,41270.90,5115.40,500.00,10820.17,46886.30,57706.47,2016,,El Cerrito,FT
+John Marlette,Bldg Insp I,33716.68,686.05,0.00,16070.23,34402.73,50472.96,2016,,El Cerrito,PT
+Mason Campbell,FF/Paramed,31975.31,6181.00,250.74,9737.34,38407.05,48144.39,2016,,El Cerrito,PT
+Ana Bernardes,Associated Engineer,33067.68,0.00,1350.00,12106.60,34417.68,46524.28,2016,,El Cerrito,PT
+Hannah Long,Recreation Supervisor,37843.83,0.00,1650.00,5515.18,39493.83,45009.01,2016,,El Cerrito,PT
+Jennifer Peat,Admin Clerk Specialist,26478.81,4.52,0.00,17783.53,26483.33,44266.86,2016,,El Cerrito,PT
+Abel Duran,Forklift Operator,19631.48,3358.29,500.00,13352.91,23489.77,36842.68,2016,,El Cerrito,PT
+Taylor Melton,Comm Svcs Coordinator,27516.60,379.14,0.00,6483.09,27895.74,34378.83,2016,,El Cerrito,PT
+Andrian Resendez,Aide 4R/Child Teacher,28546.89,321.22,0.00,3230.36,28868.11,32098.47,2016,,El Cerrito,FT
+Sharon Gostlin,Admin Clerk Specialist,18657.43,99.74,1125.77,11190.00,19882.94,31072.94,2016,,El Cerrito,PT
+Margaret Livingston,Temp Admin Clerk - Specialist,30827.89,237.49,0.00,0.00,31065.38,31065.38,2016,,El Cerrito,PT
+Adriana Murtaza,Aide 4R/Child Teacher,27209.74,0.00,0.00,3074.71,27209.74,30284.45,2016,,El Cerrito,FT
+Azadeh Honarmand,Aide 4R/Child Teacher,24954.26,1071.47,0.00,2833.71,26025.73,28859.44,2016,,El Cerrito,FT
+Olive Kaplanis,Program Registrar,25720.88,0.00,0.00,2907.58,25720.88,28628.46,2016,,El Cerrito,PT
+John Molica,Community Svc Officer - PT,28236.92,0.00,0.00,0.00,28236.92,28236.92,2016,,El Cerrito,PT
+Antonio Lemus,PT Custodian,26626.27,401.71,0.00,840.11,27027.98,27868.09,2016,,El Cerrito,PT
+Kimberly Marcos,OH AST/SrVanDsp,24976.91,0.00,0.00,2823.71,24976.91,27800.62,2016,,El Cerrito,PT
+Gursharan Bhangu,Police Officer,18733.46,0.00,715.35,6382.31,19448.81,25831.12,2016,,El Cerrito,PT
+Thomas McCullagh,Fire Captain,5957.47,3719.24,13151.29,2538.71,22828.00,25366.71,2016,,El Cerrito,PT
+Kevin Lemus,Community Svc Officer - PT,24124.46,0.00,600.08,0.00,24724.54,24724.54,2016,,El Cerrito,PT
+William Savko,Community Svc Officer - PT,23746.61,0.00,0.00,0.00,23746.61,23746.61,2016,,El Cerrito,PT
+Ashley Simpson,Aide 4R/Child Teacher,21400.93,871.45,945.63,0.00,23218.01,23218.01,2016,,El Cerrito,PT
+Kevin Hayes,Cust I/Childcare Aide/Aide 3,21163.42,114.03,0.00,984.14,21277.45,22261.59,2016,,El Cerrito,PT
+Shavon Blue,OH AST/SrVanDsp,20934.54,240.03,0.00,0.00,21174.57,21174.57,2016,,El Cerrito,PT
+Francisco Azuara,PT Custodian,20458.86,369.58,0.00,0.00,20828.44,20828.44,2016,,El Cerrito,PT
+Brian Funk,Cust I/Childcare Aide/Aide 3,19716.20,132.04,0.00,919.85,19848.24,20768.09,2016,,El Cerrito,PT
+Kellen O'Connor,Aquatic Specialist II,18991.51,967.14,0.00,621.39,19958.65,20580.04,2016,,El Cerrito,PT
+Jesus Sandoval,PT Custodian,19802.06,0.00,0.00,0.00,19802.06,19802.06,2016,,El Cerrito,PT
+Julia Cotteral,Aquatic Specialist I,17225.80,164.51,1608.62,792.20,18998.93,19791.13,2016,,El Cerrito,PT
+Daniela Debergue,Aide 4R/Childcare Teacher,19316.21,0.00,0.00,0.00,19316.21,19316.21,2016,,El Cerrito,PT
+Tamera Boyakins,Aide 4R/Childcare Teacher,18112.29,302.37,0.00,843.84,18414.66,19258.50,2016,,El Cerrito,PT
+Charles Alabanza,Coach/Rentals,16354.66,1077.44,0.00,1777.71,17432.10,19209.81,2016,,El Cerrito,PT
+Monica Stolte,Sr. Lifeguard,18236.35,102.22,0.00,847.59,18338.57,19186.16,2016,,El Cerrito,PT
+Nicolas Osano,Coach/Rentals,19015.10,142.45,0.00,0.00,19157.55,19157.55,2016,,El Cerrito,PT
+Guadalupe Corez Salas,Cust I/Childcare Aide/Aide 3,17568.75,99.40,0.00,0.00,17668.15,17668.15,2016,,El Cerrito,PT
+Evan Clark,Sr. Lifeguard,17478.93,109.50,0.00,0.00,17588.43,17588.43,2016,,El Cerrito,PT
+Michael Harvey,Coach/Rentals,15353.27,146.01,0.00,1739.28,15499.28,17238.56,2016,,El Cerrito,PT
+Heather  Fox,Aide 4R/Child Teacher,15166.26,263.84,0.00,1716.46,15430.10,17146.56,2016,,El Cerrito,PT
+Tyler Birss,Cust I/Childcare Aide/Aide 3,16072.38,113.44,0.00,0.00,16185.82,16185.82,2016,,El Cerrito,PT
+Mariya Limon,Program Registrar,15871.23,146.12,0.00,0.00,16017.35,16017.35,2016,,El Cerrito,PT
+Michael Popke,Police Officer - Recruit,15878.89,0.00,0.00,127.80,15878.89,16006.69,2016,,El Cerrito,PT
+Karen Brown-Collier,Cust I/Childcare Aide/Aide 3,15615.59,120.04,0.00,0.00,15735.63,15735.63,2016,,El Cerrito,PT
+Micaela Robinson,Cust I/Childcare Aide/Aide 3,15341.71,203.77,0.00,0.00,15545.48,15545.48,2016,,El Cerrito,PT
+Caroline Akl,Aide 4R/Childcare Teacher,15338.90,127.16,0.00,0.00,15466.06,15466.06,2016,,El Cerrito,PT
+Ying-Ying Yuan,Coach/Rentals,14535.34,0.00,0.00,675.17,14535.34,15210.51,2016,,El Cerrito,PT
+Charles Price,Cust I/Childcare Aide/Aide 3,13437.30,467.15,291.10,608.38,14195.55,14803.93,2016,,El Cerrito,PT
+Maribel Navarro,Cust I/Childcare Aide/Aide 3,14471.78,173.95,0.00,0.00,14645.73,14645.73,2016,,El Cerrito,PT
+Dillon Izzo,Aide 3/Rec Ldr I/Counselor,14465.00,133.84,0.00,0.00,14598.84,14598.84,2016,,El Cerrito,PT
+Darby Pitts,Swim Instructor/Lifeguard,14191.72,116.93,0.00,0.00,14308.65,14308.65,2016,,El Cerrito,PT
+Khankham Chaiyasane,Cust I/Childcare Aide/Aide 3,13727.21,178.92,0.00,0.00,13906.13,13906.13,2016,,El Cerrito,PT
+Patricia Bruns,Aquatic Specialist II,13623.73,121.67,0.00,0.00,13745.40,13745.40,2016,,El Cerrito,PT
+Clemika Young,Cust I/Childcare Aide/Aide 3,13513.20,0.00,0.00,0.00,13513.20,13513.20,2016,,El Cerrito,PT
+Nathan Thomas,Police Cadet,13447.71,0.00,0.00,0.00,13447.71,13447.71,2016,,El Cerrito,PT
+Pablo Dominguez,Sr. Lifeguard,13086.97,134.16,0.00,0.00,13221.13,13221.13,2016,,El Cerrito,PT
+Yasmine Edres,Cust I/Childcare Aide/Aide 3,12856.28,84.49,0.00,0.00,12940.77,12940.77,2016,,El Cerrito,PT
+David Katz,Sr. Lifeguard,12157.21,109.50,0.00,563.24,12266.71,12829.95,2016,,El Cerrito,PT
+Lance Kolding,Maintenance Worker - PT,12788.41,0.00,0.00,0.00,12788.41,12788.41,2016,,El Cerrito,PT
+Nadia Quintana,Aide 4R/Child Teacher,11859.43,108.03,229.99,540.34,12197.45,12737.79,2016,,El Cerrito,PT
+Rolandas Gimbutis,Coach/Rentals,12519.04,0.00,0.00,0.00,12519.04,12519.04,2016,,El Cerrito,PT
+Dilki Pattiyage,Cust I/Childcare Aide/Aide 3,12004.57,101.20,0.00,0.00,12105.77,12105.77,2016,,El Cerrito,PT
+Traci Bondoc,Cust I/Childcare Aide/Aide 3,11962.43,99.40,0.00,0.00,12061.83,12061.83,2016,,El Cerrito,PT
+Robert Murphy,Fire Eng/Paramedic,3364.06,3216.88,4268.12,730.19,10849.06,11579.25,2016,,El Cerrito,PT
+Jenya Jawad,Coach/Rentals,9389.08,949.07,0.00,422.52,10338.15,10760.67,2016,,El Cerrito,PT
+Ariane Victoria-Pelley,Coach/Rentals,10404.81,354.21,0.00,0.00,10759.02,10759.02,2016,,El Cerrito,PT
+Kyle Harvey,Sr. Lifeguard,10492.65,121.67,0.00,0.00,10614.32,10614.32,2016,,El Cerrito,PT
+Michael Olivieri,Police Cadet,10372.86,0.00,0.00,0.00,10372.86,10372.86,2016,,El Cerrito,PT
+Francisco Abarca,Forklift Operator -PT,9907.95,0.00,0.00,0.00,9907.95,9907.95,2016,,El Cerrito,PT
+Joytika Raj,Cust I/Childcare Aide/Aide 3,9878.44,0.00,0.00,0.00,9878.44,9878.44,2016,,El Cerrito,PT
+Kamiko Hodges-Page,Aide V-S,9072.01,138.14,0.00,0.00,9210.15,9210.15,2016,,El Cerrito,PT
+Alissander Bouziane,Lifeguard,8926.83,101.20,0.00,0.00,9028.03,9028.03,2016,,El Cerrito,PT
+John-Sebastian Kraynik,Sr. Lifeguard,8835.19,121.67,0.00,0.00,8956.86,8956.86,2016,,El Cerrito,PT
+Mariana Duran,Cust I/Childcare Aide/Aide 3,8937.91,0.00,0.00,0.00,8937.91,8937.91,2016,,El Cerrito,PT
+Remi Lee,Sr. Lifeguard,7940.52,0.00,907.33,0.00,8847.85,8847.85,2016,,El Cerrito,PT
+Irma Wellington,Aide 4R/Child Teacher,8816.05,0.00,0.00,0.00,8816.05,8816.05,2016,,El Cerrito,PT
+Andrew Rubio-Mendoza,Lifeguard,8611.38,0.00,0.00,0.00,8611.38,8611.38,2016,,El Cerrito,PT
+An Mei Brenna,Lifeguard,8525.87,0.00,0.00,0.00,8525.87,8525.87,2016,,El Cerrito,PT
+Maximilian Castro,Lifeguard,7961.57,111.55,0.00,0.00,8073.12,8073.12,2016,,El Cerrito,PT
+Brienna Smith,Sr. Lifeguard,7659.74,0.00,0.00,0.00,7659.74,7659.74,2016,,El Cerrito,PT
+Samuel Litton,Lifeguard,6901.60,106.30,0.00,0.00,7007.90,7007.90,2016,,El Cerrito,PT
+Jessica Vilaysouk,Cust I/Childcare Aide/Aide 3,6827.19,139.16,0.00,0.00,6966.35,6966.35,2016,,El Cerrito,PT
+Dane Wocker,Police Cadet,6819.28,0.00,0.00,0.00,6819.28,6819.28,2016,,El Cerrito,PT
+Lianne McKinney,Aquatic Specialist II,6417.89,149.56,0.00,0.00,6567.45,6567.45,2016,,El Cerrito,PT
+Lizet Ortega,Cust I/Childcare Aide/Aide 3,6363.69,105.96,0.00,0.00,6469.65,6469.65,2016,,El Cerrito,PT
+Consuelo Aguero,Aquatic Specialist I,6422.00,0.00,0.00,0.00,6422.00,6422.00,2016,,El Cerrito,PT
+Shirley Gonsalves,Swim Instructor II,6174.74,0.00,0.00,0.00,6174.74,6174.74,2016,,El Cerrito,PT
+Esperanza Osorio,Police Executive Assistant - Temp,6137.25,0.00,0.00,0.00,6137.25,6137.25,2016,,El Cerrito,PT
+Jorge Talledo,OH AST/SrVanDsp,6107.21,0.00,0.00,0.00,6107.21,6107.21,2016,,El Cerrito,PT
+Mario Santos-Davidson,Recreation Registrar/Assist,5865.70,131.85,0.00,0.00,5997.55,5997.55,2016,,El Cerrito,PT
+Jessica Reed,Aide 3/Rec Ldr I/Counselor,5862.55,121.67,0.00,0.00,5984.22,5984.22,2016,,El Cerrito,PT
+Nikhil Masand,Lifeguard,5867.96,101.20,0.00,0.00,5969.16,5969.16,2016,,El Cerrito,PT
+Janice Bridges,City Councilmember,5292.00,0.00,50.00,603.26,5342.00,5945.26,2016,,El Cerrito,PT
+Mark Friedman,City Councilmember,5292.00,0.00,50.00,603.26,5342.00,5945.26,2016,,El Cerrito,PT
+Janet Ableson,City Councilmember,5292.00,0.00,50.00,603.26,5342.00,5945.26,2016,,El Cerrito,PT
+Natasha Jacobs,Aide V-S,5063.00,243.38,0.00,585.19,5306.38,5891.57,2016,,El Cerrito,PT
+Peggy Judge,Admin Clerk,5477.78,0.00,0.00,245.78,5477.78,5723.56,2016,,El Cerrito,PT
+Kelly McMahon,Aide 4/Sr Ins Gd/Rec Ldr II,5368.70,321.86,0.00,0.00,5690.56,5690.56,2016,,El Cerrito,PT
+Marin Stuart,Swim Instructor I,5684.91,0.00,0.00,0.00,5684.91,5684.91,2016,,El Cerrito,PT
+Madeline Jones,Aide 3/Rec Ldr I/Counselor,5542.22,121.67,0.00,0.00,5663.89,5663.89,2016,,El Cerrito,PT
+Gabriel Quinto,City Councilmember,5292.00,0.00,50.00,248.12,5342.00,5590.12,2016,,El Cerrito,PT
+Kennedy Grant,Swim Instructor I,5385.30,100.46,0.00,0.00,5485.76,5485.76,2016,,El Cerrito,PT
+Mark Kolding,Maint Wkr-Entry - PT,5458.34,0.00,0.00,0.00,5458.34,5458.34,2016,,El Cerrito,PT
+Alana Rose,Aide 4/Sr Ins Gd/Rec Ldr II,5346.81,109.50,0.00,0.00,5456.31,5456.31,2016,,El Cerrito,PT
+Gregory Lyman,City Councilmember-Mayor,5292.00,0.00,50.00,0.00,5342.00,5342.00,2016,,El Cerrito,PT
+Blake Underhill,Lifeguard,5093.83,111.55,0.00,0.00,5205.38,5205.38,2016,,El Cerrito,PT
+Constance B. Nie,Admin Clerk Specialist-Part time,4605.41,0.00,0.00,522.54,4605.41,5127.95,2016,,El Cerrito,PT
+Emily Sheppard,Aide 3/Rec Ldr I/Counselor,5047.99,0.00,0.00,0.00,5047.99,5047.99,2016,,El Cerrito,PT
+Vahe Minassian,Community Svc Officer - PT,4926.13,0.00,0.00,39.65,4926.13,4965.78,2016,,El Cerrito,PT
+Kevin Mosby,Account Clerk - Part time,4918.10,0.00,0.00,0.00,4918.10,4918.10,2016,,El Cerrito,PT
+Michelle Li,Aquatic Specialist I,4887.85,0.00,0.00,0.00,4887.85,4887.85,2016,,El Cerrito,PT
+Keri Pock,Swim Instructor II,4066.92,0.00,0.00,461.37,4066.92,4528.29,2016,,El Cerrito,PT
+Belinda Baker,Coach/Rentals,4512.64,0.00,0.00,0.00,4512.64,4512.64,2016,,El Cerrito,PT
+Amanda Li,Lifeguard,4398.91,111.63,0.00,0.00,4510.54,4510.54,2016,,El Cerrito,PT
+Miya Keilin,Lifeguard,4488.44,0.00,0.00,0.00,4488.44,4488.44,2016,,El Cerrito,PT
+Linda Rapella,Cust I/Childcare Aide/Aide 3,4486.77,0.00,0.00,0.00,4486.77,4486.77,2016,,El Cerrito,PT
+Madison Lew,Swim Instructor I,4170.18,128.91,0.00,0.00,4299.09,4299.09,2016,,El Cerrito,PT
+Jessica Hicks,Lifeguard,4278.43,0.00,0.00,0.00,4278.43,4278.43,2016,,El Cerrito,PT
+Megan Noble,Swim Instructor II,4108.36,121.67,0.00,0.00,4230.03,4230.03,2016,,El Cerrito,PT
+Alberto Nodal,Aide V-S,3792.85,0.00,0.00,436.71,3792.85,4229.56,2016,,El Cerrito,PT
+Alea Barrios,Swim Instructor I,4077.46,111.63,0.00,0.00,4189.09,4189.09,2016,,El Cerrito,PT
+Matthew Silva,Lifeguard,4060.66,106.30,0.00,0.00,4166.96,4166.96,2016,,El Cerrito,PT
+Nora Gest,Swim Instructor I,4129.58,0.00,0.00,0.00,4129.58,4129.58,2016,,El Cerrito,PT
+Tiffany Jamison,Aide 4R/Child Teacher,3859.96,243.38,0.00,0.00,4103.34,4103.34,2016,,El Cerrito,PT
+Krystal Citty,Aide 4R/Childcare Teacher,3702.93,351.13,0.00,0.00,4054.06,4054.06,2016,,El Cerrito,PT
+Charlene Mitchell,OH AST/SrVanDsp,3915.71,0.00,0.00,0.00,3915.71,3915.71,2016,,El Cerrito,PT
+Michael Taft,Aquatic Specialist I,3798.65,0.00,0.00,0.00,3798.65,3798.65,2016,,El Cerrito,PT
+Elliott Carr,Lifeguard,3781.41,0.00,0.00,0.00,3781.41,3781.41,2016,,El Cerrito,PT
+Dillen Corlett,Swim Instructor I,3675.94,91.08,0.00,0.00,3767.02,3767.02,2016,,El Cerrito,PT
+Jacob Crowley,Swim Instructor II/Sr. Guard,3633.15,121.67,0.00,0.00,3754.82,3754.82,2016,,El Cerrito,PT
+Aster Ricks,Swim Instructor I,3712.72,0.00,0.00,0.00,3712.72,3712.72,2016,,El Cerrito,PT
+Brandon Chincilla,Lifeguard,3611.67,0.00,0.00,0.00,3611.67,3611.67,2016,,El Cerrito,PT
+Kimberly Palacios-Mora,Aide 3/Rec Ldr I/Counselor,3537.34,49.22,0.00,0.00,3586.56,3586.56,2016,,El Cerrito,PT
+Marissa Godwin,Lifeguard,3407.21,101.20,0.00,0.00,3508.41,3508.41,2016,,El Cerrito,PT
+Andres Montes,Rec Office Aide - PT,3463.56,0.00,0.00,0.00,3463.56,3463.56,2016,,El Cerrito,PT
+Laisani Waqa,Swim Instructor I,3446.01,0.00,0.00,0.00,3446.01,3446.01,2016,,El Cerrito,PT
+Rebecca Fox,Aide 3/Rec Ldr I/Counselor,3253.10,117.21,0.00,0.00,3370.31,3370.31,2016,,El Cerrito,PT
+Gillian Barry-Smith,Lifeguard,3192.00,101.20,0.00,0.00,3293.20,3293.20,2016,,El Cerrito,PT
+Ethan Shay-Cowell,Lifeguard,3158.78,0.00,0.00,0.00,3158.78,3158.78,2016,,El Cerrito,PT
+Abia Syed,Intern - Part time,3024.70,117.45,0.00,0.00,3142.15,3142.15,2016,,El Cerrito,PT
+Linnea Sepe-Forrest,Sr. Lifeguard,2948.23,182.50,0.00,0.00,3130.73,3130.73,2016,,El Cerrito,PT
+Anais Saunders,Lifeguard,3087.90,0.00,0.00,0.00,3087.90,3087.90,2016,,El Cerrito,PT
+Francesca Cline,Lifeguard,2902.35,101.20,0.00,0.00,3003.55,3003.55,2016,,El Cerrito,PT
+Jack Bailey,Lifeguard,2867.25,111.55,0.00,0.00,2978.80,2978.80,2016,,El Cerrito,PT
+Angelica Armijo-Keats,Lifeguard,2756.99,128.91,0.00,0.00,2885.90,2885.90,2016,,El Cerrito,PT
+Lily Driscoll,Aquatic Assistant II,2777.37,106.01,0.00,0.00,2883.38,2883.38,2016,,El Cerrito,PT
+Tyler Mowry,Swim Instructor I,2746.82,106.30,0.00,0.00,2853.12,2853.12,2016,,El Cerrito,PT
+Julia Phalen,Swim Instructor I,2769.39,80.96,0.00,0.00,2850.35,2850.35,2016,,El Cerrito,PT
+Liam Noble,Lifeguard,2743.99,106.30,0.00,0.00,2850.29,2850.29,2016,,El Cerrito,PT
+Pearla Ponce,Aide 3/Rec Ldr I/Counselor,2839.11,0.00,0.00,0.00,2839.11,2839.11,2016,,El Cerrito,PT
+Monet Boyd,Intern - Part time,2800.00,0.00,0.00,0.00,2800.00,2800.00,2016,,El Cerrito,PT
+Isabel Cohen,Swim Instructor I,2677.63,0.00,0.00,0.00,2677.63,2677.63,2016,,El Cerrito,PT
+Charles Wing,OH AST/SrVanDsp,2637.33,0.00,0.00,0.00,2637.33,2637.33,2016,,El Cerrito,PT
+Ashkon Dormishian,Lifeguard,2533.82,101.20,0.00,0.00,2635.02,2635.02,2016,,El Cerrito,PT
+Evelin Palacios,Aide 3/Rec Ldr I/Counselor,2626.86,0.00,0.00,0.00,2626.86,2626.86,2016,,El Cerrito,PT
+Lisa Hawley,Aquatic Specialist I,2415.94,0.00,123.38,0.00,2539.32,2539.32,2016,,El Cerrito,PT
+Kylie Paramore,Lifeguard,2490.45,0.00,0.00,0.00,2490.45,2490.45,2016,,El Cerrito,PT
+Brandon Bell,Coach/Rentals,2468.11,0.00,0.00,0.00,2468.11,2468.11,2016,,El Cerrito,PT
+Page Spencer,Lifeguard,2350.00,106.30,0.00,0.00,2456.30,2456.30,2016,,El Cerrito,PT
+Cindy Su,Sr. Lifeguard,2409.15,0.00,0.00,0.00,2409.15,2409.15,2016,,El Cerrito,PT
+Haakon Hoyer-Nielsen,Lifeguard,2294.50,101.20,0.00,0.00,2395.70,2395.70,2016,,El Cerrito,PT
+Carmen Finley,Swim Instructor I,2065.21,117.19,0.00,0.00,2182.40,2182.40,2016,,El Cerrito,PT
+Alka Ajmani,Aide 4R/Childcare Teacher,2176.41,0.00,0.00,0.00,2176.41,2176.41,2016,,El Cerrito,PT
+Harsimran Chatha,Police Cadet,1898.59,0.00,184.64,0.00,2083.23,2083.23,2016,,El Cerrito,PT
+Pedro Vergara Guerra,Forklift Operator -PT,2063.06,0.00,0.00,0.00,2063.06,2063.06,2016,,El Cerrito,PT
+Alison Smith,Aquatic Specialist I,2022.79,0.00,0.00,0.00,2022.79,2022.79,2016,,El Cerrito,PT
+Judith Baker,Coach/Rentals,2017.35,0.00,0.00,0.00,2017.35,2017.35,2016,,El Cerrito,PT
+Sienna Torney,Coach/Rentals,1981.90,0.00,0.00,0.00,1981.90,1981.90,2016,,El Cerrito,PT
+Karina Martin,Senior Center Assistant,1677.14,150.19,0.00,0.00,1827.33,1827.33,2016,,El Cerrito,PT
+Beth O'Brien,Admin Clerk - PT,1723.72,0.00,0.00,0.00,1723.72,1723.72,2016,,El Cerrito,PT
+Claire Lavery,Coach/Rentals,1590.35,99.71,0.00,0.00,1690.06,1690.06,2016,,El Cerrito,PT
+Kavion Dormishian,Lifeguard,1678.06,0.00,0.00,0.00,1678.06,1678.06,2016,,El Cerrito,PT
+Dillon Maples,Forklift Operator -PT,1665.24,0.00,0.00,0.00,1665.24,1665.24,2016,,El Cerrito,PT
+Loraine McVey,Admin Clerk Specialist,1635.93,0.00,0.00,0.00,1635.93,1635.93,2016,,El Cerrito,PT
+Sidney Camara-Hurtado,Lifeguard,1519.98,0.00,0.00,0.00,1519.98,1519.98,2016,,El Cerrito,PT
+Annissa Young-Nozicka,Aide 3/Rec Ldr I/Counselor,1500.46,0.00,0.00,0.00,1500.46,1500.46,2016,,El Cerrito,PT
+Anna Fox,Aide 3/Rec Ldr I/Counselor,1494.83,0.00,0.00,0.00,1494.83,1494.83,2016,,El Cerrito,PT
+Andrea Strong,Lifeguard,1490.68,0.00,0.00,0.00,1490.68,1490.68,2016,,El Cerrito,PT
+Kaitlin Russell,Coach/Rentals,1485.27,0.00,0.00,0.00,1485.27,1485.27,2016,,El Cerrito,PT
+Anne Ruffino,Swim Instructor II,1457.30,0.00,0.00,0.00,1457.30,1457.30,2016,,El Cerrito,PT
+John Ly,Intern - Part time,1339.80,82.65,0.00,0.00,1422.45,1422.45,2016,,El Cerrito,PT
+Shashoni Robinson,Aide 3/Rec Ldr I/Counselor,1408.79,0.00,0.00,0.00,1408.79,1408.79,2016,,El Cerrito,PT
+Patricia Lara,Aide 4R/Child Teacher,1387.65,0.00,0.00,0.00,1387.65,1387.65,2016,,El Cerrito,PT
+Belgutei Enkhbileg,Lifeguard,1326.08,0.00,0.00,0.00,1326.08,1326.08,2016,,El Cerrito,PT
+Zhenye Feng,Intern - Part time,1235.40,87.00,0.00,0.00,1322.40,1322.40,2016,,El Cerrito,PT
+Minhal Motiwala,Intern - Part time,1212.20,73.95,0.00,0.00,1286.15,1286.15,2016,,El Cerrito,PT
+Sylvia-Rose Flores,Cust I/Childcare Aide/Aide 3,1220.83,0.00,0.00,0.00,1220.83,1220.83,2016,,El Cerrito,PT
+Katushka Aburto,Intern - Part time,1135.00,0.00,0.00,0.00,1135.00,1135.00,2016,,El Cerrito,PT
+Muhammad Arsalan,Intern - Part time,1026.60,0.00,0.00,0.00,1026.60,1026.60,2016,,El Cerrito,PT
+Marissa Wise,Cust I/Childcare Aide/Aide 3,992.84,0.00,0.00,0.00,992.84,992.84,2016,,El Cerrito,PT
+Nehemiah Murray,Cust I/Childcare Aide/Aide 3,868.73,0.00,0.00,0.00,868.73,868.73,2016,,El Cerrito,PT
+Yasmena Alejandre,Cust I/Childcare Aide/Aide 3,767.64,0.00,0.00,0.00,767.64,767.64,2016,,El Cerrito,PT
+Marco Martinez,Cust I/Childcare Aide/Aide 3,758.39,0.00,0.00,0.00,758.39,758.39,2016,,El Cerrito,PT
+Nashwa Salimi,Cust I/Childcare Aide/Aide 3,727.56,0.00,0.00,0.00,727.56,727.56,2016,,El Cerrito,PT
+Amelia Gonsalves,Swim Instructor II,725.52,0.00,0.00,0.00,725.52,725.52,2016,,El Cerrito,PT
+Madison Lee,Aide 3/Rec Ldr I/Counselor,708.39,0.00,0.00,0.00,708.39,708.39,2016,,El Cerrito,PT
+Annakari Hoyer-Nielsen,Recreation Aide,679.79,0.00,0.00,0.00,679.79,679.79,2016,,El Cerrito,PT
+Phoebe O'Kane,Swim Instructor I,663.60,0.00,0.00,0.00,663.60,663.60,2016,,El Cerrito,PT
+Logan Ozselcuk,Cust I/Childcare Aide/Aide 3,632.00,0.00,0.00,0.00,632.00,632.00,2016,,El Cerrito,PT
+Anthony Wong,Lifeguard,622.64,0.00,0.00,0.00,622.64,622.64,2016,,El Cerrito,PT
+Fiona Litton,Aquatic Assistant I,477.08,0.00,0.00,0.00,477.08,477.08,2016,,El Cerrito,PT
+Irvin Hunter,Aquatic Specialist I,417.85,0.00,0.00,0.00,417.85,417.85,2016,,El Cerrito,PT
+Lyndsay Nelson,Cust I/Childcare Aide/Aide 3,295.96,0.00,0.00,0.00,295.96,295.96,2016,,El Cerrito,PT
+Megan Chen,Aquatic Assistant I,289.24,0.00,0.00,0.00,289.24,289.24,2016,,El Cerrito,PT
+Marcus Skinner-Demps,Sr. Lifeguard,241.20,0.00,0.00,0.00,241.20,241.20,2016,,El Cerrito,PT
+Lila Zuckermann,Coach/Rentals,240.00,0.00,0.00,0.00,240.00,240.00,2016,,El Cerrito,PT
+Marcela Blanco,Cust I/Childcare Aide/Aide 3,170.61,0.00,0.00,0.00,170.61,170.61,2016,,El Cerrito,PT
+Jack Stuart,Lifeguard,113.28,0.00,0.00,0.00,113.28,113.28,2016,,El Cerrito,PT
+Marybeth Kolding,Coach/Rentals,102.53,0.00,0.00,0.00,102.53,102.53,2016,,El Cerrito,PT
+Hanna Erdtmann,Coach/Rentals,102.11,0.00,0.00,0.00,102.11,102.11,2016,,El Cerrito,PT

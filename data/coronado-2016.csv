@@ -1,0 +1,693 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Blair King,City Manager,223176.28,0.00,8984.31,40995.89,232160.59,273156.48,2016,,Coronado,FT
+Jon Froomin,Director of Police Services,186318.83,0.00,1111.25,35061.05,187430.08,222491.13,2016,,Coronado,FT
+Michael Blood,Director of Fire Services,182801.60,0.00,1223.00,34938.90,184024.60,218963.50,2016,,Coronado,FT
+Clifford Maurer,Director of Public Services,178042.87,0.00,5807.54,20857.22,183850.41,204707.63,2016,,Coronado,FT
+Ernest Ritter,Assistant City Manager,167868.47,0.00,4566.29,31397.46,172434.76,203832.22,2016,,Coronado,FT
+James Krueger,Director of Administrative Services,168911.98,0.00,11138.29,22169.25,180050.27,202219.52,2016,,Coronado,FT
+Rachel Hurst,Director of Redevelopment & Housing,163928.15,0.00,4869.79,31290.35,168797.94,200088.29,2016,,Coronado,FT
+Gene Walton,Director of Engineering/Project Development,164228.33,0.00,4553.04,30306.75,168781.37,199088.12,2016,,Coronado,FT
+Roger Miller,Director of Recreation & Golf,163531.78,0.00,3804.21,29691.87,167335.99,197027.86,2016,,Coronado,FT
+Perry Peake,Fire Battalion Chief,134377.08,23921.21,4990.50,25739.95,163288.79,189028.74,2016,,Coronado,FT
+Joshua Scarboro,Fire Captain,107689.14,50802.21,3902.50,21647.02,162393.85,184040.87,2016,,Coronado,FT
+Mark Porter,Police Sergeant,112430.94,42763.37,4810.06,22428.38,160004.37,182432.75,2016,,Coronado,FT
+Jesus Ochoa,Police Commander,147454.06,0.00,4965.81,27735.86,152419.87,180155.73,2016,,Coronado,FT
+William Toon,Fire Battalion Chief,128778.86,23708.53,904.50,25739.97,153391.89,179131.86,2016,,Coronado,FT
+Laszlo Waczek,Police Commander,142733.59,0.00,5048.81,27735.84,147782.40,175518.24,2016,,Coronado,FT
+Jayson Summers,Fire Captain,105766.14,43643.51,3365.50,21647.02,152775.15,174422.17,2016,,Coronado,FT
+Shannon O'neill,Police Sergeant,103266.93,44003.46,4810.06,20771.41,152080.45,172851.86,2016,,Coronado,FT
+Jason Clements,Fire Captain,100002.15,45455.26,4605.01,21875.37,150062.42,171937.79,2016,,Coronado,FT
+Rafael Garcia,Police Corporal,93319.73,50218.53,5675.73,19806.67,149213.99,169020.66,2016,,Coronado,FT
+Matthew Mitchell,Police Sergeant,105056.23,28007.29,10431.52,23449.57,143495.04,166944.61,2016,,Coronado,FT
+Eric Hima,Police Sergeant,113522.72,25872.74,4697.69,22310.58,144093.15,166403.73,2016,,Coronado,FT
+Christian Esquevin,Director of Library Services,136427.17,0.00,1597.25,25802.80,138024.42,163827.22,2016,,Coronado,FT
+Michael Bechtold,Fire Captain,100954.48,36384.27,3971.58,21556.83,141310.33,162867.16,2016,,Coronado,FT
+James Newton,Principal Engineer,136127.87,0.00,85.25,25293.70,136213.12,161506.82,2016,,Coronado,FT
+William Modeen,Fire Battalion Chief,111241.88,23958.91,1076.25,23361.88,136277.04,159638.92,2016,,Coronado,FT
+Kevin Shank,Police Lieutenant,129189.87,0.00,4943.31,25280.27,134133.18,159413.45,2016,,Coronado,FT
+William Cecil,Capital Projects Manager,128035.76,0.00,3785.12,25429.17,131820.88,157250.05,2016,,Coronado,FT
+David Craig,Police Sergeant,116302.17,10316.63,6977.89,23322.66,133596.69,156919.35,2016,,Coronado,FT
+Mitchell Mckay,Police Lieutenant,129097.25,0.00,2881.97,24883.82,131979.22,156863.04,2016,,Coronado,FT
+Brandon Matey,Firefighter/Paramedic,90879.60,44601.58,3047.32,17999.76,138528.50,156528.26,2016,,Coronado,FT
+Ryan Kennedy,Firefighter/Paramedic,88209.83,48525.64,1275.00,17823.92,138010.47,155834.39,2016,,Coronado,FT
+Royce Copeman,Firefighter/Paramedic,88431.60,46254.74,2526.27,18200.06,137212.61,155412.67,2016,,Coronado,FT
+Jonathan Feliciano,Firefighter/Paramedic,90802.36,42266.01,3063.21,18027.63,136131.58,154159.21,2016,,Coronado,FT
+Mark Harris,Police Sergeant,108948.68,11475.16,10373.98,22747.53,130797.82,153545.35,2016,,Coronado,FT
+Darren Hall,Fire Captain,107689.16,20675.56,3890.15,21194.67,132254.87,153449.54,2016,,Coronado,FT
+Angel Cedeno,Police Corporal,97245.23,29978.50,5857.72,19753.12,133081.45,152834.57,2016,,Coronado,FT
+Mark Price,Fire Engineer,91788.45,39159.12,923.25,17981.33,131870.82,149852.15,2016,,Coronado,FT
+Matthew Colley,Firefighter/Paramedic,89561.28,40419.03,1692.75,17481.26,131673.06,149154.32,2016,,Coronado,FT
+Nathan Ramos,Fire Engineer,90339.85,33606.68,5862.95,18993.29,129809.48,148802.77,2016,,Coronado,FT
+James Lynch,Fire Engineer,91788.45,31896.71,5947.33,18095.59,129632.49,147728.08,2016,,Coronado,FT
+Scott Stepanof,Fire Engineer,91788.45,34959.71,2231.83,18095.59,128979.99,147075.58,2016,,Coronado,FT
+Glen Orr,Firefighter/Paramedic,90879.60,37153.66,1279.00,17737.73,129312.26,147049.99,2016,,Coronado,FT
+Brian Standing,Firefighter/Paramedic,90879.60,33534.07,4091.74,18109.84,128505.41,146615.25,2016,,Coronado,FT
+Brian Lewton,Information Systems Manager,121298.34,0.00,123.00,23267.79,121421.34,144689.13,2016,,Coronado,FT
+Brandon Ihde,Firefighter/Paramedic,83080.62,42033.59,1912.01,16590.25,127026.22,143616.47,2016,,Coronado,FT
+Kimberly Godby,Public Services Supervisor,114525.22,0.00,4572.56,21858.07,119097.78,140955.85,2016,,Coronado,FT
+Theodore Porter,Firefighter/Paramedic,90879.60,29760.03,2232.00,17897.83,122871.63,140769.46,2016,,Coronado,FT
+Jason Hurley,Police Officer,90176.61,24225.63,7431.51,18682.00,121833.75,140515.75,2016,,Coronado,FT
+Amy Reeve,Human Resources Manager,114383.22,0.00,75.75,23570.82,114458.97,138029.79,2016,,Coronado,FT
+Marc Langlais,Police Sergeant,97196.70,17366.33,2649.98,19290.06,117213.01,136503.07,2016,,Coronado,FT
+Anthony Flores,Police Corporal,90936.32,14575.88,9654.68,20333.36,115166.88,135500.24,2016,,Coronado,FT
+William Canet,Police Corporal,93485.98,17196.95,4810.06,19487.91,115492.99,134980.90,2016,,Coronado,FT
+Emad Gewaily,Finance Manager,110972.56,0.00,105.50,21680.46,111078.06,132758.52,2016,,Coronado,FT
+David Hingeley,Fire Engineer,86312.94,26444.08,923.25,18068.40,113680.27,131748.67,2016,,Coronado,FT
+Ryan Rose,Police Corporal,86609.64,24110.39,2649.98,18143.09,113370.01,131513.10,2016,,Coronado,FT
+Brian Wray,Police Officer,82417.10,24148.70,6039.89,18271.90,112605.69,130877.59,2016,,Coronado,FT
+Danny Mcgehee,Police Officer,84119.93,21615.56,6263.75,18660.87,111999.24,130660.11,2016,,Coronado,FT
+Eric Hingeley,Fire Engineer,85537.44,24664.07,1489.08,18095.58,111690.59,129786.17,2016,,Coronado,FT
+Samuel Sellers,Police Officer,79812.77,34265.22,5710.37,9641.25,119788.36,129429.61,2016,,Coronado,FT
+Jacqueline Hurtado,Police Corporal,93622.99,6960.65,9142.69,19436.22,109726.33,129162.55,2016,,Coronado,FT
+Joselito Tanglao,Police Officer,83062.19,22075.75,5154.00,18345.30,110291.94,128637.24,2016,,Coronado,FT
+Jade Gutzmer,Police Officer,86701.44,21060.38,1752.78,17706.36,109514.60,127220.96,2016,,Coronado,FT
+Thomas Stepanof,Firefighter,73405.62,33145.11,4507.65,16010.66,111058.38,127069.04,2016,,Coronado,FT
+Jose Gonzalez,Master Mechanic,83267.78,24031.73,3211.95,16482.18,110511.46,126993.64,2016,,Coronado,FT
+Keith James,Police Officer,90185.68,13750.19,4810.06,18240.24,108745.93,126986.17,2016,,Coronado,FT
+Rhonda Huth,Senior Management Analyst,102886.64,0.00,1936.75,19633.65,104823.39,124457.04,2016,,Coronado,FT
+Lawrence Hogueisson,Firefighter/Paramedic,71108.65,35032.67,2303.89,15881.82,108445.21,124327.03,2016,,Coronado,FT
+Andrew Dorosan,Firefighter/Paramedic,77306.35,28953.47,1386.25,15822.91,107646.07,123468.98,2016,,Coronado,FT
+Christopher Balke,Firefighter/Paramedic,67481.60,36329.86,1270.75,17725.40,105082.21,122807.61,2016,,Coronado,FT
+Mary Clifford,City Clerk,100904.43,0.00,1961.75,18542.29,102866.18,121408.47,2016,,Coronado,FT
+Reginald Duquette,Public Services Supervisor,100678.29,0.00,273.00,20288.14,100951.29,121239.43,2016,,Coronado,FT
+Phil Fitzgerald,Golf Maintenance Supervisor,100558.92,0.00,648.60,18823.51,101207.52,120031.03,2016,,Coronado,FT
+Janine Zuniga,Senior Management Analyst,99731.87,0.00,138.00,19633.64,99869.87,119503.51,2016,,Coronado,FT
+Aaron Mansker,Police Officer,85445.65,10207.94,5054.25,18286.89,100707.84,118994.73,2016,,Coronado,FT
+Patrick O'malley,Police Officer,90460.66,3086.18,5373.09,18297.68,98919.93,117217.61,2016,,Coronado,FT
+Sean Carey,Beach Lifeguard Captain,97546.07,0.00,60.00,19571.63,97606.07,117177.70,2016,,Coronado,FT
+Jordan Good,Police Officer,88772.99,3983.15,5282.89,18831.61,98039.03,116870.64,2016,,Coronado,FT
+Sherri Mannello,Police Officer,90460.66,1984.82,4922.06,18181.72,97367.54,115549.26,2016,,Coronado,FT
+Joseph Romero,Building Inspection Supervisor,96527.33,0.00,52.00,18509.72,96579.33,115089.05,2016,,Coronado,FT
+Darren Hamilton,Police Officer,84290.27,13264.46,955.02,16268.64,98509.75,114778.39,2016,,Coronado,FT
+Mary Castellano,Police Support Services Supervisor,96341.11,0.00,218.25,17947.54,96559.36,114506.90,2016,,Coronado,FT
+Terrance Reed,Information Systems Network Admin II,92769.70,0.00,3797.16,17041.18,96566.86,113608.04,2016,,Coronado,FT
+Kimberly Mcarthur,Police Dispatcher,71452.98,23333.48,2362.48,14076.08,97148.94,111225.02,2016,,Coronado,FT
+Katherine Odiorne,Associate Engineer,92866.14,0.00,594.00,17727.92,93460.14,111188.06,2016,,Coronado,FT
+Charles Alejandrino,Police Officer,74422.18,18544.63,2844.77,14854.15,95811.58,110665.73,2016,,Coronado,FT
+Amy Lee Beebe,Police Officer,79205.70,10036.89,5029.81,16121.36,94272.40,110393.76,2016,,Coronado,FT
+Jesse Brown,Senior Planner,91960.73,0.00,39.75,18019.45,92000.48,110019.93,2016,,Coronado,FT
+Cecilia Lyon,Management Analyst,92506.55,0.00,297.00,16963.44,92803.55,109766.99,2016,,Coronado,FT
+Rosanna Arguelles,Accountant,90737.62,0.00,921.50,16361.93,91659.12,108021.05,2016,,Coronado,FT
+Danny Aguirre,Police Officer,81234.70,3809.79,4810.06,17194.30,89854.55,107048.85,2016,,Coronado,FT
+Gary Johnson,Assistant Engineer,89096.84,0.00,62.25,16552.51,89159.09,105711.60,2016,,Coronado,FT
+Arturo Valdivia,Public Services Supervisor,87738.92,0.00,15.50,17049.40,87754.42,104803.82,2016,,Coronado,FT
+Jonathan Tippin,Police Officer,74074.29,15191.65,850.00,14460.25,90115.94,104576.19,2016,,Coronado,FT
+Peter Fait,Associate Planner,85769.36,0.00,208.50,17561.03,85977.86,103538.89,2016,,Coronado,FT
+Ellenjoy Weber,Senior Librarian,87336.24,0.00,243.75,15748.59,87579.99,103328.58,2016,,Coronado,FT
+Stacy Berman,Recreation Programs Supervisor,84821.76,0.00,2714.25,15592.60,87536.01,103128.61,2016,,Coronado,FT
+Raul Ramirez,Mechanic II,67239.42,17180.27,3721.47,13313.95,88141.16,101455.11,2016,,Coronado,FT
+Vy Tu,Senior Librarian,81785.57,0.00,3810.75,15606.90,85596.32,101203.22,2016,,Coronado,FT
+Tricia Olsen,Associate Planner,84728.02,0.00,35.25,16168.59,84763.27,100931.86,2016,,Coronado,FT
+Shane Boyd,Police Officer,59460.76,13836.04,9202.31,18285.40,82499.11,100784.51,2016,,Coronado,FT
+David Salinard,Information Systems Network Admin II,83181.97,0.00,490.81,17041.17,83672.78,100713.95,2016,,Coronado,FT
+Jose Cazares,Mechanic II,65401.98,14966.82,5450.34,13704.26,85819.14,99523.40,2016,,Coronado,FT
+Joshua Smith,Electrician,68076.09,12211.64,4896.16,13865.57,85183.89,99049.46,2016,,Coronado,FT
+Lori Stucki,Aquatics Supervisor,82772.94,0.00,53.75,15592.59,82826.69,98419.28,2016,,Coronado,FT
+Armando Moreno,Heavy Equipment Operator,66500.50,15314.39,3432.42,12650.62,85247.31,97897.93,2016,,Coronado,FT
+Sandra Murillo,Evidence and Property Technician,73033.99,7673.56,2420.00,14181.27,83127.55,97308.82,2016,,Coronado,FT
+Barbara Starr,Police Dispatch/Records Asst.,71452.99,3322.95,5539.90,13993.48,80315.84,94309.32,2016,,Coronado,FT
+Sandra Downes,Management Assistant,76836.94,0.00,2467.75,13906.36,79304.69,93211.05,2016,,Coronado,FT
+Franklin Escobedo,Principal Librarian,77826.53,0.00,236.50,14853.04,78063.03,92916.07,2016,,Coronado,FT
+Randall Kilburn,Building Inspector,77274.91,0.00,167.50,14740.51,77442.41,92182.92,2016,,Coronado,FT
+Joan Carney,Police Dispatch/Records Asst.,71453.01,2616.52,2076.98,14141.55,76146.51,90288.06,2016,,Coronado,FT
+Kaili Insalaco,Police Officer,70235.69,10721.91,937.75,8228.55,81895.35,90123.90,2016,,Coronado,FT
+Kovahn Vlach,Police Officer,70235.70,10051.51,1500.50,8184.64,81787.71,89972.35,2016,,Coronado,FT
+Oceana Trujillo,Police Dispatch/Records Asst.,71453.01,2886.05,1522.00,13819.87,75861.06,89680.93,2016,,Coronado,FT
+James Mcgrath,Lead Pump Mechanic,63316.66,10955.38,2821.57,12272.18,77093.61,89365.79,2016,,Coronado,FT
+Neil Mueller,Information Systems Network Admin I,71362.57,3242.50,926.58,13622.57,75531.65,89154.22,2016,,Coronado,FT
+John Swanson,Assistant Planner,74139.15,0.00,205.50,14668.77,74344.65,89013.42,2016,,Coronado,FT
+Sarah Castaneda,Police Officer,69207.47,8887.22,1918.24,8215.17,80012.93,88228.10,2016,,Coronado,FT
+Phyllis Belter,Library Technician,73271.53,0.00,167.50,13715.90,73439.03,87154.93,2016,,Coronado,FT
+Melissa Anderson-Barner,Management Assistant,71772.33,451.13,39.75,13906.36,72263.21,86169.57,2016,,Coronado,FT
+Samuel Katzenstein,Assistant Engineer,69679.43,2214.96,13.75,13302.48,71908.14,85210.62,2016,,Coronado,FT
+Michelle Wheeler,Police Dispatch/Records Asst.,63126.84,516.98,9254.76,12277.38,72898.58,85175.96,2016,,Coronado,FT
+Dana Mcpherson,Public Services Technician,61632.54,11808.04,61.00,11200.63,73501.58,84702.21,2016,,Coronado,FT
+Jerome Torres,Senior Management Analyst,50933.91,0.00,23268.42,9547.07,74202.33,83749.40,2016,,Coronado,PT
+Marilen Santos,Accountant,69279.06,0.00,0.00,13226.55,69279.06,82505.61,2016,,Coronado,FT
+Eric Scribner,Lead Maintenance Worker,66500.46,0.00,2840.39,12568.74,69340.85,81909.59,2016,,Coronado,FT
+Richard Sandoval,Maintenance Worker II,53852.56,15341.94,1510.46,10564.82,70704.96,81269.78,2016,,Coronado,FT
+William Hughes,Police Officer,63264.59,8356.67,2015.31,7468.52,73636.57,81105.09,2016,,Coronado,FT
+Yale Jeffery,Lead Maintenance Worker,56116.56,12125.10,1163.68,11384.01,69405.34,80789.35,2016,,Coronado,FT
+Candice Hooper,Library Assistant III,63245.81,4702.17,1169.00,11639.97,69116.98,80756.95,2016,,Coronado,FT
+Gabriel Padilla,Special Equipment Mechanic II,62066.37,5770.83,840.08,11960.21,68677.28,80637.49,2016,,Coronado,FT
+Samuel Sanchez-Espinoza,Maintenance Worker II,52165.31,12241.41,4112.65,10502.54,68519.37,79021.91,2016,,Coronado,FT
+Orlando Vales,Recreation Programs Supervisor,66060.77,0.00,37.25,12713.89,66098.02,78811.91,2016,,Coronado,FT
+Anthony Adams,Maintenance Worker III,59178.09,6151.63,1991.62,11462.73,67321.34,78784.07,2016,,Coronado,FT
+Marcel Navallez,Maintenance Worker II,53852.54,13091.22,1255.83,10495.57,68199.59,78695.16,2016,,Coronado,FT
+Lea Corbin,Police Com. Relations Coord.,64810.44,0.00,1020.50,12367.68,65830.94,78198.62,2016,,Coronado,FT
+Maria Gonzalez,Police Services Officer II,58649.89,4221.68,3307.75,11529.61,66179.32,77708.93,2016,,Coronado,FT
+Ian Lasley,Lead Maintenance Worker,54964.11,10691.97,1106.88,10921.71,66762.96,77684.67,2016,,Coronado,FT
+Michael Telenczak,Special Equipment Mechanic II,63669.70,629.18,961.02,12035.06,65259.90,77294.96,2016,,Coronado,FT
+Mark Dias,Motor Sweeper Operator,62555.08,1524.56,617.50,11857.36,64697.14,76554.50,2016,,Coronado,FT
+Melita Gonzales,Accounting Technician,54926.60,5117.50,5076.73,11009.14,65120.83,76129.97,2016,,Coronado,FT
+Rosa Deleon-Mims,Police Dispatch/Records Asst.,57827.87,6280.87,0.00,11561.23,64108.74,75669.97,2016,,Coronado,FT
+Laura Ramos,Administrative Secretary,58496.72,460.12,5216.75,11162.84,64173.59,75336.43,2016,,Coronado,FT
+Jose Guerrero,Maintenance Worker III,56508.32,6183.10,1127.36,11470.29,63818.78,75289.07,2016,,Coronado,FT
+Nuuao Saole,Maintenance Worker II,51012.85,11693.86,2104.72,10422.89,64811.43,75234.32,2016,,Coronado,FT
+Allen Nicholson,Firefighter/Paramedic,57861.51,4607.68,996.59,11547.60,63465.78,75013.38,2016,,Coronado,PT
+Damon Bassett,Beach Lifeguard Sergeant,58881.90,4548.67,8.25,11321.62,63438.82,74760.44,2016,,Coronado,FT
+Gilbert Urbina,Maintenance Worker II,49871.54,11989.13,1144.10,10431.18,63004.77,73435.95,2016,,Coronado,FT
+Kirk Duhala,Maintenance Worker II,50690.58,8598.44,3416.74,10565.17,62705.76,73270.93,2016,,Coronado,FT
+Christopher Bellini,Police Services Officer II,58649.87,2096.57,1005.71,11355.52,61752.15,73107.67,2016,,Coronado,FT
+Rosendo Gonzalez,Maintenance Worker III,59380.18,101.05,1956.03,11494.31,61437.26,72931.57,2016,,Coronado,FT
+Jill Branch,Police Dispatch/Records Asst.,59678.86,902.01,801.03,11422.53,61381.90,72804.43,2016,,Coronado,FT
+Roberto Rodriguez,Maintenance Worker III,46328.59,11760.93,5652.92,8975.67,63742.44,72718.11,2016,,Coronado,FT
+Christopher Morris,Library Technician,60847.86,425.86,2.75,11236.04,61276.47,72512.51,2016,,Coronado,FT
+Evan Lowe,Beach Lifeguard Sergeant,60020.64,990.69,93.25,11364.01,61104.58,72468.59,2016,,Coronado,FT
+Sidney Jones,Maintenance Worker II,53852.58,0.00,7867.78,10636.74,61720.36,72357.10,2016,,Coronado,FT
+Martin Morales,Tree Trimmer,58241.63,0.00,1671.03,11614.27,59912.66,71526.93,2016,,Coronado,FT
+Steve Fowler,Maintenance Worker III,58945.85,115.49,1007.61,11410.80,60068.95,71479.75,2016,,Coronado,FT
+Janet Coon,Administrative Secretary,58496.74,180.85,1181.75,11162.84,59859.34,71022.18,2016,,Coronado,FT
+Dianne Dannemann,Administrative Secretary,58496.69,117.16,1181.75,11162.84,59795.60,70958.44,2016,,Coronado,FT
+Jorge Ramirez,Maintenance Worker III,55418.88,977.46,2504.72,11429.67,58901.06,70330.73,2016,,Coronado,FT
+Nancy Reynolds,Administrative Secretary,58496.82,500.82,61.00,11180.76,59058.64,70239.40,2016,,Coronado,FT
+Eileen Hauser,Librarian II,57792.11,1073.51,293.00,11043.66,59158.62,70202.28,2016,,Coronado,FT
+Stefanie Lang,Secretary to the City Manager,57908.90,165.33,92.00,11053.15,58166.23,69219.38,2016,,Coronado,FT
+Billy Garcia,Maintenance Worker II,48254.28,9316.93,1120.77,10401.22,58691.98,69093.20,2016,,Coronado,FT
+Leticia Martinez,Administrative Secretary,57151.69,695.43,8.25,11162.84,57855.37,69018.21,2016,,Coronado,FT
+Eileen Lawson,Librarian II,57207.96,815.55,15.00,10912.04,58038.51,68950.55,2016,,Coronado,FT
+Larry Martinez,Special Equipment Mechanic I,56197.73,199.64,557.66,10828.83,56955.03,67783.86,2016,,Coronado,FT
+Juan Garcia,Maintenance Worker II,54029.92,547.14,2700.13,10497.51,57277.19,67774.70,2016,,Coronado,FT
+Arlin Horvath,Maintenance Worker II,53852.62,1100.79,2305.74,10376.99,57259.15,67636.14,2016,,Coronado,FT
+Daniel Eakin,Police Dispatch/Records Asst.,54921.92,1281.69,592.25,10609.32,56795.86,67405.18,2016,,Coronado,FT
+Bryant Brown,Maintenance Worker II,54872.92,310.69,1121.42,10462.25,56305.03,66767.28,2016,,Coronado,FT
+Alejandro Ortiz,Accounting Technician,51883.54,470.64,2750.70,11017.24,55104.88,66122.12,2016,,Coronado,FT
+Marcus Jones,Maintenance Worker II,53218.52,704.78,1079.13,10583.29,55002.43,65585.72,2016,,Coronado,FT
+Michael Mcgee,Maintenance Worker II,53852.57,262.73,944.07,10444.06,55059.37,65503.43,2016,,Coronado,FT
+Enrique Enriquez,Maintenance Worker II,52166.67,547.14,771.63,10503.88,53485.44,63989.32,2016,,Coronado,FT
+Virginia Sherwood,Librarian II,53569.90,0.00,348.25,9705.52,53918.15,63623.67,2016,,Coronado,FT
+Edward Foster,Maintenance Worker II,51117.79,0.00,2565.82,9865.82,53683.61,63549.43,2016,,Coronado,FT
+Patricia Duran,Management Analyst,46706.70,0.00,8588.53,8193.12,55295.23,63488.35,2016,,Coronado,PT
+Sebastian Andrade,Maintenance Worker II,44044.92,9657.66,1199.88,8408.17,54902.46,63310.63,2016,,Coronado,FT
+Debra Aberizk,Library Assistant II,52978.85,0.00,15.00,10109.92,52993.85,63103.77,2016,,Coronado,FT
+Charles Drummond,Maintenance Worker II,48194.32,2765.97,1529.41,10038.63,52489.70,62528.33,2016,,Coronado,FT
+Luis Fernandez,Maintenance Worker II,50796.19,700.76,539.75,10377.42,52036.70,62414.12,2016,,Coronado,FT
+Erica Trevino,Office Specialist,49003.46,2787.67,1009.01,9527.05,52800.14,62327.19,2016,,Coronado,FT
+Paulina Frazier-Gonzalez,Maintenance Worker II,50148.80,766.17,534.78,10376.99,51449.75,61826.74,2016,,Coronado,FT
+Ramon Castillo,Maintenance Worker II,50048.92,394.09,700.57,10490.91,51143.58,61634.49,2016,,Coronado,FT
+Jacqueline Luna,Librarian II,51141.74,234.91,438.50,9759.81,51815.15,61574.96,2016,,Coronado,FT
+Michele Ledesma,Human Resources Technician,49499.51,1322.01,708.69,9994.77,51530.21,61524.98,2016,,Coronado,FT
+David Eastlick,Lead Maintenance Worker,46378.90,5474.29,447.17,8957.48,52300.36,61257.84,2016,,Coronado,FT
+Brenda Bridgeford,Office Specialist,49003.47,0.00,2630.75,9351.29,51634.22,60985.51,2016,,Coronado,FT
+Maria Herrera,Accounting Technician,51055.09,0.00,471.77,9356.09,51526.86,60882.95,2016,,Coronado,FT
+Laura Gerszewski,Office Specialist,49003.39,1390.82,268.25,9351.29,50662.46,60013.75,2016,,Coronado,FT
+Elizabeth Skelly,Administrative Secretary,48125.49,1104.46,1088.50,9194.36,50318.45,59512.81,2016,,Coronado,FT
+Abraham Negash,Information Technology Technician,48862.03,144.17,1010.75,9326.37,50016.95,59343.32,2016,,Coronado,FT
+Alexandrea Herring,Human Resources Technician,49453.24,0.00,0.00,9445.57,49453.24,58898.81,2016,,Coronado,FT
+Timothy Barcello,Accounting Technician,46737.04,540.65,2564.40,8920.99,49842.09,58763.08,2016,,Coronado,FT
+Eddie Torres,Maintenance Worker II,42194.93,5801.84,2173.80,8108.67,50170.57,58279.24,2016,,Coronado,FT
+Amanda Ratajesak,Office Specialist,48758.58,0.00,112.00,9305.38,48870.58,58175.96,2016,,Coronado,FT
+Jennifer Reloj,Office Specialist,47757.67,894.29,0.00,9117.10,48651.96,57769.06,2016,,Coronado,FT
+Robin Klosinski,Recreation Coordinator,45397.15,687.20,3028.50,8225.57,49112.85,57338.42,2016,,Coronado,FT
+Julie Main,Office Specialist,47072.58,0.00,0.00,9351.29,47072.58,56423.87,2016,,Coronado,FT
+Jordann Gottlieb,Aquatics Coordinator,46547.16,266.71,0.00,9025.95,46813.87,55839.82,2016,,Coronado,FT
+Christian Bond,Beach Lifeguard,41988.74,4841.08,510.75,8091.01,47340.57,55431.58,2016,,Coronado,FT
+Kellie Spurgeon,Recreation Coordinator,44696.83,1480.22,423.00,8650.05,46600.05,55250.10,2016,,Coronado,FT
+Wesley Jones,Office Specialist,43871.88,558.07,364.75,8439.82,44794.70,53234.52,2016,,Coronado,FT
+Kyle Goff,Beach Lifeguard,41988.72,2087.67,678.00,8177.15,44754.39,52931.54,2016,,Coronado,FT
+Brian Clark,Fire Engineer,31358.46,7190.68,7093.21,6517.60,45642.35,52159.95,2016,,Coronado,PT
+Jay Scheckman,Beach Lifeguard,42009.12,602.83,1224.50,8073.88,43836.45,51910.33,2016,,Coronado,FT
+Eric Roark,Community Development Technician,42801.06,0.00,673.29,8180.69,43474.35,51655.04,2016,,Coronado,FT
+Luis Vargas,Maintenance Worker II,33495.75,10208.16,846.42,7042.95,44550.33,51593.28,2016,,Coronado,PT
+Emily Schaeffer,Office Specialist,40982.13,2406.56,0.00,8197.02,43388.69,51585.71,2016,,Coronado,FT
+Nathan Lohr,Office Specialist,40045.72,0.00,0.00,9007.35,40045.72,49053.07,2016,,Coronado,FT
+Jason Sevier,Maintenance Worker II,38436.93,4174.21,974.06,4147.65,43585.20,47732.85,2016,,Coronado,FT
+Laura Briggs,Accounting Technician II,37385.47,0.00,2274.25,7081.39,39659.72,46741.11,2016,,Coronado,PT
+Trevor Spence,Beach Lifeguard,36625.74,1958.99,558.00,7065.23,39142.73,46207.96,2016,,Coronado,FT
+Maria Cantu,Office Specialist,36752.68,0.00,2315.75,7013.50,39068.43,46081.93,2016,,Coronado,FT
+Ryan Barr,Firefighter/Paramedic,36781.97,2377.22,2266.18,4320.73,41425.37,45746.10,2016,,Coronado,PT
+Ruth Glorioso,Office Specialist,36352.74,0.00,105.00,6938.46,36457.74,43396.20,2016,,Coronado,FT
+Bridgette Fry,Library Assistant II,34894.17,182.77,948.50,6676.27,36025.44,42701.71,2016,,Coronado,PT
+Jennifer Benzel,Recreation Coordinator,35571.15,0.00,0.00,6793.19,35571.15,42364.34,2016,,Coronado,PT
+Maria Houghton,Library Assistant II,34318.38,236.52,0.00,7095.73,34554.90,41650.63,2016,,Coronado,PT
+Elizabeth Mcmahon,Recreation Coordinator,33717.28,0.00,315.00,6446.21,34032.28,40478.49,2016,,Coronado,PT
+Allie Scrivener,Active Transportation Planner,31974.82,0.00,197.60,6207.93,32172.42,38380.35,2016,,Coronado,PT
+Merry Theisen,Police Services Officer II,28185.65,1130.67,2342.17,5816.22,31658.49,37474.71,2016,,Coronado,PT
+Steven Snodgrass,Police Services Officer I,28608.87,1710.51,1362.13,5525.44,31681.51,37206.95,2016,,Coronado,PT
+Sheryl Munning,Recreation Coordinator,29538.77,243.68,565.50,5669.51,30347.95,36017.46,2016,,Coronado,PT
+Sherry Mcglaughlin,Office Specialist,29924.89,0.00,43.75,5716.19,29968.64,35684.83,2016,,Coronado,PT
+Sean Ryan,Maintenance Worker I,26652.67,108.24,3311.63,5572.99,30072.54,35645.53,2016,,Coronado,PT
+Joshua Strange,Police Officer,28596.08,2253.26,850.00,3484.69,31699.34,35184.03,2016,,Coronado,PT
+Denise Johnson,Senior Management Analyst,28050.17,0.00,0.00,5542.11,28050.17,33592.28,2016,,Coronado,PT
+Jessie Powell,Associate Engineer,27457.22,0.00,0.00,5330.79,27457.22,32788.01,2016,,Coronado,PT
+Adrian Zamora,Community Development Technician,25269.18,547.02,168.04,4887.48,25984.24,30871.72,2016,,Coronado,PT
+Mayra Reynoso,Recreation Specialist,25368.74,0.00,0.00,4845.55,25368.74,30214.29,2016,,Coronado,PT
+Summer Bettencourt,Pool Lifeguard,20589.31,162.86,1854.66,3905.56,22606.83,26512.39,2016,,Coronado,PT
+Brian Wright,Fire Captain,2763.84,4654.49,915.00,18034.99,8333.33,26368.32,2016,,Coronado,PT
+Ana Dissing,Office Specialist,21901.36,0.00,0.00,4180.48,21901.36,26081.84,2016,,Coronado,PT
+Gabriel Gonzaga,Police Officer,20975.84,1610.06,203.32,2534.32,22789.22,25323.54,2016,,Coronado,PT
+Travis Carlson,Recreation Specialist,20632.41,0.00,0.00,3937.73,20632.41,24570.14,2016,,Coronado,PT
+Bertha Moriarty,Management Analyst,20138.55,0.00,456.56,3909.92,20595.11,24505.03,2016,,Coronado,PT
+Wendi Garrison,Recreation Programs Supervisor,19360.28,0.00,569.59,3758.82,19929.87,23688.69,2016,,Coronado,PT
+Joyce Bray-Fessler,Librarian I,19874.60,0.00,0.00,3787.07,19874.60,23661.67,2016,,Coronado,PT
+Jean Stewart,Librarian I,22669.66,0.00,0.00,0.00,22669.66,22669.66,2016,,Coronado,PT
+Dominique Albrecht,Senior Management Analyst,18724.79,0.00,0.00,3763.37,18724.79,22488.16,2016,,Coronado,PT
+Raymond Ruiz,Building Inspector,21507.92,0.00,0.00,0.00,21507.92,21507.92,2016,,Coronado,PT
+Ashley Albertson,Recreation Specialist,17762.93,0.00,0.00,3386.68,17762.93,21149.61,2016,,Coronado,PT
+Merry Street,Library Assistant I,17267.93,0.00,0.00,3295.83,17267.93,20563.76,2016,,Coronado,PT
+Brigitte Rissetto,Library Assistant I,20006.62,0.00,0.00,0.00,20006.62,20006.62,2016,,Coronado,PT
+James Romero,Library Assistant I,16702.48,0.00,0.00,3185.45,16702.48,19887.93,2016,,Coronado,PT
+Stephanie Pereira,Recreation Specialist,19684.13,0.00,0.00,0.00,19684.13,19684.13,2016,,Coronado,PT
+James Gardner,Library Assistant I,19495.74,0.00,0.00,0.00,19495.74,19495.74,2016,,Coronado,PT
+Nancy Heath,Library Assistant I,19433.08,0.00,0.00,0.00,19433.08,19433.08,2016,,Coronado,PT
+Warren Yee,Recreation Leader,19269.43,0.00,0.00,0.00,19269.43,19269.43,2016,,Coronado,PT
+Nicole Tallent,Library Assistant I,19047.24,0.00,0.00,0.00,19047.24,19047.24,2016,,Coronado,PT
+Mariah Vanzerr,Associate Planner,15058.32,0.00,872.24,2829.35,15930.56,18759.91,2016,,Coronado,PT
+Chelsea Ditler,Library Assistant I,18209.96,0.00,0.00,0.00,18209.96,18209.96,2016,,Coronado,PT
+Adriana Keamy,Office Specialist,12089.98,114.26,3421.95,2266.13,15626.19,17892.32,2016,,Coronado,PT
+Nicholas Burmeister,Librarian I,17311.12,0.00,0.00,0.00,17311.12,17311.12,2016,,Coronado,PT
+Sam Sonne,Recreation Leader,17193.44,0.00,0.00,0.00,17193.44,17193.44,2016,,Coronado,PT
+Carolyn Lechner,Aquatics Coordinator,12824.41,520.82,1258.64,2514.99,14603.87,17118.86,2016,,Coronado,PT
+Martha Demoreno,Seasonal Assistant II,14018.57,0.00,0.00,2684.35,14018.57,16702.92,2016,,Coronado,PT
+Caroline Ferreira,Maintenance Worker II,13177.72,114.79,486.39,2632.42,13778.90,16411.32,2016,,Coronado,PT
+David Schwanbeck,Beach Lifeguard,16148.76,0.00,0.00,0.00,16148.76,16148.76,2016,,Coronado,PT
+Christina Luna,Office Specialist,15894.34,0.00,0.00,0.00,15894.34,15894.34,2016,,Coronado,PT
+Matthew Bischoff,Beach Lifeguard,15305.75,0.00,0.00,0.00,15305.75,15305.75,2016,,Coronado,PT
+Mara Martinez,Library Assistant I,12843.53,0.00,0.00,2445.62,12843.53,15289.15,2016,,Coronado,PT
+Grace Del Bagno,Police Officer,13044.34,417.88,46.68,1576.03,13508.90,15084.93,2016,,Coronado,PT
+Jack Mikesell,Recreation Leader,15082.11,0.00,0.00,0.00,15082.11,15082.11,2016,,Coronado,PT
+Dora Alvarez Dias,Seasonal Assistant II,12559.31,0.00,0.00,2402.76,12559.31,14962.07,2016,,Coronado,PT
+John Cronin,Beach Lifeguard,14905.12,0.00,0.00,0.00,14905.12,14905.12,2016,,Coronado,PT
+Adriana Cabrera,Recreation Specialist,14790.24,0.00,0.00,0.00,14790.24,14790.24,2016,,Coronado,PT
+Cara O'callaghan,Recreation Specialist,14789.28,0.00,0.00,0.00,14789.28,14789.28,2016,,Coronado,PT
+Rene Marmolejo,Aquatics Instructor,12216.47,0.00,98.03,2310.88,12314.50,14625.38,2016,,Coronado,PT
+Robert Levacy,Recreation Leader,14492.60,0.00,0.00,0.00,14492.60,14492.60,2016,,Coronado,PT
+Quinci Raczkowski,Library Assistant I,14276.84,0.00,0.00,0.00,14276.84,14276.84,2016,,Coronado,PT
+James Whittenburge,Accounting Technician,11837.17,0.00,0.00,2432.93,11837.17,14270.10,2016,,Coronado,PT
+Matthew Wilson,Recreation Specialist,14174.11,0.00,0.00,0.00,14174.11,14174.11,2016,,Coronado,PT
+Hannah Jurgielewicz,Recreation Leader,13444.90,0.00,0.00,0.00,13444.90,13444.90,2016,,Coronado,PT
+Tammy Carney,Recreation Leader,13341.97,0.00,0.00,0.00,13341.97,13341.97,2016,,Coronado,PT
+David Fai,Library Assistant I,13275.18,0.00,0.00,0.00,13275.18,13275.18,2016,,Coronado,PT
+Jacqueline Freeman,Aquatics Instructor,13231.88,0.00,0.00,0.00,13231.88,13231.88,2016,,Coronado,PT
+Jay Baker,Seasonal Assistant III,13003.14,0.00,178.91,0.00,13182.05,13182.05,2016,,Coronado,PT
+Humberto Tapia,Seasonal Assistant II,12556.83,0.00,55.07,0.00,12611.90,12611.90,2016,,Coronado,PT
+Hannah Brown,Recreation Specialist,12541.44,0.00,0.00,0.00,12541.44,12541.44,2016,,Coronado,PT
+Pablo Chavez,Recreation Specialist,12279.36,113.91,0.00,0.00,12393.27,12393.27,2016,,Coronado,PT
+Vandon Burgess,Beach Lifeguard,12283.85,0.00,0.00,0.00,12283.85,12283.85,2016,,Coronado,PT
+Patrick Goggin,Recreation Leader,12268.13,0.00,0.00,0.00,12268.13,12268.13,2016,,Coronado,PT
+Austin Toogood,Beach Lifeguard,10172.06,0.00,0.00,1944.33,10172.06,12116.39,2016,,Coronado,PT
+Debra Taylor,Librarian I,12103.44,0.00,0.00,0.00,12103.44,12103.44,2016,,Coronado,PT
+Yenia Rubalcava,Aquatics Instructor,12065.14,0.00,0.00,0.00,12065.14,12065.14,2016,,Coronado,PT
+Carol Lesser,Library Page,12045.06,0.00,0.00,0.00,12045.06,12045.06,2016,,Coronado,PT
+Justine Pasa,Pool Lifeguard,12021.04,0.00,0.00,0.00,12021.04,12021.04,2016,,Coronado,PT
+Mary Arles,Recreation Specialist,12001.87,0.00,0.00,0.00,12001.87,12001.87,2016,,Coronado,PT
+Marco Nunez,Seasonal Assistant III,11659.84,0.00,212.73,0.00,11872.57,11872.57,2016,,Coronado,PT
+Brianna Conser,Pool Lifeguard,11762.81,0.00,0.00,0.00,11762.81,11762.81,2016,,Coronado,PT
+Preston Lujan,Beach Lifeguard,11752.50,0.00,0.00,0.00,11752.50,11752.50,2016,,Coronado,PT
+Natalie Jackson,Aquatics Instructor,11556.73,0.00,0.00,0.00,11556.73,11556.73,2016,,Coronado,PT
+Nadia Kean-Ayub,Police Dispatch/Records Asst.,9177.53,0.00,578.16,1778.64,9755.69,11534.33,2016,,Coronado,PT
+Abraham Ramirez,Recreation Assistant,11463.00,0.00,0.00,0.00,11463.00,11463.00,2016,,Coronado,PT
+Kelsea Holian,Recreation Leader,11270.68,0.00,0.00,0.00,11270.68,11270.68,2016,,Coronado,PT
+Brook Carpenter,Pool Lifeguard,10919.91,0.00,0.00,0.00,10919.91,10919.91,2016,,Coronado,PT
+Sean Macdonald,Recreation Leader,10820.88,0.00,0.00,0.00,10820.88,10820.88,2016,,Coronado,PT
+Edgar Cota,Recreation Assistant,10743.00,0.00,0.00,0.00,10743.00,10743.00,2016,,Coronado,PT
+Carter Graves,Beach Lifeguard,10699.52,0.00,0.00,0.00,10699.52,10699.52,2016,,Coronado,PT
+Isabella Castillo,Recreation Leader,10609.64,0.00,0.00,0.00,10609.64,10609.64,2016,,Coronado,PT
+David Flores,Maintenance Worker II,8615.60,195.76,0.00,1762.55,8811.36,10573.91,2016,,Coronado,PT
+Luciano Perez,Seasonal Assistant II,10476.37,0.00,0.00,0.00,10476.37,10476.37,2016,,Coronado,PT
+Michelle Yoxsimer,Library Page,10443.91,0.00,0.00,0.00,10443.91,10443.91,2016,,Coronado,PT
+Hector Diaz De Galeana,Pool Lifeguard,10436.78,0.00,0.00,0.00,10436.78,10436.78,2016,,Coronado,PT
+Irbin Torres Gallardo,Pool Lifeguard,10310.94,0.00,0.00,0.00,10310.94,10310.94,2016,,Coronado,PT
+Katherine Novak,Recreation Leader,10169.75,0.00,0.00,0.00,10169.75,10169.75,2016,,Coronado,PT
+Katherine Miles,Police Officer,8672.19,370.37,0.00,1047.78,9042.56,10090.34,2016,,Coronado,PT
+Thedquinn Jade Esquig,Seasonal Assistant II,9903.59,0.00,0.00,0.00,9903.59,9903.59,2016,,Coronado,PT
+David Hanson,Seasonal Assistant II,9900.75,0.00,0.00,0.00,9900.75,9900.75,2016,,Coronado,PT
+Victoria Rochat,Beach Lifeguard,8621.70,1083.09,160.71,0.00,9865.50,9865.50,2016,,Coronado,PT
+Susan Wilson,Pool Lifeguard,8250.28,0.00,0.00,1578.49,8250.28,9828.77,2016,,Coronado,PT
+Kelly Micallef,Pool Lifeguard,9786.64,0.00,0.00,0.00,9786.64,9786.64,2016,,Coronado,PT
+Andrea Meier,Aquatics Coordinator,8126.40,0.00,0.00,1577.75,8126.40,9704.15,2016,,Coronado,PT
+Megan Williams,Library Page,9453.84,0.00,161.37,0.00,9615.21,9615.21,2016,,Coronado,PT
+Ian Urtnowski,Beach Lifeguard,9583.33,0.00,0.00,0.00,9583.33,9583.33,2016,,Coronado,PT
+Charis Miley,Recreation Leader,9564.52,0.00,0.00,0.00,9564.52,9564.52,2016,,Coronado,PT
+Douglass Mann,Beach Lifeguard,9038.44,173.36,307.01,0.00,9518.81,9518.81,2016,,Coronado,PT
+Jordan Goodman,Recreation Leader,9498.13,0.00,0.00,0.00,9498.13,9498.13,2016,,Coronado,PT
+Samantha Hemp,Recreation Leader,9427.62,0.00,0.00,0.00,9427.62,9427.62,2016,,Coronado,PT
+Rhiannon Luna,Library Assistant I,8994.31,0.00,419.23,0.00,9413.54,9413.54,2016,,Coronado,PT
+Sarah Gould,Administrative Intern II,9404.77,0.00,0.00,0.00,9404.77,9404.77,2016,,Coronado,PT
+Lea Cruz,Recreation Assistant,9363.00,0.00,0.00,0.00,9363.00,9363.00,2016,,Coronado,PT
+Nicolas Robinson,Recreation Leader,9309.30,0.00,0.00,0.00,9309.30,9309.30,2016,,Coronado,PT
+Barry Farnum,Seasonal Assistant II,9000.27,0.00,163.68,0.00,9163.95,9163.95,2016,,Coronado,PT
+Michael Woiwode,Council Member,5163.45,0.00,2974.77,985.05,8138.22,9123.27,2016,,Coronado,PT
+Thomas Grall,Beach Lifeguard,8183.45,622.88,276.85,0.00,9083.18,9083.18,2016,,Coronado,PT
+Jacob Koenig,Police Services Officer I,6969.68,694.24,52.08,1353.16,7716.00,9069.16,2016,,Coronado,PT
+Michael Long,Police Officer,5141.14,606.49,2690.36,611.47,8437.99,9049.46,2016,,Coronado,PT
+Benjamin Adame,Pool Lifeguard,8625.56,0.00,407.66,0.00,9033.22,9033.22,2016,,Coronado,PT
+Calvert Zacharie,Aquatics Instructor,8925.15,0.00,0.00,0.00,8925.15,8925.15,2016,,Coronado,PT
+Lenise Romberger,Library Page,8909.12,0.00,0.00,0.00,8909.12,8909.12,2016,,Coronado,PT
+Tory Harding,Beach Lifeguard,7716.82,891.04,268.13,0.00,8875.99,8875.99,2016,,Coronado,PT
+Nathaniel Davis,Pool Lifeguard,8573.55,0.00,288.24,0.00,8861.79,8861.79,2016,,Coronado,PT
+Michelle Lane,Beach Lifeguard,8631.70,43.63,156.27,0.00,8831.60,8831.60,2016,,Coronado,PT
+Sven Karlsson,Beach Lifeguard,6991.15,1532.20,233.03,0.00,8756.38,8756.38,2016,,Coronado,PT
+David Rodriguez,Seasonal Assistant II,8748.59,0.00,0.00,0.00,8748.59,8748.59,2016,,Coronado,PT
+Brittany Hansen,Beach Lifeguard,8736.97,0.00,0.00,0.00,8736.97,8736.97,2016,,Coronado,PT
+Jack Alldredge,Beach Lifeguard,8271.79,195.05,190.48,0.00,8657.32,8657.32,2016,,Coronado,PT
+Jeffrey Rosenthal,Recreation Specialist,8578.09,0.00,0.00,0.00,8578.09,8578.09,2016,,Coronado,PT
+Nash Gorham,Recreation Assistant,8537.35,0.00,0.00,0.00,8537.35,8537.35,2016,,Coronado,PT
+Jesse Amezcua,Maintenance Worker I,7318.68,520.56,337.59,201.26,8176.83,8378.09,2016,,Coronado,PT
+Tara Blount,Recreation Leader,8294.56,0.00,0.00,0.00,8294.56,8294.56,2016,,Coronado,PT
+Carlos Perez,Recreation Leader,8232.42,0.00,0.00,0.00,8232.42,8232.42,2016,,Coronado,PT
+Casey Tanaka,Mayor,5163.45,0.00,2076.95,985.05,7240.40,8225.45,2016,,Coronado,PT
+Ryan Petersen,Beach Lifeguard,8185.07,35.78,0.00,0.00,8220.85,8220.85,2016,,Coronado,PT
+Sheilah Young,Library Monitor,8130.05,0.00,0.00,0.00,8130.05,8130.05,2016,,Coronado,PT
+Tanya Freeman,Aquatics Instructor,8068.00,0.00,0.00,0.00,8068.00,8068.00,2016,,Coronado,PT
+Donald Patterson,Recreation Assistant,8067.17,0.00,0.00,0.00,8067.17,8067.17,2016,,Coronado,PT
+Matthew Hartje,Recreation Leader,7880.88,0.00,164.84,0.00,8045.72,8045.72,2016,,Coronado,PT
+Adam Avery,Beach Lifeguard,7630.72,283.29,121.47,0.00,8035.48,8035.48,2016,,Coronado,PT
+Chenoa Smith,Aquatics Instructor,7449.87,0.00,548.44,0.00,7998.31,7998.31,2016,,Coronado,PT
+Garrett Bosch,Recreation Assistant,7985.00,0.00,0.00,0.00,7985.00,7985.00,2016,,Coronado,PT
+David Bisbal,Maintenance Worker II,3851.70,647.10,2679.59,755.19,7178.39,7933.58,2016,,Coronado,PT
+Jonathan Norton,Seasonal Assistant II,7860.88,0.00,0.00,0.00,7860.88,7860.88,2016,,Coronado,PT
+Teresa Carlson,Recreation Assistant,7859.00,0.00,0.00,0.00,7859.00,7859.00,2016,,Coronado,PT
+Matthew Oakley,Beach Lifeguard,7218.63,487.31,121.65,0.00,7827.59,7827.59,2016,,Coronado,PT
+Stephanie Vidaures,Recreation Assistant,7408.00,0.00,338.00,0.00,7746.00,7746.00,2016,,Coronado,PT
+Jennifer Herring,Library Assistant I,7677.52,0.00,0.00,0.00,7677.52,7677.52,2016,,Coronado,PT
+Mia Wraight,Recreation Specialist,7095.97,0.00,497.27,0.00,7593.24,7593.24,2016,,Coronado,PT
+Kimberly Nice,Recreation Specialist,7532.22,0.00,0.00,0.00,7532.22,7532.22,2016,,Coronado,PT
+Maria Martin Del Campo,Recreation Assistant,7464.50,0.00,0.00,0.00,7464.50,7464.50,2016,,Coronado,PT
+Roger Reyes,Recreation Specialist,7461.23,0.00,0.00,0.00,7461.23,7461.23,2016,,Coronado,PT
+Michael Moore,Seasonal Assistant II,7305.13,0.00,147.71,0.00,7452.84,7452.84,2016,,Coronado,PT
+Pamela Zazueta,Recreation Leader,7443.88,0.00,0.00,0.00,7443.88,7443.88,2016,,Coronado,PT
+Samantha Nelson,Recreation Assistant,7348.83,0.00,0.00,0.00,7348.83,7348.83,2016,,Coronado,PT
+Robert Phelps,Beach Lifeguard,6152.40,0.00,0.00,1186.81,6152.40,7339.21,2016,,Coronado,PT
+Amy Brueseke,Recreation Specialist,7241.54,0.00,0.00,0.00,7241.54,7241.54,2016,,Coronado,PT
+Katie Romabiles,Library Page,7226.59,0.00,0.00,0.00,7226.59,7226.59,2016,,Coronado,PT
+Christopher Sefcik,Pool Lifeguard,7135.67,0.00,0.00,0.00,7135.67,7135.67,2016,,Coronado,PT
+William Sandke,Council Member,5220.80,0.00,900.12,996.19,6120.92,7117.11,2016,,Coronado,PT
+Carrie Downey,Council Member,5220.80,0.00,900.12,996.19,6120.92,7117.11,2016,,Coronado,PT
+Donovan Schmeck,Pool Lifeguard,7092.73,0.00,0.00,0.00,7092.73,7092.73,2016,,Coronado,PT
+Mattea Johnson,Pool Lifeguard,7070.34,0.00,0.00,0.00,7070.34,7070.34,2016,,Coronado,PT
+Armani Antonellis,Beach Lifeguard,7018.86,0.00,0.00,0.00,7018.86,7018.86,2016,,Coronado,PT
+Elizabeth Valdez,Office Specialist,7005.24,0.00,0.00,0.00,7005.24,7005.24,2016,,Coronado,PT
+Monique Rootsaert,Recreation Leader,6986.52,0.00,0.00,0.00,6986.52,6986.52,2016,,Coronado,PT
+Summer Sund,Beach Lifeguard,6475.83,259.11,226.62,0.00,6961.56,6961.56,2016,,Coronado,PT
+John Sundahl,Pool Lifeguard,6957.85,0.00,0.00,0.00,6957.85,6957.85,2016,,Coronado,PT
+Thomas Addison,Building Inspector,6793.65,0.00,0.00,0.00,6793.65,6793.65,2016,,Coronado,PT
+Arianna Rico,Pool Lifeguard,6694.82,0.00,0.00,0.00,6694.82,6694.82,2016,,Coronado,PT
+Aldo Cordova,Aquatics Instructor,6694.39,0.00,0.00,0.00,6694.39,6694.39,2016,,Coronado,PT
+Courtney West,Beach Lifeguard,6524.38,44.01,85.43,0.00,6653.82,6653.82,2016,,Coronado,PT
+Octavio Eribez,Seasonal Assistant II,6485.65,0.00,101.14,0.00,6586.79,6586.79,2016,,Coronado,PT
+Magnus Karlsson,Beach Lifeguard,6324.53,200.97,59.94,0.00,6585.44,6585.44,2016,,Coronado,PT
+Jessica Rocheleau,Beach Lifeguard,6570.88,0.00,0.00,0.00,6570.88,6570.88,2016,,Coronado,PT
+Garrett Smerdon,Pool Lifeguard,6461.70,0.00,0.00,0.00,6461.70,6461.70,2016,,Coronado,PT
+Stephanie Scannell,Beach Lifeguard,5195.98,897.41,175.28,0.00,6268.67,6268.67,2016,,Coronado,PT
+Lorrain Meyer,Library Assistant I,5720.74,0.00,546.19,0.00,6266.93,6266.93,2016,,Coronado,PT
+Juan Tamayo,Seasonal Assistant II,6209.00,0.00,0.00,0.00,6209.00,6209.00,2016,,Coronado,PT
+Martin Lupian,Seasonal Assistant II,5157.13,0.00,0.00,987.12,5157.13,6144.25,2016,,Coronado,PT
+Richard Bailey,Mayor,5220.80,0.00,913.30,0.00,6134.10,6134.10,2016,,Coronado,PT
+Dylan Marston,Beach Lifeguard,6131.46,0.00,0.00,0.00,6131.46,6131.46,2016,,Coronado,PT
+Evan Carey,Pool Lifeguard,5962.54,0.00,109.46,0.00,6072.00,6072.00,2016,,Coronado,PT
+Stephanie Osmond,Recreation Leader,6007.68,0.00,0.00,0.00,6007.68,6007.68,2016,,Coronado,PT
+Gabriel Arellano,Pool Lifeguard,5985.90,0.00,0.00,0.00,5985.90,5985.90,2016,,Coronado,PT
+Dyan Sebastian,Recreation Leader,5027.90,0.00,0.00,957.45,5027.90,5985.35,2016,,Coronado,PT
+Justin Meek,Beach Lifeguard,5931.72,24.14,29.43,0.00,5985.29,5985.29,2016,,Coronado,PT
+Taryn Irby,Pool Lifeguard,5521.68,0.00,362.51,0.00,5884.19,5884.19,2016,,Coronado,PT
+Brooke Walsh,Aquatics Coordinator,4208.85,15.06,823.89,817.15,5047.80,5864.95,2016,,Coronado,PT
+Kevin Engelke,Police Officer,5219.90,0.00,0.00,633.58,5219.90,5853.48,2016,,Coronado,PT
+Erik Armes,Beach Lifeguard,5462.32,153.20,182.87,0.00,5798.39,5798.39,2016,,Coronado,PT
+Tessa Graff,Recreation Leader,4854.74,0.00,0.00,930.50,4854.74,5785.24,2016,,Coronado,PT
+Christopher Ortiz,Pool Lifeguard,5770.79,0.00,0.00,0.00,5770.79,5770.79,2016,,Coronado,PT
+Dania Cabrera,Recreation Specialist,4823.31,0.00,0.00,926.58,4823.31,5749.89,2016,,Coronado,PT
+Carolina Ortiz,Recreation Assistant,5729.00,0.00,0.00,0.00,5729.00,5729.00,2016,,Coronado,PT
+Elliott Nixon,Recreation Assistant,5714.00,0.00,0.00,0.00,5714.00,5714.00,2016,,Coronado,PT
+Caitlin Auvil,Recreation Leader,5430.30,0.00,0.00,0.00,5430.30,5430.30,2016,,Coronado,PT
+Samuel Cattell,Pool Lifeguard,5428.11,0.00,0.00,0.00,5428.11,5428.11,2016,,Coronado,PT
+Brian Thomas,Recreation Leader,5331.91,0.00,0.00,0.00,5331.91,5331.91,2016,,Coronado,PT
+Bruce Willie,Aquatics Coordinator,4218.90,0.00,271.41,819.10,4490.31,5309.41,2016,,Coronado,PT
+Van Erhard,Police Corporal,3886.73,0.00,632.68,782.79,4519.41,5302.20,2016,,Coronado,PT
+Zachary Malcolm,Pool Lifeguard,5072.21,0.00,129.59,0.00,5201.80,5201.80,2016,,Coronado,PT
+Jane Pederson,Recreation Leader,5188.08,0.00,0.00,0.00,5188.08,5188.08,2016,,Coronado,PT
+Haley Krebs,Pool Lifeguard,5175.23,0.00,0.00,0.00,5175.23,5175.23,2016,,Coronado,PT
+Elizabeth Scanland,Recreation Leader,5137.52,0.00,0.00,0.00,5137.52,5137.52,2016,,Coronado,PT
+Saint Santos,Recreation Assistant,5086.00,0.00,0.00,0.00,5086.00,5086.00,2016,,Coronado,PT
+Ana Martinez,Seasonal Assistant II,5040.37,0.00,33.24,0.00,5073.61,5073.61,2016,,Coronado,PT
+Gabrielle Foster,Recreation Leader,5067.22,0.00,0.00,0.00,5067.22,5067.22,2016,,Coronado,PT
+Grace Fahrenthold,Recreation Leader,5050.13,0.00,0.00,0.00,5050.13,5050.13,2016,,Coronado,PT
+Ryan Hagar,Recreation Leader,4701.94,0.00,328.76,0.00,5030.70,5030.70,2016,,Coronado,PT
+Briana Robles,Pool Lifeguard,4972.34,0.00,0.00,0.00,4972.34,4972.34,2016,,Coronado,PT
+Robyn Mckone,Library Page,4702.70,0.00,244.84,0.00,4947.54,4947.54,2016,,Coronado,PT
+Katherine Smith,Recreation Assistant,4728.81,0.00,186.88,0.00,4915.69,4915.69,2016,,Coronado,PT
+Isabella Martinez,Recreation Assistant,4847.00,0.00,0.00,0.00,4847.00,4847.00,2016,,Coronado,PT
+Nicholas Hamilton,Beach Lifeguard,4823.60,0.00,0.00,0.00,4823.60,4823.60,2016,,Coronado,PT
+Rachel Azhocar,Recreation Assistant,4812.00,0.00,0.00,0.00,4812.00,4812.00,2016,,Coronado,PT
+Justin Patacsil,Recreation Assistant,4755.00,0.00,0.00,0.00,4755.00,4755.00,2016,,Coronado,PT
+Angel Mendoza,Seasonal Assistant II,3948.77,0.00,0.00,744.46,3948.77,4693.23,2016,,Coronado,PT
+Nicholas Kozlik,Pool Lifeguard,4520.38,0.00,154.53,0.00,4674.91,4674.91,2016,,Coronado,PT
+Marco Ferrer-Ruiz,Recreation Leader,4661.78,0.00,0.00,0.00,4661.78,4661.78,2016,,Coronado,PT
+Amanda Schaefer,Library Page,4636.68,0.00,0.00,0.00,4636.68,4636.68,2016,,Coronado,PT
+Elva Fombon,Recreation Leader,4622.41,0.00,0.00,0.00,4622.41,4622.41,2016,,Coronado,PT
+Tracy Thorleifson,Recreation Assistant,4618.19,0.00,0.00,0.00,4618.19,4618.19,2016,,Coronado,PT
+Jose Brambila,Seasonal Assistant II,4468.91,0.00,86.85,0.00,4555.76,4555.76,2016,,Coronado,PT
+Isis Martinez,Recreation Assistant,4516.00,0.00,0.00,0.00,4516.00,4516.00,2016,,Coronado,PT
+Sidney Hoshko,Library Page,4162.28,0.00,252.03,0.00,4414.31,4414.31,2016,,Coronado,PT
+Jessica Moreno,Recreation Assistant,4093.00,0.00,295.53,0.00,4388.53,4388.53,2016,,Coronado,PT
+Theresa Pfotenhauer,Aquatics Instructor,4385.14,0.00,0.00,0.00,4385.14,4385.14,2016,,Coronado,PT
+Tyler Rowean,Pool Lifeguard,4082.20,0.00,256.33,0.00,4338.53,4338.53,2016,,Coronado,PT
+Kelsey Good,Pool Lifeguard,4033.75,0.00,265.86,0.00,4299.61,4299.61,2016,,Coronado,PT
+Ricardo Garcia,Seasonal Assistant II,4272.19,0.00,0.00,0.00,4272.19,4272.19,2016,,Coronado,PT
+Chelsea Ramos,Pool Lifeguard,4248.32,0.00,0.00,0.00,4248.32,4248.32,2016,,Coronado,PT
+Falco Baltys,Recreation Leader,4216.43,0.00,0.00,0.00,4216.43,4216.43,2016,,Coronado,PT
+Sergio Tapia,Seasonal Assistant II,3953.93,0.00,242.57,0.00,4196.50,4196.50,2016,,Coronado,PT
+Solomon Weed-Frayer,Pool Lifeguard,4188.57,0.00,0.00,0.00,4188.57,4188.57,2016,,Coronado,PT
+Claudia Jimenez,Library Monitor,3965.95,0.00,167.04,0.00,4132.99,4132.99,2016,,Coronado,PT
+Molly Jacobs,Aquatics Instructor,4120.80,0.00,0.00,0.00,4120.80,4120.80,2016,,Coronado,PT
+Christie Parr,Pool Lifeguard,4119.34,0.00,0.00,0.00,4119.34,4119.34,2016,,Coronado,PT
+Ryan Williams,Pool Lifeguard,4031.01,0.00,0.00,0.00,4031.01,4031.01,2016,,Coronado,PT
+Sarah Bohaczyk,Recreation Assistant,3885.00,0.00,129.50,0.00,4014.50,4014.50,2016,,Coronado,PT
+Coby Collins,Pool Lifeguard,4008.94,0.00,0.00,0.00,4008.94,4008.94,2016,,Coronado,PT
+Paul Folts,Pool Lifeguard,4000.54,0.00,0.00,0.00,4000.54,4000.54,2016,,Coronado,PT
+Natalie Nunez,Pool Lifeguard,3732.38,0.00,201.37,0.00,3933.75,3933.75,2016,,Coronado,PT
+Maria Chaparro-Swidin,Recreation Assistant,3908.00,0.00,0.00,0.00,3908.00,3908.00,2016,,Coronado,PT
+Connor Kober,Recreation Assistant,3877.39,0.00,0.00,0.00,3877.39,3877.39,2016,,Coronado,PT
+Miranda Orsinelli-Rivers,Recreation Leader,3874.39,0.00,0.00,0.00,3874.39,3874.39,2016,,Coronado,PT
+Christa Profeta,Recreation Leader,3855.20,0.00,0.00,0.00,3855.20,3855.20,2016,,Coronado,PT
+Campbell Schengel,Recreation Leader,3852.78,0.00,0.00,0.00,3852.78,3852.78,2016,,Coronado,PT
+Kameron Knutson,Recreation Leader,3552.54,0.00,246.05,0.00,3798.59,3798.59,2016,,Coronado,PT
+Mona Matheus,Recreation Leader,3786.95,0.00,0.00,0.00,3786.95,3786.95,2016,,Coronado,PT
+Breanna Burnworth,Recreation Assistant,3749.00,0.00,0.00,0.00,3749.00,3749.00,2016,,Coronado,PT
+Andie Ledesma,Pool Lifeguard,3615.48,0.00,121.46,0.00,3736.94,3736.94,2016,,Coronado,PT
+Jennifer Abramczyk,Recreation Leader,3680.70,0.00,0.00,0.00,3680.70,3680.70,2016,,Coronado,PT
+Christian Hoppe,Recreation Assistant,3665.00,0.00,0.00,0.00,3665.00,3665.00,2016,,Coronado,PT
+Rachel Lopez,Recreation Leader,3595.16,0.00,0.00,0.00,3595.16,3595.16,2016,,Coronado,PT
+Mitchell Mulvehill,Pool Lifeguard,3513.07,0.00,0.00,0.00,3513.07,3513.07,2016,,Coronado,PT
+Brad Scroggins,Pool Lifeguard,3461.29,0.00,0.00,0.00,3461.29,3461.29,2016,,Coronado,PT
+Kyle Teachout,Recreation Assistant,3435.00,0.00,0.00,0.00,3435.00,3435.00,2016,,Coronado,PT
+Stewart Rife,Recreation Assistant,3412.00,0.00,0.00,0.00,3412.00,3412.00,2016,,Coronado,PT
+Emily Patterson,Recreation Assistant,3291.00,0.00,109.13,0.00,3400.13,3400.13,2016,,Coronado,PT
+Jacqueline Silva,Library Page,3397.92,0.00,0.00,0.00,3397.92,3397.92,2016,,Coronado,PT
+Alan Tornel,Seasonal Assistant II,3279.00,0.00,116.47,0.00,3395.47,3395.47,2016,,Coronado,PT
+Joy Kathleen Briones,Recreation Assistant,3275.00,0.00,109.17,0.00,3384.17,3384.17,2016,,Coronado,PT
+Victoria Meek,Pool Lifeguard,3184.27,0.00,132.91,0.00,3317.18,3317.18,2016,,Coronado,PT
+Cassandra Francisco,Recreation Assistant,3311.00,0.00,0.00,0.00,3311.00,3311.00,2016,,Coronado,PT
+Jana Johnson,Recreation Assistant,3303.00,0.00,0.00,0.00,3303.00,3303.00,2016,,Coronado,PT
+James Robbins,Seasonal Assistant II,3150.01,0.00,134.62,0.00,3284.63,3284.63,2016,,Coronado,PT
+Gina Mirtallo,Recreation Leader,2728.09,0.00,0.00,526.20,2728.09,3254.29,2016,,Coronado,PT
+Connor Morse,Recreation Assistant,3208.00,0.00,0.00,0.00,3208.00,3208.00,2016,,Coronado,PT
+Robert Arellano,Recreation Assistant,3181.00,0.00,0.00,0.00,3181.00,3181.00,2016,,Coronado,PT
+Eleni Muse,Aquatics Instructor,3179.17,0.00,0.00,0.00,3179.17,3179.17,2016,,Coronado,PT
+Christopher Garcia,Recreation Assistant,3175.00,0.00,0.00,0.00,3175.00,3175.00,2016,,Coronado,PT
+Karenmarie Barker,Recreation Specialist,3132.68,0.00,0.00,0.00,3132.68,3132.68,2016,,Coronado,PT
+Laura Herrscher,Recreation Assistant,3029.00,0.00,100.97,0.00,3129.97,3129.97,2016,,Coronado,PT
+Paige Gifford,Recreation Assistant,3007.00,0.00,100.23,0.00,3107.23,3107.23,2016,,Coronado,PT
+Elizabeth Dellinger,Recreation Leader,2939.99,0.00,162.67,0.00,3102.66,3102.66,2016,,Coronado,PT
+Melinda Drummond,Recreation Leader,3021.67,0.00,68.91,0.00,3090.58,3090.58,2016,,Coronado,PT
+Jerry Makepeace,Pool Lifeguard,3084.24,0.00,0.00,0.00,3084.24,3084.24,2016,,Coronado,PT
+Shannon Hinzo,Recreation Assistant,3072.00,0.00,0.00,0.00,3072.00,3072.00,2016,,Coronado,PT
+Nicholas Cote,Recreation Assistant,2952.00,0.00,98.40,0.00,3050.40,3050.40,2016,,Coronado,PT
+Evelyn Hall,Recreation Assistant,3023.00,0.00,0.00,0.00,3023.00,3023.00,2016,,Coronado,PT
+Brandon Blake,Recreation Assistant,3004.00,0.00,0.00,0.00,3004.00,3004.00,2016,,Coronado,PT
+Kylene Cummings,Recreation Leader,2961.56,0.00,0.00,0.00,2961.56,2961.56,2016,,Coronado,PT
+Amanda Clawson,Recreation Assistant,2937.00,0.00,0.00,0.00,2937.00,2937.00,2016,,Coronado,PT
+Kyler Smith,Beach Lifeguard,2758.07,70.91,95.46,0.00,2924.44,2924.44,2016,,Coronado,PT
+Ryan Woronicz,Recreation Assistant,2790.00,0.00,121.87,0.00,2911.87,2911.87,2016,,Coronado,PT
+Roxana Barrows,Pool Lifeguard,2908.85,0.00,0.00,0.00,2908.85,2908.85,2016,,Coronado,PT
+Daniela Valades,Aquatics Instructor,2728.31,0.00,132.72,0.00,2861.03,2861.03,2016,,Coronado,PT
+Vincent Silva,Recreation Leader,2859.41,0.00,0.00,0.00,2859.41,2859.41,2016,,Coronado,PT
+Mary Hakes,Recreation Assistant,2849.00,0.00,0.00,0.00,2849.00,2849.00,2016,,Coronado,PT
+Taylor Nelson,Recreation Assistant,2794.00,0.00,0.00,0.00,2794.00,2794.00,2016,,Coronado,PT
+Samuel Wilson,Pool Lifeguard,2767.90,0.00,0.00,0.00,2767.90,2767.90,2016,,Coronado,PT
+Kristin Lopez,Recreation Assistant,2736.00,0.00,0.00,0.00,2736.00,2736.00,2016,,Coronado,PT
+Terrin Linderman,Pool Lifeguard,2728.67,0.00,0.00,0.00,2728.67,2728.67,2016,,Coronado,PT
+Zachary Polletta,Pool Lifeguard,2725.14,0.00,0.00,0.00,2725.14,2725.14,2016,,Coronado,PT
+Kathleen Ferrar,Recreation Specialist,2720.18,0.00,0.00,0.00,2720.18,2720.18,2016,,Coronado,PT
+Alexandra Hecht,Recreation Assistant,2709.00,0.00,0.00,0.00,2709.00,2709.00,2016,,Coronado,PT
+Michael Larson,Recreation Assistant,2694.00,0.00,0.00,0.00,2694.00,2694.00,2016,,Coronado,PT
+Scott Knox,Beach Lifeguard,2630.10,0.00,40.70,0.00,2670.80,2670.80,2016,,Coronado,PT
+Lisa Stinson,Police Officer,0.00,0.00,2551.21,110.97,2551.21,2662.18,2016,,Coronado,PT
+Ynez Kerley,Lifeguard Assitant (Beach),2575.00,0.00,85.83,0.00,2660.83,2660.83,2016,,Coronado,PT
+Amy Kame,Recreation Leader,2451.22,0.00,189.07,0.00,2640.29,2640.29,2016,,Coronado,PT
+Michelle Meyers,Recreation Assistant,2636.00,0.00,0.00,0.00,2636.00,2636.00,2016,,Coronado,PT
+Laura Dennis,Recreation Assistant,2549.00,0.00,84.97,0.00,2633.97,2633.97,2016,,Coronado,PT
+Kyle Runyon,Pool Lifeguard,2487.86,0.00,83.19,0.00,2571.05,2571.05,2016,,Coronado,PT
+Bennett Royce,Beach Lifeguard,2483.41,0.00,85.63,0.00,2569.04,2569.04,2016,,Coronado,PT
+Hannah Zickel,Recreation Assistant,2561.50,0.00,0.00,0.00,2561.50,2561.50,2016,,Coronado,PT
+Wyatt Schmidt,Lifeguard Assitant (Beach),2454.87,0.00,83.03,0.00,2537.90,2537.90,2016,,Coronado,PT
+Sara Avery,Recreation Assistant,2530.00,0.00,0.00,0.00,2530.00,2530.00,2016,,Coronado,PT
+Alisa Rootsaert,Recreation Assistant,2491.00,0.00,0.00,0.00,2491.00,2491.00,2016,,Coronado,PT
+Adam Ratcliffe,Beach Lifeguard,2406.71,0.00,80.76,0.00,2487.47,2487.47,2016,,Coronado,PT
+Brianna Lehr,Recreation Assistant,2462.00,0.00,0.00,0.00,2462.00,2462.00,2016,,Coronado,PT
+Mark Profeta,Recreation Assistant,2440.00,0.00,0.00,0.00,2440.00,2440.00,2016,,Coronado,PT
+Robert Hostetler,Recreation Assistant,2431.00,0.00,0.00,0.00,2431.00,2431.00,2016,,Coronado,PT
+Michael Hostetler,Recreation Assistant,2430.00,0.00,0.00,0.00,2430.00,2430.00,2016,,Coronado,PT
+Ian Muhlbach,Pool Lifeguard,2268.44,0.00,136.83,0.00,2405.27,2405.27,2016,,Coronado,PT
+Ashley Lilliegraven,Recreation Assistant,2385.00,0.00,0.00,0.00,2385.00,2385.00,2016,,Coronado,PT
+Rachel Hanling,Recreation Assistant,2360.00,0.00,0.00,0.00,2360.00,2360.00,2016,,Coronado,PT
+Tiffany Cromwell,Recreation Assistant,2350.00,0.00,0.00,0.00,2350.00,2350.00,2016,,Coronado,PT
+Jasmine Summers-Evans,Recreation Assistant,2338.00,0.00,0.00,0.00,2338.00,2338.00,2016,,Coronado,PT
+Lindsay Scannell,Aquatics Instructor,2249.34,0.00,82.75,0.00,2332.09,2332.09,2016,,Coronado,PT
+Liam Carey,Pool Lifeguard,2256.67,0.00,75.22,0.00,2331.89,2331.89,2016,,Coronado,PT
+Claire Helmers,Recreation Assistant,2330.00,0.00,0.00,0.00,2330.00,2330.00,2016,,Coronado,PT
+Kirstin Dahlquist,Recreation Assistant,2304.00,0.00,0.00,0.00,2304.00,2304.00,2016,,Coronado,PT
+Synthia Hynes,Recreation Assistant,2295.00,0.00,0.00,0.00,2295.00,2295.00,2016,,Coronado,PT
+Lindsey Cummins,Recreation Leader,2292.62,0.00,0.00,0.00,2292.62,2292.62,2016,,Coronado,PT
+Shannon Johnson,Recreation Assistant,2276.00,0.00,0.00,0.00,2276.00,2276.00,2016,,Coronado,PT
+Julie Ann Ganal,Library Page,2251.86,0.00,0.00,0.00,2251.86,2251.86,2016,,Coronado,PT
+Courtney Profeta,Recreation Assistant,2251.00,0.00,0.00,0.00,2251.00,2251.00,2016,,Coronado,PT
+Gabriell Quinlan,Recreation Assistant,2250.00,0.00,0.00,0.00,2250.00,2250.00,2016,,Coronado,PT
+Ying Moua,Recreation Assistant,2248.00,0.00,0.00,0.00,2248.00,2248.00,2016,,Coronado,PT
+Kacie Mcbarron,Recreation Assistant,2227.00,0.00,0.00,0.00,2227.00,2227.00,2016,,Coronado,PT
+Jennifer Tellez Vera,Recreation Assistant,2207.00,0.00,0.00,0.00,2207.00,2207.00,2016,,Coronado,PT
+Darius Marguet,Pool Lifeguard,2179.83,0.00,0.00,0.00,2179.83,2179.83,2016,,Coronado,PT
+Chuemee Moua,Recreation Assistant,2169.00,0.00,0.00,0.00,2169.00,2169.00,2016,,Coronado,PT
+Arrielle Luna,Recreation Leader,2141.39,0.00,0.00,0.00,2141.39,2141.39,2016,,Coronado,PT
+Katherine Erskine,Recreation Assistant,2131.00,0.00,0.00,0.00,2131.00,2131.00,2016,,Coronado,PT
+Colleen Gladden,Recreation Leader,1700.46,0.00,108.20,320.72,1808.66,2129.38,2016,,Coronado,PT
+Kathryn Gauvin,Pool Lifeguard,2117.49,0.00,0.00,0.00,2117.49,2117.49,2016,,Coronado,PT
+Raymond Lugo,Pool Lifeguard,1936.18,0.00,164.35,0.00,2100.53,2100.53,2016,,Coronado,PT
+Michael Gutierrez,Recreation Assistant,2100.00,0.00,0.00,0.00,2100.00,2100.00,2016,,Coronado,PT
+Veronica Acosta,Pool Lifeguard,1942.93,0.00,155.08,0.00,2098.01,2098.01,2016,,Coronado,PT
+Jane Gonzales,Pool Lifeguard,2015.24,0.00,81.49,0.00,2096.73,2096.73,2016,,Coronado,PT
+Juan Ceja-Padilla,Recreation Assistant,2059.00,0.00,0.00,0.00,2059.00,2059.00,2016,,Coronado,PT
+Charles Tomlin,Lifeguard Assitant (Beach),1955.00,0.00,65.17,0.00,2020.17,2020.17,2016,,Coronado,PT
+Lily Kurkjian,Recreation Leader,1922.08,0.00,95.57,0.00,2017.65,2017.65,2016,,Coronado,PT
+Andria Olmo,Recreation Assistant,2006.00,0.00,0.00,0.00,2006.00,2006.00,2016,,Coronado,PT
+Olivia Angelino,Recreation Assistant,1986.00,0.00,0.00,0.00,1986.00,1986.00,2016,,Coronado,PT
+Karina Reynoso,Pool Lifeguard,1920.42,0.00,64.01,0.00,1984.43,1984.43,2016,,Coronado,PT
+Kate Nigolian,Lifeguard Assitant (Beach),1903.00,0.00,63.43,0.00,1966.43,1966.43,2016,,Coronado,PT
+Jared Arias,Recreation Assistant,1960.00,0.00,0.00,0.00,1960.00,1960.00,2016,,Coronado,PT
+Jonathan Olson,Recreation Assistant,1904.00,0.00,0.00,0.00,1904.00,1904.00,2016,,Coronado,PT
+Juan Gadd,Pool Lifeguard,1897.58,0.00,0.00,0.00,1897.58,1897.58,2016,,Coronado,PT
+Timothy Sebring,Recreation Assistant,1896.00,0.00,0.00,0.00,1896.00,1896.00,2016,,Coronado,PT
+Katherine Hamilton,Recreation Assistant,1894.00,0.00,0.00,0.00,1894.00,1894.00,2016,,Coronado,PT
+Michelle Nakayoshi,Recreation Assistant,1875.00,0.00,0.00,0.00,1875.00,1875.00,2016,,Coronado,PT
+Cindy Meharg,Recreation Leader,1838.68,0.00,0.00,0.00,1838.68,1838.68,2016,,Coronado,PT
+Claire Purvis,Recreation Assistant,1836.00,0.00,0.00,0.00,1836.00,1836.00,2016,,Coronado,PT
+Salma Navarrette,Pool Lifeguard,1736.07,0.00,99.58,0.00,1835.65,1835.65,2016,,Coronado,PT
+Danielle Pena,Pool Lifeguard,1830.32,0.00,0.00,0.00,1830.32,1830.32,2016,,Coronado,PT
+Sydney Lay,Recreation Assistant,1829.00,0.00,0.00,0.00,1829.00,1829.00,2016,,Coronado,PT
+Noah Griffith,Lifeguard Assitant (Beach),1767.00,0.00,58.90,0.00,1825.90,1825.90,2016,,Coronado,PT
+Adam Galler,Recreation Leader,1823.91,0.00,0.00,0.00,1823.91,1823.91,2016,,Coronado,PT
+Hannah Gasser,Recreation Assistant,1802.00,0.00,0.00,0.00,1802.00,1802.00,2016,,Coronado,PT
+Ryan Armes,Lifeguard Assitant (Beach),1719.00,0.00,57.30,0.00,1776.30,1776.30,2016,,Coronado,PT
+Jessica Lardenoit,Recreation Assistant,1775.00,0.00,0.00,0.00,1775.00,1775.00,2016,,Coronado,PT
+Mark Steuer,Recreation Assistant,1768.00,0.00,0.00,0.00,1768.00,1768.00,2016,,Coronado,PT
+Stephanie Legault,Recreation Assistant,1673.00,0.00,55.80,0.00,1728.80,1728.80,2016,,Coronado,PT
+Jennifer Torres,Recreation Assistant,1715.00,0.00,0.00,0.00,1715.00,1715.00,2016,,Coronado,PT
+Christian Duran,Recreation Assistant,1655.00,0.00,55.17,0.00,1710.17,1710.17,2016,,Coronado,PT
+Laura Gilles,Recreation Assistant,1650.00,0.00,55.00,0.00,1705.00,1705.00,2016,,Coronado,PT
+Ashley Clay,Recreation Assistant,1417.00,0.00,0.00,268.70,1417.00,1685.70,2016,,Coronado,PT
+Sylvan Streightiff,Pool Lifeguard,1680.08,0.00,0.00,0.00,1680.08,1680.08,2016,,Coronado,PT
+Jack Rinko,Pool Lifeguard,1597.34,0.00,53.25,0.00,1650.59,1650.59,2016,,Coronado,PT
+Aisha Chalita,Recreation Assistant,1587.00,0.00,62.13,0.00,1649.13,1649.13,2016,,Coronado,PT
+Regine Dionisio,Pool Lifeguard,1629.38,0.00,0.00,0.00,1629.38,1629.38,2016,,Coronado,PT
+Tatiana Hughes,Recreation Assistant,1619.00,0.00,0.00,0.00,1619.00,1619.00,2016,,Coronado,PT
+Karlee Martin,Recreation Assistant,1606.00,0.00,0.00,0.00,1606.00,1606.00,2016,,Coronado,PT
+Hilary Hansen,Recreation Assistant,1486.00,0.00,118.33,0.00,1604.33,1604.33,2016,,Coronado,PT
+Melissa Magana,Recreation Leader,1321.74,0.00,0.00,256.07,1321.74,1577.81,2016,,Coronado,PT
+Sergio Serrano,Seasonal Assistant II,1461.77,0.00,109.55,0.00,1571.32,1571.32,2016,,Coronado,PT
+Tina Tafuri,Recreation Assistant,1299.00,0.00,0.00,252.21,1299.00,1551.21,2016,,Coronado,PT
+Eleonor Bartolome,Recreation Assistant,1546.00,0.00,0.00,0.00,1546.00,1546.00,2016,,Coronado,PT
+Sydney Waitley,Recreation Assistant,1545.00,0.00,0.00,0.00,1545.00,1545.00,2016,,Coronado,PT
+Jonathan Monsale,Recreation Assistant,1524.00,0.00,0.00,0.00,1524.00,1524.00,2016,,Coronado,PT
+Riley Ferguson,Recreation Assistant,1522.00,0.00,0.00,0.00,1522.00,1522.00,2016,,Coronado,PT
+Monica Lillo,Recreation Assistant,1501.00,0.00,0.00,0.00,1501.00,1501.00,2016,,Coronado,PT
+Sarah Parr,Lifeguard Assitant (Beach),1482.00,0.00,9.61,0.00,1491.61,1491.61,2016,,Coronado,PT
+Andrew Mathis,Pool Lifeguard,1436.40,0.00,47.88,0.00,1484.28,1484.28,2016,,Coronado,PT
+Priscilla Aguila,Recreation Assistant,1475.00,0.00,0.00,0.00,1475.00,1475.00,2016,,Coronado,PT
+Craig Newson,Recreation Assistant,1469.00,0.00,0.00,0.00,1469.00,1469.00,2016,,Coronado,PT
+Simone Wilson,Recreation Assistant,1417.00,0.00,0.00,0.00,1417.00,1417.00,2016,,Coronado,PT
+Monica Driscoll,Recreation Leader,1220.39,0.00,195.26,0.00,1415.65,1415.65,2016,,Coronado,PT
+Trisha Floor,Recreation Assistant,1415.00,0.00,0.00,0.00,1415.00,1415.00,2016,,Coronado,PT
+Isaac Chavez,Recreation Leader,1414.08,0.00,0.00,0.00,1414.08,1414.08,2016,,Coronado,PT
+Shawn Gingery,Recreation Leader,1389.60,0.00,0.00,0.00,1389.60,1389.60,2016,,Coronado,PT
+Steve Airey,Beach Lifeguard,1334.87,0.00,0.00,0.00,1334.87,1334.87,2016,,Coronado,PT
+Lauren Grieco,Recreation Assistant,1175.00,0.00,135.13,0.00,1310.13,1310.13,2016,,Coronado,PT
+Amber Johnson,Aquatics Instructor,1090.67,0.00,0.00,208.53,1090.67,1299.20,2016,,Coronado,PT
+Alexandra Withers,Lifeguard Assitant (Beach),1243.00,0.00,41.43,0.00,1284.43,1284.43,2016,,Coronado,PT
+Luis Zapata,Pool Lifeguard,1077.88,0.00,201.93,0.00,1279.81,1279.81,2016,,Coronado,PT
+Clark Fahrenthold,Recreation Assistant,1263.00,0.00,0.00,0.00,1263.00,1263.00,2016,,Coronado,PT
+Montana Henry,Recreation Assistant,1198.00,0.00,39.93,0.00,1237.93,1237.93,2016,,Coronado,PT
+Kelly Chen,Recreation Assistant,1222.00,0.00,0.00,0.00,1222.00,1222.00,2016,,Coronado,PT
+Samantha Richardson,Library Page,1176.21,0.00,39.21,0.00,1215.42,1215.42,2016,,Coronado,PT
+Renee Phillips,Pool Lifeguard,1165.98,0.00,44.96,0.00,1210.94,1210.94,2016,,Coronado,PT
+Quinci Bryant,Recreation Assistant,1142.00,0.00,66.97,0.00,1208.97,1208.97,2016,,Coronado,PT
+Erica Ramirez,Recreation Assistant,1184.00,0.00,0.00,0.00,1184.00,1184.00,2016,,Coronado,PT
+Patricia Salgado,Pool Lifeguard,1096.95,0.00,63.09,0.00,1160.04,1160.04,2016,,Coronado,PT
+Laura Dimmock-Weatherly,Recreation Specialist,920.17,0.00,0.00,173.21,920.17,1093.38,2016,,Coronado,PT
+Savannah Lawton,Recreation Assistant,968.00,0.00,104.13,0.00,1072.13,1072.13,2016,,Coronado,PT
+Amanda Carlino,Recreation Assistant,945.00,0.00,31.50,0.00,976.50,976.50,2016,,Coronado,PT
+Thomas Slattery,Recreation Assistant,949.00,0.00,0.00,0.00,949.00,949.00,2016,,Coronado,PT
+Ameerah Holliday,Recreation Assistant,914.00,0.00,0.00,0.00,914.00,914.00,2016,,Coronado,PT
+Lynda Nguyen,Recreation Assistant,871.00,0.00,0.00,0.00,871.00,871.00,2016,,Coronado,PT
+Garrett Sobol,Recreation Assistant,855.00,0.00,0.00,0.00,855.00,855.00,2016,,Coronado,PT
+Felicia Ebenfelt,Aquatics Instructor,846.51,0.00,0.00,0.00,846.51,846.51,2016,,Coronado,PT
+Ashley Henry,Recreation Leader,840.96,0.00,0.00,0.00,840.96,840.96,2016,,Coronado,PT
+Katelin Mccoy,Pool Lifeguard,639.11,0.00,189.65,0.00,828.76,828.76,2016,,Coronado,PT
+Troy Sinha,Recreation Leader,779.04,0.00,0.00,0.00,779.04,779.04,2016,,Coronado,PT
+Julia Rice,Recreation Assistant,743.00,0.00,24.77,0.00,767.77,767.77,2016,,Coronado,PT
+Andrea Baluca,Recreation Specialist,623.88,0.00,0.00,118.12,623.88,742.00,2016,,Coronado,PT
+Bailee Davis,Recreation Assistant,625.45,0.00,0.00,0.00,625.45,625.45,2016,,Coronado,PT
+Brooke Clark,Aquatics Instructor,490.47,0.00,0.00,92.10,490.47,582.57,2016,,Coronado,PT
+Robert Timby,Pool Lifeguard,581.44,0.00,0.00,0.00,581.44,581.44,2016,,Coronado,PT
+Jeremea Songco,Recreation Assistant,577.00,0.00,0.00,0.00,577.00,577.00,2016,,Coronado,PT
+Bryony Jimenez,Recreation Assistant,510.00,0.00,0.00,0.00,510.00,510.00,2016,,Coronado,PT
+Samantha Demich,Pool Lifeguard,383.72,0.00,22.48,72.09,406.20,478.29,2016,,Coronado,PT
+Brooke Gensler,Recreation Assistant,434.00,0.00,0.00,0.00,434.00,434.00,2016,,Coronado,PT
+Nikole Jezbera,Aquatics Instructor,201.00,0.00,150.88,65.96,351.88,417.84,2016,,Coronado,PT
+Allan Harrington,Pool Lifeguard,337.24,0.00,11.25,0.00,348.49,348.49,2016,,Coronado,PT
+Stuart Blair,Beach Lifeguard,238.28,0.00,98.16,0.00,336.44,336.44,2016,,Coronado,PT
+Sara Garcia,Recreation Assistant,263.00,0.00,62.87,0.00,325.87,325.87,2016,,Coronado,PT
+Adonia Torres,Recreation Specialist,324.48,0.00,0.00,0.00,324.48,324.48,2016,,Coronado,PT
+Shane Rains,Recreation Leader,216.04,0.00,101.67,0.00,317.71,317.71,2016,,Coronado,PT
+Chera Gleason,Recreation Leader,138.38,0.00,99.83,44.65,238.21,282.86,2016,,Coronado,PT
+Roderick Hebron,Recreation Assistant,149.32,0.00,104.75,0.00,254.07,254.07,2016,,Coronado,PT
+Haley Burton,Recreation Assistant,200.00,0.00,43.70,0.00,243.70,243.70,2016,,Coronado,PT
+Addison Griede,Recreation Assistant,182.00,0.00,61.50,0.00,243.50,243.50,2016,,Coronado,PT
+Anthony Westendorf,Recreation Specialist,233.42,0.00,0.00,0.00,233.42,233.42,2016,,Coronado,PT
+Lauren Green,Recreation Assistant,213.00,0.00,13.07,0.00,226.07,226.07,2016,,Coronado,PT
+Jessie Mullan,Recreation Leader,144.03,0.00,57.42,0.00,201.45,201.45,2016,,Coronado,PT
+Sydney Althof,Recreation Assistant,105.00,0.00,42.33,0.00,147.33,147.33,2016,,Coronado,PT
+Kimberli Boone,Pool Lifeguard,0.00,0.00,136.53,0.00,136.53,136.53,2016,,Coronado,PT
+Chelsey Schmid,Aquatics Instructor,0.00,0.00,130.49,0.00,130.49,130.49,2016,,Coronado,PT
+James O'brien,Recreation Specialist,97.10,0.00,0.00,18.85,97.10,115.95,2016,,Coronado,PT
+Stephanie Irey,Recreation Assistant,0.00,0.00,111.75,0.00,111.75,111.75,2016,,Coronado,PT
+Peter Lontayo,Seasonal Assistant II,80.00,0.00,27.50,0.00,107.50,107.50,2016,,Coronado,PT
+Jeffrey Zarro,Recreation Leader,103.49,0.00,0.00,0.00,103.49,103.49,2016,,Coronado,PT
+Isaac Soto,Recreation Assistant,45.00,0.00,43.93,0.00,88.93,88.93,2016,,Coronado,PT
+Ramiro Hernandez,Seasonal Assistant I,0.00,0.00,84.39,0.00,84.39,84.39,2016,,Coronado,PT
+Joseph Ghio,Beach Lifeguard,0.00,0.00,79.54,0.00,79.54,79.54,2016,,Coronado,PT
+Whitney Benzian,Council Member,57.35,0.00,9.89,11.13,67.24,78.37,2016,,Coronado,PT
+Michael Donovan,Council Member,57.35,0.00,9.89,0.00,67.24,67.24,2016,,Coronado,PT
+Toney Sawyer,Recreation Assistant,46.00,0.00,16.57,0.00,62.57,62.57,2016,,Coronado,PT
+Haley Peterson,Recreation Assistant,0.00,0.00,62.30,0.00,62.30,62.30,2016,,Coronado,PT
+Stuart Strange,Recreation Leader,0.00,0.00,59.59,0.00,59.59,59.59,2016,,Coronado,PT
+Ricardo Valenzuela,Seasonal Assistant I,0.00,0.00,57.48,0.00,57.48,57.48,2016,,Coronado,PT
+Richard Ledferd,Lead Maintenance Worker,0.00,0.00,47.21,8.85,47.21,56.06,2016,,Coronado,PT
+Hollyn Toomey,Recreation Assistant,0.00,0.00,55.19,0.00,55.19,55.19,2016,,Coronado,PT
+Connor Burton,Recreation Assistant,0.00,0.00,52.27,0.00,52.27,52.27,2016,,Coronado,PT
+Alejandro Gasca,Recreation Assistant,0.00,0.00,49.25,0.00,49.25,49.25,2016,,Coronado,PT
+Amy Briere,Recreation Specialist,37.76,0.00,4.28,7.08,42.04,49.12,2016,,Coronado,PT
+Lauren Takeda,Recreation Assistant,0.00,0.00,44.77,0.00,44.77,44.77,2016,,Coronado,PT
+Jesus Silva,Recreation Assistant,10.00,0.00,34.73,0.00,44.73,44.73,2016,,Coronado,PT
+Vanessa Stahley,Recreation Leader,44.05,0.00,0.00,0.00,44.05,44.05,2016,,Coronado,PT
+Malissa Thomas,Recreation Assistant,0.00,0.00,37.92,0.00,37.92,37.92,2016,,Coronado,PT
+Matthew Berry,Pool Lifeguard,36.03,0.00,0.00,0.00,36.03,36.03,2016,,Coronado,PT
+Alison Glaeser,Recreation Leader,0.00,0.00,35.96,0.00,35.96,35.96,2016,,Coronado,PT
+Stephen Rollins,Maintenance Worker II,0.00,0.00,28.07,5.26,28.07,33.33,2016,,Coronado,PT
+Hali Danna,Recreation Assistant,0.00,0.00,32.69,0.00,32.69,32.69,2016,,Coronado,PT
+Olivia Lillegraven,Recreation Assistant,0.00,0.00,25.10,0.00,25.10,25.10,2016,,Coronado,PT
+Jack Walsh,Pool Lifeguard,0.00,0.00,24.09,0.00,24.09,24.09,2016,,Coronado,PT
+Patrick Sichel,Pool Lifeguard,0.00,0.00,24.01,0.00,24.01,24.01,2016,,Coronado,PT
+Kiel Baluca-Tran,Recreation Assistant,0.00,0.00,23.15,0.00,23.15,23.15,2016,,Coronado,PT
+Colton Wandke,Pool Lifeguard,0.00,0.00,16.37,0.00,16.37,16.37,2016,,Coronado,PT
+Catherine Clausen,Recreation Assistant,0.00,0.00,3.90,0.00,3.90,3.90,2016,,Coronado,PT
+Valentin Cisneros,Seasonal Assistant I,0.00,0.00,0.45,0.00,0.45,0.45,2016,,Coronado,PT

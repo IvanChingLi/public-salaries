@@ -1,0 +1,394 @@
+Employee Name,Job Title,Base Pay,Overtime Pay,Other Pay,Benefits,Total Pay,Total Pay & Benefits,Year,Notes,Agency,Status
+Richard Dudley,City Manager,237346.00,0.00,42112.00,77938.00,279458.00,357396.00,2016,,Murrieta,PT
+Sean Hadden,Police Chief,204010.00,0.00,26271.00,68231.00,230281.00,298512.00,2016,,Murrieta,FT
+Steven Kean,Fire Battalion Chief,129143.00,123110.00,7055.00,38410.00,259308.00,297718.00,2016,,Murrieta,FT
+Michael Ramos,Fire Battalion Chief,116327.00,89432.00,10573.00,63589.00,216332.00,279921.00,2016,,Murrieta,FT
+Evan Tiss,Fire Captain,100563.00,109268.00,5337.00,54902.00,215168.00,270070.00,2016,,Murrieta,FT
+Scott Ferguson,Fire Chief,194544.00,0.00,1372.00,69044.00,195916.00,264960.00,2016,,Murrieta,FT
+Robert Firmes,Police Captain,164549.00,0.00,34380.00,64969.00,198929.00,263898.00,2016,,Murrieta,FT
+Bruce Coleman,Economic Development Director,186515.00,0.00,20608.00,56461.00,207123.00,263584.00,2016,,Murrieta,FT
+Dennis Vrooman,Police Captain,163046.00,0.00,33666.00,64969.00,196712.00,261681.00,2016,,Murrieta,FT
+Matthew Corelli,Fire Captain,100017.00,102751.00,1924.00,54511.00,204692.00,259203.00,2016,,Murrieta,FT
+Joy Canfield,Administrative Services Director,132041.00,0.00,78955.00,41009.00,210996.00,252005.00,2016,,Murrieta,FT
+David Perez,Fire Battalion Chief,110271.00,69719.00,3349.00,57955.00,183339.00,241294.00,2016,,Murrieta,FT
+Derrick Dellinger,Paramedic/Firefighter,81362.00,98746.00,10018.00,45493.00,190126.00,235619.00,2016,,Murrieta,FT
+Spencer Parker,Police Sergeant,108773.00,47735.00,27235.00,50496.00,183743.00,234239.00,2016,,Murrieta,FT
+Christopher Brann,Paramedic/Firefighter,79249.00,100441.00,4595.00,48419.00,184285.00,232704.00,2016,,Murrieta,FT
+Ronald Driscoll,Police Lieutenant,137718.00,0.00,35680.00,57716.00,173398.00,231114.00,2016,,Murrieta,FT
+Kimberley Summers,Assistant City Manager,191931.00,0.00,4005.00,34714.00,195936.00,230650.00,2016,,Murrieta,FT
+Matthew Henry,Police Sergeant,108131.00,35384.00,35780.00,51093.00,179295.00,230388.00,2016,,Murrieta,FT
+Richard Martinez,Fire Captain,100563.00,68394.00,3890.00,54177.00,172847.00,227024.00,2016,,Murrieta,FT
+Julie Hoxmeier,Police Lieutenant,142144.00,0.00,24593.00,58536.00,166737.00,225273.00,2016,,Murrieta,FT
+Clinton Norton,Fire Captain,89237.00,78773.00,5178.00,51058.00,173188.00,224246.00,2016,,Murrieta,FT
+Anthony Conrad,Police Lieutenant,142144.00,0.00,23784.00,57876.00,165928.00,223804.00,2016,,Murrieta,FT
+Garrick Eyman,Fire Engineer,83846.00,77799.00,9736.00,49485.00,171381.00,220866.00,2016,,Murrieta,FT
+James Schaaf,Fire Engineer,83846.00,82081.00,5034.00,48750.00,170961.00,219711.00,2016,,Murrieta,FT
+Richard Curran,Fire Captain,100563.00,60766.00,4889.00,53113.00,166218.00,219331.00,2016,,Murrieta,FT
+Todd Bradstreet,Fire Captain,100563.00,58136.00,2955.00,54681.00,161654.00,216335.00,2016,,Murrieta,FT
+David Lantzer,Deputy Fire Chief,153507.00,0.00,3355.00,58783.00,156862.00,215645.00,2016,,Murrieta,FT
+Jonathan Flavin,Police Lieutenant,139801.00,0.00,18862.00,56154.00,158663.00,214817.00,2016,,Murrieta,FT
+Not Provided,Police Officer,84812.00,40012.00,42849.00,47079.00,167673.00,214752.00,2016,,Murrieta,FT
+John Lapi,Fire Captain,100578.00,76403.00,5055.00,32486.00,182036.00,214522.00,2016,,Murrieta,FT
+Sean Degrave,Fire Captain 40 Hour,100185.00,50588.00,8362.00,55091.00,159135.00,214226.00,2016,,Murrieta,FT
+Ivan Holler,Development Services Director,177493.00,0.00,4676.00,29796.00,182169.00,211965.00,2016,,Murrieta,FT
+Eric Ballard,Fire Captain,100563.00,55684.00,1263.00,54186.00,157510.00,211696.00,2016,,Murrieta,FT
+Ontario Williams,Police Corporal,74616.00,40896.00,48890.00,46929.00,164402.00,211331.00,2016,,Murrieta,FT
+Robert Godinho,Paramedic/Firefighter,81633.00,69862.00,8780.00,49117.00,160275.00,209392.00,2016,,Murrieta,FT
+Phillip Gomez,Police Sergeant,109629.00,22507.00,26336.00,50799.00,158472.00,209271.00,2016,,Murrieta,FT
+Eric Ackerman,Paramedic/Firefighter,80865.00,74433.00,3307.00,48573.00,158605.00,207178.00,2016,,Murrieta,FT
+James Gruwell,Police Sergeant,111342.00,15988.00,27761.00,51757.00,155091.00,206848.00,2016,,Murrieta,FT
+Jay Froboese,Police Sergeant,109255.00,11494.00,35188.00,50335.00,155937.00,206272.00,2016,,Murrieta,FT
+Mark Moore,Fire Captain,100563.00,42184.00,8029.00,55406.00,150776.00,206182.00,2016,,Murrieta,FT
+Jacob Wright,Fire Engineer,74528.00,60076.00,24489.00,46049.00,159093.00,205142.00,2016,,Murrieta,FT
+Sandra O'donnell,Police Sergeant,108291.00,12975.00,32814.00,50286.00,154080.00,204366.00,2016,,Murrieta,FT
+Andrew Stang,Fire Engineer,83846.00,61756.00,13226.00,45057.00,158828.00,203885.00,2016,,Murrieta,FT
+Phong Dang,Fire Captain,99713.00,40588.00,8210.00,54177.00,148511.00,202688.00,2016,,Murrieta,FT
+Brion Nelsen,Fire Engineer,83846.00,60840.00,7716.00,49258.00,152402.00,201660.00,2016,,Murrieta,FT
+Brandon Roach,Fire Engineer,81514.00,65112.00,9982.00,44429.00,156608.00,201037.00,2016,,Murrieta,FT
+Jeffery Asbury,Paramedic/Firefighter,81362.00,71033.00,410.00,46879.00,152805.00,199684.00,2016,,Murrieta,FT
+Casey Mcdonald,Fire Captain,100563.00,44388.00,533.00,53113.00,145484.00,198597.00,2016,,Murrieta,FT
+David Lawlor,Police Officer,79930.00,55270.00,20143.00,42565.00,155343.00,197908.00,2016,,Murrieta,FT
+Michael Howley,Fire Engineer,82709.00,80440.00,3656.00,30706.00,166805.00,197511.00,2016,,Murrieta,FT
+Daniel Grassmeier,Fire Engineer,83861.00,62697.00,2212.00,48272.00,148770.00,197042.00,2016,,Murrieta,FT
+David Baca,Police Sergeant,110058.00,13970.00,20974.00,51400.00,145002.00,196402.00,2016,,Murrieta,FT
+Dean Hale,Paramedic/Firefighter,70131.00,75211.00,3194.00,47458.00,148536.00,195994.00,2016,,Murrieta,FT
+Brian Jackson,Fire Engineer,82993.00,80301.00,2117.00,30523.00,165411.00,195934.00,2016,,Murrieta,FT
+James Tompkins,Police Officer,82620.00,42970.00,26287.00,43725.00,151877.00,195602.00,2016,,Murrieta,FT
+Jay Elliott,Police Corporal,93525.00,37930.00,17379.00,46379.00,148834.00,195213.00,2016,,Murrieta,FT
+Steven Dyer,Police Sergeant,110540.00,13529.00,32745.00,37702.00,156814.00,194516.00,2016,,Murrieta,FT
+Mathew Bentley,Fire Captain,81790.00,59889.00,3447.00,49379.00,145126.00,194505.00,2016,,Murrieta,FT
+Cynthia Kinser,City Planner At-Will,135280.00,0.00,14731.00,43875.00,150011.00,193886.00,2016,,Murrieta,FT
+Shad Chanley,Fire Captain,83693.00,58626.00,597.00,48973.00,142916.00,191889.00,2016,,Murrieta,FT
+Not Provided,Police Corporal,94689.00,23713.00,26246.00,46738.00,144648.00,191386.00,2016,,Murrieta,FT
+Not Provided,Police Sergeant,99743.00,13400.00,28901.00,48693.00,142044.00,190737.00,2016,,Murrieta,FT
+Zachery Bradley,Police Officer,84523.00,46800.00,23879.00,35096.00,155202.00,190298.00,2016,,Murrieta,FT
+Travis Anderson,Paramedic/Firefighter,81362.00,54574.00,8716.00,45400.00,144652.00,190052.00,2016,,Murrieta,FT
+Andrew Spagnolo,Police Detective II,99161.00,23017.00,21536.00,45855.00,143714.00,189569.00,2016,,Murrieta,FT
+Sean Lawlor,Police Corporal,76052.00,30724.00,35691.00,46717.00,142467.00,189184.00,2016,,Murrieta,FT
+Kyle Mikowski,Police Officer,84647.00,30523.00,28225.00,44999.00,143395.00,188394.00,2016,,Murrieta,FT
+Michael Macalinao,Fire Engineer,81013.00,50888.00,6657.00,48750.00,138558.00,187308.00,2016,,Murrieta,FT
+Markellus Reid,Police Sergeant,111075.00,2615.00,22114.00,51261.00,135804.00,187065.00,2016,,Murrieta,FT
+Daryl Underwood,Police Sergeant,111342.00,1876.00,20812.00,51591.00,134030.00,185621.00,2016,,Murrieta,FT
+Matthew Embrey,Police Officer,83158.00,17708.00,36543.00,46377.00,137409.00,183786.00,2016,,Murrieta,FT
+Forest Hansen,Fire Captain,100563.00,27350.00,2153.00,53595.00,130066.00,183661.00,2016,,Murrieta,FT
+Rory Rexroad,Fire Engineer,81187.00,54394.00,0.00,47362.00,135581.00,182943.00,2016,,Murrieta,FT
+Joseph Bourque,Fire Captain,86103.00,43807.00,2590.00,50306.00,132500.00,182806.00,2016,,Murrieta,FT
+Gerald Schmader,Fire Engineer,83846.00,47592.00,2993.00,48168.00,134431.00,182599.00,2016,,Murrieta,FT
+Enrique Romero,Police Officer,71987.00,35216.00,31550.00,43734.00,138753.00,182487.00,2016,,Murrieta,FT
+Jeremy Durrant,Police Corporal,94438.00,11722.00,27773.00,46955.00,133933.00,180888.00,2016,,Murrieta,FT
+Noah Nichols,Police Officer,84398.00,35565.00,16126.00,44635.00,136089.00,180724.00,2016,,Murrieta,FT
+Charles Swearingen,Police Corporal,92705.00,16640.00,27510.00,43860.00,136855.00,180715.00,2016,,Murrieta,FT
+Gregory Hull,Fire Engineer,83846.00,48771.00,14412.00,29094.00,147029.00,176123.00,2016,,Murrieta,FT
+John Martin,Police Officer,84481.00,20441.00,26206.00,44993.00,131128.00,176121.00,2016,,Murrieta,FT
+Jennifer Mehr,Police Officer,81296.00,31895.00,20499.00,42260.00,133690.00,175950.00,2016,,Murrieta,FT
+Donald Weller,Police Sergeant,110807.00,1372.00,12891.00,49832.00,125070.00,174902.00,2016,,Murrieta,FT
+Matthew Mozingo,Police Corporal,88507.00,11786.00,28661.00,45658.00,128954.00,174612.00,2016,,Murrieta,FT
+Andrew Hamilton,Fire Engineer,74684.00,57603.00,0.00,40687.00,132287.00,172974.00,2016,,Murrieta,FT
+Brian Quick,Police Officer,84316.00,24211.00,19916.00,44263.00,128443.00,172706.00,2016,,Murrieta,FT
+Richard Hollenweger,Police Officer,78170.00,20016.00,29716.00,44698.00,127902.00,172600.00,2016,,Murrieta,FT
+Michael Jacob,Police Corporal,82303.00,8072.00,39156.00,42821.00,129531.00,172352.00,2016,,Murrieta,FT
+Philip Dominguez,Fire Captain,69984.00,52679.00,9646.00,39711.00,132309.00,172020.00,2016,,Murrieta,PT
+Robert Moehling,City Engineer,131878.00,0.00,6374.00,33280.00,138252.00,171532.00,2016,,Murrieta,FT
+Christopher Zeltner,Police Officer,79310.00,35653.00,20832.00,34652.00,135795.00,170447.00,2016,,Murrieta,FT
+Joe Gutierrez,Police Officer,80675.00,18347.00,26432.00,43719.00,125454.00,169173.00,2016,,Murrieta,FT
+Eduardo Vazquez,Police Officer,85060.00,30020.00,11235.00,42552.00,126315.00,168867.00,2016,,Murrieta,FT
+Bryan Riegelman,Paramedic/Firefighter,78157.00,56536.00,2071.00,30374.00,136764.00,167138.00,2016,,Murrieta,FT
+Robert Aberle,Police Officer,83901.00,15983.00,22686.00,44447.00,122570.00,167017.00,2016,,Murrieta,FT
+David Hernandez,Police Officer,85640.00,15461.00,22738.00,43082.00,123839.00,166921.00,2016,,Murrieta,FT
+Kurt Stickelman,Police Officer,81089.00,14258.00,26729.00,44426.00,122076.00,166502.00,2016,,Murrieta,FT
+Steven Whittington,Police Corporal,82668.00,13567.00,25405.00,44190.00,121640.00,165830.00,2016,,Murrieta,FT
+Jason Calvert,Police Officer,86054.00,15991.00,18080.00,44887.00,120125.00,165012.00,2016,,Murrieta,FT
+Not Provided,Police Officer,85369.00,16533.00,17987.00,43881.00,119889.00,163770.00,2016,,Murrieta,FT
+Vincent Cicconi,Fire Engineer,83846.00,26867.00,4083.00,48673.00,114796.00,163469.00,2016,,Murrieta,FT
+Jacques Harwick,Police Officer,60030.00,20059.00,39905.00,42937.00,119994.00,162931.00,2016,,Murrieta,PT
+Londa Bock-Helms,Finance Manager,113725.00,0.00,6509.00,42475.00,120234.00,162709.00,2016,,Murrieta,FT
+John Therien,Police Corporal,94894.00,7054.00,14730.00,44994.00,116678.00,161672.00,2016,,Murrieta,FT
+Brian Ambrose,Assistant To The City Manager,109717.00,0.00,9472.00,41705.00,119189.00,160894.00,2016,,Murrieta,FT
+Brent Sforzini,Police Officer,70994.00,23739.00,30252.00,35881.00,124985.00,160866.00,2016,,Murrieta,FT
+Danny Martin,Police Corporal,94210.00,1356.00,22662.00,41867.00,118228.00,160095.00,2016,,Murrieta,FT
+Not Provided,Police Officer,83529.00,18223.00,21863.00,36318.00,123615.00,159933.00,2016,,Murrieta,FT
+David Irving,Police Officer,82992.00,20078.00,21205.00,35449.00,124275.00,159724.00,2016,,Murrieta,FT
+Jason Jones,Police Officer,83902.00,24241.00,12911.00,37975.00,121054.00,159029.00,2016,,Murrieta,FT
+Ryan Roufs,Paramedic/Firefighter,50147.00,48295.00,13724.00,46681.00,112166.00,158847.00,2016,,Murrieta,PT
+Derek Huss,Police Officer,85120.00,28614.00,12265.00,32683.00,125999.00,158682.00,2016,,Murrieta,FT
+Brendan Carney,Police Corporal,93525.00,2913.00,15997.00,45743.00,112435.00,158178.00,2016,,Murrieta,FT
+Rogelio Vargas Jr,Police Officer,86054.00,5899.00,22401.00,43366.00,114354.00,157720.00,2016,,Murrieta,FT
+Joshua Rodriguez,Police Officer,84481.00,27114.00,10230.00,34865.00,121825.00,156690.00,2016,,Murrieta,FT
+Kimberly Foxworth Dr,Human Resources Manager,115198.00,0.00,13698.00,27475.00,128896.00,156371.00,2016,,Murrieta,FT
+Jennifer Metoyer,Police Officer,81336.00,10742.00,24044.00,40244.00,116122.00,156366.00,2016,,Murrieta,FT
+Alexander Anderson,Information Services Manager,108812.00,0.00,5974.00,40572.00,114786.00,155358.00,2016,,Murrieta,FT
+Derek Gerber,Police Officer,68098.00,8679.00,33835.00,43366.00,110612.00,153978.00,2016,,Murrieta,FT
+Travis Shows,Police Officer,83571.00,19404.00,9464.00,41341.00,112439.00,153780.00,2016,,Murrieta,FT
+Jason Edmisten,Police Officer,75213.00,2689.00,31392.00,44138.00,109294.00,153432.00,2016,,Murrieta,FT
+Miguel Garcia,Police Officer,85847.00,8845.00,16065.00,42237.00,110757.00,152994.00,2016,,Murrieta,FT
+Jeffrey Hitch,Public Works Construction Manager,106896.00,0.00,5832.00,39963.00,112728.00,152691.00,2016,,Murrieta,FT
+Ericson Acda,Police Officer,66419.00,11949.00,31823.00,42111.00,110191.00,152302.00,2016,,Murrieta,FT
+Blake Williams,Police Officer,80939.00,34261.00,3847.00,32930.00,119047.00,151977.00,2016,,Murrieta,FT
+Elise Malkowski,Library Manager,98101.00,0.00,12331.00,39492.00,110432.00,149924.00,2016,,Murrieta,FT
+John Nelson,Police Officer,41537.00,2110.00,62404.00,43705.00,106051.00,149756.00,2016,,Murrieta,PT
+Steve Whiddon,Police Officer,84564.00,16138.00,7863.00,41149.00,108565.00,149714.00,2016,,Murrieta,FT
+Vincent Jimno Iii,Police Officer,84399.00,1678.00,23710.00,37973.00,109787.00,147760.00,2016,,Murrieta,FT
+Jeffrey Ullrich,Police Corporal,55203.00,53939.00,10777.00,27152.00,119919.00,147071.00,2016,,Murrieta,PT
+Buffy Kolek,Parks & Recreation Manager,100516.00,0.00,4992.00,40885.00,105508.00,146393.00,2016,,Murrieta,FT
+Paul Johnson,Police Officer,66704.00,1469.00,32737.00,42547.00,100910.00,143457.00,2016,,Murrieta,FT
+Jeremy Meadows,Police Officer,80651.00,18121.00,15169.00,28330.00,113941.00,142271.00,2016,,Murrieta,FT
+Sean Waterman,Police Officer,84399.00,5657.00,7762.00,41284.00,97818.00,139102.00,2016,,Murrieta,FT
+Jason Morrell,Public Works Maintenance Manager,95812.00,0.00,10458.00,30979.00,106270.00,137249.00,2016,,Murrieta,FT
+Dennis Watts,Senior Planner,92043.00,0.00,7959.00,37109.00,100002.00,137111.00,2016,,Murrieta,FT
+Carla Sanchez,Police Officer,85466.00,6427.00,12281.00,30909.00,104174.00,135083.00,2016,,Murrieta,FT
+William Woolsey,Civil Engineering Associate,92043.00,0.00,7113.00,34966.00,99156.00,134122.00,2016,,Murrieta,FT
+Jeffrey Martin,Police Officer,77758.00,14249.00,7881.00,30594.00,99888.00,130482.00,2016,,Murrieta,FT
+Brock Devey,Police Officer,73547.00,16397.00,9681.00,30637.00,99625.00,130262.00,2016,,Murrieta,FT
+Paul Swancott,Senior Planner,88335.00,0.00,5419.00,36402.00,93754.00,130156.00,2016,,Murrieta,FT
+Kelly Sik,Police Officer,74428.00,1202.00,10824.00,42981.00,86454.00,129435.00,2016,,Murrieta,FT
+Jared Matthews,Police Officer,75933.00,12474.00,8945.00,31996.00,97352.00,129348.00,2016,,Murrieta,FT
+Kory Walker,Information Services Systems Manager,83351.00,0.00,10338.00,32725.00,93689.00,126414.00,2016,,Murrieta,FT
+Susan Wallace,Management Analyst At-Will,79780.00,0.00,11549.00,34461.00,91329.00,125790.00,2016,,Murrieta,FT
+Jerald Aldridge,Traffic Signal Technician,78883.00,12515.00,1000.00,33143.00,92398.00,125541.00,2016,,Murrieta,FT
+Julie Shannon,Lead Dispatcher,60348.00,23497.00,8698.00,31013.00,92543.00,123556.00,2016,,Murrieta,FT
+Not Provided,Police Officer,85888.00,2617.00,1149.00,33866.00,89654.00,123520.00,2016,,Murrieta,FT
+Linda Cobos,Lead Dispatcher,26325.00,23115.00,45967.00,28002.00,95407.00,123409.00,2016,,Murrieta,PT
+Steven Miller,Police Officer,73885.00,14661.00,4573.00,29992.00,93119.00,123111.00,2016,,Murrieta,FT
+Mark Reister,Senior Management Analyst At-Will,84724.00,0.00,5603.00,31167.00,90327.00,121494.00,2016,,Murrieta,FT
+Juanita Halstead,City Clerk,90184.00,0.00,8153.00,22584.00,98337.00,120921.00,2016,,Murrieta,PT
+Rebecca Valerio,Dispatcher II,52670.00,24098.00,13660.00,29994.00,90428.00,120422.00,2016,,Murrieta,FT
+Michael Mcmahon,Building Inspector III,78393.00,226.00,8022.00,32423.00,86641.00,119064.00,2016,,Murrieta,FT
+Diana Lozano,Management Analyst At-Will,80411.00,0.00,2190.00,36066.00,82601.00,118667.00,2016,,Murrieta,FT
+Reed Leitch,Police Officer,72908.00,12908.00,3001.00,29548.00,88817.00,118365.00,2016,,Murrieta,FT
+James Ozouf,Civil Engineering Associate,86697.00,0.00,8978.00,22365.00,95675.00,118040.00,2016,,Murrieta,FT
+David Hendry,Public Works Maintenance Supervisor,76608.00,0.00,7825.00,33280.00,84433.00,117713.00,2016,,Murrieta,FT
+Allison Eagans,Librarian IV,78460.00,0.00,7039.00,31758.00,85499.00,117257.00,2016,,Murrieta,FT
+George Moring,Parks Maintenance Supervisor,76608.00,0.00,5922.00,34143.00,82530.00,116673.00,2016,,Murrieta,FT
+Cris Martinez,Training And Radio System Administrator,68504.00,14123.00,2028.00,31845.00,84655.00,116500.00,2016,,Murrieta,FT
+James Corrigan,Senior Plans Examiner,78769.00,2531.00,1762.00,33391.00,83062.00,116453.00,2016,,Murrieta,FT
+Mario Monroy,Fire Battalion Chief 40 Hour,33931.00,8395.00,41418.00,32373.00,83744.00,116117.00,2016,,Murrieta,PT
+Lori Koza,Dispatcher II,6017.00,20617.00,60414.00,28373.00,87048.00,115421.00,2016,,Murrieta,PT
+Israel Murguia,Management Analyst At-Will,76876.00,0.00,12373.00,25270.00,89249.00,114519.00,2016,,Murrieta,FT
+Gino Jimenez,Building Official,89885.00,0.00,1580.00,23008.00,91465.00,114473.00,2016,,Murrieta,PT
+Santino Abbate,Police Officer,46395.00,7394.00,16105.00,43642.00,69894.00,113536.00,2016,,Murrieta,PT
+Kelly Curran,Lead Dispatcher,43054.00,15928.00,22401.00,30924.00,81383.00,112307.00,2016,,Murrieta,PT
+Jane Mcdermott,Accountant At-Will,71374.00,0.00,8040.00,32865.00,79414.00,112279.00,2016,,Murrieta,FT
+John Anisko,Information Services Analyst,70578.00,0.00,10176.00,30853.00,80754.00,111607.00,2016,,Murrieta,FT
+Joyce Brown,Librarian II,71462.00,0.00,6411.00,31091.00,77873.00,108964.00,2016,,Murrieta,FT
+Edgar S Hayes Iii,Police Officer,61651.00,12457.00,8273.00,25630.00,82381.00,108011.00,2016,,Murrieta,PT
+Laura Davis,Librarian II,71462.00,0.00,6411.00,29811.00,77873.00,107684.00,2016,,Murrieta,FT
+Michael Burris,Public Works Inspector,60913.00,12142.00,2579.00,29989.00,75634.00,105623.00,2016,,Murrieta,FT
+Steven Nickerson,Public Works Maintenance Supervisor,68468.00,0.00,4344.00,32587.00,72812.00,105399.00,2016,,Murrieta,FT
+Mattie Soria,Lead Dispatcher,59722.00,7464.00,7208.00,30610.00,74394.00,105004.00,2016,,Murrieta,FT
+Cynthia Perez,Senior Management Analyst At-Will,74996.00,0.00,4232.00,25542.00,79228.00,104770.00,2016,,Murrieta,FT
+Aaron Rintamaki,Assistant Planner,68000.00,527.00,4800.00,30426.00,73327.00,103753.00,2016,,Murrieta,FT
+Teresita Acevedo,Accountant At-Will,71374.00,0.00,7844.00,24336.00,79218.00,103554.00,2016,,Murrieta,FT
+Terri Burmeister,Police Records Supervisor,65580.00,0.00,4420.00,32341.00,70000.00,102341.00,2016,,Murrieta,FT
+Judith Von Boetticher,Accounting Technician At-Will,52127.00,88.00,21256.00,28559.00,73471.00,102030.00,2016,,Murrieta,FT
+Sarah Hettinga,Dispatcher II,28321.00,13477.00,30497.00,29329.00,72295.00,101624.00,2016,,Murrieta,PT
+Sandra Valle,Police Officer,43718.00,8954.00,6431.00,42267.00,59103.00,101370.00,2016,,Murrieta,PT
+James Sims,Information Services Technician II,68000.00,0.00,1480.00,31289.00,69480.00,100769.00,2016,,Murrieta,FT
+Jeri Copeland,Recreation Supervisor,65768.00,0.00,2881.00,32060.00,68649.00,100709.00,2016,,Murrieta,FT
+Marie Agnes Rita,Librarian IV,76017.00,0.00,125.00,24408.00,76142.00,100550.00,2016,,Murrieta,FT
+James Tomaszewski,Information Services Program Manager,74418.00,0.00,0.00,24513.00,74418.00,98931.00,2016,,Murrieta,FT
+Heather Adams,Police Officer,55438.00,2219.00,16680.00,24154.00,74337.00,98491.00,2016,,Murrieta,PT
+Angelina Cannon,Executive Secretary,67644.00,0.00,7611.00,22419.00,75255.00,97674.00,2016,,Murrieta,FT
+Melissa Angle,Dispatcher II,9719.00,7639.00,50499.00,29602.00,67857.00,97459.00,2016,,Murrieta,PT
+Dawn Morrison,Management Analyst At-Will,55500.00,2973.00,5529.00,32850.00,64002.00,96852.00,2016,,Murrieta,PT
+Shannon Johnson,Dispatcher II,42590.00,7581.00,16603.00,29402.00,66774.00,96176.00,2016,,Murrieta,FT
+Brenda Partin,Lead Dispatcher,15822.00,5529.00,43807.00,30765.00,65158.00,95923.00,2016,,Murrieta,PT
+Reta J Weston,Management Analyst At-Will,43298.00,0.00,31153.00,20782.00,74451.00,95233.00,2016,,Murrieta,PT
+Noah Praytor,Fire Fleet Maintenance Coordinator,58479.00,3486.00,2371.00,29475.00,64336.00,93811.00,2016,,Murrieta,FT
+George Nelson,Code Enforcement Officer,56320.00,7476.00,0.00,29881.00,63796.00,93677.00,2016,,Murrieta,FT
+Tiffani Sik,Code Enforcement Supervisor,58396.00,0.00,3682.00,30851.00,62078.00,92929.00,2016,,Murrieta,PT
+Ami Hicks,Crime Analyst,61258.00,618.00,1002.00,30002.00,62878.00,92880.00,2016,,Murrieta,FT
+Michelle Rapp,Dispatcher II,27123.00,6221.00,32661.00,26655.00,66005.00,92660.00,2016,,Murrieta,PT
+Mark Durbin,Parks Lead Maintenance Worker,54608.00,6148.00,2964.00,28830.00,63720.00,92550.00,2016,,Murrieta,FT
+Melecia Price,Park Ranger,56726.00,423.00,8590.00,26802.00,65739.00,92541.00,2016,,Murrieta,FT
+Connie Dyer,Dispatcher II,51716.00,11222.00,6986.00,22393.00,69924.00,92317.00,2016,,Murrieta,FT
+Christina Jones,Dispatcher II,11327.00,1622.00,49362.00,29689.00,62311.00,92000.00,2016,,Murrieta,PT
+Jennifer Ransom,Assistant City Clerk,66737.00,0.00,0.00,24713.00,66737.00,91450.00,2016,,Murrieta,FT
+Phillip Esnayra,Parks Senior Maintenance Worker,49925.00,4086.00,11206.00,25261.00,65217.00,90478.00,2016,,Murrieta,FT
+Jennifer Antonucci,Emergency Medical Services Coordinator,69349.00,31.00,0.00,19739.00,69380.00,89119.00,2016,,Murrieta,FT
+Lauren Martin,Police Officer,52882.00,1283.00,6081.00,28764.00,60246.00,89010.00,2016,,Murrieta,PT
+Jeffrey Van Wick,Police Officer,45511.00,1760.00,0.00,41659.00,47271.00,88930.00,2016,,Murrieta,PT
+Auralee Mcginnis,Dispatcher II,51057.00,7176.00,776.00,29150.00,59009.00,88159.00,2016,,Murrieta,FT
+Laura Frasso,Event Coordinator,52030.00,6267.00,0.00,28956.00,58297.00,87253.00,2016,,Murrieta,FT
+Steven Herring,Librarian,52876.00,135.00,6411.00,27568.00,59422.00,86990.00,2016,,Murrieta,PT
+Jolene Vert,Circulation Supervisor,52876.00,0.00,6416.00,27568.00,59292.00,86860.00,2016,,Murrieta,PT
+Donna Eckman,Geographic Information Systems Technician,56699.00,0.00,0.00,30063.00,56699.00,86762.00,2016,,Murrieta,FT
+Barbara Priske,Development Services Technician,56569.00,122.00,816.00,29092.00,57507.00,86599.00,2016,,Murrieta,FT
+Juliet Mukasa,Assistant Planner,60662.00,0.00,6411.00,19461.00,67073.00,86534.00,2016,,Murrieta,FT
+Gregory Guerrero,Information Services Analyst,56674.00,0.00,11062.00,18566.00,67736.00,86302.00,2016,,Murrieta,PT
+Kathleen Miller,Development Services Technician,55016.00,427.00,4491.00,26062.00,59934.00,85996.00,2016,,Murrieta,FT
+Kenneth Jones,Public Works Lead Maintenance Worker,55004.00,516.00,1000.00,28792.00,56520.00,85312.00,2016,,Murrieta,FT
+Dorothy Farmer,Information Services Coordinator,52627.00,3727.00,0.00,28811.00,56354.00,85165.00,2016,,Murrieta,FT
+Joseph Eckles,Recreation Supervisor,50309.00,1814.00,6967.00,25733.00,59090.00,84823.00,2016,,Murrieta,FT
+Joseph Carpenter,Park Ranger,56230.00,887.00,7896.00,19312.00,65013.00,84325.00,2016,,Murrieta,FT
+Karen Cannella,Lead Police Services Technician,50582.00,109.00,7011.00,25909.00,57702.00,83611.00,2016,,Murrieta,FT
+Ryan Hurst,Public Works Lead Maintenance Worker,51964.00,548.00,7261.00,23481.00,59773.00,83254.00,2016,,Murrieta,FT
+Rosa Vega,Executive Assistant At-Will,52023.00,0.00,2194.00,29010.00,54217.00,83227.00,2016,,Murrieta,PT
+Pauline Tucker,Staff Assistant,56199.00,0.00,1000.00,24814.00,57199.00,82013.00,2016,,Murrieta,FT
+Jason Briley,Fire Marshal,52480.00,9241.00,5261.00,14550.00,66982.00,81532.00,2016,,Murrieta,PT
+Gregory Smith,Associate Planner,40259.00,0.00,24444.00,16719.00,64703.00,81422.00,2016,,Murrieta,PT
+Marci Weast,Development Services Technician,51410.00,1195.00,0.00,28575.00,52605.00,81180.00,2016,,Murrieta,FT
+Marian Staley,Dispatcher II,30095.00,3613.00,19428.00,27561.00,53136.00,80697.00,2016,,Murrieta,PT
+Nicholas Vaughn,Public Works Maintenance Worker II,48148.00,243.00,7391.00,24769.00,55782.00,80551.00,2016,,Murrieta,FT
+Danny Lopez,Fire Captain,12670.00,7729.00,30391.00,29298.00,50790.00,80088.00,2016,,Murrieta,PT
+Kay Riscol,Senior Office Specialist,43731.00,4052.00,5667.00,26626.00,53450.00,80076.00,2016,,Murrieta,FT
+Jose Munoz,Parks Maintenance Worker I,45027.00,4149.00,3477.00,27325.00,52653.00,79978.00,2016,,Murrieta,FT
+Ermelita Clark,Accounting Specialist,49349.00,0.00,4011.00,25700.00,53360.00,79060.00,2016,,Murrieta,FT
+Kathryn Miller,Library Assistant III,46960.00,0.00,4556.00,27246.00,51516.00,78762.00,2016,,Murrieta,FT
+Lucas Haynes,Public Works Maintenance Worker I,45818.00,1107.00,4561.00,27027.00,51486.00,78513.00,2016,,Murrieta,FT
+Jennifer Christoffersen,Purchasing & Contracts Coordinator,53130.00,0.00,2203.00,22907.00,55333.00,78240.00,2016,,Murrieta,FT
+Michael Almodovar,Public Works Maintenance Worker II,47628.00,477.00,2504.00,27474.00,50609.00,78083.00,2016,,Murrieta,FT
+Kimberly Lytle,Accounting Specialist,49349.00,0.00,1000.00,27705.00,50349.00,78054.00,2016,,Murrieta,FT
+Laura Froboese,Police Services Technician II,45820.00,165.00,7011.00,24995.00,52996.00,77991.00,2016,,Murrieta,FT
+Terri Aylward,Fire Prevention Coordinator,55378.00,0.00,233.00,21870.00,55611.00,77481.00,2016,,Murrieta,FT
+Lynn Eiermann,Accounting Specialist,49349.00,0.00,3.00,27705.00,49352.00,77057.00,2016,,Murrieta,FT
+Diane Sunderhaft,Police Services Technician II,45489.00,33.00,7011.00,24365.00,52533.00,76898.00,2016,,Murrieta,FT
+Gretchen Sedlacek,Secretary,48148.00,0.00,1000.00,27474.00,49148.00,76622.00,2016,,Murrieta,FT
+Lori Lowe,Secretary,48148.00,182.00,696.00,27474.00,49026.00,76500.00,2016,,Murrieta,FT
+Robert Edmonds,Public Works Maintenance Worker I,45820.00,66.00,2830.00,27027.00,48716.00,75743.00,2016,,Murrieta,FT
+Sarah Russell,Staff Assistant,47777.00,0.00,0.00,27775.00,47777.00,75552.00,2016,,Murrieta,FT
+Dyan Silva,Library Assistant II,44708.00,129.00,6411.00,24072.00,51248.00,75320.00,2016,,Murrieta,FT
+Lydia Weber,Accounting Assistant,44709.00,0.00,4308.00,25950.00,49017.00,74967.00,2016,,Murrieta,FT
+Lorie Abeles,Senior Administrative Assistant,45758.00,17.00,1205.00,27724.00,46980.00,74704.00,2016,,Murrieta,FT
+Joann Serven,Secretary,44002.00,2969.00,0.00,27474.00,46971.00,74445.00,2016,,Murrieta,FT
+Illadali Montes,Development Services Technician,48508.00,0.00,4911.00,20541.00,53419.00,73960.00,2016,,Murrieta,FT
+Michael Bigay,Parks Maintenance Worker I,44260.00,1950.00,0.00,27040.00,46210.00,73250.00,2016,,Murrieta,FT
+Antonio Ustoy,Police Officer,25979.00,593.00,4691.00,41342.00,31263.00,72605.00,2016,,Murrieta,PT
+Susan Weigman,Police Services Technician I,41495.00,0.00,7286.00,23571.00,48781.00,72352.00,2016,,Murrieta,FT
+Gina Ellsworth,Code Enforcement Officer,44158.00,714.00,2300.00,24644.00,47172.00,71816.00,2016,,Murrieta,PT
+Toni Schickel,Property/Evidence Technician,47142.00,0.00,7011.00,17391.00,54153.00,71544.00,2016,,Murrieta,FT
+Laura Diaz,Police Services Technician I,41515.00,0.00,2333.00,26510.00,43848.00,70358.00,2016,,Murrieta,FT
+Erin Rose,Police Services Technician I,41515.00,0.00,2491.00,26310.00,44006.00,70316.00,2016,,Murrieta,FT
+Missy Matula,Accounting Assistant,42580.00,0.00,1000.00,26404.00,43580.00,69984.00,2016,,Murrieta,FT
+Claudia Bewley,Staff Assistant,51217.00,0.00,6491.00,11664.00,57708.00,69372.00,2016,,Murrieta,FT
+Shawn Reed,Public Works Maintenance Worker I,42999.00,1257.00,6411.00,18640.00,50667.00,69307.00,2016,,Murrieta,FT
+Krissi Limkemann,Senior Office Specialist,39540.00,1051.00,1983.00,25821.00,42574.00,68395.00,2016,,Murrieta,FT
+Michelle Hamilton,Recreation Specialist,39457.00,1288.00,1611.00,25871.00,42356.00,68227.00,2016,,Murrieta,FT
+Jessica Rodriguez,Human Resources Technician,46556.00,104.00,7047.00,14227.00,53707.00,67934.00,2016,,Murrieta,FT
+Garth Balthazor,Police Services Technician II,45820.00,132.00,4511.00,17136.00,50463.00,67599.00,2016,,Murrieta,FT
+Brian C Crawford,Management Analyst At-Will,50256.00,0.00,0.00,17130.00,50256.00,67386.00,2016,,Murrieta,PT
+Lydia Allen,Records Clerk,44708.00,0.00,5811.00,16812.00,50519.00,67331.00,2016,,Murrieta,FT
+Adelfo Nicholas Melloni,Development Services Technician,44436.00,0.00,5877.00,16958.00,50313.00,67271.00,2016,,Murrieta,FT
+Kathy Bonnell,Development Services Technician,45302.00,448.00,0.00,21356.00,45750.00,67106.00,2016,,Murrieta,FT
+Heather Riley,Dispatcher II,40827.00,5402.00,8132.00,12735.00,54361.00,67096.00,2016,,Murrieta,PT
+Paul Gollogly,Part Time Task Force Officer,66960.00,0.00,0.00,0.00,66960.00,66960.00,2016,,Murrieta,PT
+Brenda Bieser,Office Specialist,39686.00,0.00,1052.00,25848.00,40738.00,66586.00,2016,,Murrieta,FT
+Ana Padilla,Police Services Technician I,40002.00,307.00,0.00,25677.00,40309.00,65986.00,2016,,Murrieta,FT
+Robert Harrod Iii,Parks Maintenance Worker I,21181.00,0.00,20431.00,23812.00,41612.00,65424.00,2016,,Murrieta,PT
+Catherine Morales,Development Services Technician,42332.00,0.00,5342.00,17438.00,47674.00,65112.00,2016,,Murrieta,PT
+Michelle Lopez-Milks,Office Specialist,39686.00,215.00,7011.00,17780.00,46912.00,64692.00,2016,,Murrieta,FT
+April Philips,Office Specialist,35892.00,208.00,1155.00,20587.00,37255.00,57842.00,2016,,Murrieta,FT
+Victor Patino,Recreation Specialist,30460.00,2503.00,6986.00,17519.00,39949.00,57468.00,2016,,Murrieta,FT
+Larry Robertson,Parks Maintenance Worker I,28295.00,0.00,9806.00,17886.00,38101.00,55987.00,2016,,Murrieta,PT
+Andrew Halvorson,Recreation Specialist,29838.00,1835.00,6658.00,17326.00,38331.00,55657.00,2016,,Murrieta,PT
+Colby Diuguid,Recreation Supervisor,22734.00,0.00,17366.00,15124.00,40100.00,55224.00,2016,,Murrieta,PT
+Kimberly Davidson,Business Development Manager,27333.00,0.00,12467.00,12897.00,39800.00,52697.00,2016,,Murrieta,PT
+Erin Kunkle,Accounting Technician At-Will,37698.00,74.00,0.00,12026.00,37772.00,49798.00,2016,,Murrieta,PT
+Michael Hom,Police Officer,26563.00,4491.00,7533.00,10997.00,38587.00,49584.00,2016,,Murrieta,PT
+David Sarian,Parks Maintenance Worker I,25465.00,363.00,9493.00,14108.00,35321.00,49429.00,2016,,Murrieta,PT
+Sheina Biguy,Police Services Technician I,23765.00,0.00,0.00,23263.00,23765.00,47028.00,2016,,Murrieta,PT
+Wendy Micke,Information Services Technician II,34516.00,0.00,4246.00,7033.00,38762.00,45795.00,2016,,Murrieta,PT
+Jeffrey Whitaker,Building Inspector III,19718.00,0.00,15382.00,9703.00,35100.00,44803.00,2016,,Murrieta,PT
+Douglas Strosnider,Fire Inspector Temporary Part Time,43538.00,0.00,0.00,566.00,43538.00,44104.00,2016,,Murrieta,FT
+Nancy Ann Hoffman,Temporary Senior Management Analyst,37811.00,0.00,785.00,0.00,38596.00,38596.00,2016,,Murrieta,PT
+Gina Helgemo-Dickson,Code Enforcement Officer,23981.00,0.00,4545.00,9177.00,28526.00,37703.00,2016,,Murrieta,PT
+Debra Vernaci,Crime Analyst,9752.00,0.00,6411.00,19950.00,16163.00,36113.00,2016,,Murrieta,PT
+Thomas Gresser,Police Officer,21160.00,1351.00,6394.00,6651.00,28905.00,35556.00,2016,,Murrieta,PT
+Heather Rawlings,Administrative Secretary,19090.00,1862.00,1487.00,11762.00,22439.00,34201.00,2016,,Murrieta,PT
+Eileen Sonnefeld,Human Resources Technician,10736.00,0.00,13777.00,7465.00,24513.00,31978.00,2016,,Murrieta,PT
+Roxana Elliott,Records Coordinator,20878.00,0.00,333.00,7132.00,21211.00,28343.00,2016,,Murrieta,PT
+Ray Howard,Part Time Information Services Technician I,25249.00,0.00,0.00,328.00,25249.00,25577.00,2016,,Murrieta,PT
+Anita Vinson,Temporary Assistant City Clerk,24947.00,0.00,0.00,0.00,24947.00,24947.00,2016,,Murrieta,PT
+Ralph Steinhoff,Fire Marshal Temporary Part Time,24675.00,0.00,0.00,0.00,24675.00,24675.00,2016,,Murrieta,PT
+Amancio Galendez,Part Time Information Services Technician I,24229.00,0.00,0.00,309.00,24229.00,24538.00,2016,,Murrieta,PT
+Priscilla Perez,Senior Recreation Leader,11510.00,480.00,2772.00,9450.00,14762.00,24212.00,2016,,Murrieta,PT
+Scott Agajanian,Business Development Manager,17347.00,0.00,2693.00,4013.00,20040.00,24053.00,2016,,Murrieta,PT
+Wendi Lowe,Part Time Library Assistant II,19676.00,0.00,0.00,3754.00,19676.00,23430.00,2016,,Murrieta,PT
+Sylvia Ortner,Dispatcher II,3297.00,0.00,9228.00,9627.00,12525.00,22152.00,2016,,Murrieta,PT
+Ronald Smith,Part Time Police Aide,18341.00,0.00,0.00,3494.00,18341.00,21835.00,2016,,Murrieta,PT
+Robert Kast,Part Time Project Manager,21168.00,0.00,0.00,0.00,21168.00,21168.00,2016,,Murrieta,PT
+Daniel Estrada,Part Time Senior Recreation Leader,20413.00,99.00,0.00,265.00,20512.00,20777.00,2016,,Murrieta,PT
+Phyllis Powell,Part Time Secretary,20576.00,0.00,0.00,0.00,20576.00,20576.00,2016,,Murrieta,PT
+Hildur Sam,Administrative Assistant,16172.00,0.00,1068.00,3259.00,17240.00,20499.00,2016,,Murrieta,PT
+Michelle Fountain,Part Time Dispatcher II,11425.00,0.00,5550.00,3221.00,16975.00,20196.00,2016,,Murrieta,PT
+Katie Calametti,Part Time Library Assistant II,16249.00,0.00,0.00,3059.00,16249.00,19308.00,2016,,Murrieta,PT
+Amanda Shurley,Part Time Police Services Technician II,17176.00,0.00,0.00,1070.00,17176.00,18246.00,2016,,Murrieta,PT
+Dan Wilson,Community Risk/Disaster Preparedness Administrator,1132.00,211.00,15781.00,1079.00,17124.00,18203.00,2016,,Murrieta,PT
+Kristen Short,Part Time Library Assistant II,17789.00,0.00,0.00,224.00,17789.00,18013.00,2016,,Murrieta,PT
+Hayden Birkett,Part Time Library Assistant II,17719.00,0.00,0.00,229.00,17719.00,17948.00,2016,,Murrieta,PT
+Ashley Jennings-Bigay,Part Time Library Assistant II,17330.00,0.00,0.00,225.00,17330.00,17555.00,2016,,Murrieta,PT
+Frank Lavigne Iii,Part Time Police Services Technician II,17226.00,0.00,0.00,0.00,17226.00,17226.00,2016,,Murrieta,PT
+Timmie Quitugua,Part Time Librarian I,16760.00,0.00,0.00,213.00,16760.00,16973.00,2016,,Murrieta,PT
+Philip Hallberg,Building Inspector III,12166.00,274.00,1161.00,3299.00,13601.00,16900.00,2016,,Murrieta,PT
+Kathy Simpkins,Part Time Senior Office Specialist,16753.00,0.00,0.00,0.00,16753.00,16753.00,2016,,Murrieta,PT
+Gabriel Diaz,Part Time Library Assistant II,16508.00,0.00,0.00,208.00,16508.00,16716.00,2016,,Murrieta,PT
+Lea Hernandez,Part Time Library Assistant I,15488.00,0.00,0.00,201.00,15488.00,15689.00,2016,,Murrieta,PT
+David Wilson,Temporary Code Enforcement Officer,15619.00,0.00,0.00,0.00,15619.00,15619.00,2016,,Murrieta,PT
+Monika Borkowski,Part Time Library Assistant I,14855.00,0.00,0.00,191.00,14855.00,15046.00,2016,,Murrieta,PT
+Scott Pickett,Part Time Library Assistant I,14351.00,0.00,0.00,186.00,14351.00,14537.00,2016,,Murrieta,PT
+James W Atkins,Associate Planner,10697.00,0.00,810.00,2158.00,11507.00,13665.00,2016,,Murrieta,PT
+Christina Ross,Live Scan Technician,12315.00,0.00,534.00,694.00,12849.00,13543.00,2016,,Murrieta,PT
+Arthur Durbin,Emergency Medical Services Coordinator,0.00,0.00,12318.00,772.00,12318.00,13090.00,2016,,Murrieta,PT
+Randon Lane,Council Member,12911.00,0.00,0.00,168.00,12911.00,13079.00,2016,,Murrieta,PT
+Harry Ramos,Council Member,12911.00,0.00,0.00,168.00,12911.00,13079.00,2016,,Murrieta,PT
+Richard Gibbs,Mayor,12911.00,0.00,0.00,168.00,12911.00,13079.00,2016,,Murrieta,PT
+Alan Long,Council Member,12911.00,0.00,0.00,168.00,12911.00,13079.00,2016,,Murrieta,PT
+Jonathan Ingram,Council Member,12911.00,0.00,0.00,168.00,12911.00,13079.00,2016,,Murrieta,PT
+Enrique Aguilera,Part Time Recreation Leader,12455.00,0.00,0.00,162.00,12455.00,12617.00,2016,,Murrieta,PT
+Kyle R Lackey,Paramedic/Firefighter,7612.00,115.00,921.00,3921.00,8648.00,12569.00,2016,,Murrieta,PT
+Victoria Vega,Part Time Recreation Leader,11777.00,0.00,0.00,153.00,11777.00,11930.00,2016,,Murrieta,PT
+Matthew Hess,Police Officer,1522.00,0.00,8123.00,2208.00,9645.00,11853.00,2016,,Murrieta,PT
+Corey Fraga,Part Time Recreation Leader,11644.00,0.00,0.00,151.00,11644.00,11795.00,2016,,Murrieta,PT
+Kendell W Olds,Paramedic/Firefighter,8196.00,115.00,921.00,2474.00,9232.00,11706.00,2016,,Murrieta,PT
+Ivette Ramirez,Part Time Senior Recreation Leader,11402.00,0.00,119.00,150.00,11521.00,11671.00,2016,,Murrieta,PT
+Amanda Madson,Part Time Recreation Leader,11512.00,0.00,0.00,150.00,11512.00,11662.00,2016,,Murrieta,PT
+Richard G Rodriguez,Paramedic/Firefighter,8196.00,115.00,921.00,2423.00,9232.00,11655.00,2016,,Murrieta,PT
+Gage Gerber,Part Time Recreation Leader,11140.00,21.00,0.00,143.00,11161.00,11304.00,2016,,Murrieta,PT
+Cody S Anderson,Paramedic/Firefighter,7612.00,115.00,921.00,2404.00,8648.00,11052.00,2016,,Murrieta,PT
+Stacey Osorio,Part Time Library Assistant II,10696.00,0.00,0.00,137.00,10696.00,10833.00,2016,,Murrieta,PT
+Jennifer Sims,Part Time Recreation Leader,10597.00,0.00,0.00,138.00,10597.00,10735.00,2016,,Murrieta,PT
+Michael Kellogg,Part Time Recreation Leader,10359.00,0.00,0.00,135.00,10359.00,10494.00,2016,,Murrieta,PT
+Brandon M Forsberg,Paramedic/Firefighter,7612.00,115.00,130.00,2476.00,7857.00,10333.00,2016,,Murrieta,PT
+Benjamin D Urista,Paramedic/Firefighter,7612.00,115.00,921.00,1643.00,8648.00,10291.00,2016,,Murrieta,PT
+Karrie L Swaine,Senior Accountant,8416.00,0.00,537.00,1165.00,8953.00,10118.00,2016,,Murrieta,PT
+Randall E Lopez,Paramedic/Firefighter,7612.00,115.00,544.00,1543.00,8271.00,9814.00,2016,,Murrieta,PT
+Wendy Tocco,Part Time Library Page,9613.00,0.00,0.00,125.00,9613.00,9738.00,2016,,Murrieta,PT
+Judith Coast,Part Time Library Page,9463.00,0.00,0.00,122.00,9463.00,9585.00,2016,,Murrieta,PT
+Joshua Stevens,Part Time Recreation Leader,9370.00,0.00,0.00,122.00,9370.00,9492.00,2016,,Murrieta,PT
+Aaron Drootin,Police Officer,6619.00,0.00,730.00,1506.00,7349.00,8855.00,2016,,Murrieta,PT
+Nathaniel Mcquillin,Part Time Parks Maintenance Worker I,7866.00,136.00,0.00,104.00,8002.00,8106.00,2016,,Murrieta,PT
+Zenaida Smith,Part Time Cashier,7336.00,0.00,0.00,0.00,7336.00,7336.00,2016,,Murrieta,PT
+Debra Cowell,Part Time Secretary,7076.00,0.00,0.00,0.00,7076.00,7076.00,2016,,Murrieta,PT
+Ryan Moore,Paramedic/Firefighter,2538.00,1139.00,1886.00,1464.00,5563.00,7027.00,2016,,Murrieta,PT
+Marie Schumer,Part Time Temporary Senior Office Specialist,6904.00,0.00,0.00,0.00,6904.00,6904.00,2016,,Murrieta,PT
+Carl West,Part Time Parks Maintenance Worker I,6760.00,0.00,0.00,88.00,6760.00,6848.00,2016,,Murrieta,PT
+Rasheda Jackson,Part Time Recreation Leader,6167.00,0.00,0.00,80.00,6167.00,6247.00,2016,,Murrieta,PT
+Tiyauna C Anderson,Part Time Recreation Leader,5915.00,0.00,0.00,77.00,5915.00,5992.00,2016,,Murrieta,PT
+Shannon Marcy,Lifeguard Lead Seasonal,5328.00,119.00,0.00,69.00,5447.00,5516.00,2016,,Murrieta,PT
+Spencer Ramos,Lifeguard/Water Safety Instructor Seasonal,3998.00,16.00,0.00,52.00,4014.00,4066.00,2016,,Murrieta,PT
+Bryan Atlantic,Part Time Library Page,3980.00,0.00,0.00,52.00,3980.00,4032.00,2016,,Murrieta,PT
+Wyatt Power,Lifeguard/Water Safety Instructor Seasonal,3813.00,93.00,0.00,50.00,3906.00,3956.00,2016,,Murrieta,PT
+Dawn Ecclefield,Temporary Police Department Services Technician I,3748.00,0.00,0.00,44.00,3748.00,3792.00,2016,,Murrieta,PT
+Tarius Moss,Part Time Recreation Leader,3657.00,0.00,0.00,48.00,3657.00,3705.00,2016,,Murrieta,PT
+Brayden Pascual,Lifeguard/Water Safety Instructor Seasonal,3410.00,0.00,0.00,44.00,3410.00,3454.00,2016,,Murrieta,PT
+Alex Willcox,Lifeguard Lead Seasonal,3165.00,0.00,0.00,41.00,3165.00,3206.00,2016,,Murrieta,PT
+Zoe Chivington,Lifeguard/Water Safety Instructor Seasonal,3074.00,0.00,0.00,40.00,3074.00,3114.00,2016,,Murrieta,PT
+Gabriel Uhls,Lifeguard/Water Safety Instructor Seasonal,3054.00,0.00,0.00,40.00,3054.00,3094.00,2016,,Murrieta,PT
+Chloe Yates,Lifeguard/Water Safety Instructor Seasonal,3021.00,0.00,0.00,39.00,3021.00,3060.00,2016,,Murrieta,PT
+Taylor Hubbard,Lifeguard/Water Safety Instructor Seasonal,3020.00,0.00,0.00,39.00,3020.00,3059.00,2016,,Murrieta,PT
+Kristen Marcy,Lifeguard/Water Safety Instructor Seasonal,2989.00,0.00,0.00,39.00,2989.00,3028.00,2016,,Murrieta,PT
+Marcus Strecker,Lifeguard/Water Safety Instructor Seasonal,2978.00,0.00,0.00,39.00,2978.00,3017.00,2016,,Murrieta,PT
+Spencer Moreno,Lifeguard/Water Safety Instructor Seasonal,2811.00,0.00,0.00,37.00,2811.00,2848.00,2016,,Murrieta,PT
+Adam O Park,Lifeguard/Water Safety Instructor Seasonal,2735.00,0.00,0.00,36.00,2735.00,2771.00,2016,,Murrieta,PT
+Margaret Foley,Part Time Library Page,2460.00,0.00,0.00,32.00,2460.00,2492.00,2016,,Murrieta,PT
+Sydney Halvorson,Lifeguard/Water Safety Instructor Seasonal,2401.00,40.00,0.00,31.00,2441.00,2472.00,2016,,Murrieta,PT
+Lilly Kalisher,Temporary Office Specialist,1965.00,0.00,0.00,26.00,1965.00,1991.00,2016,,Murrieta,PT
+William Cheek,Part Time Recreation Leader,1903.00,0.00,0.00,25.00,1903.00,1928.00,2016,,Murrieta,PT
+Michael Melendez,Part Time Recreation Leader,1860.00,0.00,0.00,24.00,1860.00,1884.00,2016,,Murrieta,PT
+Brandon Fewell,Lifeguard/Water Safety Instructor Seasonal,1756.00,0.00,0.00,23.00,1756.00,1779.00,2016,,Murrieta,PT
+Sandra L Kirsch,Temporary Office Specialist,1680.00,0.00,0.00,22.00,1680.00,1702.00,2016,,Murrieta,PT
+Klarissa Garcia,Lifeguard/Water Safety Instructor Seasonal,1505.00,0.00,0.00,20.00,1505.00,1525.00,2016,,Murrieta,PT
+Jacob A Miller,Lifeguard Seasonal,1460.00,0.00,0.00,19.00,1460.00,1479.00,2016,,Murrieta,PT
+Antonio Chavez,Part Time Intern,1398.00,0.00,0.00,18.00,1398.00,1416.00,2016,,Murrieta,PT
+Dennis Kelly Seyarto,Council Member,1076.00,0.00,0.00,14.00,1076.00,1090.00,2016,,Murrieta,PT
+Ashley Robyn Coyne,Part Time Library Page,210.00,0.00,0.00,3.00,210.00,213.00,2016,,Murrieta,PT
+Garrett Cho,Part Time Library Page,170.00,0.00,0.00,2.00,170.00,172.00,2016,,Murrieta,PT
